@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
-  "scope": "bounded golden-edition work only",
-  "tasks": []
+  "phase": "skipped by D001",
+  "open_golden_tasks": [],
+  "provisional_source_tag": "provisional-source-v1"
 }

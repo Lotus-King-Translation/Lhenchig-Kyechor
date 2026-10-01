@@ -12,5 +12,5 @@
 - Deliverables complete: archive/provenance, paired source, finite contract. Pending: translation, annotation/usage/proposals, independent agent QC, validation/negative tests, release/receipt.
 - Validation: exact archive/source/glossary checks pass; 17 structural corruption/unsigned-gate tests pass. Translation remains in progress.
 - Full scan proofreading: no. Exhaustive witness collation: no. Independent translation QC: not yet.
-- Release: none; next phase/chapter: none started.
+- Source release: provisional-source-v1 (verified annotated tag); translation release: none; next phase/chapter: none started.
 - Next finite task: translate and review all 110 fixed pairs under standard v2 and unchanged glossary.

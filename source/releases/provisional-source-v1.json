@@ -1,0 +1,13 @@
+{
+  "tag": "provisional-source-v1",
+  "tag_object": "872832f0f9699bc4ea9fa44a8c7a5c7b7c590356",
+  "peeled_commit": "63286daa11ad0e703b4e92b1b5bbc9deae7b7f57",
+  "remote_verification": "exact annotated tag object and peeled commit verified using git ls-remote",
+  "source_lines": 589,
+  "pairs": 110,
+  "golden_edition": false,
+  "source_emendations": 0,
+  "mechanical_checks": "raw to PO reversal checked all589; L0493 trailing space documented; root/v2 differ only by final newline",
+  "negative_tests_passed": 17,
+  "scope": "source freeze only; English remains pending; no scan collation or semantic certification"
+}
