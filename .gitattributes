@@ -1,3 +1,5 @@
 # Preserve archival bytes and intentional source whitespace.
 source/archive/** -text -whitespace
 paired/source.md -whitespace
+# Generated verse view uses Markdown hard line breaks.
+paired/bilingual.md whitespace=-blank-at-eol

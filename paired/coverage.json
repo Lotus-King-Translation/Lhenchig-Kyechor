@@ -1,0 +1,2208 @@
+{
+  "generated_by": "scripts/build_support.py",
+  "inputs": {
+    "paired/source.md": "f0cda17dc09b5aa15f9116597e92840704fd4d3032db9883aa20becaeac819f0",
+    "paired/translation.md": "330e1b12b02ed5099788a03060838fe5d1e2f89231d5d99b7e09c7dff026da12",
+    "translations/notes.json": "759f50d24d754a56463d3dc4df98733546ab735496e460ace05740e946b6b06b",
+    "translations/usages.json": "c25d1ba256185868711ac34da445ccbacc2dd7401767d85f3cf47dd89c9ff7b5"
+  },
+  "pairs": [
+    {
+      "pair": "LCK-000001",
+      "start_line": 1,
+      "end_line": 1,
+      "anchors": [
+        "L0001"
+      ],
+      "format": "h1",
+      "role": "source_heading",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A001"
+      ]
+    },
+    {
+      "pair": "LCK-000002",
+      "start_line": 2,
+      "end_line": 2,
+      "anchors": [
+        "L0002"
+      ],
+      "format": "prose",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002"
+      ]
+    },
+    {
+      "pair": "LCK-000003",
+      "start_line": 3,
+      "end_line": 6,
+      "anchors": [
+        "L0003",
+        "L0004",
+        "L0005",
+        "L0006"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A003"
+      ]
+    },
+    {
+      "pair": "LCK-000004",
+      "start_line": 7,
+      "end_line": 10,
+      "anchors": [
+        "L0007",
+        "L0008",
+        "L0009",
+        "L0010"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A004"
+      ]
+    },
+    {
+      "pair": "LCK-000005",
+      "start_line": 11,
+      "end_line": 16,
+      "anchors": [
+        "L0011",
+        "L0012",
+        "L0013",
+        "L0014",
+        "L0015",
+        "L0016"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002",
+        "N-A005",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000006",
+      "start_line": 17,
+      "end_line": 20,
+      "anchors": [
+        "L0017",
+        "L0018",
+        "L0019",
+        "L0020"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A001",
+        "N-A006",
+        "N-A007"
+      ]
+    },
+    {
+      "pair": "LCK-000007",
+      "start_line": 21,
+      "end_line": 24,
+      "anchors": [
+        "L0021",
+        "L0022",
+        "L0023",
+        "L0024"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A001",
+        "N-A007",
+        "N-A008",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000008",
+      "start_line": 25,
+      "end_line": 26,
+      "anchors": [
+        "L0025",
+        "L0026"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A009",
+        "N-A010"
+      ]
+    },
+    {
+      "pair": "LCK-000009",
+      "start_line": 27,
+      "end_line": 30,
+      "anchors": [
+        "L0027",
+        "L0028",
+        "L0029",
+        "L0030"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A007",
+        "N-A010",
+        "N-A011"
+      ]
+    },
+    {
+      "pair": "LCK-000010",
+      "start_line": 31,
+      "end_line": 32,
+      "anchors": [
+        "L0031",
+        "L0032"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A010",
+        "N-A012"
+      ]
+    },
+    {
+      "pair": "LCK-000011",
+      "start_line": 33,
+      "end_line": 34,
+      "anchors": [
+        "L0033",
+        "L0034"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A007",
+        "N-A010"
+      ]
+    },
+    {
+      "pair": "LCK-000012",
+      "start_line": 35,
+      "end_line": 36,
+      "anchors": [
+        "L0035",
+        "L0036"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A010",
+        "N-A013"
+      ]
+    },
+    {
+      "pair": "LCK-000013",
+      "start_line": 37,
+      "end_line": 38,
+      "anchors": [
+        "L0037",
+        "L0038"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A014"
+      ]
+    },
+    {
+      "pair": "LCK-000014",
+      "start_line": 39,
+      "end_line": 39,
+      "anchors": [
+        "L0039"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A010"
+      ]
+    },
+    {
+      "pair": "LCK-000015",
+      "start_line": 40,
+      "end_line": 41,
+      "anchors": [
+        "L0040",
+        "L0041"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A009",
+        "N-A010"
+      ]
+    },
+    {
+      "pair": "LCK-000016",
+      "start_line": 42,
+      "end_line": 45,
+      "anchors": [
+        "L0042",
+        "L0043",
+        "L0044",
+        "L0045"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A001",
+        "N-A007"
+      ]
+    },
+    {
+      "pair": "LCK-000017",
+      "start_line": 46,
+      "end_line": 47,
+      "anchors": [
+        "L0046",
+        "L0047"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A015"
+      ]
+    },
+    {
+      "pair": "LCK-000018",
+      "start_line": 48,
+      "end_line": 52,
+      "anchors": [
+        "L0048",
+        "L0049",
+        "L0050",
+        "L0051",
+        "L0052"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002",
+        "N-A016"
+      ]
+    },
+    {
+      "pair": "LCK-000019",
+      "start_line": 53,
+      "end_line": 55,
+      "anchors": [
+        "L0053",
+        "L0054",
+        "L0055"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A017",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000020",
+      "start_line": 56,
+      "end_line": 61,
+      "anchors": [
+        "L0056",
+        "L0057",
+        "L0058",
+        "L0059",
+        "L0060",
+        "L0061"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A018",
+        "N-A019"
+      ]
+    },
+    {
+      "pair": "LCK-000021",
+      "start_line": 62,
+      "end_line": 71,
+      "anchors": [
+        "L0062",
+        "L0063",
+        "L0064",
+        "L0065",
+        "L0066",
+        "L0067",
+        "L0068",
+        "L0069",
+        "L0070",
+        "L0071"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A020"
+      ]
+    },
+    {
+      "pair": "LCK-000022",
+      "start_line": 72,
+      "end_line": 77,
+      "anchors": [
+        "L0072",
+        "L0073",
+        "L0074",
+        "L0075",
+        "L0076",
+        "L0077"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A013",
+        "N-A021",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000023",
+      "start_line": 78,
+      "end_line": 86,
+      "anchors": [
+        "L0078",
+        "L0079",
+        "L0080",
+        "L0081",
+        "L0082",
+        "L0083",
+        "L0084",
+        "L0085",
+        "L0086"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A007",
+        "N-A022"
+      ]
+    },
+    {
+      "pair": "LCK-000024",
+      "start_line": 87,
+      "end_line": 91,
+      "anchors": [
+        "L0087",
+        "L0088",
+        "L0089",
+        "L0090",
+        "L0091"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A009",
+        "N-A013",
+        "N-A019",
+        "N-A023",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000025",
+      "start_line": 92,
+      "end_line": 97,
+      "anchors": [
+        "L0092",
+        "L0093",
+        "L0094",
+        "L0095",
+        "L0096",
+        "L0097"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A018",
+        "N-A024",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000026",
+      "start_line": 98,
+      "end_line": 107,
+      "anchors": [
+        "L0098",
+        "L0099",
+        "L0100",
+        "L0101",
+        "L0102",
+        "L0103",
+        "L0104",
+        "L0105",
+        "L0106",
+        "L0107"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A018",
+        "N-A024",
+        "N-A025",
+        "N-A026",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000027",
+      "start_line": 108,
+      "end_line": 115,
+      "anchors": [
+        "L0108",
+        "L0109",
+        "L0110",
+        "L0111",
+        "L0112",
+        "L0113",
+        "L0114",
+        "L0115"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002",
+        "N-A018",
+        "N-A019",
+        "N-A027",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000028",
+      "start_line": 116,
+      "end_line": 126,
+      "anchors": [
+        "L0116",
+        "L0117",
+        "L0118",
+        "L0119",
+        "L0120",
+        "L0121",
+        "L0122",
+        "L0123",
+        "L0124",
+        "L0125",
+        "L0126"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A007",
+        "N-A013",
+        "N-A028",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000029",
+      "start_line": 127,
+      "end_line": 133,
+      "anchors": [
+        "L0127",
+        "L0128",
+        "L0129",
+        "L0130",
+        "L0131",
+        "L0132",
+        "L0133"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A007",
+        "N-A018",
+        "N-A019",
+        "N-A029",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000030",
+      "start_line": 134,
+      "end_line": 142,
+      "anchors": [
+        "L0134",
+        "L0135",
+        "L0136",
+        "L0137",
+        "L0138",
+        "L0139",
+        "L0140",
+        "L0141",
+        "L0142"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002",
+        "N-A007",
+        "N-A018",
+        "N-A024",
+        "N-A030"
+      ]
+    },
+    {
+      "pair": "LCK-000031",
+      "start_line": 143,
+      "end_line": 149,
+      "anchors": [
+        "L0143",
+        "L0144",
+        "L0145",
+        "L0146",
+        "L0147",
+        "L0148",
+        "L0149"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A013",
+        "N-A018",
+        "N-A025",
+        "N-A031",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000032",
+      "start_line": 150,
+      "end_line": 150,
+      "anchors": [
+        "L0150"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated",
+      "notes": []
+    },
+    {
+      "pair": "LCK-000033",
+      "start_line": 151,
+      "end_line": 156,
+      "anchors": [
+        "L0151",
+        "L0152",
+        "L0153",
+        "L0154",
+        "L0155",
+        "L0156"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002",
+        "N-A019",
+        "N-A032",
+        "N-A039"
+      ]
+    },
+    {
+      "pair": "LCK-000034",
+      "start_line": 157,
+      "end_line": 160,
+      "anchors": [
+        "L0157",
+        "L0158",
+        "L0159",
+        "L0160"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002",
+        "N-A019",
+        "N-A033",
+        "N-A034",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000035",
+      "start_line": 161,
+      "end_line": 164,
+      "anchors": [
+        "L0161",
+        "L0162",
+        "L0163",
+        "L0164"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002",
+        "N-A033",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000036",
+      "start_line": 165,
+      "end_line": 173,
+      "anchors": [
+        "L0165",
+        "L0166",
+        "L0167",
+        "L0168",
+        "L0169",
+        "L0170",
+        "L0171",
+        "L0172",
+        "L0173"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002",
+        "N-A034",
+        "N-A035",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000037",
+      "start_line": 174,
+      "end_line": 180,
+      "anchors": [
+        "L0174",
+        "L0175",
+        "L0176",
+        "L0177",
+        "L0178",
+        "L0179",
+        "L0180"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002",
+        "N-A024",
+        "N-A030",
+        "N-A034",
+        "N-A036",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000038",
+      "start_line": 181,
+      "end_line": 189,
+      "anchors": [
+        "L0181",
+        "L0182",
+        "L0183",
+        "L0184",
+        "L0185",
+        "L0186",
+        "L0187",
+        "L0188",
+        "L0189"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A002",
+        "N-A024",
+        "N-A034",
+        "N-A037",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000039",
+      "start_line": 190,
+      "end_line": 191,
+      "anchors": [
+        "L0190",
+        "L0191"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-A019",
+        "N-A038"
+      ]
+    },
+    {
+      "pair": "LCK-000040",
+      "start_line": 192,
+      "end_line": 203,
+      "anchors": [
+        "L0192",
+        "L0193",
+        "L0194",
+        "L0195",
+        "L0196",
+        "L0197",
+        "L0198",
+        "L0199",
+        "L0200",
+        "L0201",
+        "L0202",
+        "L0203"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B002",
+        "N-B012",
+        "N-B013",
+        "N-B014",
+        "N-B031"
+      ]
+    },
+    {
+      "pair": "LCK-000041",
+      "start_line": 204,
+      "end_line": 212,
+      "anchors": [
+        "L0204",
+        "L0205",
+        "L0206",
+        "L0207",
+        "L0208",
+        "L0209",
+        "L0210",
+        "L0211",
+        "L0212"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B012",
+        "N-B031"
+      ]
+    },
+    {
+      "pair": "LCK-000042",
+      "start_line": 213,
+      "end_line": 221,
+      "anchors": [
+        "L0213",
+        "L0214",
+        "L0215",
+        "L0216",
+        "L0217",
+        "L0218",
+        "L0219",
+        "L0220",
+        "L0221"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B003",
+        "N-B012",
+        "N-B014"
+      ]
+    },
+    {
+      "pair": "LCK-000043",
+      "start_line": 222,
+      "end_line": 222,
+      "anchors": [
+        "L0222"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B012"
+      ]
+    },
+    {
+      "pair": "LCK-000044",
+      "start_line": 223,
+      "end_line": 225,
+      "anchors": [
+        "L0223",
+        "L0224",
+        "L0225"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B012",
+        "N-B015",
+        "N-B032"
+      ]
+    },
+    {
+      "pair": "LCK-000045",
+      "start_line": 226,
+      "end_line": 233,
+      "anchors": [
+        "L0226",
+        "L0227",
+        "L0228",
+        "L0229",
+        "L0230",
+        "L0231",
+        "L0232",
+        "L0233"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B016"
+      ]
+    },
+    {
+      "pair": "LCK-000046",
+      "start_line": 234,
+      "end_line": 238,
+      "anchors": [
+        "L0234",
+        "L0235",
+        "L0236",
+        "L0237",
+        "L0238"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B004",
+        "N-B012",
+        "N-B017"
+      ]
+    },
+    {
+      "pair": "LCK-000047",
+      "start_line": 239,
+      "end_line": 240,
+      "anchors": [
+        "L0239",
+        "L0240"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B012",
+        "N-B018"
+      ]
+    },
+    {
+      "pair": "LCK-000048",
+      "start_line": 241,
+      "end_line": 244,
+      "anchors": [
+        "L0241",
+        "L0242",
+        "L0243",
+        "L0244"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated",
+      "notes": []
+    },
+    {
+      "pair": "LCK-000049",
+      "start_line": 245,
+      "end_line": 249,
+      "anchors": [
+        "L0245",
+        "L0246",
+        "L0247",
+        "L0248",
+        "L0249"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B005",
+        "N-B019"
+      ]
+    },
+    {
+      "pair": "LCK-000050",
+      "start_line": 250,
+      "end_line": 254,
+      "anchors": [
+        "L0250",
+        "L0251",
+        "L0252",
+        "L0253",
+        "L0254"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B012",
+        "N-B019",
+        "N-B020",
+        "N-B022"
+      ]
+    },
+    {
+      "pair": "LCK-000051",
+      "start_line": 255,
+      "end_line": 258,
+      "anchors": [
+        "L0255",
+        "L0256",
+        "L0257",
+        "L0258"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B021",
+        "N-B031"
+      ]
+    },
+    {
+      "pair": "LCK-000052",
+      "start_line": 259,
+      "end_line": 263,
+      "anchors": [
+        "L0259",
+        "L0260",
+        "L0261",
+        "L0262",
+        "L0263"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B021",
+        "N-B022"
+      ]
+    },
+    {
+      "pair": "LCK-000053",
+      "start_line": 264,
+      "end_line": 266,
+      "anchors": [
+        "L0264",
+        "L0265",
+        "L0266"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B019",
+        "N-B022"
+      ]
+    },
+    {
+      "pair": "LCK-000054",
+      "start_line": 267,
+      "end_line": 270,
+      "anchors": [
+        "L0267",
+        "L0268",
+        "L0269",
+        "L0270"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B019"
+      ]
+    },
+    {
+      "pair": "LCK-000055",
+      "start_line": 271,
+      "end_line": 275,
+      "anchors": [
+        "L0271",
+        "L0272",
+        "L0273",
+        "L0274",
+        "L0275"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B006",
+        "N-B019"
+      ]
+    },
+    {
+      "pair": "LCK-000056",
+      "start_line": 276,
+      "end_line": 278,
+      "anchors": [
+        "L0276",
+        "L0277",
+        "L0278"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B019",
+        "N-B031"
+      ]
+    },
+    {
+      "pair": "LCK-000057",
+      "start_line": 279,
+      "end_line": 289,
+      "anchors": [
+        "L0279",
+        "L0280",
+        "L0281",
+        "L0282",
+        "L0283",
+        "L0284",
+        "L0285",
+        "L0286",
+        "L0287",
+        "L0288",
+        "L0289"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B007",
+        "N-B014",
+        "N-B031"
+      ]
+    },
+    {
+      "pair": "LCK-000058",
+      "start_line": 290,
+      "end_line": 290,
+      "anchors": [
+        "L0290"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated",
+      "notes": []
+    },
+    {
+      "pair": "LCK-000059",
+      "start_line": 291,
+      "end_line": 295,
+      "anchors": [
+        "L0291",
+        "L0292",
+        "L0293",
+        "L0294",
+        "L0295"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001"
+      ]
+    },
+    {
+      "pair": "LCK-000060",
+      "start_line": 296,
+      "end_line": 298,
+      "anchors": [
+        "L0296",
+        "L0297",
+        "L0298"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B023"
+      ]
+    },
+    {
+      "pair": "LCK-000061",
+      "start_line": 299,
+      "end_line": 307,
+      "anchors": [
+        "L0299",
+        "L0300",
+        "L0301",
+        "L0302",
+        "L0303",
+        "L0304",
+        "L0305",
+        "L0306",
+        "L0307"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B024"
+      ]
+    },
+    {
+      "pair": "LCK-000062",
+      "start_line": 308,
+      "end_line": 308,
+      "anchors": [
+        "L0308"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B025"
+      ]
+    },
+    {
+      "pair": "LCK-000063",
+      "start_line": 309,
+      "end_line": 311,
+      "anchors": [
+        "L0309",
+        "L0310",
+        "L0311"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B026",
+        "N-B032"
+      ]
+    },
+    {
+      "pair": "LCK-000064",
+      "start_line": 312,
+      "end_line": 316,
+      "anchors": [
+        "L0312",
+        "L0313",
+        "L0314",
+        "L0315",
+        "L0316"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B002",
+        "N-B012",
+        "N-B019",
+        "N-B026"
+      ]
+    },
+    {
+      "pair": "LCK-000065",
+      "start_line": 317,
+      "end_line": 321,
+      "anchors": [
+        "L0317",
+        "L0318",
+        "L0319",
+        "L0320",
+        "L0321"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B026"
+      ]
+    },
+    {
+      "pair": "LCK-000066",
+      "start_line": 322,
+      "end_line": 325,
+      "anchors": [
+        "L0322",
+        "L0323",
+        "L0324",
+        "L0325"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B014",
+        "N-B026"
+      ]
+    },
+    {
+      "pair": "LCK-000067",
+      "start_line": 326,
+      "end_line": 339,
+      "anchors": [
+        "L0326",
+        "L0327",
+        "L0328",
+        "L0329",
+        "L0330",
+        "L0331",
+        "L0332",
+        "L0333",
+        "L0334",
+        "L0335",
+        "L0336",
+        "L0337",
+        "L0338",
+        "L0339"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B008",
+        "N-B026",
+        "N-B027"
+      ]
+    },
+    {
+      "pair": "LCK-000068",
+      "start_line": 340,
+      "end_line": 344,
+      "anchors": [
+        "L0340",
+        "L0341",
+        "L0342",
+        "L0343",
+        "L0344"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B026"
+      ]
+    },
+    {
+      "pair": "LCK-000069",
+      "start_line": 345,
+      "end_line": 351,
+      "anchors": [
+        "L0345",
+        "L0346",
+        "L0347",
+        "L0348",
+        "L0349",
+        "L0350",
+        "L0351"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B026"
+      ]
+    },
+    {
+      "pair": "LCK-000070",
+      "start_line": 352,
+      "end_line": 358,
+      "anchors": [
+        "L0352",
+        "L0353",
+        "L0354",
+        "L0355",
+        "L0356",
+        "L0357",
+        "L0358"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B009",
+        "N-B022",
+        "N-B026",
+        "N-B028"
+      ]
+    },
+    {
+      "pair": "LCK-000071",
+      "start_line": 359,
+      "end_line": 365,
+      "anchors": [
+        "L0359",
+        "L0360",
+        "L0361",
+        "L0362",
+        "L0363",
+        "L0364",
+        "L0365"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B010",
+        "N-B022",
+        "N-B026"
+      ]
+    },
+    {
+      "pair": "LCK-000072",
+      "start_line": 366,
+      "end_line": 371,
+      "anchors": [
+        "L0366",
+        "L0367",
+        "L0368",
+        "L0369",
+        "L0370",
+        "L0371"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B026",
+        "N-B029"
+      ]
+    },
+    {
+      "pair": "LCK-000073",
+      "start_line": 372,
+      "end_line": 381,
+      "anchors": [
+        "L0372",
+        "L0373",
+        "L0374",
+        "L0375",
+        "L0376",
+        "L0377",
+        "L0378",
+        "L0379",
+        "L0380",
+        "L0381"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B022",
+        "N-B026",
+        "N-B029"
+      ]
+    },
+    {
+      "pair": "LCK-000074",
+      "start_line": 382,
+      "end_line": 392,
+      "anchors": [
+        "L0382",
+        "L0383",
+        "L0384",
+        "L0385",
+        "L0386",
+        "L0387",
+        "L0388",
+        "L0389",
+        "L0390",
+        "L0391",
+        "L0392"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-B001",
+        "N-B002",
+        "N-B011",
+        "N-B022",
+        "N-B030",
+        "N-B031"
+      ]
+    },
+    {
+      "pair": "LCK-000075",
+      "start_line": 393,
+      "end_line": 398,
+      "anchors": [
+        "L0393",
+        "L0394",
+        "L0395",
+        "L0396",
+        "L0397",
+        "L0398"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C002",
+        "N-C003",
+        "N-C036"
+      ]
+    },
+    {
+      "pair": "LCK-000076",
+      "start_line": 399,
+      "end_line": 405,
+      "anchors": [
+        "L0399",
+        "L0400",
+        "L0401",
+        "L0402",
+        "L0403",
+        "L0404",
+        "L0405"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "represented; unresolved Tibetan retained",
+      "notes": [
+        "N-C004"
+      ]
+    },
+    {
+      "pair": "LCK-000077",
+      "start_line": 406,
+      "end_line": 407,
+      "anchors": [
+        "L0406",
+        "L0407"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C005"
+      ]
+    },
+    {
+      "pair": "LCK-000078",
+      "start_line": 408,
+      "end_line": 414,
+      "anchors": [
+        "L0408",
+        "L0409",
+        "L0410",
+        "L0411",
+        "L0412",
+        "L0413",
+        "L0414"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C006"
+      ]
+    },
+    {
+      "pair": "LCK-000079",
+      "start_line": 415,
+      "end_line": 417,
+      "anchors": [
+        "L0415",
+        "L0416",
+        "L0417"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated",
+      "notes": []
+    },
+    {
+      "pair": "LCK-000080",
+      "start_line": 418,
+      "end_line": 425,
+      "anchors": [
+        "L0418",
+        "L0419",
+        "L0420",
+        "L0421",
+        "L0422",
+        "L0423",
+        "L0424",
+        "L0425"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "represented; unresolved Tibetan retained",
+      "notes": [
+        "N-C001",
+        "N-C005",
+        "N-C007",
+        "N-C008",
+        "N-C031"
+      ]
+    },
+    {
+      "pair": "LCK-000081",
+      "start_line": 426,
+      "end_line": 430,
+      "anchors": [
+        "L0426",
+        "L0427",
+        "L0428",
+        "L0429",
+        "L0430"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C009",
+        "N-C029"
+      ]
+    },
+    {
+      "pair": "LCK-000082",
+      "start_line": 431,
+      "end_line": 438,
+      "anchors": [
+        "L0431",
+        "L0432",
+        "L0433",
+        "L0434",
+        "L0435",
+        "L0436",
+        "L0437",
+        "L0438"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C008",
+        "N-C010",
+        "N-C011",
+        "N-C038"
+      ]
+    },
+    {
+      "pair": "LCK-000083",
+      "start_line": 439,
+      "end_line": 445,
+      "anchors": [
+        "L0439",
+        "L0440",
+        "L0441",
+        "L0442",
+        "L0443",
+        "L0444",
+        "L0445"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C012"
+      ]
+    },
+    {
+      "pair": "LCK-000084",
+      "start_line": 446,
+      "end_line": 451,
+      "anchors": [
+        "L0446",
+        "L0447",
+        "L0448",
+        "L0449",
+        "L0450",
+        "L0451"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C013",
+        "N-C028",
+        "N-C029",
+        "N-C038"
+      ]
+    },
+    {
+      "pair": "LCK-000085",
+      "start_line": 452,
+      "end_line": 454,
+      "anchors": [
+        "L0452",
+        "L0453",
+        "L0454"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001"
+      ]
+    },
+    {
+      "pair": "LCK-000086",
+      "start_line": 455,
+      "end_line": 460,
+      "anchors": [
+        "L0455",
+        "L0456",
+        "L0457",
+        "L0458",
+        "L0459",
+        "L0460"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C014",
+        "N-C031"
+      ]
+    },
+    {
+      "pair": "LCK-000087",
+      "start_line": 461,
+      "end_line": 468,
+      "anchors": [
+        "L0461",
+        "L0462",
+        "L0463",
+        "L0464",
+        "L0465",
+        "L0466",
+        "L0467",
+        "L0468"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C014",
+        "N-C016"
+      ]
+    },
+    {
+      "pair": "LCK-000088",
+      "start_line": 469,
+      "end_line": 477,
+      "anchors": [
+        "L0469",
+        "L0470",
+        "L0471",
+        "L0472",
+        "L0473",
+        "L0474",
+        "L0475",
+        "L0476",
+        "L0477"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C005",
+        "N-C015",
+        "N-C016"
+      ]
+    },
+    {
+      "pair": "LCK-000089",
+      "start_line": 478,
+      "end_line": 484,
+      "anchors": [
+        "L0478",
+        "L0479",
+        "L0480",
+        "L0481",
+        "L0482",
+        "L0483",
+        "L0484"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C017",
+        "N-C030"
+      ]
+    },
+    {
+      "pair": "LCK-000090",
+      "start_line": 485,
+      "end_line": 492,
+      "anchors": [
+        "L0485",
+        "L0486",
+        "L0487",
+        "L0488",
+        "L0489",
+        "L0490",
+        "L0491",
+        "L0492"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C018",
+        "N-C029",
+        "N-C036"
+      ]
+    },
+    {
+      "pair": "LCK-000091",
+      "start_line": 493,
+      "end_line": 500,
+      "anchors": [
+        "L0493",
+        "L0494",
+        "L0495",
+        "L0496",
+        "L0497",
+        "L0498",
+        "L0499",
+        "L0500"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C031"
+      ]
+    },
+    {
+      "pair": "LCK-000092",
+      "start_line": 501,
+      "end_line": 503,
+      "anchors": [
+        "L0501",
+        "L0502",
+        "L0503"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C019",
+        "N-C028"
+      ]
+    },
+    {
+      "pair": "LCK-000093",
+      "start_line": 504,
+      "end_line": 511,
+      "anchors": [
+        "L0504",
+        "L0505",
+        "L0506",
+        "L0507",
+        "L0508",
+        "L0509",
+        "L0510",
+        "L0511"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C020",
+        "N-C032",
+        "N-C038"
+      ]
+    },
+    {
+      "pair": "LCK-000094",
+      "start_line": 512,
+      "end_line": 517,
+      "anchors": [
+        "L0512",
+        "L0513",
+        "L0514",
+        "L0515",
+        "L0516",
+        "L0517"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C021",
+        "N-C037"
+      ]
+    },
+    {
+      "pair": "LCK-000095",
+      "start_line": 518,
+      "end_line": 522,
+      "anchors": [
+        "L0518",
+        "L0519",
+        "L0520",
+        "L0521",
+        "L0522"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001"
+      ]
+    },
+    {
+      "pair": "LCK-000096",
+      "start_line": 523,
+      "end_line": 527,
+      "anchors": [
+        "L0523",
+        "L0524",
+        "L0525",
+        "L0526",
+        "L0527"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C005",
+        "N-C031",
+        "N-C037"
+      ]
+    },
+    {
+      "pair": "LCK-000097",
+      "start_line": 528,
+      "end_line": 530,
+      "anchors": [
+        "L0528",
+        "L0529",
+        "L0530"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C008"
+      ]
+    },
+    {
+      "pair": "LCK-000098",
+      "start_line": 531,
+      "end_line": 538,
+      "anchors": [
+        "L0531",
+        "L0532",
+        "L0533",
+        "L0534",
+        "L0535",
+        "L0536",
+        "L0537",
+        "L0538"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C022",
+        "N-C029",
+        "N-C031"
+      ]
+    },
+    {
+      "pair": "LCK-000099",
+      "start_line": 539,
+      "end_line": 544,
+      "anchors": [
+        "L0539",
+        "L0540",
+        "L0541",
+        "L0542",
+        "L0543",
+        "L0544"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C023",
+        "N-C032"
+      ]
+    },
+    {
+      "pair": "LCK-000100",
+      "start_line": 545,
+      "end_line": 548,
+      "anchors": [
+        "L0545",
+        "L0546",
+        "L0547",
+        "L0548"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C035"
+      ]
+    },
+    {
+      "pair": "LCK-000101",
+      "start_line": 549,
+      "end_line": 556,
+      "anchors": [
+        "L0549",
+        "L0550",
+        "L0551",
+        "L0552",
+        "L0553",
+        "L0554",
+        "L0555",
+        "L0556"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C024",
+        "N-C035",
+        "N-C036"
+      ]
+    },
+    {
+      "pair": "LCK-000102",
+      "start_line": 557,
+      "end_line": 561,
+      "anchors": [
+        "L0557",
+        "L0558",
+        "L0559",
+        "L0560",
+        "L0561"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C025",
+        "N-C032"
+      ]
+    },
+    {
+      "pair": "LCK-000103",
+      "start_line": 562,
+      "end_line": 564,
+      "anchors": [
+        "L0562",
+        "L0563",
+        "L0564"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C026"
+      ]
+    },
+    {
+      "pair": "LCK-000104",
+      "start_line": 565,
+      "end_line": 568,
+      "anchors": [
+        "L0565",
+        "L0566",
+        "L0567",
+        "L0568"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C026",
+        "N-C030",
+        "N-C033",
+        "N-C037",
+        "N-C038"
+      ]
+    },
+    {
+      "pair": "LCK-000105",
+      "start_line": 569,
+      "end_line": 572,
+      "anchors": [
+        "L0569",
+        "L0570",
+        "L0571",
+        "L0572"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C008",
+        "N-C030",
+        "N-C033",
+        "N-C037"
+      ]
+    },
+    {
+      "pair": "LCK-000106",
+      "start_line": 573,
+      "end_line": 578,
+      "anchors": [
+        "L0573",
+        "L0574",
+        "L0575",
+        "L0576",
+        "L0577",
+        "L0578"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C010",
+        "N-C037",
+        "N-C038"
+      ]
+    },
+    {
+      "pair": "LCK-000107",
+      "start_line": 579,
+      "end_line": 579,
+      "anchors": [
+        "L0579"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated",
+      "notes": []
+    },
+    {
+      "pair": "LCK-000108",
+      "start_line": 580,
+      "end_line": 585,
+      "anchors": [
+        "L0580",
+        "L0581",
+        "L0582",
+        "L0583",
+        "L0584",
+        "L0585"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C001",
+        "N-C032",
+        "N-C034",
+        "N-C037"
+      ]
+    },
+    {
+      "pair": "LCK-000109",
+      "start_line": 586,
+      "end_line": 588,
+      "anchors": [
+        "L0586",
+        "L0587",
+        "L0588"
+      ],
+      "format": "verse",
+      "role": "main_text",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C030"
+      ]
+    },
+    {
+      "pair": "LCK-000110",
+      "start_line": 589,
+      "end_line": 589,
+      "anchors": [
+        "L0589"
+      ],
+      "format": "prose",
+      "role": "work_colophon",
+      "status": "translated; annotated provisional interpretation",
+      "notes": [
+        "N-C027",
+        "N-C032"
+      ]
+    }
+  ]
+}

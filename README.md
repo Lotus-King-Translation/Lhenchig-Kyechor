@@ -7,7 +7,10 @@ A fresh, glossary-controlled English working translation of the complete supplie
 ## Read the text
 
 - [Canonical Tibetan](paired/source.md)
-- [Canonical English](paired/translation.md) — translation in progress
+- [Canonical English](paired/translation.md) — complete annotated working draft
+- [Bilingual reading view](paired/bilingual.md)
+- [Source and translation notes](translations/NOTES.md)
+- [Terminology usages](translations/USAGE.md) and [inactive proposals](translations/proposed-glossary.csv)
 - [Current status](PROJECT-STATUS.md)
 
 ## Method and source

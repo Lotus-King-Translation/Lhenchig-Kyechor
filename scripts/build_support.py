@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build supporting views; never rewrite the canonical source or translation."""
 import json
+import re
 from pathlib import Path
 from validate_paired import ROOT, parse, sha, validate
 
@@ -24,7 +25,7 @@ def main():
         note_ids = [n['id'] for n in notes if s['id'] in n['pairs']]
         coverage.append({'pair': s['id'], 'start_line': seg['start_line'], 'end_line': seg['end_line'],
                          'anchors': s['source'].split(), 'format': s['format'], 'role': s['role'],
-                         'status': 'translated; annotated provisional interpretation' if note_ids else 'translated', 'notes': note_ids})
+                         'status': ('represented; unresolved Tibetan retained' if re.search('[\u0f00-\u0fff]', t['text']) else 'translated; annotated provisional interpretation' if note_ids else 'translated'), 'notes': note_ids})
         bilingual += [f'<!-- {s["id"]} -->', f'**{s["id"]} · L{seg["start_line"]:04}–L{seg["end_line"]:04}**', '']
         if s['format'] == 'verse':
             bilingual += ['  \n'.join(s['text'].splitlines()), '', '  \n'.join(t['text'].splitlines()), '']
@@ -49,9 +50,14 @@ def main():
     (ROOT / 'translations/NOTES.md').write_text('\n'.join(lines).rstrip() + '\n')
     lines = ['# Terminology and usage record', '', 'Generated from `usages.json`. Canonical glossary assignments remain unchanged. A provisional local construction does not become an approved general default.', '']
     for u in usages:
-        lines += ['- **' + ', '.join(u['pairs']) + '** — ' + u['tibetan'] + '\n  Canonical entry: ' + u['canonical_entry'] + '; English: ' + u['english'] + '; category: ' + u['category'] + '.\n  ' + u['condition'] + ' Reference: ' + u['note_id'] + '.', '']
+        lines += ['- **' + ', '.join(u['pairs']) + '** — ' + u['tibetan'] + '\n  Canonical entry: ' + u['canonical_entry'] + '; English: ' + u['english'] + '; category: ' + u['category'] + '.\n  ' + u['condition'] + ' Reference: ' + (u['note_id'] or 'canonical/grammatical usage; no separate note') + '.', '']
     (ROOT / 'translations/USAGE.md').write_text('\n'.join(lines).rstrip() + '\n')
-    print(json.dumps({'generated_views': 5, 'pairs': len(coverage), 'notes': len(notes), 'usages': len(usages)}))
+    audit = json.loads((ROOT / 'source/intake-audit.json').read_text())
+    loci = sorted(set(audit['repeated_vowel_lines']) | {a['line'] for a in audit['source_anomaly_candidates']})
+    queries = [{'anchor': f'L{n:04}', 'exact_source': (ROOT / 'source/archive/root/001.txt').read_text().splitlines()[n-1], 'notes': [note['id'] for note in notes if f'L{n:04}' in note['anchors']], 'disposition': 'source preserved; interpretation explicitly annotated; witness check remains open'} for n in loci]
+    assert all(q['notes'] for q in queries), 'source anomaly missing note coverage'
+    dump(ROOT / 'translations/source-queries.json', {'generated_by':'scripts/build_support.py', 'loci':queries, 'count':len(queries)})
+    print(json.dumps({'generated_views': 6, 'pairs': len(coverage), 'notes': len(notes), 'usages': len(usages)}))
 
 
 if __name__ == '__main__':

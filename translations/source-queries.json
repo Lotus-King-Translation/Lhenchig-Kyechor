@@ -1,0 +1,1002 @@
+{
+  "generated_by": "scripts/build_support.py",
+  "loci": [
+    {
+      "anchor": "L0007",
+      "exact_source": "ཕག་མོས་དོངས་སུ་བྱིན་བརླབས་པའི། །",
+      "notes": [
+        "N-A004"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0012",
+      "exact_source": "དེེ་ཡི་བརྒྱུད་འཛིན་ལྷོ་བྲག་པ། །",
+      "notes": [
+        "N-A005",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0013",
+      "exact_source": "དེ་ཡིི་བྱིན་རླབས་གུང་ཐང་པ། །",
+      "notes": [
+        "N-A005",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0019",
+      "exact_source": "ལྟ་རྗེའི་གསུང་སྒྲོས་ཇི་བཞིན་དུ། །",
+      "notes": [
+        "N-A006"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0022",
+      "exact_source": "རྗེེའི་ཞལ་ནས་འདི་སྐད་གསུང་། །",
+      "notes": [
+        "N-A008",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0028",
+      "exact_source": "ངེས་པའི་ཤེས་པ་བསྐྱེད་པའི་ས། །",
+      "notes": [
+        "N-A011"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0053",
+      "exact_source": "དང་པོོ་སློབ་མའི་མཚན་ཉིད་ནི། །",
+      "notes": [
+        "N-A017",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0055",
+      "exact_source": "སྤྲང་བྱ་དང་ནི་བླང་བྱའོ། །",
+      "notes": [
+        "N-A017"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0058",
+      "exact_source": "བདག་པོའི་དུས་ན་ལོག་བཤེསཟིན། །",
+      "notes": [
+        "N-A018",
+        "N-A019"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0065",
+      "exact_source": "སྣངབ་ཉིད་ནི་སྟོང་པ་ལ། །",
+      "notes": [
+        "N-A020"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0076",
+      "exact_source": "རྒྱུ་ཡིི་དུས་ན་ཞེན་པ་འོ། །",
+      "notes": [
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0080",
+      "exact_source": "ལོ་དང་ཟླ་བར་བསྟེནབྱས་ནས། །",
+      "notes": [
+        "N-A022"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0087",
+      "exact_source": "ཉོན་མོོངས་མགོ་བོ་མ་ནོན་ཏེ། །",
+      "notes": [
+        "N-A009",
+        "N-A023",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0089",
+      "exact_source": "འཁོོར་བར་ཡུན་རིང་འཁྱམས་པར་འགྱུར། །",
+      "notes": [
+        "N-A013",
+        "N-A023",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0096",
+      "exact_source": "དམིིགས་པའི་རྐྱེན་དུ་འཁྲུལ་པ་སྟེ། །",
+      "notes": [
+        "N-A018",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0098",
+      "exact_source": "སྐྱེེས་བུ་དམ་པ་འགའ་ཞིག་གིས། །",
+      "notes": [
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0105",
+      "exact_source": "རེ་དོོགས་གཉིས་སུ་ལྟུང་བར་འགྱུར། །",
+      "notes": [
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0107",
+      "exact_source": "འདི་ནིི་སྤང་བྱ་བཞི་པར་འདོད། །",
+      "notes": [
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0108",
+      "exact_source": "མཚན་ལྡན་སློབ་མ་བསྟེན་བྱས་ལ །",
+      "notes": [
+        "N-A027"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0111",
+      "exact_source": "བདག་པོོའི་རྐྱེན་གྱི་དུས་སུ་ནི། །",
+      "notes": [
+        "N-A018",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0113",
+      "exact_source": "དམིགས་པའིི་རྐྱེན་དུ་མ་འཁྲུལ་དང་། །",
+      "notes": [
+        "N-A018",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0115",
+      "exact_source": "རེ་དོགས་གཉིིས་དང་བྲལ་བའོ། །",
+      "notes": [
+        "N-A018",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0118",
+      "exact_source": "བུ་དང་བུ་མོོ་ཆུང་མ་དང་། །",
+      "notes": [
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0125",
+      "exact_source": "དེ་ནིི་རྒྱུ་དུས་མ་ཞེས་པའི། །",
+      "notes": [
+        "N-A028",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0127",
+      "exact_source": "དད་དུས་ལྡན་པའི་གང་ཟག་གིས། །",
+      "notes": [
+        "N-A029"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0132",
+      "exact_source": "དགེེ་བའི་བཤེས་ཀྱིས་ཟིན་པ་སྟེ། །",
+      "notes": [
+        "N-A019",
+        "N-A029",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0143",
+      "exact_source": "རྣམ་རྟོག་ཆོོས་སྐུར་ཐིམ་གྱུར་པས། །",
+      "notes": [
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0149",
+      "exact_source": "བླང་བྱའིི་མཚན་ཉིད་བཞི་པ་ཡིན། །",
+      "notes": [
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0160",
+      "exact_source": "མཚན་ཉིིད་རྣམ་པ་བཞི་རུ་གསུང་། །",
+      "notes": [
+        "N-A033",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0163",
+      "exact_source": "སློོབ་མའི་ཉམས་མྱོང་གསོ་ནུས་པ། །",
+      "notes": [
+        "N-A033",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0164",
+      "exact_source": "གསོལ་བ་འདེབས་ནུས་པའི་བླ་མ་ཡིན། །",
+      "notes": [
+        "N-A002",
+        "N-A033"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0169",
+      "exact_source": "མི་བཟོད་སྐད་ཅིག་མ་འབྱེད་པར། །",
+      "notes": [
+        "N-A035"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0171",
+      "exact_source": "རྟོག་པ་སེམས་སུ་ངོོ་ཤེས་པས། །",
+      "notes": [
+        "N-A035",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0179",
+      "exact_source": "ངེེས་ཤེས་བརྟན་པོ་སྐྱེས་པ་དེ། །",
+      "notes": [
+        "N-A036",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0182",
+      "exact_source": "སེམས་ཉིིད་སྐྱེ་བ་མེད་པར་ཤེས། །",
+      "notes": [
+        "N-A037",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0184",
+      "exact_source": "མི་རྟོག་ཡེེ་ཤེས་བསྒྲུབ་ཏུ་མེད། །",
+      "notes": [
+        "N-A024",
+        "N-A037",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0188",
+      "exact_source": "སྟོོན་པར་བྱེད་པའི་བླ་མ་དེ། །",
+      "notes": [
+        "N-A002",
+        "N-A037",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0190",
+      "exact_source": "དེ་ཚོོ་གང་ཟག་བཤེས་གཉེན་གྱིས། །",
+      "notes": [
+        "N-A019",
+        "N-A038"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0192",
+      "exact_source": "གཉིིས་པ་བཀའ་ཡི་བཤེས་གཉེན་ནི། །",
+      "notes": [
+        "N-B001",
+        "N-B012"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0193",
+      "exact_source": "ལྷན་ཅིིག་སྐྱེས་སྦྱོར་གདམས་ངག་འདི། །",
+      "notes": [
+        "N-B001",
+        "N-B012"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0197",
+      "exact_source": "རང་གིིས་བསྒོམས་པའི་ཉམས་མྱོང་དང་། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0198",
+      "exact_source": "དབྱེར་མེད་རོ་གཅིག་རྟོགས་གྱུརཔས། །",
+      "notes": [
+        "N-B002",
+        "N-B014"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0199",
+      "exact_source": "ངེས་པའིི་ཤེས་པ་སྐྱེ་བར་འགྱུར། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0213",
+      "exact_source": "ལྔ་བཞིར་རིག་པའི་བླ་མ་ནི། །",
+      "notes": [
+        "N-B003",
+        "N-B012"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0219",
+      "exact_source": "ཕྱིི་ཡི་བླ་མ་མི་དགོས་པས། །",
+      "notes": [
+        "N-B001",
+        "N-B012"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0220",
+      "exact_source": "སྒྲོ་འདོོགས་ནང་དུ་ཆོད་པ་ལ། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0235",
+      "exact_source": "བདག་གིིས་སེམས་ཅན་ཐམས་ཅད་ཀྱི། །",
+      "notes": [
+        "N-B001",
+        "N-B017"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0238",
+      "exact_source": "སྙམ་དུ་སེམས་ནི་ལྷན་ཅིག་སྐྱེས། །",
+      "notes": [
+        "N-B004",
+        "N-B012"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0240",
+      "exact_source": "སྤྱིི་བོར་བླ་མ་དམ་པ་བསྒོམས། །",
+      "notes": [
+        "N-B001",
+        "N-B012",
+        "N-B018"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0246",
+      "exact_source": "ཤེེས་པ་ཡི་ནི་མཚན་ཉིད་དང་། །",
+      "notes": [
+        "N-B001",
+        "N-B019"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0249",
+      "exact_source": "ངོ་བོ་ཉིད་ཀྱི་མཆན་ཉིད་དོ། །",
+      "notes": [
+        "N-B005",
+        "N-B019"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0262",
+      "exact_source": "ངོ་བོོ་ཉིད་ཀྱི་སྐུ་སྙམ་དུ། །",
+      "notes": [
+        "N-B001",
+        "N-B021"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0266",
+      "exact_source": "ཤེས་པའིི་མཚན་ཉིད་བྱ་བ་ཡིན། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0270",
+      "exact_source": "ལན་གཅིིག་ཝལ་གྱིས་བསམ་པར་བྱ། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0272",
+      "exact_source": "སེམས་ཉིད་སྐུ་བཞིི་ཡིན་མོད་ཀྱང་། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0275",
+      "exact_source": "ངོ་བོ་ཉིིད་ཀྱི་མཚན་ཉིད་དོ། །",
+      "notes": [
+        "N-B001",
+        "N-B006",
+        "N-B019"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0279",
+      "exact_source": "རྒྱུ་ཆེ་ལྟ་བའི་གོ་ཆ་ནི། །",
+      "notes": [
+        "N-B007"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0285",
+      "exact_source": "སྟོོོང་ཉིད་ལྟ་བའི་གདེང་ལྡན་པས། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0288",
+      "exact_source": "སྙམ་དུ་ལན་གཅིིག་བསམ་པ་དེ། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0291",
+      "exact_source": "ཤེས་རབ་གོོ་ཆ་གཉིས་ཡིན་ཏེ། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0292",
+      "exact_source": "ཕྱིི་དང་ནང་གི་གོ་ཆ་འོ། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0309",
+      "exact_source": "སྤྱི་དོོན་བཞི་པ་ཉམས་བླང་གིས། །",
+      "notes": [
+        "N-B001",
+        "N-B026",
+        "N-B032"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0314",
+      "exact_source": "སེམས་ཀྱི་མཚན་ཉིིད་ལ་བལྟས་ཏེ། །",
+      "notes": [
+        "N-B001",
+        "N-B019"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0316",
+      "exact_source": "གནས་མེད་དངོས་པོམེད་པ་འོ། །",
+      "notes": [
+        "N-B002"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0334",
+      "exact_source": "སེམས་ནིི་སྐྱེ་བར་ཡོད་མིན་ཏེ། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0338",
+      "exact_source": "སྐྱེ་བ་མེེད་པ་ཡིན་སྣམ་དུ། །",
+      "notes": [
+        "N-B001",
+        "N-B008"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0353",
+      "exact_source": "དབྱེིབས་དང་ཁ་དོག་གྲུབ་དགོས་ཏེ། །",
+      "notes": [
+        "N-B009"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0357",
+      "exact_source": "སྙམ་དུ་སེེམས་པར་བྱེད་པ་སྟེ། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0359",
+      "exact_source": "རྟོག་པ་དོན་དུ་ཤེས་པ་སྟེ། །",
+      "notes": [
+        "N-B010"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0372",
+      "exact_source": "ཡང་ན་འདིི་ལྟར་བཞག་ཅེས་གསུང་། །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0380",
+      "exact_source": "མ་བཅོོས་ངོ་བོར་རང་གསལ་དུ། །",
+      "notes": [
+        "N-B001",
+        "N-B029"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0383",
+      "exact_source": "ཆོས་རྣམསཐམས་ཅད་རྣམ་རྟོག་སྟེ། །",
+      "notes": [
+        "N-B002",
+        "N-B031"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0388",
+      "exact_source": "གཟུང་འཛིན་སྒྲ་བསྒྱུར་འདེབས་ལས་འདས། །",
+      "notes": [
+        "N-B011"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0392",
+      "exact_source": "སྟོོོོང་ཉིད་བདེ་གསལ་ངང་ལ་བཞག །",
+      "notes": [
+        "N-B001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0393",
+      "exact_source": "གལ་ཏེེ་དྲན་པ་ཡེངས་པ་ལ། །",
+      "notes": [
+        "N-C001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0397",
+      "exact_source": "དགེོས་དང་མེད་དུ་མི་རུང་དང་། །",
+      "notes": [
+        "N-C003"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0403",
+      "exact_source": "རྟོག་པ་དོང་པོ་ཆོས་སྐུར་གྱུར། །",
+      "notes": [
+        "N-C004"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0410",
+      "exact_source": "སེམས་དང་རྟོོག་པ་ཆོས་སྐུ་གསུམ། །",
+      "notes": [
+        "N-C001",
+        "N-C006"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0413",
+      "exact_source": "སྙམ་དུ་ཝལ་གྱིས་ཤེེས་བྱས་ནས། །",
+      "notes": [
+        "N-C001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0418",
+      "exact_source": "རྗེ་བཙུན་རིན་ཆེན་ཞལ་ལྔ་ནས། །",
+      "notes": [
+        "N-C007"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0419",
+      "exact_source": "ངེེད་ཀུན་རྣམ་རྟོག་ལམདུ་ཁྱེར། །",
+      "notes": [
+        "N-C001",
+        "N-C008"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0431",
+      "exact_source": "ཕྱག་རྒུ་ཆེན་པོའི་རྒྱུད་དག་ལས། །",
+      "notes": [
+        "N-C010"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0434",
+      "exact_source": "ཇི་ལྟར་རྣམ་རྟོག་བྱུང་གྱུརཀྱང་། །",
+      "notes": [
+        "N-C008"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0438",
+      "exact_source": "རྟོག་པ་དེ་ཉིིད་ཐབས་སུ་གསུངས། །",
+      "notes": [
+        "N-C001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0442",
+      "exact_source": "ངེེས་ཤེས་སྐྱེས་ན་དེ་ཉིད་མཐོང་། །",
+      "notes": [
+        "N-C001",
+        "N-C012"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0444",
+      "exact_source": "ཆོས་སྐུ་ཡེིན་པར་ཅིར་གྱིས་གཟུང་། །",
+      "notes": [
+        "N-C012"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0447",
+      "exact_source": "ཉོན་མོོངས་ཡེ་ཤེས་ཉིད་ཡིན་པས། །",
+      "notes": [
+        "N-C001",
+        "N-C029"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0450",
+      "exact_source": "སྨྲྀ་ཏའི་འབྲས་བུ་ཇི་བཞིན་དུ། །",
+      "notes": [
+        "N-C013"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0454",
+      "exact_source": "དེ་ཚེ་ཤེེས་རབ་གསུམ་སྒོམ་བསྟན། །",
+      "notes": [
+        "N-C001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0458",
+      "exact_source": "སྔར་འདྲིས་མི་ཕྲད་རྡོ་ཚན་ཁ། །",
+      "notes": [
+        "N-C014"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0461",
+      "exact_source": "དང་པོ་ལྔར་འདྲིས་མི་ཕྲད་ནི། །",
+      "notes": [
+        "N-C014"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0471",
+      "exact_source": "རྡོོ་ཚན་སྟེང་དུ་བྱུང་མ་ཐག །",
+      "notes": [
+        "N-C001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0476",
+      "exact_source": "འབད་མི་དགོས་པར་རྟོག་པ་འབྱུང་། །",
+      "notes": [
+        "N-C015"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0477",
+      "exact_source": "ཕྲད་འཇོོམས་བྱ་བ་དེ་ལ་ཟེར། །",
+      "notes": [
+        "N-C001",
+        "N-C016"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0479",
+      "exact_source": "དཔེེར་ན་ནགས་ལ་མེ་ཤོར་ན། །",
+      "notes": [
+        "N-C001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0482",
+      "exact_source": "རྟོགས་པ་མེད་པར་སྲེག་པར་བྱེད། །",
+      "notes": [
+        "N-C017"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0487",
+      "exact_source": "གཟུང་འཛིིན་ཉོན་མོངས་ཆགས་སྡང་སོགས། །",
+      "notes": [
+        "N-C001",
+        "N-C029"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0489",
+      "exact_source": "སྐྱེ་མེེད་ངང་དུ་སྲེག་པར་བྱེད། །",
+      "notes": [
+        "N-C001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0492",
+      "exact_source": "མེ་སྤྲུལ་ཞེས་པ་དེ་ལ་བྱེད། །",
+      "notes": [
+        "N-C018"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0499",
+      "exact_source": "བདེེ་གསལ་ཉམས་མྱོང་བཞི་པ་སྟེ། །",
+      "notes": [
+        "N-C001",
+        "N-C031"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0503",
+      "exact_source": "ནང་གསེས་བཞི་རུ་བླ་མས་གསུངས། །",
+      "notes": [
+        "N-C019",
+        "N-C028"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0508",
+      "exact_source": "སྣང་བ་སྣ་ཚོགས་ཞེས་བཤད་དོ། །",
+      "notes": [
+        "N-C020"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0511",
+      "exact_source": "ཆོས་ལ་རང་བཞིན་ཚུད་པ་འབྱུང་། །",
+      "notes": [
+        "N-C020"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0522",
+      "exact_source": "རྒྱུན་ཆད་མེེད་པར་འབད་དེ་བསྒོམ། །",
+      "notes": [
+        "N-C001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0527",
+      "exact_source": "ངང་ལ་མ་ཡེེངས་བསྒོམ་པའི་མཆོག །",
+      "notes": [
+        "N-C001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0528",
+      "exact_source": "རྟོག་པ་བྱུང་བརགྱུར་ན་ཡང་། །",
+      "notes": [
+        "N-C008"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0532",
+      "exact_source": "ལོགས་ནས་འཚོལ་བར་འདོད་ལ་རྣམས། །",
+      "notes": [
+        "N-C022"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0540",
+      "exact_source": "སྒོོམ་པ་གཞི་ཐོག་མོ་ལུས་དང་། །",
+      "notes": [
+        "N-C001",
+        "N-C023"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0549",
+      "exact_source": "བླང་དོོར་དགག་སྒྲུབ་ཀུན་དང་བྲལ། །",
+      "notes": [
+        "N-C001",
+        "N-C036"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0553",
+      "exact_source": "དྲི་མས་མ་གོས་སྤྱོད་པ་བཞིན། །",
+      "notes": [
+        "N-C024"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0558",
+      "exact_source": "རྩེ་གཅིག་སྥོས་བྲལ་རོ་གཅིག་དང་། །",
+      "notes": [
+        "N-C025",
+        "N-C032"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0561",
+      "exact_source": "རེ་དོོགས་མེད་ན་འབྲས་བུའི་མཆོག །",
+      "notes": [
+        "N-C001",
+        "N-C025"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0563",
+      "exact_source": "ཡང་དག་སངས་རྒུས་ཉིད་ཀྱིས་ཀྱང་། །",
+      "notes": [
+        "N-C026"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0567",
+      "exact_source": "རང་བྱུང་ཤྰ་ཀ་ཐུབ་ལ་སོགས་པའི། །",
+      "notes": [
+        "N-C026"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0569",
+      "exact_source": "ཆོསསྐུ་སྤྲོས་བྲལ་མཁའ་འདྲ་ལས། །",
+      "notes": [
+        "N-C008"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0581",
+      "exact_source": "རྗེེ་ཡི་གསུངས་སྒྲོས་ཇི་བཞིན་དུ། །",
+      "notes": [
+        "N-C001"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    },
+    {
+      "anchor": "L0589",
+      "exact_source": "ལྷན་ཅིག་སྐྱེས་སྦྱོར་ལྡོམ་བུ་བ་རྡོར་རྒྱལ་གྱིས་སྦྱར་བ་རྫོགས་སོ།། །།ཤུབྷྃ། །",
+      "notes": [
+        "N-C027",
+        "N-C032"
+      ],
+      "disposition": "source preserved; interpretation explicitly annotated; witness check remains open"
+    }
+  ],
+  "count": 117
+}

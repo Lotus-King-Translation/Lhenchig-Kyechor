@@ -1,0 +1,1800 @@
+[
+  {
+    "pairs": [
+      "LCK-000001",
+      "LCK-000006",
+      "LCK-000007",
+      "LCK-000016"
+    ],
+    "tibetan": "ལྷན་ཅིག་སྐྱེས་སྦྱོར་",
+    "canonical_entry": "No exact established entry; related entries: ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ་; སེམས་; རྣམ་རྟོག་; ཆོས་སྐུ་",
+    "english": "coemergent joining",
+    "category": "Provisional",
+    "condition": "Title and its explicit explanation at42–45; includes title variant ལྷན་གཅིག་. Coemergent is a local working spelling; existing co-emergent ignorance remains unchanged.",
+    "note_id": "N-A001"
+  },
+  {
+    "pairs": [
+      "LCK-000006",
+      "LCK-000007"
+    ],
+    "tibetan": "སྐྱེས་སྦྱོར་",
+    "canonical_entry": "No exact established entry; related entries: ལྷན་ཅིག་སྐྱེས་སྦྱོར་",
+    "english": "coemergent joining",
+    "category": "Provisional",
+    "condition": "Abbreviated title at20–21; linked form, not a competing interpretation of ordinary joining.",
+    "note_id": "N-A001"
+  },
+  {
+    "pairs": [
+      "LCK-000016"
+    ],
+    "tibetan": "ལྷན་ཅིག་སྐྱེས་པ་",
+    "canonical_entry": "No exact established entry; related entries: ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ་",
+    "english": "coemergent",
+    "category": "Provisional",
+    "condition": "Predicate for the three named items at43. Does not authorize replacing or respelling the established whole-expression ignorance entry.",
+    "note_id": "N-A001"
+  },
+  {
+    "pairs": [
+      "LCK-000002",
+      "LCK-000005",
+      "LCK-000018",
+      "LCK-000027",
+      "LCK-000030",
+      "LCK-000033",
+      "LCK-000034",
+      "LCK-000035",
+      "LCK-000036",
+      "LCK-000037",
+      "LCK-000038"
+    ],
+    "tibetan": "བླ་མ་",
+    "canonical_entry": "No exact established entry; related entries: བླ་མའི་རྣལ་འབྱོར་",
+    "english": "teacher",
+    "category": "Provisional",
+    "condition": "Personal and explicitly named nonpersonal teachers in this work. Existing Guru Yoga retains whole-expression precedence.",
+    "note_id": "N-A002"
+  },
+  {
+    "pairs": [
+      "LCK-000006",
+      "LCK-000007",
+      "LCK-000009",
+      "LCK-000011",
+      "LCK-000016",
+      "LCK-000023",
+      "LCK-000028",
+      "LCK-000029",
+      "LCK-000030"
+    ],
+    "tibetan": "གདམས་ངག་",
+    "canonical_entry": "No exact established entry; related entries: ཤེས་རབ་; སྒོམ་པ་",
+    "english": "pith instructions",
+    "category": "Provisional",
+    "condition": "Instructional transmission; singular pith instruction in the instrumental naming explanation. Singular/plural follow syntax.",
+    "note_id": "N-A007"
+  },
+  {
+    "pairs": [
+      "LCK-000008",
+      "LCK-000015",
+      "LCK-000024"
+    ],
+    "tibetan": "ཉོན་མོངས་པ་",
+    "canonical_entry": "No exact established entry; related entries: རྣམ་རྟོག་",
+    "english": "afflictions",
+    "category": "Provisional",
+    "condition": "Maintain distinction from differentiating conceptualization and desire/aversion subtypes; includes abbreviated ཉོན་མོངས་ forms.",
+    "note_id": "N-A009"
+  },
+  {
+    "pairs": [
+      "LCK-000027",
+      "LCK-000029",
+      "LCK-000033",
+      "LCK-000034",
+      "LCK-000039"
+    ],
+    "tibetan": "དགེ་བའི་བཤེས་གཉེན་",
+    "canonical_entry": "No exact established entry; related entries: བླ་མ་; ལོག་བཤེས་",
+    "english": "spiritual friend",
+    "category": "Provisional",
+    "condition": "Includes abbreviated དགེ་བའི་བཤེས་; personal spiritual friend where གང་ཟག་ is explicit. Distinct label from teacher, not generic interchangeability.",
+    "note_id": "N-A019"
+  },
+  {
+    "pairs": [
+      "LCK-000020",
+      "LCK-000024"
+    ],
+    "tibetan": "ལོག་བཤེས་",
+    "canonical_entry": "No exact established entry; related entries: དགེ་བའི་བཤེས་གཉེན་",
+    "english": "misguided spiritual friend",
+    "category": "Provisional",
+    "condition": "Adverse counterpart in the student qualifications; extended source form ལོག་པའི་བཤེས་ at90.",
+    "note_id": "N-A019"
+  },
+  {
+    "pairs": [
+      "LCK-000033"
+    ],
+    "tibetan": "བཀའ་",
+    "canonical_entry": "No exact established entry; related entries: བླ་མ་; གདམས་ངག་",
+    "english": "teachings",
+    "category": "Provisional",
+    "condition": "One of the four teachers; specific scope of scriptural teachings remains open. Do not assume speech by a named Buddha absent from source.",
+    "note_id": "N-A032"
+  },
+  {
+    "pairs": [
+      "LCK-000030",
+      "LCK-000037"
+    ],
+    "tibetan": "སྐུ་དྲིན་",
+    "canonical_entry": "No exact established entry; related entries: རྟོག་པ་; སྐུ་",
+    "english": "kindness",
+    "category": "Provisional",
+    "condition": "Whole expression for benefaction/kindness; prevents erroneous free parsing of honorific སྐུ་ as embodiment. Kind realizes སྐུ་དྲིན་ཅན་.",
+    "note_id": "N-A030"
+  },
+  {
+    "pairs": [
+      "LCK-000005"
+    ],
+    "tibetan": "ཐུགས་ཀྱི་སྲས་",
+    "canonical_entry": "No exact established entry; related entries: ཐུགས་རྗེ་; དགོངས་པ་",
+    "english": "son of the heart",
+    "category": "Provisional",
+    "condition": "Lineage relationship to Mila, not biological son. No standalone heart or mind mapping for ཐུགས་ is established by this proposal.",
+    "note_id": "N-A005"
+  },
+  {
+    "pairs": [
+      "LCK-000004"
+    ],
+    "tibetan": "དངོས་གྲུབ་",
+    "canonical_entry": "No exact established entry; related entries: ཐོབ་",
+    "english": "accomplishment",
+    "category": "Provisional",
+    "condition": "Technical accomplishment attained through cultivation in Lavapa praise; does not overwrite attainment for ཐོབ་.",
+    "note_id": "N-A004"
+  },
+  {
+    "pairs": [
+      "LCK-000004"
+    ],
+    "tibetan": "མཁའ་འགྲོ་",
+    "canonical_entry": "No exact established entry; related entries: བླ་མ་",
+    "english": "dakini",
+    "category": "Provisional",
+    "condition": "Transliteration for the named class; plural in line9, not a replacement for space in literal ནམ་མཁའ་.",
+    "note_id": "N-A004"
+  },
+  {
+    "pairs": [
+      "LCK-000008"
+    ],
+    "tibetan": "འདུལ་བ་",
+    "canonical_entry": "No exact established entry; related entries: ཆོས་",
+    "english": "Discipline",
+    "category": "Provisional",
+    "condition": "Doctrinal classification in26, preserving the tame/discipline verb relation. Ordinary verbal occurrences need separate grammatical review.",
+    "note_id": "N-A010"
+  },
+  {
+    "pairs": [
+      "LCK-000009"
+    ],
+    "tibetan": "ཚད་མ་",
+    "canonical_entry": "No exact established entry; related entries: ཤེས་པ་; སྒྲོ་འདོགས་",
+    "english": "valid cognition",
+    "category": "Provisional",
+    "condition": "Named instructional classification at30; does not replace knowing as an unrestricted output.",
+    "note_id": "N-A010"
+  },
+  {
+    "pairs": [
+      "LCK-000010"
+    ],
+    "tibetan": "དབུ་མ་",
+    "canonical_entry": "No exact established entry; related entries: རྟག་ཆད་; སྒྲོ་འདོགས་",
+    "english": "Middle Way",
+    "category": "Provisional",
+    "condition": "Classification qualified by freedom from extremes at31–32.",
+    "note_id": "N-A010"
+  },
+  {
+    "pairs": [
+      "LCK-000011"
+    ],
+    "tibetan": "ཕ་རོལ་ཕྱིན་པ་",
+    "canonical_entry": "No exact established entry; related entries: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་",
+    "english": "perfection",
+    "category": "Provisional",
+    "condition": "Abbreviated form occurring without discerning knowing; do not silently add that component. The fuller established expression retains its full output.",
+    "note_id": "N-A010"
+  },
+  {
+    "pairs": [
+      "LCK-000012"
+    ],
+    "tibetan": "རྫོགས་ཆེན་",
+    "canonical_entry": "No exact established entry; related entries: སེམས་; ཕ་རོལ་ཕྱིན་པ་",
+    "english": "Great Perfection",
+    "category": "Provisional",
+    "condition": "Classification grounded in completion of samsara/nirvana phenomena within ordinary mind; preserve distinction from perfection.",
+    "note_id": "N-A010"
+  },
+  {
+    "pairs": [
+      "LCK-000014"
+    ],
+    "tibetan": "ཞི་བྱེད་",
+    "canonical_entry": "No exact established entry; related entries: ཞི་གནས་",
+    "english": "Pacification",
+    "category": "Provisional",
+    "condition": "Named classification with its pacifying-suffering explanation; not calm abiding, which has its own source expression.",
+    "note_id": "N-A010"
+  },
+  {
+    "pairs": [
+      "LCK-000015"
+    ],
+    "tibetan": "གསང་སྔགས་",
+    "canonical_entry": "No exact established entry; related entries: སྔགས་",
+    "english": "Secret Mantra",
+    "category": "Provisional",
+    "condition": "Named classification at41. Do not substitute Tantra without source support or overwrite continuum for an unrelated word.",
+    "note_id": "N-A010"
+  },
+  {
+    "pairs": [
+      "LCK-000017"
+    ],
+    "tibetan": "སྔགས་",
+    "canonical_entry": "No exact established entry; related entries: གསང་སྔགས་",
+    "english": "mantra",
+    "category": "Provisional",
+    "condition": "Object/application to obstacles at47; not praise. Protective relation is separately explained in the note.",
+    "note_id": "N-A015"
+  },
+  {
+    "pairs": [
+      "LCK-000010"
+    ],
+    "tibetan": "རྟག་ཆད་",
+    "canonical_entry": "No exact established entry; related entries: དབུ་མ་; སྒྲོ་སྐུར་",
+    "english": "eternalism and annihilationism",
+    "category": "Provisional",
+    "condition": "Compact pair of extremes in31; preserve source order and pair distinction.",
+    "note_id": "N-A012"
+  },
+  {
+    "pairs": [
+      "LCK-000010"
+    ],
+    "tibetan": "སྒྲོ་སྐུར་",
+    "canonical_entry": "No exact established entry; related entries: སྒྲོ་འདོགས་; རྟག་ཆད་",
+    "english": "superimposition and denigration",
+    "category": "Provisional",
+    "condition": "Abbreviated pair at31; keep established superimposition component and distinct negative counterpart.",
+    "note_id": "N-A012"
+  },
+  {
+    "pairs": [
+      "LCK-000012",
+      "LCK-000022",
+      "LCK-000024",
+      "LCK-000028",
+      "LCK-000031"
+    ],
+    "tibetan": "འཁོར་བ་",
+    "canonical_entry": "No exact established entry; related entries: མྱ་ངན་འདས་པ་",
+    "english": "samsara",
+    "category": "Provisional",
+    "condition": "Includes abbreviated འཁོར་ in the samsara/nirvana pair; no claim of a new definition beyond the source.",
+    "note_id": "N-A013"
+  },
+  {
+    "pairs": [
+      "LCK-000012"
+    ],
+    "tibetan": "མྱ་ངན་འདས་པ་",
+    "canonical_entry": "No exact established entry; related entries: འཁོར་བ་",
+    "english": "nirvana",
+    "category": "Provisional",
+    "condition": "Explicit partner of samsara at35.",
+    "note_id": "N-A013"
+  },
+  {
+    "pairs": [
+      "LCK-000024"
+    ],
+    "tibetan": "ཆོས་བརྒྱད་",
+    "canonical_entry": "No exact established entry; related entries: ཆོས་",
+    "english": "eight worldly concerns",
+    "category": "Provisional",
+    "condition": "Numbered idiom at88; do not expand into an unprovided list.",
+    "note_id": "N-A023"
+  },
+  {
+    "pairs": [
+      "LCK-000026",
+      "LCK-000031"
+    ],
+    "tibetan": "སངས་རྒྱས་",
+    "canonical_entry": "No exact established entry; related entries: ཐོབ་; འབྲས་བུ་",
+    "english": "buddhahood",
+    "category": "Provisional",
+    "condition": "Only attainment/state contexts in this partition; individual Buddha references need a distinct scoped realization.",
+    "note_id": "N-A025"
+  },
+  {
+    "pairs": [
+      "LCK-000020",
+      "LCK-000027",
+      "LCK-000029"
+    ],
+    "tibetan": "བདག་པོའི་རྐྱེན་",
+    "canonical_entry": "No exact established entry; related entries: དམིགས་པའི་རྐྱེན་; དེ་མ་ཐག་པའི་རྐྱེན་",
+    "english": "dominant condition",
+    "category": "Provisional",
+    "condition": "Four-condition framework; omitted condition at58 is visibly supplied. Do not read the form as an owner or self without checking the full construction.",
+    "note_id": "N-A018"
+  },
+  {
+    "pairs": [
+      "LCK-000020",
+      "LCK-000025",
+      "LCK-000027",
+      "LCK-000030"
+    ],
+    "tibetan": "དམིགས་པའི་རྐྱེན་",
+    "canonical_entry": "No exact established entry; related entries: དམིགས་པ་",
+    "english": "condition of the object of focus",
+    "category": "Provisional",
+    "condition": "Preserves established object of focus in the technical condition expression.",
+    "note_id": "N-A018"
+  },
+  {
+    "pairs": [
+      "LCK-000020",
+      "LCK-000026",
+      "LCK-000027",
+      "LCK-000031"
+    ],
+    "tibetan": "དེ་མ་ཐག་པའི་རྐྱེན་",
+    "canonical_entry": "No exact established entry; related entries: བདག་པོའི་རྐྱེན་",
+    "english": "immediate condition",
+    "category": "Provisional",
+    "condition": "Narrow local working rendering. Whether immediately preceding should be specified requires human review; no independent temporal claim is made.",
+    "note_id": "N-A018"
+  },
+  {
+    "pairs": [
+      "LCK-000036"
+    ],
+    "tibetan": "སྐུ་བཞི་",
+    "canonical_entry": "No exact established entry; related entries: སྐུ་; སྐུ་གསུམ་",
+    "english": "four embodiments",
+    "category": "Provisional",
+    "condition": "Numbered expression built from the established embodiment family; the passage does not enumerate the four.",
+    "note_id": "N-A035"
+  },
+  {
+    "pairs": [
+      "LCK-000028",
+      "LCK-000029"
+    ],
+    "tibetan": "དད་གུས་",
+    "canonical_entry": "No exact established entry; related entries: དད་པ་; མོས་གུས་",
+    "english": "faith and devotion",
+    "category": "Provisional",
+    "condition": "Keeps faith distinct from confident devotion. The phrase in29 depends on a disclosed textual conjecture from དད་དུས་.",
+    "note_id": "N-A028"
+  },
+  {
+    "pairs": [
+      "LCK-000028"
+    ],
+    "tibetan": "ཞེན་འཛིན་",
+    "canonical_entry": "No exact established entry; related entries: ཞེན་པ་; འཛིན་པ་; གཟུང་འཛིན་",
+    "english": "clinging apprehension",
+    "category": "Provisional",
+    "condition": "Whole compound at122; not a standalone assertion of an apprehending subject.",
+    "note_id": "N-A028"
+  },
+  {
+    "pairs": [
+      "LCK-000034"
+    ],
+    "tibetan": "གསལ་འདེབས་",
+    "canonical_entry": "No exact established entry; related entries: གསལ་བ་; གསོལ་བ་འདེབས་",
+    "english": "bring clarity",
+    "category": "Provisional",
+    "condition": "Teacher quality at158; reminding is an alternative requiring review. Do not harmonize with the divergent supplication expression at164.",
+    "note_id": "N-A033"
+  },
+  {
+    "pairs": [
+      "LCK-000035"
+    ],
+    "tibetan": "གསོལ་བ་འདེབས་",
+    "canonical_entry": "No exact established entry; related entries: གསལ་འདེབས་",
+    "english": "offer supplication",
+    "category": "Provisional",
+    "condition": "Literal treatment of the supplied explanatory label at164, even though it conflicts with the list.",
+    "note_id": "N-A033"
+  },
+  {
+    "pairs": [
+      "LCK-000034",
+      "LCK-000036"
+    ],
+    "tibetan": "འགལ་བསྒྱུར་",
+    "canonical_entry": "No exact established entry; related entries: འགལ་བ་; སྒོམ་པ་",
+    "english": "transform adverse circumstances",
+    "category": "Provisional",
+    "condition": "Instructional action explained through adverse situations in165–173; no generic substitution for contrivance-family entries.",
+    "note_id": "N-A034"
+  },
+  {
+    "pairs": [
+      "LCK-000034",
+      "LCK-000038"
+    ],
+    "tibetan": "ཤེས་རབ་གོ་འབྱེད་",
+    "canonical_entry": "No exact established entry; related entries: ཤེས་རབ་",
+    "english": "open up discerning knowing",
+    "category": "Provisional",
+    "condition": "Whole instructional expression; retains discerning knowing. Whether open understanding through/of discerning knowing is more precise remains open.",
+    "note_id": "N-A034"
+  },
+  {
+    "pairs": [
+      "LCK-000036"
+    ],
+    "tibetan": "མཚམས་མེད་ལྔ་",
+    "canonical_entry": "No exact established entry; related entries: མི་དགེ་བཅུ་",
+    "english": "five deeds with immediate consequences",
+    "category": "Provisional",
+    "condition": "Conventional named group at165; no absent enumeration is supplied.",
+    "note_id": "N-A035"
+  },
+  {
+    "pairs": [
+      "LCK-000036"
+    ],
+    "tibetan": "དམ་ཚིག་",
+    "canonical_entry": "No exact established entry; related entries: སྡོམ་",
+    "english": "samaya",
+    "category": "Provisional",
+    "condition": "Retained technical transliteration in166; distinguish from vows.",
+    "note_id": "N-A035"
+  },
+  {
+    "pairs": [
+      "LCK-000036"
+    ],
+    "tibetan": "རིགས་རྒྱུད་",
+    "canonical_entry": "No exact established entry; related entries: རྒྱུད་",
+    "english": "spiritual family and continuum",
+    "category": "Provisional",
+    "condition": "Disclosed local interpretation of a potentially compound lineage/disposition expression; preserve continuum component pending review.",
+    "note_id": "N-A035"
+  },
+  {
+    "pairs": [
+      "LCK-000037"
+    ],
+    "tibetan": "ངེས་ཤེས་",
+    "canonical_entry": "No exact established entry; related entries: ཤེས་པ་; ངེས་པའི་ཤེས་པ་",
+    "english": "certain knowing",
+    "category": "Provisional",
+    "condition": "Compound containing established knowing; expanded construction occurs in9. Damaged repeated-vowel form at179 is separately annotated.",
+    "note_id": "N-A036"
+  },
+  {
+    "pairs": [
+      "LCK-000013"
+    ],
+    "tibetan": "ཡིད་ལ་མི་བྱེད་",
+    "canonical_entry": "No exact established entry; related entries: ཡིད་; ཕྱག་རྒྱ་ཆེན་པོ་",
+    "english": "not engaging the mental faculty",
+    "category": "Provisional",
+    "condition": "Negative attention/engagement construction; preserves mental faculty and does not prescribe absence of ordinary mind.",
+    "note_id": "N-A014"
+  },
+  {
+    "pairs": [
+      "LCK-000029"
+    ],
+    "tibetan": "དངོས་པོ་མེད་པ་",
+    "canonical_entry": "No exact established entry; related entries: སྟོང་པ་",
+    "english": "without concrete existence",
+    "category": "Provisional",
+    "condition": "Predicative denial at130; distinct from emptiness as an established headword. Does not promote concrete as a default for every thing noun.",
+    "note_id": "N-A029"
+  },
+  {
+    "pairs": [
+      "LCK-000003"
+    ],
+    "tibetan": "འགྲོ་བའི་དོན་མཛད་",
+    "canonical_entry": "དོན་ → Meaning",
+    "english": "act for the benefit of beings",
+    "category": "Provisional",
+    "condition": "Beneficiary verbal construction, not the list of six meanings.",
+    "note_id": "N-A003"
+  },
+  {
+    "pairs": [
+      "LCK-000003"
+    ],
+    "tibetan": "སྤྲུལ་སྐུ་",
+    "canonical_entry": "སྤྲུལ་པའི་སྐུ་ → Emanation embodiment",
+    "english": "emanation embodiment",
+    "category": "Grammatical",
+    "condition": "Abbreviated whole-expression form.",
+    "note_id": "N-A003"
+  },
+  {
+    "pairs": [
+      "LCK-000009",
+      "LCK-000025",
+      "LCK-000030",
+      "LCK-000037",
+      "LCK-000038"
+    ],
+    "tibetan": "རྣམ་པར་རྟོག་པ་",
+    "canonical_entry": "རྣམ་རྟོག་ → Differentiating conceptualization",
+    "english": "differentiating conceptualization",
+    "category": "Grammatical",
+    "condition": "Expanded grammatical form; do not collapse standalone རྟོག་པ་.",
+    "note_id": "N-A024"
+  },
+  {
+    "pairs": [
+      "LCK-000025",
+      "LCK-000038"
+    ],
+    "tibetan": "མི་རྟོག་",
+    "canonical_entry": "མི་རྟོག་པ་ → Non-conceptuality",
+    "english": "non-conceptual",
+    "category": "Grammatical",
+    "condition": "Adjectival modifier of primordial knowing.",
+    "note_id": "N-A024"
+  },
+  {
+    "pairs": [
+      "LCK-000004",
+      "LCK-000007",
+      "LCK-000023",
+      "LCK-000025",
+      "LCK-000026",
+      "LCK-000035"
+    ],
+    "tibetan": "སྒོམ་",
+    "canonical_entry": "སྒོམ་པ་ → Cultivation",
+    "english": "cultivation / cultivate / cultivating",
+    "category": "Grammatical",
+    "condition": "Inflected and abbreviated forms in their respective source constructions.",
+    "note_id": "N-A024"
+  },
+  {
+    "pairs": [
+      "LCK-000031"
+    ],
+    "tibetan": "མཉམ་པ་ཉིད་",
+    "canonical_entry": "མཉམ་ཉིད་ → Evenness",
+    "english": "evenness",
+    "category": "Grammatical",
+    "condition": "Expanded nominal expression; keeps canonical output.",
+    "note_id": "N-A031"
+  },
+  {
+    "pairs": [
+      "LCK-000037"
+    ],
+    "tibetan": "ཝལ་གྱིས་",
+    "canonical_entry": "ཝལ་གྱིས་ → Vividly clear",
+    "english": "with vivid clarity",
+    "category": "Grammatical",
+    "condition": "Transparent nominal grammatical construction modifying knowing; no component deletion.",
+    "note_id": "N-A036"
+  },
+  {
+    "pairs": [
+      "LCK-000013"
+    ],
+    "tibetan": "ཕྱག་རྒྱ་ཆེ་",
+    "canonical_entry": "ཕྱག་རྒྱ་ཆེན་པོ་ → Mahamudra",
+    "english": "Mahamudra",
+    "category": "Grammatical",
+    "condition": "Metrical shortened whole expression.",
+    "note_id": "N-A014"
+  },
+  {
+    "pairs": [
+      "LCK-000026"
+    ],
+    "tibetan": "ཡིད་གཉིས་",
+    "canonical_entry": "ཡིད་ → Mental faculty",
+    "english": "mental faculty thus divided",
+    "category": "Grammatical",
+    "condition": "Retains both components in the indecision construction; no new default for the noun.",
+    "note_id": "N-A026"
+  },
+  {
+    "pairs": [
+      "LCK-000040",
+      "LCK-000042",
+      "LCK-000043",
+      "LCK-000044",
+      "LCK-000047"
+    ],
+    "tibetan": "བླ་མ་",
+    "canonical_entry": "No applicable established whole expression",
+    "english": "teacher",
+    "category": "Provisional",
+    "condition": "Only the attested technical occurrences in these pairs",
+    "note_id": "N-B012"
+  },
+  {
+    "pairs": [
+      "LCK-000040",
+      "LCK-000041",
+      "LCK-000042"
+    ],
+    "tibetan": "བཤེས་གཉེན་",
+    "canonical_entry": "No applicable established whole expression",
+    "english": "spiritual friend",
+    "category": "Provisional",
+    "condition": "Only the attested technical occurrences in these pairs",
+    "note_id": "N-B012"
+  },
+  {
+    "pairs": [
+      "LCK-000040",
+      "LCK-000044",
+      "LCK-000050",
+      "LCK-000064"
+    ],
+    "tibetan": "གདམས་ངག་",
+    "canonical_entry": "No applicable established whole expression",
+    "english": "pith instructions",
+    "category": "Provisional",
+    "condition": "Only the attested technical occurrences in these pairs",
+    "note_id": "N-B012"
+  },
+  {
+    "pairs": [
+      "LCK-000040"
+    ],
+    "tibetan": "ལྷན་ཅིག་སྐྱེས་སྦྱོར་",
+    "canonical_entry": "No applicable established whole expression",
+    "english": "coemergent joining",
+    "category": "Provisional",
+    "condition": "Only the attested technical occurrences in these pairs",
+    "note_id": "N-B012"
+  },
+  {
+    "pairs": [
+      "LCK-000042"
+    ],
+    "tibetan": "ཉོན་མོངས་",
+    "canonical_entry": "No applicable established whole expression",
+    "english": "afflictions",
+    "category": "Provisional",
+    "condition": "Only the attested technical occurrences in these pairs",
+    "note_id": "N-B012"
+  },
+  {
+    "pairs": [
+      "LCK-000041",
+      "LCK-000047"
+    ],
+    "tibetan": "ཡི་དམ་ལྷ་",
+    "canonical_entry": "No applicable established whole expression",
+    "english": "chosen deity",
+    "category": "Provisional",
+    "condition": "Only the attested technical occurrences in these pairs",
+    "note_id": "N-B012"
+  },
+  {
+    "pairs": [
+      "LCK-000040"
+    ],
+    "tibetan": "བཀའ་",
+    "canonical_entry": "No applicable established whole expression",
+    "english": "teachings",
+    "category": "Provisional",
+    "condition": "Only the attested technical occurrences in these pairs",
+    "note_id": "N-B012"
+  },
+  {
+    "pairs": [
+      "LCK-000040"
+    ],
+    "tibetan": "མན་ངག་",
+    "canonical_entry": "No whole-expression entry",
+    "english": "key instructions",
+    "category": "Provisional",
+    "condition": "Instruction list / removal of uncertainty and ensuing command of teachings",
+    "note_id": "N-B013"
+  },
+  {
+    "pairs": [
+      "LCK-000040"
+    ],
+    "tibetan": "ཡིད་གཉིས་",
+    "canonical_entry": "No whole-expression entry",
+    "english": "a divided mental faculty",
+    "category": "Provisional",
+    "condition": "Instruction list / removal of uncertainty and ensuing command of teachings",
+    "note_id": "N-B013"
+  },
+  {
+    "pairs": [
+      "LCK-000040"
+    ],
+    "tibetan": "རང་བྱན་ཚུད་",
+    "canonical_entry": "No whole-expression entry",
+    "english": "gain independent mastery",
+    "category": "Provisional",
+    "condition": "Instruction list / removal of uncertainty and ensuing command of teachings",
+    "note_id": "N-B013"
+  },
+  {
+    "pairs": [
+      "LCK-000042"
+    ],
+    "tibetan": "མཚན་མ་",
+    "canonical_entry": "No whole-expression entry",
+    "english": "marks",
+    "category": "Provisional",
+    "condition": "Only named occurrences in these pairs",
+    "note_id": "N-B014"
+  },
+  {
+    "pairs": [
+      "LCK-000040",
+      "LCK-000042"
+    ],
+    "tibetan": "རོ་གཅིག་",
+    "canonical_entry": "No whole-expression entry",
+    "english": "one taste",
+    "category": "Provisional",
+    "condition": "Only named occurrences in these pairs",
+    "note_id": "N-B014"
+  },
+  {
+    "pairs": [
+      "LCK-000042"
+    ],
+    "tibetan": "བདེ་ཆེན་",
+    "canonical_entry": "No whole-expression entry",
+    "english": "great bliss",
+    "category": "Provisional",
+    "condition": "Only named occurrences in these pairs",
+    "note_id": "N-B014"
+  },
+  {
+    "pairs": [
+      "LCK-000042",
+      "LCK-000057",
+      "LCK-000066"
+    ],
+    "tibetan": "འཁོར་འདས་",
+    "canonical_entry": "No whole-expression entry",
+    "english": "samsara and nirvana",
+    "category": "Provisional",
+    "condition": "Only named occurrences in these pairs",
+    "note_id": "N-B014"
+  },
+  {
+    "pairs": [
+      "LCK-000042",
+      "LCK-000057"
+    ],
+    "tibetan": "མཉམ་པ་ཉིད་",
+    "canonical_entry": "མཉམ་ཉིད་ → Evenness",
+    "english": "evenness",
+    "category": "Grammatical",
+    "condition": "Full and contracted nominal forms; no new English term",
+    "note_id": "N-B014"
+  },
+  {
+    "pairs": [
+      "LCK-000045"
+    ],
+    "tibetan": "ལག་པ་མཉམ་བཞག་བྱ་",
+    "canonical_entry": "མཉམ་གཞག་ → Equipoise",
+    "english": "place your hands in the gesture of equipoise",
+    "category": "Provisional",
+    "condition": "Only physical hand placement at L0230; proposal already pending in glossary",
+    "note_id": "N-B016"
+  },
+  {
+    "pairs": [
+      "LCK-000046"
+    ],
+    "tibetan": "བྱང་ཆུབ་སེམས་",
+    "canonical_entry": "སེམས་ → Ordinary mind; whole expression absent",
+    "english": "ordinary mind directed toward awakening",
+    "category": "Provisional",
+    "condition": "Aspiration explicitly stated at L0235–L0237",
+    "note_id": "N-B017"
+  },
+  {
+    "pairs": [
+      "LCK-000047"
+    ],
+    "tibetan": "བསྒོམས་",
+    "canonical_entry": "སྒོམ་པ་ → Cultivation",
+    "english": "cultivated / cultivate",
+    "category": "Grammatical",
+    "condition": "Visualization objects; preserve cultivation family",
+    "note_id": "N-B018"
+  },
+  {
+    "pairs": [
+      "LCK-000049",
+      "LCK-000050",
+      "LCK-000053",
+      "LCK-000054",
+      "LCK-000055",
+      "LCK-000056",
+      "LCK-000064"
+    ],
+    "tibetan": "མཚན་ཉིད་",
+    "canonical_entry": "See related glossary components",
+    "english": "characteristic",
+    "category": "Provisional",
+    "condition": "Only matching occurrences in the characteristic-list exposition",
+    "note_id": "N-B019"
+  },
+  {
+    "pairs": [
+      "LCK-000049",
+      "LCK-000054"
+    ],
+    "tibetan": "ཁྱད་པར་",
+    "canonical_entry": "See related glossary components",
+    "english": "distinction",
+    "category": "Provisional",
+    "condition": "Only matching occurrences in the characteristic-list exposition",
+    "note_id": "N-B019"
+  },
+  {
+    "pairs": [
+      "LCK-000049",
+      "LCK-000055"
+    ],
+    "tibetan": "བྱེད་པ་",
+    "canonical_entry": "See related glossary components",
+    "english": "doing",
+    "category": "Provisional",
+    "condition": "Only matching occurrences in the characteristic-list exposition",
+    "note_id": "N-B019"
+  },
+  {
+    "pairs": [
+      "LCK-000049",
+      "LCK-000052",
+      "LCK-000055"
+    ],
+    "tibetan": "ངོ་བོ་ཉིད་",
+    "canonical_entry": "See related glossary components",
+    "english": "essence itself",
+    "category": "Provisional",
+    "condition": "Only matching occurrences in the characteristic-list exposition",
+    "note_id": "N-B019"
+  },
+  {
+    "pairs": [
+      "LCK-000050"
+    ],
+    "tibetan": "ཅེར་གྱིས་བལྟ་",
+    "canonical_entry": "Related ཅེར་མཐོང་ → Naked seeing",
+    "english": "look nakedly",
+    "category": "Provisional",
+    "condition": "Looking instruction, not resting",
+    "note_id": "N-B020"
+  },
+  {
+    "pairs": [
+      "LCK-000051"
+    ],
+    "tibetan": "ཆོས་ཀྱི་སྐུ་",
+    "canonical_entry": "ཆོས་སྐུ་ → Dharma embodiment",
+    "english": "Dharma embodiment",
+    "category": "Grammatical",
+    "condition": "Explicit genitive construction of established compound",
+    "note_id": "N-B021"
+  },
+  {
+    "pairs": [
+      "LCK-000051"
+    ],
+    "tibetan": "ལོངས་སྐུ་",
+    "canonical_entry": "ལོངས་སྤྱོད་རྫོགས་སྐུ་ → Complete enjoyment embodiment",
+    "english": "complete enjoyment embodiment",
+    "category": "Provisional",
+    "condition": "Abbreviated middle member of three embodiments; not a blanket abbreviation rule",
+    "note_id": "N-B021"
+  },
+  {
+    "pairs": [
+      "LCK-000052"
+    ],
+    "tibetan": "ངོ་བོོ་ཉིད་ཀྱི་སྐུ་",
+    "canonical_entry": "ངོ་བོ་ → Essence; སྐུ་ → Embodiment",
+    "english": "embodiment of essence itself",
+    "category": "Provisional",
+    "condition": "Fourth embodiment; repeated vowel separately disclosed",
+    "note_id": "N-B021"
+  },
+  {
+    "pairs": [
+      "LCK-000050",
+      "LCK-000052",
+      "LCK-000053",
+      "LCK-000070",
+      "LCK-000071",
+      "LCK-000073",
+      "LCK-000074"
+    ],
+    "tibetan": "ངོས་གཟུང་",
+    "canonical_entry": "No direct entry; distinguish ངོ་ཤེས་ → Recognizing",
+    "english": "identify / identification",
+    "category": "Provisional",
+    "condition": "Identifying the characteristic or its absence",
+    "note_id": "N-B022"
+  },
+  {
+    "pairs": [
+      "LCK-000060"
+    ],
+    "tibetan": "དྲན་རྟོག་",
+    "canonical_entry": "No whole-expression entry",
+    "english": "recollective conceptual thoughts",
+    "category": "Provisional",
+    "condition": "Internal armor instruction",
+    "note_id": "N-B023"
+  },
+  {
+    "pairs": [
+      "LCK-000060"
+    ],
+    "tibetan": "སྐུ་དྲིན་",
+    "canonical_entry": "No whole-expression entry",
+    "english": "kindness",
+    "category": "Provisional",
+    "condition": "Internal armor instruction",
+    "note_id": "N-B023"
+  },
+  {
+    "pairs": [
+      "LCK-000061"
+    ],
+    "tibetan": "སྐབས་བརྒྱད་",
+    "canonical_entry": "No full-expression entry",
+    "english": "eight topics",
+    "category": "Provisional",
+    "condition": "List at L0300–L0302; preserve enumeration",
+    "note_id": "N-B024"
+  },
+  {
+    "pairs": [
+      "LCK-000061"
+    ],
+    "tibetan": "ལམ་ལྔ་",
+    "canonical_entry": "No full-expression entry",
+    "english": "five paths",
+    "category": "Provisional",
+    "condition": "List at L0300–L0302; preserve enumeration",
+    "note_id": "N-B024"
+  },
+  {
+    "pairs": [
+      "LCK-000061"
+    ],
+    "tibetan": "དབང་པོ་ལྔ་",
+    "canonical_entry": "No full-expression entry",
+    "english": "five faculties",
+    "category": "Provisional",
+    "condition": "List at L0300–L0302; preserve enumeration",
+    "note_id": "N-B024"
+  },
+  {
+    "pairs": [
+      "LCK-000061"
+    ],
+    "tibetan": "མཆོག་ཐུན་མོང་",
+    "canonical_entry": "No full-expression entry",
+    "english": "supreme and common attainments",
+    "category": "Provisional",
+    "condition": "List at L0300–L0302; preserve enumeration",
+    "note_id": "N-B024"
+  },
+  {
+    "pairs": [
+      "LCK-000061"
+    ],
+    "tibetan": "རྟོག་པ་ཤེས་རབ་རྩལ་སྦྱངས་",
+    "canonical_entry": "རྟོག་པ་ → Conceptual thought; ཤེས་རབ་ → Discerning knowing; རྩལ་ → Expressiveness",
+    "english": "train in conceptual thought as the expressiveness of discerning knowing",
+    "category": "Provisional",
+    "condition": "The as-relation is supplied from the paragraph; lexical components unchanged",
+    "note_id": "N-B024"
+  },
+  {
+    "pairs": [
+      "LCK-000067"
+    ],
+    "tibetan": "འཛིན་བྱེད་",
+    "canonical_entry": "འཛིན་པ་ → Apprehending subject",
+    "english": "apprehend",
+    "category": "Provisional",
+    "condition": "Explicit verbal construction with agents གཞན་དག་ and complement སྐྱེ་བར་",
+    "note_id": "N-B027"
+  },
+  {
+    "pairs": [
+      "LCK-000072"
+    ],
+    "tibetan": "ཚོགས་དྲུག་",
+    "canonical_entry": "Related expressions only; standalone/compound absent",
+    "english": "six collections",
+    "category": "Provisional",
+    "condition": "Only these rest instructions",
+    "note_id": "N-B029"
+  },
+  {
+    "pairs": [
+      "LCK-000072",
+      "LCK-000073"
+    ],
+    "tibetan": "རང་གསལ་",
+    "canonical_entry": "Related expressions only; standalone/compound absent",
+    "english": "self-clear",
+    "category": "Provisional",
+    "condition": "Only these rest instructions",
+    "note_id": "N-B029"
+  },
+  {
+    "pairs": [
+      "LCK-000072"
+    ],
+    "tibetan": "གཉུག་མ་",
+    "canonical_entry": "Related expressions only; standalone/compound absent",
+    "english": "genuine",
+    "category": "Provisional",
+    "condition": "Only these rest instructions",
+    "note_id": "N-B029"
+  },
+  {
+    "pairs": [
+      "LCK-000073"
+    ],
+    "tibetan": "བདེ་སྟོང་",
+    "canonical_entry": "Related expressions only; standalone/compound absent",
+    "english": "bliss-emptiness",
+    "category": "Provisional",
+    "condition": "Only these rest instructions",
+    "note_id": "N-B029"
+  },
+  {
+    "pairs": [
+      "LCK-000074"
+    ],
+    "tibetan": "རྣམ་པར་རྟོག་པ་",
+    "canonical_entry": "རྣམ་རྟོག་ → Differentiating conceptualization",
+    "english": "differentiating conceptualization",
+    "category": "Grammatical",
+    "condition": "Expanded construction paired with contracted form on preceding line",
+    "note_id": "N-B030"
+  },
+  {
+    "pairs": [
+      "LCK-000052",
+      "LCK-000054",
+      "LCK-000067",
+      "LCK-000068"
+    ],
+    "tibetan": "ཝལ་གྱིས་",
+    "canonical_entry": "ཝལ་གྱིས་ → Vividly clear",
+    "english": "with vivid clarity",
+    "category": "Grammatical",
+    "condition": "Adverbial realization preserving vivid and clear lexical components",
+    "note_id": null
+  },
+  {
+    "pairs": [
+      "LCK-000042",
+      "LCK-000051",
+      "LCK-000067",
+      "LCK-000074"
+    ],
+    "tibetan": "སྐྱེ་མེད་",
+    "canonical_entry": "སྐྱེ་བ་མེད་པ་ → Non-arising",
+    "english": "non-arising",
+    "category": "Grammatical",
+    "condition": "Contracted negative nominal form",
+    "note_id": null
+  },
+  {
+    "pairs": [
+      "LCK-000051",
+      "LCK-000069"
+    ],
+    "tibetan": "གནས་པ་མེད་པ་",
+    "canonical_entry": "གནས་པ་ → Abiding",
+    "english": "non-abiding / no abiding",
+    "category": "Grammatical",
+    "condition": "Negation of established abiding; no new lexical substitute",
+    "note_id": null
+  },
+  {
+    "pairs": [
+      "LCK-000055",
+      "LCK-000067",
+      "LCK-000071",
+      "LCK-000074"
+    ],
+    "tibetan": "སེམས་ཉིད་",
+    "canonical_entry": "སེམས་ → Ordinary mind",
+    "english": "ordinary mind itself",
+    "category": "Grammatical",
+    "condition": "Emphatic ཉིད་ without deleting ordinary component",
+    "note_id": null
+  },
+  {
+    "pairs": [
+      "LCK-000053"
+    ],
+    "tibetan": "ངོས་ནི་ཟིན་པར་",
+    "canonical_entry": "Related proposed ངོས་གཟུང་; not ངོ་ཤེས་ → Recognizing",
+    "english": "has been identified",
+    "category": "Provisional",
+    "condition": "Resultative identification of the four embodiments at L0265",
+    "note_id": "N-B022"
+  },
+  {
+    "pairs": [
+      "LCK-000051",
+      "LCK-000057"
+    ],
+    "tibetan": "ཀུན་རྫོབ་",
+    "canonical_entry": "No whole entry; conventional designation does not imply nonexistence",
+    "english": "conventional",
+    "category": "Provisional",
+    "condition": "Only L0258/L0283; adverb conventionally",
+    "note_id": "N-B031"
+  },
+  {
+    "pairs": [
+      "LCK-000051",
+      "LCK-000057"
+    ],
+    "tibetan": "སྒྱུ་མ་",
+    "canonical_entry": "སྒྱུ་མའི་དཔེ་བརྒྱད་ → Eight examples of illusion",
+    "english": "illusion",
+    "category": "Provisional",
+    "condition": "Only L0258/L0283",
+    "note_id": "N-B031"
+  },
+  {
+    "pairs": [
+      "LCK-000040"
+    ],
+    "tibetan": "ཆོས་",
+    "canonical_entry": "ཆོས་སྐུ་ → Dharma embodiment; other compounds use phenomena",
+    "english": "Dharma",
+    "category": "Provisional",
+    "condition": "L0201, object of independent mastery; separate usage from phenomena",
+    "note_id": "N-B031"
+  },
+  {
+    "pairs": [
+      "LCK-000041",
+      "LCK-000056",
+      "LCK-000074"
+    ],
+    "tibetan": "ཆོས་རྣམས་",
+    "canonical_entry": "Related ཆོས་ཉིད་ → Nature of phenomena; standalone absent",
+    "english": "phenomena",
+    "category": "Provisional",
+    "condition": "Plural phenomena in L0205/L0276/L0383, not Dharma teachings",
+    "note_id": "N-B031"
+  },
+  {
+    "pairs": [
+      "LCK-000044",
+      "LCK-000063"
+    ],
+    "tibetan": "སྤྱི་དོན་",
+    "canonical_entry": "དོན་ → Meaning; distinguish དོན་སྤྱི་ → Meaning generalization",
+    "english": "general meaning",
+    "category": "Provisional",
+    "condition": "Source’s numbered topic headings",
+    "note_id": "N-B032"
+  },
+  {
+    "pairs": [
+      "LCK-000046"
+    ],
+    "tibetan": "ལྷན་ཅིག་སྐྱེས་",
+    "canonical_entry": "Related ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ་ → Co-emergent ignorance",
+    "english": "coemergent",
+    "category": "Provisional",
+    "condition": "Irregular assertion at L0238 only; do not silently replace by generating an aspiration",
+    "note_id": "N-B004"
+  },
+  {
+    "pairs": [
+      "LCK-000075"
+    ],
+    "tibetan": "ལུང་མ་བསྟན་",
+    "canonical_entry": "ལུང་མ་བསྟན་ → stagnant neutrality",
+    "english": "ethically indeterminate",
+    "category": "Provisional",
+    "condition": "Third member of virtue/nonvirtue ethical classification only.",
+    "note_id": "N-C002"
+  },
+  {
+    "pairs": [
+      "LCK-000077",
+      "LCK-000080",
+      "LCK-000088",
+      "LCK-000096"
+    ],
+    "tibetan": "སེམས་ཉིད་",
+    "canonical_entry": "སེམས་ → ordinary mind; compound absent",
+    "english": "ordinary mind itself",
+    "category": "Provisional",
+    "condition": "Retains the established ordinary mind component; force of nyid documented locally.",
+    "note_id": "N-C005"
+  },
+  {
+    "pairs": [
+      "LCK-000077",
+      "LCK-000090",
+      "LCK-000096"
+    ],
+    "tibetan": "སྐྱེ་མེད་",
+    "canonical_entry": "སྐྱེ་བ་མེད་པ་ → non-arising",
+    "english": "non-arising",
+    "category": "Grammatical",
+    "condition": "Contracted form; L0489 has duplicated vowel covered by N-C001.",
+    "note_id": "N-C005"
+  },
+  {
+    "pairs": [
+      "LCK-000082",
+      "LCK-000106"
+    ],
+    "tibetan": "རྒྱུད་",
+    "canonical_entry": "རྒྱུད་ → continuum",
+    "english": "tantras",
+    "category": "Provisional",
+    "condition": "Citation of literary texts, not an experiential or causal continuum.",
+    "note_id": "N-C010"
+  },
+  {
+    "pairs": [
+      "LCK-000083"
+    ],
+    "tibetan": "ལྷན་ཅིག་སྐྱེས་པའི་རྣམ་ཤེས་",
+    "canonical_entry": "རྣམ་ཤེས་ → consciousness; related co-emergent ignorance",
+    "english": "coemergent consciousness",
+    "category": "Provisional",
+    "condition": "Consciousness explicitly qualified as coemergent; the ignorance compound is not substituted.",
+    "note_id": "N-C012"
+  },
+  {
+    "pairs": [
+      "LCK-000083"
+    ],
+    "tibetan": "ངེེས་ཤེས་",
+    "canonical_entry": "No complete entry; ཤེས་པ་ → knowing",
+    "english": "certain knowing",
+    "category": "Provisional",
+    "condition": "Certainty arising as answer to the preceding question; raw repeated vowel retained.",
+    "note_id": "N-C012"
+  },
+  {
+    "pairs": [
+      "LCK-000083"
+    ],
+    "tibetan": "སྙིང་པོ་",
+    "canonical_entry": "Absent; ངོ་བོ་ → essence remains distinct",
+    "english": "core",
+    "category": "Provisional",
+    "condition": "What experiential acquaintance allows one to see in the cited song.",
+    "note_id": "N-C012"
+  },
+  {
+    "pairs": [
+      "LCK-000083"
+    ],
+    "tibetan": "ཉམས་སུ་མྱོང་",
+    "canonical_entry": "ཉམས་མྱོང་ → experiential acquaintance",
+    "english": "have experiential acquaintance with",
+    "category": "Grammatical",
+    "condition": "Verbal construction retains the established compound, without reducing it to experience.",
+    "note_id": "N-C012"
+  },
+  {
+    "pairs": [
+      "LCK-000084"
+    ],
+    "tibetan": "འབྲས་བུ་",
+    "canonical_entry": "འབྲས་བུ་ → result",
+    "english": "fruit",
+    "category": "Provisional",
+    "condition": "Concrete fruit analogy only; the referent smṛta is unidentified.",
+    "note_id": "N-C013"
+  },
+  {
+    "pairs": [
+      "LCK-000084",
+      "LCK-000092"
+    ],
+    "tibetan": "བླ་མ་",
+    "canonical_entry": "Standalone absent; related བླ་མའི་རྣལ་འབྱོར་ → Guru Yoga",
+    "english": "teacher",
+    "category": "Provisional",
+    "condition": "Human teacher attribution in the shared working translation.",
+    "note_id": "N-C028"
+  },
+  {
+    "pairs": [
+      "LCK-000081",
+      "LCK-000084",
+      "LCK-000090"
+    ],
+    "tibetan": "ཉོན་མོངས་",
+    "canonical_entry": "Absent",
+    "english": "afflictions; afflicted",
+    "category": "Provisional",
+    "condition": "Afflictions identified with primordial knowing; adjectival realization at L0427 and duplicated vowel at L0447.",
+    "note_id": "N-C029"
+  },
+  {
+    "pairs": [
+      "LCK-000081",
+      "LCK-000098"
+    ],
+    "tibetan": "འཁོར་བ་",
+    "canonical_entry": "Absent",
+    "english": "samsara",
+    "category": "Provisional",
+    "condition": "The afflictive condition and bondage described in these two verses.",
+    "note_id": "N-C029"
+  },
+  {
+    "pairs": [
+      "LCK-000089",
+      "LCK-000104",
+      "LCK-000105",
+      "LCK-000109"
+    ],
+    "tibetan": "སེམས་ཅན་",
+    "canonical_entry": "Whole expression absent; སེམས་ → ordinary mind",
+    "english": "sentient beings",
+    "category": "Provisional",
+    "condition": "Lexicalized class of beings; no exception for standalone ordinary mind.",
+    "note_id": "N-C030"
+  },
+  {
+    "pairs": [
+      "LCK-000080",
+      "LCK-000086",
+      "LCK-000091",
+      "LCK-000096",
+      "LCK-000098"
+    ],
+    "tibetan": "བདེ་",
+    "canonical_entry": "Absent; linked clarity, emptiness, and non-conceptuality entries",
+    "english": "bliss; great bliss",
+    "category": "Provisional",
+    "condition": "Repeated experiential terminology; བདེ་ཆེན་ rendered great bliss at L0422.",
+    "note_id": "N-C031"
+  },
+  {
+    "pairs": [
+      "LCK-000086"
+    ],
+    "tibetan": "བདེ་གསལ་སྟོང་",
+    "canonical_entry": "གསལ་སྟོང་ → clarity-emptiness; bliss proposed",
+    "english": "bliss and clarity-emptiness",
+    "category": "Provisional",
+    "condition": "Whole-expression precedence retained; possible three-member list remains flagged.",
+    "note_id": "N-C031"
+  },
+  {
+    "pairs": [
+      "LCK-000093",
+      "LCK-000102"
+    ],
+    "tibetan": "རོ་གཅིག་",
+    "canonical_entry": "Absent",
+    "english": "one taste",
+    "category": "Provisional",
+    "condition": "Union of view/cultivation and the listed yoga/result.",
+    "note_id": "N-C032"
+  },
+  {
+    "pairs": [
+      "LCK-000099",
+      "LCK-000108",
+      "LCK-000110"
+    ],
+    "tibetan": "ལྷན་ཅིག་སྐྱེས་སྦྱོར་",
+    "canonical_entry": "Whole expression absent",
+    "english": "coemergent joining",
+    "category": "Provisional",
+    "condition": "Name of the instruction system and text; shared draft title choice.",
+    "note_id": "N-C032"
+  },
+  {
+    "pairs": [
+      "LCK-000104"
+    ],
+    "tibetan": "གཟུགས་སྐུ་",
+    "canonical_entry": "Absent; སྐུ་ → embodiment",
+    "english": "form embodiment",
+    "category": "Provisional",
+    "condition": "Embodiments appearing for those to be trained and benefiting sentient beings.",
+    "note_id": "N-C033"
+  },
+  {
+    "pairs": [
+      "LCK-000105"
+    ],
+    "tibetan": "ལོངས་སྐུ་",
+    "canonical_entry": "ལོངས་སྤྱོད་རྫོགས་སྐུ་ → complete enjoyment embodiment",
+    "english": "complete enjoyment embodiment",
+    "category": "Grammatical",
+    "condition": "Contracted Tibetan form linked to the established whole expression.",
+    "note_id": "N-C033"
+  },
+  {
+    "pairs": [
+      "LCK-000105"
+    ],
+    "tibetan": "སྤྲུལ་སྐུ་",
+    "canonical_entry": "སྤྲུལ་པའི་སྐུ་ → emanation embodiment",
+    "english": "emanation embodiment",
+    "category": "Grammatical",
+    "condition": "Contracted Tibetan form linked to the established whole expression.",
+    "note_id": "N-C033"
+  },
+  {
+    "pairs": [
+      "LCK-000094"
+    ],
+    "tibetan": "ཏིང་འཛིན་",
+    "canonical_entry": "ཏིང་ངེ་འཛིན་ → deep absorption",
+    "english": "deep absorption",
+    "category": "Grammatical",
+    "condition": "Contracted Tibetan form.",
+    "note_id": "N-C021"
+  },
+  {
+    "pairs": [
+      "LCK-000094"
+    ],
+    "tibetan": "མངོན་པར་ཤེས་པ་",
+    "canonical_entry": "Absent; ཤེས་པ་ → knowing",
+    "english": "supernormal knowing",
+    "category": "Provisional",
+    "condition": "Benefit occurring alongside seeing buddha fields; does not replace direct perception.",
+    "note_id": "N-C021"
+  },
+  {
+    "pairs": [
+      "LCK-000087",
+      "LCK-000088"
+    ],
+    "tibetan": "ཕྲད་འཇོམས་",
+    "canonical_entry": "Absent",
+    "english": "overcoming upon encounter",
+    "category": "Provisional",
+    "condition": "Repeated label of the first and second experiential examples; second raw form has duplicated vowel.",
+    "note_id": "N-C016"
+  },
+  {
+    "pairs": [
+      "LCK-000090"
+    ],
+    "tibetan": "མེ་སྤྲུལ་",
+    "canonical_entry": "Absent; related emanation-embodiment entry",
+    "english": "fire emanation",
+    "category": "Provisional",
+    "condition": "Literal supplied experience label only.",
+    "note_id": "N-C018"
+  },
+  {
+    "pairs": [
+      "LCK-000108"
+    ],
+    "tibetan": "གདམས་ངག་",
+    "canonical_entry": "Absent",
+    "english": "pith instructions",
+    "category": "Provisional",
+    "condition": "Composition/request-for-forgiveness context.",
+    "note_id": "N-C034"
+  },
+  {
+    "pairs": [
+      "LCK-000108"
+    ],
+    "tibetan": "མཁའ་འགྲོ་",
+    "canonical_entry": "Absent",
+    "english": "dakini",
+    "category": "Provisional",
+    "condition": "Composition/request-for-forgiveness context.",
+    "note_id": "N-C034"
+  },
+  {
+    "pairs": [
+      "LCK-000108"
+    ],
+    "tibetan": "ཆོས་སྐྱོང་",
+    "canonical_entry": "Absent",
+    "english": "dharma protector",
+    "category": "Provisional",
+    "condition": "Composition/request-for-forgiveness context.",
+    "note_id": "N-C034"
+  },
+  {
+    "pairs": [
+      "LCK-000100"
+    ],
+    "tibetan": "བོགས་དོན་",
+    "canonical_entry": "Absent",
+    "english": "enhancement",
+    "category": "Provisional",
+    "condition": "Heading-like verse introducing enhanced activity and its result; source spelling uncertain.",
+    "note_id": "N-C035"
+  },
+  {
+    "pairs": [
+      "LCK-000101"
+    ],
+    "tibetan": "གཟའ་གཏད་",
+    "canonical_entry": "Absent",
+    "english": "fixed aim",
+    "category": "Provisional",
+    "condition": "Negated quality in the activity-simile sequence.",
+    "note_id": "N-C035"
+  },
+  {
+    "pairs": [
+      "LCK-000101"
+    ],
+    "tibetan": "ཚུལ་ཆོས་",
+    "canonical_entry": "Absent",
+    "english": "religious pretense",
+    "category": "Provisional",
+    "condition": "Negated quality in the activity-simile sequence.",
+    "note_id": "N-C035"
+  },
+  {
+    "pairs": [
+      "LCK-000090",
+      "LCK-000101"
+    ],
+    "tibetan": "བླང་དོར་",
+    "canonical_entry": "Related སྤང་བླང་ → rejecting and accepting",
+    "english": "accepting and rejecting",
+    "category": "Provisional",
+    "condition": "Different complete pair; source order accepting then rejecting retained.",
+    "note_id": "N-C036"
+  },
+  {
+    "pairs": [
+      "LCK-000075"
+    ],
+    "tibetan": "སྐུ་དྲིན་",
+    "canonical_entry": "Whole expression absent; standalone སྐུ་ → embodiment",
+    "english": "kindness",
+    "category": "Provisional",
+    "condition": "Lexicalized honorific expression for treating arising conceptualization as beneficial.",
+    "note_id": "N-C036"
+  },
+  {
+    "pairs": [
+      "LCK-000094"
+    ],
+    "tibetan": "བདུད་",
+    "canonical_entry": "No complete entry",
+    "english": "māra",
+    "category": "Provisional",
+    "condition": "Local technical expression, without substituting a component-level canonical term.",
+    "note_id": "N-C037"
+  },
+  {
+    "pairs": [
+      "LCK-000096"
+    ],
+    "tibetan": "སེང་ངེ་",
+    "canonical_entry": "No complete entry",
+    "english": "lucidly",
+    "category": "Provisional",
+    "condition": "Local technical expression, without substituting a component-level canonical term.",
+    "note_id": "N-C037"
+  },
+  {
+    "pairs": [
+      "LCK-000106"
+    ],
+    "tibetan": "ཡིད་བཞིན་ནོར་བུ་",
+    "canonical_entry": "No complete entry",
+    "english": "wish-fulfilling jewel",
+    "category": "Provisional",
+    "condition": "Local technical expression, without substituting a component-level canonical term.",
+    "note_id": "N-C037"
+  },
+  {
+    "pairs": [
+      "LCK-000104"
+    ],
+    "tibetan": "དོན་བྱེད་",
+    "canonical_entry": "དོན་ → meaning",
+    "english": "act for the benefit",
+    "category": "Provisional",
+    "condition": "Explicit benefit/purpose construction with sentient beings or oneself and others.",
+    "note_id": "N-C037"
+  },
+  {
+    "pairs": [
+      "LCK-000105"
+    ],
+    "tibetan": "དོན་མཛད་",
+    "canonical_entry": "དོན་ → meaning",
+    "english": "act for the benefit",
+    "category": "Provisional",
+    "condition": "Explicit benefit/purpose construction with sentient beings or oneself and others.",
+    "note_id": "N-C037"
+  },
+  {
+    "pairs": [
+      "LCK-000108"
+    ],
+    "tibetan": "དོན་དུ་",
+    "canonical_entry": "དོན་ → meaning",
+    "english": "for the benefit",
+    "category": "Provisional",
+    "condition": "Explicit benefit/purpose construction with sentient beings or oneself and others.",
+    "note_id": "N-C037"
+  },
+  {
+    "pairs": [
+      "LCK-000104"
+    ],
+    "tibetan": "རང་བྱུང་",
+    "canonical_entry": "Related རང་བྱུང་ཡེ་ཤེས་ → naturally arising primordial knowing",
+    "english": "naturally arising",
+    "category": "Provisional",
+    "condition": "Epithet before Shakyamuni; not an inferred historical claim and not the self-arising entry for རང་ཤར་.",
+    "note_id": "N-C026"
+  },
+  {
+    "pairs": [
+      "LCK-000076",
+      "LCK-000078"
+    ],
+    "tibetan": "ཝལ་གྱིས་",
+    "canonical_entry": "ཝལ་གྱིས་ → vividly clear",
+    "english": "vividly and clearly",
+    "category": "Grammatical",
+    "condition": "Adverbial realization of the established expression modifying know; not a new synonym.",
+    "note_id": "N-C004"
+  },
+  {
+    "pairs": [
+      "LCK-000099"
+    ],
+    "tibetan": "གཞི་",
+    "canonical_entry": "གཞི་ → The Ground",
+    "english": "the Ground",
+    "category": "Provisional",
+    "condition": "Lexical identity retained; internal capitalization unresolved and recorded once.",
+    "note_id": "N-C023"
+  },
+  {
+    "pairs": [
+      "LCK-000099"
+    ],
+    "tibetan": "མ་ལུས་",
+    "canonical_entry": "No separate entry",
+    "english": "does not remain",
+    "category": "Provisional",
+    "condition": "Contextual remaining-on-basis/experience construction; L0540 conjecturally interprets མོ་ as མ་.",
+    "note_id": "N-C023"
+  },
+  {
+    "pairs": [
+      "LCK-000091",
+      "LCK-000096"
+    ],
+    "tibetan": "མི་རྟོག་",
+    "canonical_entry": "མི་རྟོག་པ་ → non-conceptuality",
+    "english": "non-conceptuality",
+    "category": "Grammatical",
+    "condition": "Contracted form in bliss/clarity/non-conceptuality list.",
+    "note_id": "N-C031"
+  },
+  {
+    "pairs": [
+      "LCK-000102"
+    ],
+    "tibetan": "བསྒོམ་མེད་",
+    "canonical_entry": "སྒོམ་མེད་ → non-cultivation",
+    "english": "non-cultivation",
+    "category": "Grammatical",
+    "condition": "Prefix variant in the four-yoga sequence; cultivation family preserved.",
+    "note_id": "N-C025"
+  },
+  {
+    "pairs": [
+      "LCK-000082"
+    ],
+    "tibetan": "སྲེད་པ་",
+    "canonical_entry": "No complete entry; related: ཞེན་པ་; ཉོན་མོངས་",
+    "english": "craving",
+    "category": "Provisional",
+    "condition": "Local technical expression at L0436; preserve related established terms.",
+    "note_id": "N-C038"
+  },
+  {
+    "pairs": [
+      "LCK-000084"
+    ],
+    "tibetan": "གཉེན་པོ་",
+    "canonical_entry": "No complete entry; related: ཉོན་མོངས་",
+    "english": "antidote",
+    "category": "Provisional",
+    "condition": "Local technical expression at L0448; preserve related established terms.",
+    "note_id": "N-C038"
+  },
+  {
+    "pairs": [
+      "LCK-000093"
+    ],
+    "tibetan": "མཚན་མ་",
+    "canonical_entry": "No complete entry; related: རང་མཚན་",
+    "english": "marks",
+    "category": "Provisional",
+    "condition": "Local technical expression at L0509; preserve related established terms.",
+    "note_id": "N-C038"
+  },
+  {
+    "pairs": [
+      "LCK-000104"
+    ],
+    "tibetan": "མཚན་དང་དཔེ་བྱད་",
+    "canonical_entry": "No complete entry; related: མཚན་མ་",
+    "english": "major and minor marks",
+    "category": "Provisional",
+    "condition": "Local technical expression at L0566; preserve related established terms.",
+    "note_id": "N-C038"
+  },
+  {
+    "pairs": [
+      "LCK-000106"
+    ],
+    "tibetan": "དཔག་བསམ་ཤིང་ཆེན་",
+    "canonical_entry": "No complete entry; related: ཡིད་བཞིན་ནོར་བུ་",
+    "english": "great wish-fulfilling tree",
+    "category": "Provisional",
+    "condition": "Local technical expression at L0573; preserve related established terms.",
+    "note_id": "N-C038"
+  }
+]

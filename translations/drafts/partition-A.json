@@ -1,0 +1,2108 @@
+{
+  "run_header": {
+    "task": "TRANSLATE",
+    "scope": "LCK-000001–LCK-000039 / L0001–L0191",
+    "source_edition": "provisional-source-v1",
+    "pinned_commit": "24afcc6effb10bb132ffb4a620b191fa0de09b6d",
+    "standard": "tibetan_translation_standard_v2.md Part I",
+    "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "review_mode": "translator self-check, not independent QC",
+    "context_read": "all 589 raw lines read during source audit; neighboring pairs40–41 read before translation",
+    "limitations": "no physical witness; textual conjectures and new terminology remain explicitly provisional"
+  },
+  "pairs": [
+    {
+      "id": "LCK-000001",
+      "translation": "First. Here is the text entitled Coemergent Joining. [N-A001](../translations/NOTES.md#n-a001)"
+    },
+    {
+      "id": "LCK-000002",
+      "translation": "I prostrate to the precious teachers. [N-A002](../translations/NOTES.md#n-a002)"
+    },
+    {
+      "id": "LCK-000003",
+      "translation": "Though never stirring from the basic space of intrinsic nature,\nto act for the benefit of beings through compassionate responsiveness,\nyou came as an emanation embodiment, like a rainbow.\nTo Varahi of Uddiyana I prostrate. [N-A003](../translations/NOTES.md#n-a003)"
+    },
+    {
+      "id": "LCK-000004",
+      "translation": "Blessed in person by Varahi,\nyou attained accomplishment after cultivating for one session,\nand brought the dakinis under your power.\nTo Lavapa I prostrate and offer praise. [N-A004](../translations/NOTES.md#n-a004)"
+    },
+    {
+      "id": "LCK-000005",
+      "translation": "Rakshita, [recipient of] his blessing;\nLhodrakpa, who held his lineage;\nGungthangpa, [recipient of] his blessing;\nthe one who became Mila's son of the heart,\nthe fully qualified lord, the precious teacher:\nto the teachers of the lineage I prostrate. [N-A002](../translations/NOTES.md#n-a002) [N-A005](../translations/NOTES.md#n-a005) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000006",
+      "translation": "Fearing that I myself might forget,\nand to benefit a few fortunate people,\nfollowing the lord's spoken words,\nI shall write the pith instructions on coemergent joining. [N-A001](../translations/NOTES.md#n-a001) [N-A006](../translations/NOTES.md#n-a006) [N-A007](../translations/NOTES.md#n-a007)"
+    },
+    {
+      "id": "LCK-000007",
+      "translation": "Concerning these pith instructions on coemergent joining,\nthe lord spoke these words:\n“All the learned, the disciplined, and teachers of cultivation\nsay that this very Dharma is profound.” [N-A001](../translations/NOTES.md#n-a001) [N-A007](../translations/NOTES.md#n-a007) [N-A008](../translations/NOTES.md#n-a008) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000008",
+      "translation": "Differentiating conceptualization and afflictions—\nbecause it disciplines them all, it is Discipline. [N-A009](../translations/NOTES.md#n-a009) [N-A010](../translations/NOTES.md#n-a010)"
+    },
+    {
+      "id": "LCK-000009",
+      "translation": "That differentiating conceptualization is Dharma embodiment—\nit is the basis for arousing certain knowing of this;\nand because it cuts superimposition within,\nthese are pith instructions on valid cognition. [N-A007](../translations/NOTES.md#n-a007) [N-A010](../translations/NOTES.md#n-a010) [N-A011](../translations/NOTES.md#n-a011)"
+    },
+    {
+      "id": "LCK-000010",
+      "translation": "Eternalism, annihilationism, superimposition, and denigration:\nfree from such extremes, it is the Middle Way. [N-A010](../translations/NOTES.md#n-a010) [N-A012](../translations/NOTES.md#n-a012)"
+    },
+    {
+      "id": "LCK-000011",
+      "translation": "Since it cannot be spoken, thought, or expressed,\nthese are pith instructions on perfection. [N-A007](../translations/NOTES.md#n-a007) [N-A010](../translations/NOTES.md#n-a010)"
+    },
+    {
+      "id": "LCK-000012",
+      "translation": "The phenomena of samsara and nirvana\nare complete within ordinary mind: thus it is the Great Perfection. [N-A010](../translations/NOTES.md#n-a010) [N-A013](../translations/NOTES.md#n-a013)"
+    },
+    {
+      "id": "LCK-000013",
+      "translation": "Good conceptualizing and bad conceptualizing, all of it—\nnot engaging the mental faculty with it is Mahamudra. [N-A014](../translations/NOTES.md#n-a014)"
+    },
+    {
+      "id": "LCK-000014",
+      "translation": "Because it pacifies suffering, it is Pacification. [N-A010](../translations/NOTES.md#n-a010)"
+    },
+    {
+      "id": "LCK-000015",
+      "translation": "All afflictions and differentiating conceptualization—\nbecause it raises them onto the path, it is Secret Mantra. [N-A009](../translations/NOTES.md#n-a009) [N-A010](../translations/NOTES.md#n-a010)"
+    },
+    {
+      "id": "LCK-000016",
+      "translation": "Ordinary mind, differentiating conceptualization, and Dharma embodiment:\nthese three are coemergent from the beginning;\nbecause the pith instruction joins them in ordinary mind,\nit is explained as “coemergent joining.” [N-A001](../translations/NOTES.md#n-a001) [N-A007](../translations/NOTES.md#n-a007)"
+    },
+    {
+      "id": "LCK-000017",
+      "translation": "As for spirits, maras, and the like,\nhe said, it is also mantra against their obstacles. [N-A015](../translations/NOTES.md#n-a015)"
+    },
+    {
+      "id": "LCK-000018",
+      "translation": "Its meanings are summarized in six:\nthe teacher and the student,\nputting on armor, the three kinds of discerning knowing,\nexperience, and benefits and results:\nit is explained through these six meanings. [N-A002](../translations/NOTES.md#n-a002) [N-A016](../translations/NOTES.md#n-a016)"
+    },
+    {
+      "id": "LCK-000019",
+      "translation": "First, the qualifications of the student:\nthe venerable one spoke of two aspects,\nthose to reject and those to accept. [N-A017](../translations/NOTES.md#n-a017) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000020",
+      "translation": "Those to reject also have four aspects:\nclinging at the time of the cause;\nat the time of the dominant [condition], being taken in by a misguided spiritual friend;\nat the time of the object of focus, delusion;\nand at the time of the immediate [condition],\nfalling into the two: hope and fear. [N-A018](../translations/NOTES.md#n-a018) [N-A019](../translations/NOTES.md#n-a019)"
+    },
+    {
+      "id": "LCK-000021",
+      "translation": "First, clinging at the time of the cause:\nthese manifold appearances of all that appears and exists,\nlike wealth and food in dreams,\nare empty in their very appearance.\nFailing to know that they are empty,\none takes food, wealth, and possessions,\nsons, daughters, and wives,\nthrough attachment to desirable objects,\nto be permanent and real,\nclinging to things as real. [N-A020](../translations/NOTES.md#n-a020)"
+    },
+    {
+      "id": "LCK-000022",
+      "translation": "One does not remember the Dharma for the next life,\nand becomes intoxicated by the poison of desire.\nBound tightly by attachment and aversion,\none wanders in the three realms of samsara.\nThis is clinging at the time of the cause:\nit is the first [type] to reject. [N-A013](../translations/NOTES.md#n-a013) [N-A021](../translations/NOTES.md#n-a021) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000023",
+      "translation": "A certain individual, the supporting basis,\nrelies on a teacher versed in terminology\nfor years and months.\nAll the pith instructions on cultivation\nare disparaged as having many ways to go astray.\nOnly the qualities of learning are discussed;\nwith phrases, terminology, and words,\nonly what is marked by characteristics is taught.\nIf this becomes nothing but learning, [N-A007](../translations/NOTES.md#n-a007) [N-A022](../translations/NOTES.md#n-a022)"
+    },
+    {
+      "id": "LCK-000024",
+      "translation": "the afflictions are not brought under control;\nonly the eight worldly concerns are pursued,\nand one wanders in samsara for a long time.\nBeing taken in by a misguided spiritual friend:\nthis is held to be the second [type] to reject. [N-A009](../translations/NOTES.md#n-a009) [N-A013](../translations/NOTES.md#n-a013) [N-A019](../translations/NOTES.md#n-a019) [N-A023](../translations/NOTES.md#n-a023) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000025",
+      "translation": "When it comes to knowing differentiating conceptualization as Dharma embodiment,\nto reject differentiating conceptualization\nand cultivate non-conceptual primordial knowing\nis to seek Dharma embodiment elsewhere.\nThis is delusion in the condition of the object of focus,\nsaid to be the third [type] to reject. [N-A018](../translations/NOTES.md#n-a018) [N-A024](../translations/NOTES.md#n-a024) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000026",
+      "translation": "A certain excellent person,\nwith view, activity, and cultivation—\nthrough the blessing of putting these into practice—\nhopes to attain buddhahood;\nif buddhahood is not attained,\nfears falling into hell.\nAt the time of the immediate condition,\none falls into the two: hope and fear.\nWith the mental faculty thus divided,\nthis is considered the fourth [type] to reject. [N-A018](../translations/NOTES.md#n-a018) [N-A024](../translations/NOTES.md#n-a024) [N-A025](../translations/NOTES.md#n-a025) [N-A026](../translations/NOTES.md#n-a026) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000027",
+      "translation": "For reliance on a qualified student,\nthe teacher spoke of four subdivisions:\nnot clinging at the time of the cause;\nat the time of the dominant condition,\nbeing taken in hand by a spiritual friend;\nno delusion in the condition of the object of focus;\nand at the time of the immediate [condition],\nfreedom from the two: hope and fear. [N-A002](../translations/NOTES.md#n-a002) [N-A018](../translations/NOTES.md#n-a018) [N-A019](../translations/NOTES.md#n-a019) [N-A027](../translations/NOTES.md#n-a027) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000028",
+      "translation": "First, a certain individual\nunderstands attendants, material things, and possessions,\nsons, daughters, and wives—\nin brief, everything seen and heard without exception—\nto be like an illusion.\nRegarding all that appears as things,\nneither taking them as real nor clinging apprehension arises.\nDisenchanted with the phenomena of samsara,\none seeks pith instructions with faith and devotion.\nThis one, [not clinging] at the time of the cause,\nis the first student to be accepted. [N-A007](../translations/NOTES.md#n-a007) [N-A013](../translations/NOTES.md#n-a013) [N-A028](../translations/NOTES.md#n-a028) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000029",
+      "translation": "A person endowed with [faith and devotion]\ngoes to an excellent person,\nis taught pith instructions on Dharma embodiment free of characteristics,\nand understands that phenomena are without concrete existence.\nAt the time of the dominant condition,\nthis is being taken in hand by a spiritual friend:\nthis is the second qualified [student]. [N-A007](../translations/NOTES.md#n-a007) [N-A018](../translations/NOTES.md#n-a018) [N-A019](../translations/NOTES.md#n-a019) [N-A029](../translations/NOTES.md#n-a029) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000030",
+      "translation": "A certain excellent person\nhas thoroughly received the teacher's pith instructions,\nrecognizes conceptual thought as ordinary mind,\nand does not reject differentiating conceptualization;\none knows it to be Dharma embodiment itself.\nUnderstanding conceptual thought's great kindness,\none carries conceptual thought onto the path:\nthere is no delusion at the time of the condition of the object of focus.\nThis is the third qualified student. [N-A002](../translations/NOTES.md#n-a002) [N-A007](../translations/NOTES.md#n-a007) [N-A018](../translations/NOTES.md#n-a018) [N-A024](../translations/NOTES.md#n-a024) [N-A030](../translations/NOTES.md#n-a030)"
+    },
+    {
+      "id": "LCK-000031",
+      "translation": "As differentiating conceptualization dissolves into Dharma embodiment,\none has no hope for buddhahood as good,\nand no fear of samsara as bad.\nKnowing them in their evenness,\nat the time of the immediate condition,\none is free from the two: hope and fear.\nThis is the fourth qualification for acceptance. [N-A013](../translations/NOTES.md#n-a013) [N-A018](../translations/NOTES.md#n-a018) [N-A025](../translations/NOTES.md#n-a025) [N-A031](../translations/NOTES.md#n-a031) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000032",
+      "translation": "Thus the qualifications of the student have been shown."
+    },
+    {
+      "id": "LCK-000033",
+      "translation": "A student with those qualifications\nmust rely on a good teacher.\nSecond, the qualifications of the teacher:\nthere are four aspects of teachers as well:\na person who is a spiritual friend,\nthe teachings, appearance, and awareness. [N-A002](../translations/NOTES.md#n-a002) [N-A019](../translations/NOTES.md#n-a019) [N-A032](../translations/NOTES.md#n-a032) [N-A039](../translations/NOTES.md#n-a039)"
+    },
+    {
+      "id": "LCK-000034",
+      "translation": "First, the personal spiritual friend:\nable to bring clarity, able to transform adverse circumstances,\nundeluded, and able to open up discerning knowing—\nthese qualifications are stated in four aspects. [N-A002](../translations/NOTES.md#n-a002) [N-A019](../translations/NOTES.md#n-a019) [N-A033](../translations/NOTES.md#n-a033) [N-A034](../translations/NOTES.md#n-a034) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000035",
+      "translation": "Whatever bad conceptualizing arises in an individual,\none transforms it into an aid to cultivation\nand can restore the student's experiential acquaintance:\nthis is the teacher “able to offer supplication.” [N-A002](../translations/NOTES.md#n-a002) [N-A033](../translations/NOTES.md#n-a033) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000036",
+      "translation": "The five deeds with immediate consequences and the ten nonvirtues,\nbroken vows and samaya, and the like,\nare at odds with one's spiritual family and continuum.\nThough such adverse circumstances of many kinds arise,\nwithout [giving way to] intolerance for even an instant,\none knows these to be conceptual thought;\nrecognizing conceptual thought as ordinary mind,\none can transform ordinary mind itself into the four embodiments.\nThis is the teacher able to transform adverse circumstances. [N-A002](../translations/NOTES.md#n-a002) [N-A034](../translations/NOTES.md#n-a034) [N-A035](../translations/NOTES.md#n-a035) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000037",
+      "translation": "When differentiating conceptualization arises,\none knows it as one's own teacher with vivid clarity,\nand understands conceptual thought to be kind.\nDharma embodiment and differentiating conceptualization\nare not in the least different:\nwhen this firm, certain knowing arises,\nthat is my undeluded teacher. [N-A002](../translations/NOTES.md#n-a002) [N-A024](../translations/NOTES.md#n-a024) [N-A030](../translations/NOTES.md#n-a030) [N-A034](../translations/NOTES.md#n-a034) [N-A036](../translations/NOTES.md#n-a036) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000038",
+      "translation": "Differentiating conceptualization is known as ordinary mind,\nand ordinary mind itself is known as non-arising.\nThere is no differentiating conceptualization to reject,\nand no non-conceptual primordial knowing to accomplish.\nThese diverse appearances of conceptual thought,\nlike salt added to water,\nare nondual with emptiness.\nThe teacher who shows this\nis the teacher who opens up discerning knowing. [N-A002](../translations/NOTES.md#n-a002) [N-A024](../translations/NOTES.md#n-a024) [N-A034](../translations/NOTES.md#n-a034) [N-A037](../translations/NOTES.md#n-a037) [N-A038](../translations/NOTES.md#n-a038)"
+    },
+    {
+      "id": "LCK-000039",
+      "translation": "Thus, for the personal spiritual friend,\nfour aspects of qualifications have been explained. [N-A019](../translations/NOTES.md#n-a019) [N-A038](../translations/NOTES.md#n-a038)"
+    }
+  ],
+  "notes": [
+    {
+      "id": "N-A001",
+      "pairs": [
+        "LCK-000001",
+        "LCK-000006",
+        "LCK-000007",
+        "LCK-000016"
+      ],
+      "anchors": [
+        "L0001",
+        "L0020",
+        "L0021",
+        "L0042",
+        "L0043",
+        "L0044",
+        "L0045"
+      ],
+      "tibetan": "༄༅། །དང་པོ། ༄།ལྷན་གཅིག་སྐྱེས་སྦྱོར་ཞེས་བྱ་བ་བཞུགས་སོ།\nསྐྱེས་སྦྱོར་གདམས་ངག་བྲི་བར་བྱ། །\nདེ་ཡང་སྐྱེས་སྦྱོར་གདམས་ངག་ལ། །\nསེམས་དང་རྣམ་རྟོག་ཆོས་སྐུ་གསུམ། །\nདང་པོ་ལྷན་ཅིག་སྐྱེས་པ་དེ། །\nགདམས་པས་སེམས་སུ་སྦྱོར་བའི་ཕྱིར། །\nལྷན་ཅིག་སྐྱེས་སྦྱོར་ཞེས་སུ་བཤད། །",
+      "category": "terminology gap; syntax/reference",
+      "problem": "The whole title is absent from the glossary. Line1 has ལྷན་གཅིག་; later instances have ལྷན་ཅིག་, and lines20–21 abbreviate the expression as སྐྱེས་སྦྱོར་. Lines42–45 explicitly relate three items and explain the name.",
+      "treatment": "Use coemergent joining provisionally, coemergent for ལྷན་ཅིག་སྐྱེས་, and retain ordinary mind, differentiating conceptualization, and Dharma embodiment as distinct labels. In line44 them resumes these three; in ordinary mind renders སེམས་སུ་. The ordinal First in line1 is retained.",
+      "uncertainty": "The naming relation is locally supported; the exact philosophical force of joining remains open. The glossary has co-emergent ignorance but no standalone joining entry; the compound spelling is not a general approval.",
+      "review_action": "Review the title and coemergent-joining family proposals; check the precise syntactic force of སེམས་སུ་སྦྱོར་ against a reliable witness."
+    },
+    {
+      "id": "N-A002",
+      "pairs": [
+        "LCK-000002",
+        "LCK-000005",
+        "LCK-000018",
+        "LCK-000027",
+        "LCK-000030",
+        "LCK-000033",
+        "LCK-000034",
+        "LCK-000035",
+        "LCK-000036",
+        "LCK-000037",
+        "LCK-000038"
+      ],
+      "anchors": [
+        "L0002",
+        "L0015",
+        "L0016",
+        "L0049",
+        "L0109",
+        "L0135",
+        "L0152",
+        "L0153",
+        "L0154",
+        "L0164",
+        "L0173",
+        "L0175",
+        "L0180",
+        "L0188",
+        "L0189"
+      ],
+      "tibetan": "བླ་མ་",
+      "category": "terminology gap",
+      "problem": "Standalone བླ་མ་ is absent; the existing Guru Yoga whole-expression entry does not establish a universal English mapping.",
+      "treatment": "Use teacher provisionally in this work; preserve master-disciple relations through explicit syntax and lineage references.",
+      "uncertainty": "Scoped working mapping only, not owner-approved terminology.",
+      "review_action": "Review the teacher proposal; retain existing Guru Yoga wherever that complete expression occurs."
+    },
+    {
+      "id": "N-A003",
+      "pairs": [
+        "LCK-000003"
+      ],
+      "anchors": [
+        "L0003",
+        "L0004",
+        "L0005",
+        "L0006"
+      ],
+      "tibetan": "རང་བཞིན་དབྱིངས་ལས་མ་གཡོས་ཀྱང་། །\nཐུགས་རྗེས་འགྲོ་བའི་དོན་མཛད་ཕྱིར། །\nསྤྲུལ་སྐུ་འཇའ་ཚོན་ལྟ་བུར་བྱོན། །\nཨུ་རྒྱན་ཕག་མོ་ལ་ཕྱག་འཚལ། །",
+      "category": "terminology gap; contextual use",
+      "problem": "In འགྲོ་བའི་དོན་མཛད་, literal meaning (the standalone glossary output for དོན་) would misconstrue the beneficiary construction. སྤྲུལ་སྐུ་ abbreviates the glossary expression སྤྲུལ་པའི་སྐུ་. Varahi of Uddiyana is the named addressee.",
+      "treatment": "Use benefit for this construction only; retain compassionate responsiveness, basic space, intrinsic nature, and emanation embodiment. Varahi is a transliterated name without adding Vajra.",
+      "uncertainty": "The beneficiary construction is clear; historical identification beyond the supplied name is not established.",
+      "review_action": "Review the scoped དོན་ usage and name transliterations; do not extend benefit to the six meanings at48–52."
+    },
+    {
+      "id": "N-A004",
+      "pairs": [
+        "LCK-000004"
+      ],
+      "anchors": [
+        "L0007",
+        "L0008",
+        "L0009",
+        "L0010"
+      ],
+      "tibetan": "ཕག་མོས་དོངས་སུ་བྱིན་བརླབས་པའི། །\nཐུན་གཅིག་བསྒོམ་ནས་དངོས་གྲུབ་ཐོབ། །\nམཁའ་འགྲོ་དབང་དུ་སྡུད་མཛད་པའི། །\nལྭ་བ་པ་ལ་ཕྱག་འཚལ་བསྟོད། །",
+      "category": "source reading; terminology gap",
+      "problem": "Line7 reads དོངས་སུ་ rather than expected དངོས་སུ་. Accomplishment and dakini are technical gaps; the Sanskrit form of the name ལྭ་བ་པ་ is not independently verified.",
+      "treatment": "Blessed in person provisionally interprets the defective sequence as དངོས་སུ་; no source change. Lavapa is a conservative Roman spelling. Accomplishment renders དངོས་གྲུབ་ and dakinis renders མཁའ་འགྲོ་ provisionally. The subject of all three preceding lines is Lavapa.",
+      "uncertainty": "Likely typographic defect; identification with a specific historically attested Lavapa remains unverified.",
+      "review_action": "Check line7 and the name against a witness; review technical additions."
+    },
+    {
+      "id": "N-A005",
+      "pairs": [
+        "LCK-000005"
+      ],
+      "anchors": [
+        "L0011",
+        "L0012",
+        "L0013",
+        "L0014",
+        "L0015",
+        "L0016"
+      ],
+      "tibetan": "དེ་ཡི་བྱིན་རླབས་རཀྵི་ཏ། །\nདེེ་ཡི་བརྒྱུད་འཛིན་ལྷོ་བྲག་པ། །\nདེ་ཡིི་བྱིན་རླབས་གུང་ཐང་པ། །\nམི་ལའི་ཐུགས་ཀྱི་སྲས་གྱུར་པ། །\nརྗེ་མཚན་ལྡན་བླ་མ་རིན་པོ་ཆེ། །\nབརྒྱུད་པའི་བླ་མ་རྣམས་ལ་བདག་ཕྱག་འཚལ། །",
+      "category": "syntax/reference; terminology gap",
+      "problem": "The lineage verse is elliptical: “his blessing, Rakshita”; “his blessing, Gungthangpa.” The referents of successive དེ་ are implicit. The standalone ཐུགས་ has no glossary entry, and ཐུགས་ཀྱི་སྲས་ is an honorific lineage expression.",
+      "treatment": "Bracket recipient of where the draft supplies the relation. Preserve Rakshita, Lhodrakpa, Gungthangpa, and Mila without expanding them into historical identities. Render son of the heart as a scoped whole expression, not an approved standalone ཐུགས་ equivalent. The fully qualified lord/teacher is the disciple described in line14.",
+      "uncertainty": "Beneficiary reading of blessing is likely but elliptical; historical identifications and the precise lineage succession require verification.",
+      "review_action": "Check the lineage against a reliable edition; approve or revise the whole-expression heart-son proposal."
+    },
+    {
+      "id": "N-A006",
+      "pairs": [
+        "LCK-000006"
+      ],
+      "anchors": [
+        "L0017",
+        "L0018",
+        "L0019",
+        "L0020"
+      ],
+      "tibetan": "བདག་ཉིད་བརྗེད་པས་འཇིགས་པ་དང་། །\nསྐལ་ལྡན་འགའ་ལ་ཕན་གདགས་ཕྱིར། །\nལྟ་རྗེའི་གསུང་སྒྲོས་ཇི་བཞིན་དུ། །\nསྐྱེས་སྦྱོར་གདམས་ངག་བྲི་བར་བྱ། །",
+      "category": "source reading; syntax/reference",
+      "problem": "Line19 has ལྟ་རྗེའི་, an irregular teacher-attribution phrase; the rough reference reads masters of the view. Line17 says the writer fears forgetting, not that a great person is forgotten.",
+      "treatment": "Following the lord’s spoken words treats ལྟ་ as an unresolved extraneous syllable; its source presence is preserved here and in Tibetan. Render the writer’s stated purpose and future intention, not a completed composition.",
+      "uncertainty": "The intended word before རྗེའི་ is unverified; lord is provisional at this locus.",
+      "review_action": "Check line19 against a witness and confirm whether ལྟ་ carries content that should replace the current treatment."
+    },
+    {
+      "id": "N-A007",
+      "pairs": [
+        "LCK-000006",
+        "LCK-000007",
+        "LCK-000009",
+        "LCK-000011",
+        "LCK-000016",
+        "LCK-000023",
+        "LCK-000028",
+        "LCK-000029",
+        "LCK-000030"
+      ],
+      "anchors": [
+        "L0020",
+        "L0021",
+        "L0030",
+        "L0034",
+        "L0044",
+        "L0081",
+        "L0124",
+        "L0129",
+        "L0135"
+      ],
+      "tibetan": "གདམས་ངག་",
+      "category": "terminology gap",
+      "problem": "གདམས་ངག་ and the instruction verb/form གདམས་ are absent from the glossary.",
+      "treatment": "Use pith instructions, with singular pith instruction for the instrumental naming explanation in line44.",
+      "uncertainty": "Provisional local mapping only.",
+      "review_action": "Review the pith-instruction entry and its linked grammatical realization."
+    },
+    {
+      "id": "N-A008",
+      "pairs": [
+        "LCK-000007"
+      ],
+      "anchors": [
+        "L0021",
+        "L0022",
+        "L0023",
+        "L0024"
+      ],
+      "tibetan": "དེ་ཡང་སྐྱེས་སྦྱོར་གདམས་ངག་ལ། །\nརྗེེའི་ཞལ་ནས་འདི་སྐད་གསུང་། །\nམཁས་བཙུན་སྒོམ་སྟོན་ཐམས་ཅད་ཀྱིས། །\nཆོས་སུ་འདི་ཉིད་ཟབ་བོ་གསུང་། །",
+      "category": "syntax/reference",
+      "problem": "མཁས་བཙུན་སྒོམ་སྟོན་ may enumerate the learned, the disciplined, and cultivation teachers, or qualify one group of teachers. The speech opening at22 has no typographic closing quote.",
+      "treatment": "Read three coordinated groups. Quote the immediate report at23–24; the subsequent doctrinal explanations remain attributable to the reported teaching without invented speech punctuation boundaries.",
+      "uncertainty": "Alternative single-group reading remains plausible.",
+      "review_action": "Confirm coordination and quotation extent with a reliable edition."
+    },
+    {
+      "id": "N-A009",
+      "pairs": [
+        "LCK-000008",
+        "LCK-000015",
+        "LCK-000024"
+      ],
+      "anchors": [
+        "L0025",
+        "L0040",
+        "L0087"
+      ],
+      "tibetan": "ཉོན་མོངས་པ་",
+      "category": "terminology gap",
+      "problem": "ཉོན་མོངས་པ་ and its abbreviated forms lack a standalone glossary row.",
+      "treatment": "Use afflictions consistently and provisionally; do not substitute generic emotions or merge them with differentiating conceptualization.",
+      "uncertainty": "No owner approval recorded for the new term.",
+      "review_action": "Review the afflictions proposal."
+    },
+    {
+      "id": "N-A010",
+      "pairs": [
+        "LCK-000008",
+        "LCK-000009",
+        "LCK-000010",
+        "LCK-000011",
+        "LCK-000012",
+        "LCK-000014",
+        "LCK-000015"
+      ],
+      "anchors": [
+        "L0026",
+        "L0030",
+        "L0032",
+        "L0034",
+        "L0036",
+        "L0039",
+        "L0041"
+      ],
+      "tibetan": "ཐམས་ཅད་འདུལ་བས་འདུལ་བ་ཡིན། །\nའདི་ནི་ཚད་མའི་གདམས་ངག་ཡིན། །\nམཐའ་དང་བྲལ་བས་དབུ་མ་ཡིན། །\nཕ་རོལ་ཕྱིན་པའི་གདམས་ངག་ཡིན། །\nསེམས་སུ་རྫོགས་པས་རྫོགས་ཆེན་ཡིན། །\nསྡུག་བསྔལ་ཞི་བས་ཞི་བྱེད་ཡིན། །\nལམ་དུ་སློངས་པས་གསང་སྔགས་ཡིན། །",
+      "category": "terminology gap",
+      "problem": "The parallel passage names Discipline, valid cognition, the Middle Way, perfection, Great Perfection, Pacification, and Secret Mantra. Most labels are absent from the glossary; the perfection line lacks ཤེས་རབ་.",
+      "treatment": "Preserve each classification and its stated causal explanation. Perfection does not add discerning knowing, which occurs only in the longer glossary expression. Discipline and Pacification retain the wordplay with disciplines and pacifies.",
+      "uncertainty": "Named-tradition interpretations are contextual; the source itself gives no expanded titles or doctrinal citations.",
+      "review_action": "Review the local term proposals without importing additional systems or claims."
+    },
+    {
+      "id": "N-A011",
+      "pairs": [
+        "LCK-000009"
+      ],
+      "anchors": [
+        "L0027",
+        "L0028",
+        "L0029",
+        "L0030"
+      ],
+      "tibetan": "རྣམ་པར་རྟོག་པ་ཆོས་སྐུ་རུ། །\nངེས་པའི་ཤེས་པ་བསྐྱེད་པའི་ས། །\nསྒྲོ་འདོགས་ནང་དུ་གཅོད་པས་ན། །\nའདི་ནི་ཚད་མའི་གདམས་ངག་ཡིན། །",
+      "category": "source reading; syntax/reference",
+      "problem": "Line28 ends བསྐྱེད་པའི་ས།, literally a basis/place for arousing; an expected causal ending would give a different construction.",
+      "treatment": "Translate the supplied noun ས་ as basis and supply it is to connect the clauses. Certain knowing concerns differentiating conceptualization as Dharma embodiment. No causal-ending emendation is made.",
+      "uncertainty": "The noun construction may itself be a transcription error.",
+      "review_action": "Check the ending of line28; revise the English construction only with disclosed evidence."
+    },
+    {
+      "id": "N-A012",
+      "pairs": [
+        "LCK-000010"
+      ],
+      "anchors": [
+        "L0031",
+        "L0032"
+      ],
+      "tibetan": "རྟག་ཆད་སྒྲོ་སྐུར་ལ་སོགས་པའི། །\nམཐའ་དང་བྲལ་བས་དབུ་མ་ཡིན། །",
+      "category": "terminology gap",
+      "problem": "རྟག་ཆད་སྒྲོ་སྐུར་ is a compact paired enumeration; only the superimposition family is established.",
+      "treatment": "Expand grammatically to eternalism, annihilationism, superimposition, and denigration; preserve the two linked pairs and the freedom-from-extremes relation.",
+      "uncertainty": "Provisional technical expansions; no claim that this is an exhaustive definition of the Middle Way.",
+      "review_action": "Review the proposed abbreviated-form terminology."
+    },
+    {
+      "id": "N-A013",
+      "pairs": [
+        "LCK-000012",
+        "LCK-000022",
+        "LCK-000024",
+        "LCK-000028",
+        "LCK-000031"
+      ],
+      "anchors": [
+        "L0035",
+        "L0036",
+        "L0075",
+        "L0089",
+        "L0123",
+        "L0145"
+      ],
+      "tibetan": "འཁོར་དང་མྱ་ངན་འདས་པའི་ཆོས། །",
+      "category": "terminology gap",
+      "problem": "Standalone འཁོར་བ་ and མྱ་ངན་འདས་པ་ are not glossary entries. Their abbreviation at35 is resolved from the explicit pairing.",
+      "treatment": "Use samsara and nirvana provisionally; preserve ordinary mind as the location in which their phenomena are complete.",
+      "uncertainty": "No translation of the source into a claim that samsara and nirvana are surpassed is warranted here.",
+      "review_action": "Review the samsara and nirvana proposals."
+    },
+    {
+      "id": "N-A014",
+      "pairs": [
+        "LCK-000013"
+      ],
+      "anchors": [
+        "L0037",
+        "L0038"
+      ],
+      "tibetan": "བཟང་རྟོག་ངན་རྟོག་ཐམས་ཅད་ཀུན། །\nཡིད་ལ་མི་བྱེད་ཕྱག་རྒྱ་ཆེ། །",
+      "category": "contextual use; terminology gap",
+      "problem": "ཡིད་ལ་མི་བྱེད་ is an attention/engagement construction. Rendering it as mere absence of ordinary mind would erase the separate mental-faculty assignment. ཕྱག་རྒྱ་ཆེ་ is the metrical abbreviation of the established Mahamudra headword.",
+      "treatment": "Not engaging the mental faculty with it retains the mental-faculty component and the negation. Good and bad conceptualizing retains the form རྟོག་ rather than silently replacing it by the separate conceptual-thought entry.",
+      "uncertainty": "Precise English syntax of non-engagement remains a proposed construction.",
+      "review_action": "Review this whole construction and retain its limited scope."
+    },
+    {
+      "id": "N-A015",
+      "pairs": [
+        "LCK-000017"
+      ],
+      "anchors": [
+        "L0046",
+        "L0047"
+      ],
+      "tibetan": "འདྲེ་དང་བདུད་ལ་སོགས་པ་ཡི། །\nབར་ཆད་ལ་ཡང་སྔགས་སོ་གསུང་། །",
+      "category": "syntax/reference; terminology gap",
+      "problem": "The source has སྔགས་ (mantra), not བསྔགས་ (praise). བར་ཆད་ལ་ relates the mantra to obstacles; the rough reference incorrectly praises obstacles.",
+      "treatment": "Render also mantra against their obstacles. Against is the narrow contextual reading of ལ་, reflecting the obstacle setting, not an added claim about efficacy. Spirits and maras follow the two source categories.",
+      "uncertainty": "The protective application is inferred from the construction; it remains open whether mantra denotes a verbal formula or this instruction as a whole.",
+      "review_action": "Confirm the source and intended sense of mantra; review the local proposal."
+    },
+    {
+      "id": "N-A016",
+      "pairs": [
+        "LCK-000018"
+      ],
+      "anchors": [
+        "L0048",
+        "L0049",
+        "L0050",
+        "L0051",
+        "L0052"
+      ],
+      "tibetan": "འདི་ལ་བསྡུས་པའི་དོན་དྲུག་སྟེ། །\nབླ་མ་དང་ནི་སློབ་མ་དང་། །\nགོ་ཆ་བགོ་དང་ཤེས་རབ་གསུམ། །\nཉམས་དང་ཕན་ཡོན་འབྲས་་བུ་སྟེ། །\nའདི་དོན་རྣམ་པ་དྲུག་གིས་བཤད། །",
+      "category": "scope; source reading",
+      "problem": "The six-item summary groups benefits and results together and treats the three kinds of discerning knowing as one topic. The subsequent order discusses students before teachers, unlike line49. Line51 contains a double tsheg in འབྲས་་བུ་.",
+      "treatment": "Preserve the six-fold count and original list order. Read the repeated tsheg as a typographic duplication in translating result; no Tibetan edit.",
+      "uncertainty": "The grouping is supported by the six ensuing subject areas, not by adding a seventh or eighth topic.",
+      "review_action": "Confirm the outline against the full text; retain the archival punctuation."
+    },
+    {
+      "id": "N-A017",
+      "pairs": [
+        "LCK-000019"
+      ],
+      "anchors": [
+        "L0053",
+        "L0054",
+        "L0055"
+      ],
+      "tibetan": "དང་པོོ་སློབ་མའི་མཚན་ཉིད་ནི། །\nརྣམ་པ་གཉིས་སུ་རྗེ་བཙུན་གསུང་། །\nསྤྲང་བྱ་དང་ནི་བླང་བྱའོ། །",
+      "category": "source reading",
+      "problem": "Line55 has སྤྲང་བྱ་, whereas line56 explicitly begins སྤང་བྱ་ and develops rejection.",
+      "treatment": "Those to reject uses the contextual working reading སྤང་བྱ་, with the anomalous སྤྲང་ retained in the source. Reject/accept preserves the established rejecting-and-accepting family.",
+      "uncertainty": "Likely transcription defect, unconfirmed without a witness.",
+      "review_action": "Check line55 and retain the rejection/acceptance distinction."
+    },
+    {
+      "id": "N-A018",
+      "pairs": [
+        "LCK-000020",
+        "LCK-000025",
+        "LCK-000026",
+        "LCK-000027",
+        "LCK-000029",
+        "LCK-000030",
+        "LCK-000031"
+      ],
+      "anchors": [
+        "L0057",
+        "L0058",
+        "L0059",
+        "L0060",
+        "L0061",
+        "L0096",
+        "L0104",
+        "L0110",
+        "L0111",
+        "L0112",
+        "L0113",
+        "L0114",
+        "L0115",
+        "L0131",
+        "L0141",
+        "L0147"
+      ],
+      "tibetan": "རྒྱུ་ཡི་དུས་ན་ཞེན་པ་དང་། །\nབདག་པོའི་དུས་ན་ལོག་བཤེསཟིན། །\nདམིགས་པའི་དུས་ན་འཁྲུལ་པ་དང་། །\nདེ་མ་ཐག་པའི་དུས་སུ་ནི། །\nརེ་དོགས་གཉིས་སུ་ལྷུང་བའོ། །\nདམིིགས་པའི་རྐྱེན་དུ་འཁྲུལ་པ་སྟེ། །\nདེ་མ་ཐག་པའི་རྐྱེན་དུས་སུ། །\nརྒྱུ་ཡི་དུས་ན་མ་ཞེན་དང་།\nབདག་པོོའི་རྐྱེན་གྱི་དུས་སུ་ནི། །\nདགེ་བའི་བཤེས་ཀྱིས་ཟིན་པ་དང་། །\nདམིགས་པའིི་རྐྱེན་དུ་མ་འཁྲུལ་དང་། །\nདེ་མ་ཐག་པའི་དུས་སུ་ནི། །\nརེ་དོགས་གཉིིས་དང་བྲལ་བའོ། །\nདེ་ནི་བདག་པོའི་རྐྱེན་དུས་སུ། །\nདམིགས་པའི་རྐྱེན་དུས་མ་འཁྲུལ་ཏེ། །\nདེ་མ་ཐག་པའི་རྐྱེན་དུས་སུ། །",
+      "category": "terminology gap; interpretive supply",
+      "problem": "The text applies four conditions: cause, dominant condition, condition of the object of focus, and immediate condition. Some list items omit རྐྱེན་, supplied explicitly elsewhere in this sequence.",
+      "treatment": "Keep cause and the established object of focus visible; use dominant condition and immediate condition provisionally. Bracket condition where absent from the local source. Immediate is deliberately not expanded into an unsupported temporal direction in this working draft.",
+      "uncertainty": "Technical identification of the four-condition framework is plausible but no complete canonical glossary mapping is present.",
+      "review_action": "Review all four-condition expressions together, including whether immediate should become immediately preceding with explicit approval."
+    },
+    {
+      "id": "N-A019",
+      "pairs": [
+        "LCK-000020",
+        "LCK-000024",
+        "LCK-000027",
+        "LCK-000029",
+        "LCK-000033",
+        "LCK-000034",
+        "LCK-000039"
+      ],
+      "anchors": [
+        "L0058",
+        "L0090",
+        "L0112",
+        "L0132",
+        "L0155",
+        "L0157",
+        "L0190"
+      ],
+      "tibetan": "བདག་པོའི་དུས་ན་ལོག་བཤེསཟིན། །\nལོག་པའི་བཤེས་ཀྱིས་ཟིན་པ་ཡི། །\nདགེ་བའི་བཤེས་ཀྱིས་ཟིན་པ་དང་། །\nདགེེ་བའི་བཤེས་ཀྱིས་ཟིན་པ་སྟེ། །\nགང་ཟག་དགེ་བའི་བཤེས་གཉེན་དང་།།\nདང་པོ་གང་ཟག་བཤེས་གཉེན་ནི། །\nདེ་ཚོོ་གང་ཟག་བཤེས་གཉེན་གྱིས། །",
+      "category": "terminology gap",
+      "problem": "དགེ་བའི་བཤེས་གཉེན་ and abbreviated དགེ་བའི་བཤེས་ denote a spiritual friend; ལོག་བཤེས་ names the adverse counterpart. Line58 omits the tsheg between བཤེས་ and ཟིན་.",
+      "treatment": "Use spiritual friend and misguided spiritual friend provisionally. Personal spiritual friend renders the explicitly human/person form གང་ཟག་བཤེས་གཉེན་. Being held/taken in hand preserves ཟིན་. Read the joined syllables at58 with their ordinary boundary for English only.",
+      "uncertainty": "No evidence that the variants are independent witnesses or authorize a source correction.",
+      "review_action": "Review the family as a whole and check the line58 boundary."
+    },
+    {
+      "id": "N-A020",
+      "pairs": [
+        "LCK-000021"
+      ],
+      "anchors": [
+        "L0063",
+        "L0064",
+        "L0065",
+        "L0066",
+        "L0067",
+        "L0068",
+        "L0069",
+        "L0070",
+        "L0071"
+      ],
+      "tibetan": "སྣང་སྲིད་སྣ་ཚོགས་སྣང་བ་འདི། །\nརྨི་ལམ་དག་གི་ནོར་ཟས་བཞིན། །\nསྣངབ་ཉིད་ནི་སྟོང་པ་ལ། །\nསྟོང་པ་ཡིན་པར་མ་ཤེས་པས། །\nཟས་དང་ནོར་དང་ལོངས་སྤྱོད་དང་། །\nབུ་དང་བུ་མོ་ཆུང་མ་དང་། །\nའདོད་ཡོན་རྣམས་ལ་ཆགས་པ་ཡིས། །\nརྟག་པར་བདེན་པར་བཟུང་བ་དང་། །\nདངོས་པོ་བདེན་པར་ཞེན་པ་ཡིན། །",
+      "category": "source reading; syntax/reference",
+      "problem": "Line65 joins སྣངབ་ without a tsheg. Lines66–71 place the list of attachments before the predicates; བཟུང་ is a finite act of taking/apprehending, not the technical noun apprehended object.",
+      "treatment": "Read སྣངབ་ as appearance for English only. The English clause begins one takes at67 and completes to be permanent and real at70; the list order is unchanged.",
+      "uncertainty": "Mechanical boundary restoration is likely; no physical witness is available.",
+      "review_action": "Check the joined source spelling and the grammatical attachment of the desire-object phrase."
+    },
+    {
+      "id": "N-A021",
+      "pairs": [
+        "LCK-000022"
+      ],
+      "anchors": [
+        "L0072"
+      ],
+      "tibetan": "ཕྱི་མའི་ཆོས་ནི་མི་དྲན་ཏེ། །",
+      "category": "contextual use",
+      "problem": "ཕྱི་མའི་ཆོས་ denotes Dharma oriented to what comes after, in contrast to this life’s attachments; the rough English outer phenomena loses that contrast.",
+      "treatment": "Use Dharma for the next life as a scoped reading of the whole construction, not a standalone definition of ཕྱི་མ་.",
+      "uncertainty": "The immediate context strongly favors the next-life sense; a wider afterlife doctrinal account is not added.",
+      "review_action": "Confirm this contextual construction in review."
+    },
+    {
+      "id": "N-A022",
+      "pairs": [
+        "LCK-000023"
+      ],
+      "anchors": [
+        "L0078",
+        "L0079",
+        "L0080",
+        "L0081",
+        "L0082",
+        "L0083",
+        "L0084",
+        "L0085",
+        "L0086"
+      ],
+      "tibetan": "རྟེན་གྱི་གང་ཟག་འགའ་ཞིག་གིས། །\nསློབ་དཔོན་ཐ་སྙད་ཅན་ཞིག་ལ། །\nལོ་དང་ཟླ་བར་བསྟེནབྱས་ནས། །\nསྒོམ་གྱི་གདམས་ངག་ཐམས་ཅད་ལ། །\nསུན་འབྱིན་གོལ་ས་མང་ཞེས་ཟེར། །\nཐོས་པའི་ཡོན་ཏན་འབའ་ཞིག་བརྗོད། །\nཚིག་དང་ཐ་སྙད་སྒྲ་ཚིག་ལ།་།\nམཚན་བཅས་འབའ་ཞིག་བསྟན་པ་ཡི། །\nཐོས་པ་རྐྱང་པར་སོང་གྱུར་ན། །",
+      "category": "source reading; syntax/reference",
+      "problem": "The supporting-basis phrase རྟེན་གྱི་གང་ཟག་ is compressed. ཐ་སྙད་ཅན་ may mean versed in terminology or merely bearing the title teacher. The agent who disparages cultivation is not explicitly restated. Line80 joins བསྟེནབྱས་; line84 has irregular །་། punctuation.",
+      "treatment": "Retain supporting basis without inventing its object; use teacher versed in terminology provisionally. Passive clauses leave the disputed agent open. Read line80 as reliance having occurred. Preserve the sentence continuation into pair24.",
+      "uncertainty": "Teacher only in name and attribution to either teacher or student remain alternatives.",
+      "review_action": "Check the teacher qualification and discourse subject; confirm the line80 boundary and line84 punctuation."
+    },
+    {
+      "id": "N-A023",
+      "pairs": [
+        "LCK-000024"
+      ],
+      "anchors": [
+        "L0087",
+        "L0088",
+        "L0089"
+      ],
+      "tibetan": "ཉོན་མོོངས་མགོ་བོ་མ་ནོན་ཏེ། །\nཆོས་བརྒྱད་འབའ་ཞིག་དོན་གཉེར་ནས། །\nའཁོོར་བར་ཡུན་རིང་འཁྱམས་པར་འགྱུར། །",
+      "category": "terminology gap",
+      "problem": "ཆོས་བརྒྱད་ is a conventional numbered expression absent from the glossary.",
+      "treatment": "Use eight worldly concerns provisionally, without inserting a list not present in the source. The head of the afflictions not being pressed down is rendered are not brought under control.",
+      "uncertainty": "The numbered-expression identification is contextual and remains a proposal.",
+      "review_action": "Review the whole-expression proposal."
+    },
+    {
+      "id": "N-A024",
+      "pairs": [
+        "LCK-000025",
+        "LCK-000026",
+        "LCK-000030",
+        "LCK-000037",
+        "LCK-000038"
+      ],
+      "anchors": [
+        "L0092",
+        "L0093",
+        "L0094",
+        "L0099",
+        "L0137",
+        "L0174",
+        "L0181",
+        "L0183",
+        "L0184"
+      ],
+      "tibetan": "རྣམ་རྟོག་ཆོས་སྐུར་ཤེས་པ་ལ། །\nརྣམ་པར་རྟོག་པ་སྤངས་ནས་སུ། །\nམི་རྟོག་ཡེ་ཤེས་སྒོམ་པ་ནི། །\nལྟ་བ་སྤྱོད་པ་སྒོམ་པ་གསུམ། །\nརྣམ་པར་རྟོག་པ་མི་སྤང་སྟེ། །\nརྣམ་པར་རྟོག་པ་བྱུང་དུས་སུ། །\nརྣམ་རྟོག་སེམས་སུ་ཤེས་གྱུར་ཏེ། །\nརྣམ་པར་རྟོག་པ་སྤང་དུ་མེད། །\nམི་རྟོག་ཡེེ་ཤེས་བསྒྲུབ་ཏུ་མེད། །",
+      "category": "grammatical realization",
+      "problem": "རྣམ་པར་རྟོག་པ་ is the expanded form underlying differentiating conceptualization; མི་རྟོག་ modifies primordial knowing at94 and184. Forms སྒོམ་ and བསྒོམ་ belong to the cultivation wording.",
+      "treatment": "Retain differentiating conceptualization, including expanded forms; use non-conceptual as an adjectival realization of non-conceptuality, and cultivate/cultivation for the relevant inflected forms. These are grammatical/form links, not adoption of pending thoughts.",
+      "uncertainty": "No semantic exception claimed; formal family matching is checked against construction.",
+      "review_action": "Verify the expanded forms in QC without conflating standalone རྟོག་པ་ with differentiating conceptualization."
+    },
+    {
+      "id": "N-A025",
+      "pairs": [
+        "LCK-000026",
+        "LCK-000031"
+      ],
+      "anchors": [
+        "L0101",
+        "L0102",
+        "L0144"
+      ],
+      "tibetan": "སངས་རྒྱས་",
+      "category": "terminology gap",
+      "problem": "སངས་རྒྱས་ lacks a standalone glossary row; the attainment and evaluative constructions name the result/state here.",
+      "treatment": "Use buddhahood in these result contexts, maintaining the distinction between hope for buddhahood and fear of samsara.",
+      "uncertainty": "This does not establish buddhahood for every reference to an individual Buddha.",
+      "review_action": "Review the result-context proposal."
+    },
+    {
+      "id": "N-A026",
+      "pairs": [
+        "LCK-000026"
+      ],
+      "anchors": [
+        "L0106"
+      ],
+      "tibetan": "དེ་ལྟར་ཡིད་གཉིས་ལྟུང་བས་ན། །",
+      "category": "grammatical realization; contextual use",
+      "problem": "ཡིད་གཉིས་ is indecision or a divided state, with the separately established mental-faculty component.",
+      "treatment": "With the mental faculty thus divided retains that component and expresses the consequence of falling into hope and fear.",
+      "uncertainty": "A future approved whole-expression indecision entry could support a different rendering; no such entry is assumed.",
+      "review_action": "Review this construction alongside any future whole-expression proposal."
+    },
+    {
+      "id": "N-A027",
+      "pairs": [
+        "LCK-000027"
+      ],
+      "anchors": [
+        "L0108",
+        "L0109"
+      ],
+      "tibetan": "མཚན་ལྡན་སློབ་མ་བསྟེན་བྱས་ལ །\nནང་གསེས་བཞི་རུ་བླ་མས་གསུངས། །",
+      "category": "source reading; syntax/reference",
+      "problem": "Line108 literally refers to relying on a qualified student, despite the practical section’s selection of students. It also lacks a normal final tsheg/shad sequence.",
+      "treatment": "Retain For reliance on a qualified student; do not silently replace student by teacher or invent a teaching verb.",
+      "uncertainty": "The source may intend taking on a student, or may contain a verb defect.",
+      "review_action": "Check the verb and object against a witness; human review should decide the natural target construction."
+    },
+    {
+      "id": "N-A028",
+      "pairs": [
+        "LCK-000028"
+      ],
+      "anchors": [
+        "L0121",
+        "L0122",
+        "L0123",
+        "L0124",
+        "L0125",
+        "L0126"
+      ],
+      "tibetan": "དངོས་པོར་སྣང་བ་ཐམས་ཅད་ལ། །\nབདེན་དང་ཞེན་འཛིན་མི་འབྱུང་སྟེ། །\nའཁོར་བའི་ཆོས་ལ་ཡིད་བྱུང་ནས། །\nདད་གུས་གཉིས་ཀྱི་གདམས་ངག་ཚོལ། །\nདེ་ནིི་རྒྱུ་དུས་མ་ཞེས་པའི། །\nབླང་བྱའི་སློབ་མ་དང་པོ་ཡིན། །",
+      "category": "source reading; syntax/reference",
+      "problem": "Line125 reads མ་ཞེས་ rather than the nonclinging མ་ཞེན་ demanded by the list at110 and the description. In line122 ཞེན་འཛིན་ is a compound rather than a free-standing noun apprehending subject.",
+      "treatment": "Bracket not clinging as a provisional reading of line125. Use clinging apprehension for the whole compound and faith and devotion for the distinct དད་གུས་ pair.",
+      "uncertainty": "The correction and compound usage are provisional, not glossary approvals.",
+      "review_action": "Verify line125 and review the clinging-apprehension and faith/devotion family usages."
+    },
+    {
+      "id": "N-A029",
+      "pairs": [
+        "LCK-000029"
+      ],
+      "anchors": [
+        "L0127",
+        "L0128",
+        "L0129",
+        "L0130",
+        "L0131",
+        "L0132",
+        "L0133"
+      ],
+      "tibetan": "དད་དུས་ལྡན་པའི་གང་ཟག་གིས། །\nདམ་པ་གཅིག་གི་རྩར་ཕྱིན་ནས། །\nམཚན་མེད་ཆོས་སྐུའི་གདམས་ངག་བསྟན། །\nཆོས་རྣམས་དངོས་པོ་མེད་པར་གོ། །\nདེ་ནི་བདག་པོའི་རྐྱེན་དུས་སུ། །\nདགེེ་བའི་བཤེས་ཀྱིས་ཟིན་པ་སྟེ། །\nདེ་ནི་ཚད་ལྡན་གཉིས་པ་འོ། །",
+      "category": "source reading; syntax/reference",
+      "problem": "Line127 reads དད་དུས་ (faith/time), likely a defective དད་གུས་ (faith/devotion). After the visitor goes to an excellent person, the Tibetan says the pith instructions are taught without a fresh explicit teacher subject.",
+      "treatment": "Bracket faith and devotion as the local conjecture. Use a passive is taught to preserve the teacher’s instructional role without making the visitor teach. Without concrete existence renders the predicative denial དངོས་པོ་མེད་.",
+      "uncertainty": "The first reading is probable, not established; who teaches is supplied by the encounter’s immediate context.",
+      "review_action": "Check line127 and confirm the subject chain at129–130."
+    },
+    {
+      "id": "N-A030",
+      "pairs": [
+        "LCK-000030",
+        "LCK-000037"
+      ],
+      "anchors": [
+        "L0139",
+        "L0176"
+      ],
+      "tibetan": "རྟོག་པ་སྐུ་དྲིན་ཆེར་གོ་བས། །\nརྟོག་པ་སྐུ་དྲིན་ཅན་དུ་གོ། །",
+      "category": "contextual use",
+      "problem": "རྟོག་པ་སྐུ་དྲིན་ and སྐུ་དྲིན་ཅན་ employ the whole expression སྐུ་དྲིན་ for kindness/benefaction; parsing སྐུ་ separately as embodiment would destroy the idiom.",
+      "treatment": "Conceptual thought’s great kindness and conceptual thought to be kind are provisional whole-expression realizations.",
+      "uncertainty": "The whole expression is absent from the glossary; this does not license dropping embodiment in actual embodiment compounds.",
+      "review_action": "Review the kindness expression together with its later occurrences."
+    },
+    {
+      "id": "N-A031",
+      "pairs": [
+        "LCK-000031"
+      ],
+      "anchors": [
+        "L0146"
+      ],
+      "tibetan": "མཉམ་པ་ཉིད་དུ་ཤེས་པ་ནི། །",
+      "category": "grammatical realization",
+      "problem": "མཉམ་པ་ཉིད་ is the expanded form of the established མཉམ་ཉིད་ (evenness).",
+      "treatment": "Use evenness; the pronoun them refers to the preceding positively and negatively evaluated buddhahood/samsara pair.",
+      "uncertainty": "Grammatical expansion is locally clear; no new synonym or entity is introduced.",
+      "review_action": "Confirm the expanded-form link in QC."
+    },
+    {
+      "id": "N-A032",
+      "pairs": [
+        "LCK-000033"
+      ],
+      "anchors": [
+        "L0155",
+        "L0156"
+      ],
+      "tibetan": "གང་ཟག་དགེ་བའི་བཤེས་གཉེན་དང་།།\nབཀའ་དང་སྣང་བ་རིག་པ་འོ། །",
+      "category": "terminology gap; scope",
+      "problem": "The four teachers are a person, teachings, appearance, and awareness; the rough reference incorrectly equates awareness with appearance and speech. བཀའ་ has no standalone glossary mapping.",
+      "treatment": "Retain four coordinated categories, using the teachings provisionally for བཀའ་.",
+      "uncertainty": "The breadth of teachings versus scriptural teachings remains open; no unspecified speaker is supplied.",
+      "review_action": "Review the བཀའ་ entry together with the ensuing teacher-of-teachings subsection."
+    },
+    {
+      "id": "N-A033",
+      "pairs": [
+        "LCK-000034",
+        "LCK-000035"
+      ],
+      "anchors": [
+        "L0158",
+        "L0159",
+        "L0160",
+        "L0163",
+        "L0164"
+      ],
+      "tibetan": "གསལ་འདེབས་ནུས་དང་འགལ་བསྒྱུར་ནུས། །\nམ་འཁྲུལ་ཤེས་རབ་གོ་འབྱེད་ནུས། །\nམཚན་ཉིིད་རྣམ་པ་བཞི་རུ་གསུང་། །\nསློོབ་མའི་ཉམས་མྱོང་གསོ་ནུས་པ། །\nགསོལ་བ་འདེབས་ནུས་པའི་བླ་མ་ཡིན། །",
+      "category": "source reading; terminology gap",
+      "problem": "The list gives གསལ་འདེབས་ (bringing clarity/reminding), but its explanation ends གསོལ་བ་འདེབས་ (offering supplication). The draft must not quietly harmonize the two.",
+      "treatment": "Translate able to bring clarity in the list and able to offer supplication in the explanation. Preserve all four qualities: bringing clarity, transforming adversity, being undeluded, and opening discerning knowing.",
+      "uncertainty": "The second label probably contains a source defect, but its exact correction is unverified.",
+      "review_action": "Check both occurrences against a witness; review the two distinct proposed expressions."
+    },
+    {
+      "id": "N-A034",
+      "pairs": [
+        "LCK-000034",
+        "LCK-000036",
+        "LCK-000037",
+        "LCK-000038"
+      ],
+      "anchors": [
+        "L0159",
+        "L0173",
+        "L0180",
+        "L0189"
+      ],
+      "tibetan": "མ་འཁྲུལ་ཤེས་རབ་གོ་འབྱེད་ནུས། །\nའགལ་བསྒྱུར་ནུས་པའི་བླ་མ་ཡིན། །\nབདག་གི་མ་འཁྲུལ་བླ་མ་ཡིན། །\nཤེས་རབ་གོ་འབྱེད་བླ་མ་ཡིན། །",
+      "category": "terminology gap; contextual use",
+      "problem": "འགལ་བསྒྱུར་ and ཤེས་རབ་གོ་འབྱེད་ are whole instructional expressions not individually glossed. མ་འཁྲུལ་ belongs to the delusion family.",
+      "treatment": "Use transform adverse circumstances and open up discerning knowing provisionally; retain discerning knowing rather than wisdom. Undeluded preserves the negative relation to delusion.",
+      "uncertainty": "The precise action denoted by opening understanding/discerning knowing is not fully fixed.",
+      "review_action": "Review the whole expressions with their explanations at161–189."
+    },
+    {
+      "id": "N-A035",
+      "pairs": [
+        "LCK-000036"
+      ],
+      "anchors": [
+        "L0165",
+        "L0166",
+        "L0167",
+        "L0168",
+        "L0169",
+        "L0170",
+        "L0171",
+        "L0172",
+        "L0173"
+      ],
+      "tibetan": "མཚམས་མེད་ལྔ་དང་མི་དགེ་བཅུ། །\nསྡོམ་དང་དམ་ཚིག་ཉམས་ལ་སོགས། །\nརིགས་རྒྱུད་ལ་ནི་མི་འཚམས་པ། །\nའགལ་བ་སྣ་ཚོགས་འབྱུང་འགྱུར་ཀྱང་། །\nམི་བཟོད་སྐད་ཅིག་མ་འབྱེད་པར། །\nདེ་ནི་རྟོག་པ་ཡིན་པར་ཤེས། །\nརྟོག་པ་སེམས་སུ་ངོོ་ཤེས་པས། །\nསེམས་ཉིད་སྐུ་བཞིར་བསྒྱུར་ནུས་པས། །\nའགལ་བསྒྱུར་ནུས་པའི་བླ་མ་ཡིན། །",
+      "category": "source reading; terminology gap",
+      "problem": "མི་བཟོད་སྐད་ཅིག་མ་འབྱེད་པར་ is irregular: འབྱེད་ usually opens or distinguishes. རིགས་རྒྱུད་ can be a compound about lineage/disposition; the continuum component must not disappear. The five immediate deeds, samaya, and four embodiments lack exact whole entries.",
+      "treatment": "Bracket giving way to as a provisional intolerance construction. Retain spiritual family and continuum as a disclosed interpretation of རིགས་རྒྱུད་; spiritual clarifies the local practice context. Preserve four embodiments without naming four not listed here; samaya remains transliterated.",
+      "uncertainty": "The intolerance verb and family/continuum relation require source review. The five deeds are not enumerated in this passage.",
+      "review_action": "Check line169, the compound at167, and the local terminology proposals; do not certify these readings as settled."
+    },
+    {
+      "id": "N-A036",
+      "pairs": [
+        "LCK-000037"
+      ],
+      "anchors": [
+        "L0175",
+        "L0179"
+      ],
+      "tibetan": "རང་གི་བླ་མར་ཝལ་གྱིས་ཤེས། །\nངེེས་ཤེས་བརྟན་པོ་སྐྱེས་པ་དེ། །",
+      "category": "grammatical realization",
+      "problem": "ཝལ་གྱིས་ is established as vividly clear; its function here qualifies knowing. ངེས་ཤེས་ compounds certain with knowing.",
+      "treatment": "Use with vivid clarity as a transparent nominal realization, and certain knowing for the compound.",
+      "uncertainty": "No change to vivid or clarity components and no new alternate default intended.",
+      "review_action": "Check the grammatical realization and the certain-knowing proposal."
+    },
+    {
+      "id": "N-A037",
+      "pairs": [
+        "LCK-000038"
+      ],
+      "anchors": [
+        "L0181",
+        "L0182",
+        "L0183",
+        "L0184",
+        "L0185",
+        "L0186",
+        "L0187",
+        "L0188",
+        "L0189"
+      ],
+      "tibetan": "རྣམ་རྟོག་སེམས་སུ་ཤེས་གྱུར་ཏེ། །\nསེམས་ཉིིད་སྐྱེ་བ་མེད་པར་ཤེས། །\nརྣམ་པར་རྟོག་པ་སྤང་དུ་མེད། །\nམི་རྟོག་ཡེེ་ཤེས་བསྒྲུབ་ཏུ་མེད། །\nརྟོག་པ་སྣ་ཚོགས་སྣང་བ་འདི། །\nཆུ་ལ་ལན་ཚྭ་བཏབ་པ་བཞིན། །\nརྟོག་པ་སྟོང་པ་གཉིས་མེད་པར། །\nསྟོོན་པར་བྱེད་པའི་བླ་མ་དེ། །\nཤེས་རབ་གོ་འབྱེད་བླ་མ་ཡིན། །",
+      "category": "syntax/reference",
+      "problem": "The opening statements deny that differentiating conceptualization is to be rejected or primordial knowing separately accomplished. The salt-in-water comparison links conceptual thought and emptiness, not a claim that the terms are lexically identical.",
+      "treatment": "Retain both negations, non-arising, conceptual-thought identity, primordial knowing, and the nonduality comparison. Opens up discerning knowing follows the same provisional instruction label as pair34.",
+      "uncertainty": "The exact syntactic reach of the salt simile is interpretive; nothing in the draft changes the glossary distinctions.",
+      "review_action": "Review the relation between the two opening statements and the concluding teacher quality."
+    },
+    {
+      "id": "N-A038",
+      "pairs": [
+        "LCK-000005",
+        "LCK-000007",
+        "LCK-000019",
+        "LCK-000022",
+        "LCK-000024",
+        "LCK-000025",
+        "LCK-000026",
+        "LCK-000027",
+        "LCK-000028",
+        "LCK-000029",
+        "LCK-000031",
+        "LCK-000034",
+        "LCK-000035",
+        "LCK-000036",
+        "LCK-000037",
+        "LCK-000038",
+        "LCK-000039"
+      ],
+      "anchors": [
+        "L0012",
+        "L0013",
+        "L0022",
+        "L0053",
+        "L0076",
+        "L0087",
+        "L0089",
+        "L0096",
+        "L0098",
+        "L0105",
+        "L0107",
+        "L0111",
+        "L0113",
+        "L0115",
+        "L0118",
+        "L0125",
+        "L0132",
+        "L0143",
+        "L0149",
+        "L0160",
+        "L0163",
+        "L0171",
+        "L0179",
+        "L0182",
+        "L0184",
+        "L0188",
+        "L0190"
+      ],
+      "tibetan": "དེེ་ཡི་བརྒྱུད་འཛིན་ལྷོ་བྲག་པ། །\nདེ་ཡིི་བྱིན་རླབས་གུང་ཐང་པ། །\nརྗེེའི་ཞལ་ནས་འདི་སྐད་གསུང་། །\nདང་པོོ་སློབ་མའི་མཚན་ཉིད་ནི། །\nརྒྱུ་ཡིི་དུས་ན་ཞེན་པ་འོ། །\nཉོན་མོོངས་མགོ་བོ་མ་ནོན་ཏེ། །\nའཁོོར་བར་ཡུན་རིང་འཁྱམས་པར་འགྱུར། །\nདམིིགས་པའི་རྐྱེན་དུ་འཁྲུལ་པ་སྟེ། །\nསྐྱེེས་བུ་དམ་པ་འགའ་ཞིག་གིས། །\nརེ་དོོགས་གཉིས་སུ་ལྟུང་བར་འགྱུར། །\nའདི་ནིི་སྤང་བྱ་བཞི་པར་འདོད། །\nབདག་པོོའི་རྐྱེན་གྱི་དུས་སུ་ནི། །\nདམིགས་པའིི་རྐྱེན་དུ་མ་འཁྲུལ་དང་། །\nརེ་དོགས་གཉིིས་དང་བྲལ་བའོ། །\nབུ་དང་བུ་མོོ་ཆུང་མ་དང་། །\nདེ་ནིི་རྒྱུ་དུས་མ་ཞེས་པའི། །\nདགེེ་བའི་བཤེས་ཀྱིས་ཟིན་པ་སྟེ། །\nརྣམ་རྟོག་ཆོོས་སྐུར་ཐིམ་གྱུར་པས། །\nབླང་བྱའིི་མཚན་ཉིད་བཞི་པ་ཡིན། །\nམཚན་ཉིིད་རྣམ་པ་བཞི་རུ་གསུང་། །\nསློོབ་མའི་ཉམས་མྱོང་གསོ་ནུས་པ། །\nརྟོག་པ་སེམས་སུ་ངོོ་ཤེས་པས། །\nངེེས་ཤེས་བརྟན་པོ་སྐྱེས་པ་དེ། །\nསེམས་ཉིིད་སྐྱེ་བ་མེད་པར་ཤེས། །\nམི་རྟོག་ཡེེ་ཤེས་བསྒྲུབ་ཏུ་མེད། །\nསྟོོན་པར་བྱེད་པའི་བླ་མ་དེ། །\nདེ་ཚོོ་གང་ཟག་བཤེས་གཉེན་གྱིས། །",
+      "category": "source reading",
+      "problem": "The listed lines contain repeated identical vowel signs; these are already in the pre-tokenization source, not PO encoding. Each quoted line corresponds in order to the listed anchor.",
+      "treatment": "For English interpretation, read each adjacent run of an identical Tibetan vowel sign as one sign. Keep every supplied Tibetan code point unchanged. No other letter, tsheg, or lexical correction is authorized by this note.",
+      "uncertainty": "Repetition is almost certainly electronic corruption but has not been checked against a physical witness. This treatment does not settle other textual issues in the same lines.",
+      "review_action": "Verify these 27 loci against a witness when one becomes available."
+    },
+    {
+      "id": "N-A039",
+      "pairs": [
+        "LCK-000033"
+      ],
+      "anchors": [
+        "L0155"
+      ],
+      "tibetan": "གང་ཟག་དགེ་བའི་བཤེས་གཉེན་དང་།།",
+      "category": "source reading; presentation",
+      "problem": "Line155 has adjacent shads without the usual intervening space.",
+      "treatment": "Treat the shads as verse punctuation; preserve their exact supplied sequence in source.",
+      "uncertainty": "No lexical uncertainty is inferred from this spacing alone.",
+      "review_action": "Retain source bytes; verify punctuation if a physical witness is acquired."
+    }
+  ],
+  "usages": [
+    {
+      "pairs": [
+        "LCK-000001",
+        "LCK-000006",
+        "LCK-000007",
+        "LCK-000016"
+      ],
+      "tibetan": "ལྷན་ཅིག་སྐྱེས་སྦྱོར་",
+      "canonical_entry": "No exact established entry; related entries: ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ་; སེམས་; རྣམ་རྟོག་; ཆོས་སྐུ་",
+      "english": "coemergent joining",
+      "category": "Provisional",
+      "condition": "Title and its explicit explanation at42–45; includes title variant ལྷན་གཅིག་. Coemergent is a local working spelling; existing co-emergent ignorance remains unchanged.",
+      "note_id": "N-A001"
+    },
+    {
+      "pairs": [
+        "LCK-000006",
+        "LCK-000007"
+      ],
+      "tibetan": "སྐྱེས་སྦྱོར་",
+      "canonical_entry": "No exact established entry; related entries: ལྷན་ཅིག་སྐྱེས་སྦྱོར་",
+      "english": "coemergent joining",
+      "category": "Provisional",
+      "condition": "Abbreviated title at20–21; linked form, not a competing interpretation of ordinary joining.",
+      "note_id": "N-A001"
+    },
+    {
+      "pairs": [
+        "LCK-000016"
+      ],
+      "tibetan": "ལྷན་ཅིག་སྐྱེས་པ་",
+      "canonical_entry": "No exact established entry; related entries: ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ་",
+      "english": "coemergent",
+      "category": "Provisional",
+      "condition": "Predicate for the three named items at43. Does not authorize replacing or respelling the established whole-expression ignorance entry.",
+      "note_id": "N-A001"
+    },
+    {
+      "pairs": [
+        "LCK-000002",
+        "LCK-000005",
+        "LCK-000018",
+        "LCK-000027",
+        "LCK-000030",
+        "LCK-000033",
+        "LCK-000034",
+        "LCK-000035",
+        "LCK-000036",
+        "LCK-000037",
+        "LCK-000038"
+      ],
+      "tibetan": "བླ་མ་",
+      "canonical_entry": "No exact established entry; related entries: བླ་མའི་རྣལ་འབྱོར་",
+      "english": "teacher",
+      "category": "Provisional",
+      "condition": "Personal and explicitly named nonpersonal teachers in this work. Existing Guru Yoga retains whole-expression precedence.",
+      "note_id": "N-A002"
+    },
+    {
+      "pairs": [
+        "LCK-000006",
+        "LCK-000007",
+        "LCK-000009",
+        "LCK-000011",
+        "LCK-000016",
+        "LCK-000023",
+        "LCK-000028",
+        "LCK-000029",
+        "LCK-000030"
+      ],
+      "tibetan": "གདམས་ངག་",
+      "canonical_entry": "No exact established entry; related entries: ཤེས་རབ་; སྒོམ་པ་",
+      "english": "pith instructions",
+      "category": "Provisional",
+      "condition": "Instructional transmission; singular pith instruction in the instrumental naming explanation. Singular/plural follow syntax.",
+      "note_id": "N-A007"
+    },
+    {
+      "pairs": [
+        "LCK-000008",
+        "LCK-000015",
+        "LCK-000024"
+      ],
+      "tibetan": "ཉོན་མོངས་པ་",
+      "canonical_entry": "No exact established entry; related entries: རྣམ་རྟོག་",
+      "english": "afflictions",
+      "category": "Provisional",
+      "condition": "Maintain distinction from differentiating conceptualization and desire/aversion subtypes; includes abbreviated ཉོན་མོངས་ forms.",
+      "note_id": "N-A009"
+    },
+    {
+      "pairs": [
+        "LCK-000027",
+        "LCK-000029",
+        "LCK-000033",
+        "LCK-000034",
+        "LCK-000039"
+      ],
+      "tibetan": "དགེ་བའི་བཤེས་གཉེན་",
+      "canonical_entry": "No exact established entry; related entries: བླ་མ་; ལོག་བཤེས་",
+      "english": "spiritual friend",
+      "category": "Provisional",
+      "condition": "Includes abbreviated དགེ་བའི་བཤེས་; personal spiritual friend where གང་ཟག་ is explicit. Distinct label from teacher, not generic interchangeability.",
+      "note_id": "N-A019"
+    },
+    {
+      "pairs": [
+        "LCK-000020",
+        "LCK-000024"
+      ],
+      "tibetan": "ལོག་བཤེས་",
+      "canonical_entry": "No exact established entry; related entries: དགེ་བའི་བཤེས་གཉེན་",
+      "english": "misguided spiritual friend",
+      "category": "Provisional",
+      "condition": "Adverse counterpart in the student qualifications; extended source form ལོག་པའི་བཤེས་ at90.",
+      "note_id": "N-A019"
+    },
+    {
+      "pairs": [
+        "LCK-000033"
+      ],
+      "tibetan": "བཀའ་",
+      "canonical_entry": "No exact established entry; related entries: བླ་མ་; གདམས་ངག་",
+      "english": "teachings",
+      "category": "Provisional",
+      "condition": "One of the four teachers; specific scope of scriptural teachings remains open. Do not assume speech by a named Buddha absent from source.",
+      "note_id": "N-A032"
+    },
+    {
+      "pairs": [
+        "LCK-000030",
+        "LCK-000037"
+      ],
+      "tibetan": "སྐུ་དྲིན་",
+      "canonical_entry": "No exact established entry; related entries: རྟོག་པ་; སྐུ་",
+      "english": "kindness",
+      "category": "Provisional",
+      "condition": "Whole expression for benefaction/kindness; prevents erroneous free parsing of honorific སྐུ་ as embodiment. Kind realizes སྐུ་དྲིན་ཅན་.",
+      "note_id": "N-A030"
+    },
+    {
+      "pairs": [
+        "LCK-000005"
+      ],
+      "tibetan": "ཐུགས་ཀྱི་སྲས་",
+      "canonical_entry": "No exact established entry; related entries: ཐུགས་རྗེ་; དགོངས་པ་",
+      "english": "son of the heart",
+      "category": "Provisional",
+      "condition": "Lineage relationship to Mila, not biological son. No standalone heart or mind mapping for ཐུགས་ is established by this proposal.",
+      "note_id": "N-A005"
+    },
+    {
+      "pairs": [
+        "LCK-000004"
+      ],
+      "tibetan": "དངོས་གྲུབ་",
+      "canonical_entry": "No exact established entry; related entries: ཐོབ་",
+      "english": "accomplishment",
+      "category": "Provisional",
+      "condition": "Technical accomplishment attained through cultivation in Lavapa praise; does not overwrite attainment for ཐོབ་.",
+      "note_id": "N-A004"
+    },
+    {
+      "pairs": [
+        "LCK-000004"
+      ],
+      "tibetan": "མཁའ་འགྲོ་",
+      "canonical_entry": "No exact established entry; related entries: བླ་མ་",
+      "english": "dakini",
+      "category": "Provisional",
+      "condition": "Transliteration for the named class; plural in line9, not a replacement for space in literal ནམ་མཁའ་.",
+      "note_id": "N-A004"
+    },
+    {
+      "pairs": [
+        "LCK-000008"
+      ],
+      "tibetan": "འདུལ་བ་",
+      "canonical_entry": "No exact established entry; related entries: ཆོས་",
+      "english": "Discipline",
+      "category": "Provisional",
+      "condition": "Doctrinal classification in26, preserving the tame/discipline verb relation. Ordinary verbal occurrences need separate grammatical review.",
+      "note_id": "N-A010"
+    },
+    {
+      "pairs": [
+        "LCK-000009"
+      ],
+      "tibetan": "ཚད་མ་",
+      "canonical_entry": "No exact established entry; related entries: ཤེས་པ་; སྒྲོ་འདོགས་",
+      "english": "valid cognition",
+      "category": "Provisional",
+      "condition": "Named instructional classification at30; does not replace knowing as an unrestricted output.",
+      "note_id": "N-A010"
+    },
+    {
+      "pairs": [
+        "LCK-000010"
+      ],
+      "tibetan": "དབུ་མ་",
+      "canonical_entry": "No exact established entry; related entries: རྟག་ཆད་; སྒྲོ་འདོགས་",
+      "english": "Middle Way",
+      "category": "Provisional",
+      "condition": "Classification qualified by freedom from extremes at31–32.",
+      "note_id": "N-A010"
+    },
+    {
+      "pairs": [
+        "LCK-000011"
+      ],
+      "tibetan": "ཕ་རོལ་ཕྱིན་པ་",
+      "canonical_entry": "No exact established entry; related entries: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་",
+      "english": "perfection",
+      "category": "Provisional",
+      "condition": "Abbreviated form occurring without discerning knowing; do not silently add that component. The fuller established expression retains its full output.",
+      "note_id": "N-A010"
+    },
+    {
+      "pairs": [
+        "LCK-000012"
+      ],
+      "tibetan": "རྫོགས་ཆེན་",
+      "canonical_entry": "No exact established entry; related entries: སེམས་; ཕ་རོལ་ཕྱིན་པ་",
+      "english": "Great Perfection",
+      "category": "Provisional",
+      "condition": "Classification grounded in completion of samsara/nirvana phenomena within ordinary mind; preserve distinction from perfection.",
+      "note_id": "N-A010"
+    },
+    {
+      "pairs": [
+        "LCK-000014"
+      ],
+      "tibetan": "ཞི་བྱེད་",
+      "canonical_entry": "No exact established entry; related entries: ཞི་གནས་",
+      "english": "Pacification",
+      "category": "Provisional",
+      "condition": "Named classification with its pacifying-suffering explanation; not calm abiding, which has its own source expression.",
+      "note_id": "N-A010"
+    },
+    {
+      "pairs": [
+        "LCK-000015"
+      ],
+      "tibetan": "གསང་སྔགས་",
+      "canonical_entry": "No exact established entry; related entries: སྔགས་",
+      "english": "Secret Mantra",
+      "category": "Provisional",
+      "condition": "Named classification at41. Do not substitute Tantra without source support or overwrite continuum for an unrelated word.",
+      "note_id": "N-A010"
+    },
+    {
+      "pairs": [
+        "LCK-000017"
+      ],
+      "tibetan": "སྔགས་",
+      "canonical_entry": "No exact established entry; related entries: གསང་སྔགས་",
+      "english": "mantra",
+      "category": "Provisional",
+      "condition": "Object/application to obstacles at47; not praise. Protective relation is separately explained in the note.",
+      "note_id": "N-A015"
+    },
+    {
+      "pairs": [
+        "LCK-000010"
+      ],
+      "tibetan": "རྟག་ཆད་",
+      "canonical_entry": "No exact established entry; related entries: དབུ་མ་; སྒྲོ་སྐུར་",
+      "english": "eternalism and annihilationism",
+      "category": "Provisional",
+      "condition": "Compact pair of extremes in31; preserve source order and pair distinction.",
+      "note_id": "N-A012"
+    },
+    {
+      "pairs": [
+        "LCK-000010"
+      ],
+      "tibetan": "སྒྲོ་སྐུར་",
+      "canonical_entry": "No exact established entry; related entries: སྒྲོ་འདོགས་; རྟག་ཆད་",
+      "english": "superimposition and denigration",
+      "category": "Provisional",
+      "condition": "Abbreviated pair at31; keep established superimposition component and distinct negative counterpart.",
+      "note_id": "N-A012"
+    },
+    {
+      "pairs": [
+        "LCK-000012",
+        "LCK-000022",
+        "LCK-000024",
+        "LCK-000028",
+        "LCK-000031"
+      ],
+      "tibetan": "འཁོར་བ་",
+      "canonical_entry": "No exact established entry; related entries: མྱ་ངན་འདས་པ་",
+      "english": "samsara",
+      "category": "Provisional",
+      "condition": "Includes abbreviated འཁོར་ in the samsara/nirvana pair; no claim of a new definition beyond the source.",
+      "note_id": "N-A013"
+    },
+    {
+      "pairs": [
+        "LCK-000012"
+      ],
+      "tibetan": "མྱ་ངན་འདས་པ་",
+      "canonical_entry": "No exact established entry; related entries: འཁོར་བ་",
+      "english": "nirvana",
+      "category": "Provisional",
+      "condition": "Explicit partner of samsara at35.",
+      "note_id": "N-A013"
+    },
+    {
+      "pairs": [
+        "LCK-000024"
+      ],
+      "tibetan": "ཆོས་བརྒྱད་",
+      "canonical_entry": "No exact established entry; related entries: ཆོས་",
+      "english": "eight worldly concerns",
+      "category": "Provisional",
+      "condition": "Numbered idiom at88; do not expand into an unprovided list.",
+      "note_id": "N-A023"
+    },
+    {
+      "pairs": [
+        "LCK-000026",
+        "LCK-000031"
+      ],
+      "tibetan": "སངས་རྒྱས་",
+      "canonical_entry": "No exact established entry; related entries: ཐོབ་; འབྲས་བུ་",
+      "english": "buddhahood",
+      "category": "Provisional",
+      "condition": "Only attainment/state contexts in this partition; individual Buddha references need a distinct scoped realization.",
+      "note_id": "N-A025"
+    },
+    {
+      "pairs": [
+        "LCK-000020",
+        "LCK-000027",
+        "LCK-000029"
+      ],
+      "tibetan": "བདག་པོའི་རྐྱེན་",
+      "canonical_entry": "No exact established entry; related entries: དམིགས་པའི་རྐྱེན་; དེ་མ་ཐག་པའི་རྐྱེན་",
+      "english": "dominant condition",
+      "category": "Provisional",
+      "condition": "Four-condition framework; omitted condition at58 is visibly supplied. Do not read the form as an owner or self without checking the full construction.",
+      "note_id": "N-A018"
+    },
+    {
+      "pairs": [
+        "LCK-000020",
+        "LCK-000025",
+        "LCK-000027",
+        "LCK-000030"
+      ],
+      "tibetan": "དམིགས་པའི་རྐྱེན་",
+      "canonical_entry": "No exact established entry; related entries: དམིགས་པ་",
+      "english": "condition of the object of focus",
+      "category": "Provisional",
+      "condition": "Preserves established object of focus in the technical condition expression.",
+      "note_id": "N-A018"
+    },
+    {
+      "pairs": [
+        "LCK-000020",
+        "LCK-000026",
+        "LCK-000027",
+        "LCK-000031"
+      ],
+      "tibetan": "དེ་མ་ཐག་པའི་རྐྱེན་",
+      "canonical_entry": "No exact established entry; related entries: བདག་པོའི་རྐྱེན་",
+      "english": "immediate condition",
+      "category": "Provisional",
+      "condition": "Narrow local working rendering. Whether immediately preceding should be specified requires human review; no independent temporal claim is made.",
+      "note_id": "N-A018"
+    },
+    {
+      "pairs": [
+        "LCK-000036"
+      ],
+      "tibetan": "སྐུ་བཞི་",
+      "canonical_entry": "No exact established entry; related entries: སྐུ་; སྐུ་གསུམ་",
+      "english": "four embodiments",
+      "category": "Provisional",
+      "condition": "Numbered expression built from the established embodiment family; the passage does not enumerate the four.",
+      "note_id": "N-A035"
+    },
+    {
+      "pairs": [
+        "LCK-000028",
+        "LCK-000029"
+      ],
+      "tibetan": "དད་གུས་",
+      "canonical_entry": "No exact established entry; related entries: དད་པ་; མོས་གུས་",
+      "english": "faith and devotion",
+      "category": "Provisional",
+      "condition": "Keeps faith distinct from confident devotion. The phrase in29 depends on a disclosed textual conjecture from དད་དུས་.",
+      "note_id": "N-A028"
+    },
+    {
+      "pairs": [
+        "LCK-000028"
+      ],
+      "tibetan": "ཞེན་འཛིན་",
+      "canonical_entry": "No exact established entry; related entries: ཞེན་པ་; འཛིན་པ་; གཟུང་འཛིན་",
+      "english": "clinging apprehension",
+      "category": "Provisional",
+      "condition": "Whole compound at122; not a standalone assertion of an apprehending subject.",
+      "note_id": "N-A028"
+    },
+    {
+      "pairs": [
+        "LCK-000034"
+      ],
+      "tibetan": "གསལ་འདེབས་",
+      "canonical_entry": "No exact established entry; related entries: གསལ་བ་; གསོལ་བ་འདེབས་",
+      "english": "bring clarity",
+      "category": "Provisional",
+      "condition": "Teacher quality at158; reminding is an alternative requiring review. Do not harmonize with the divergent supplication expression at164.",
+      "note_id": "N-A033"
+    },
+    {
+      "pairs": [
+        "LCK-000035"
+      ],
+      "tibetan": "གསོལ་བ་འདེབས་",
+      "canonical_entry": "No exact established entry; related entries: གསལ་འདེབས་",
+      "english": "offer supplication",
+      "category": "Provisional",
+      "condition": "Literal treatment of the supplied explanatory label at164, even though it conflicts with the list.",
+      "note_id": "N-A033"
+    },
+    {
+      "pairs": [
+        "LCK-000034",
+        "LCK-000036"
+      ],
+      "tibetan": "འགལ་བསྒྱུར་",
+      "canonical_entry": "No exact established entry; related entries: འགལ་བ་; སྒོམ་པ་",
+      "english": "transform adverse circumstances",
+      "category": "Provisional",
+      "condition": "Instructional action explained through adverse situations in165–173; no generic substitution for contrivance-family entries.",
+      "note_id": "N-A034"
+    },
+    {
+      "pairs": [
+        "LCK-000034",
+        "LCK-000038"
+      ],
+      "tibetan": "ཤེས་རབ་གོ་འབྱེད་",
+      "canonical_entry": "No exact established entry; related entries: ཤེས་རབ་",
+      "english": "open up discerning knowing",
+      "category": "Provisional",
+      "condition": "Whole instructional expression; retains discerning knowing. Whether open understanding through/of discerning knowing is more precise remains open.",
+      "note_id": "N-A034"
+    },
+    {
+      "pairs": [
+        "LCK-000036"
+      ],
+      "tibetan": "མཚམས་མེད་ལྔ་",
+      "canonical_entry": "No exact established entry; related entries: མི་དགེ་བཅུ་",
+      "english": "five deeds with immediate consequences",
+      "category": "Provisional",
+      "condition": "Conventional named group at165; no absent enumeration is supplied.",
+      "note_id": "N-A035"
+    },
+    {
+      "pairs": [
+        "LCK-000036"
+      ],
+      "tibetan": "དམ་ཚིག་",
+      "canonical_entry": "No exact established entry; related entries: སྡོམ་",
+      "english": "samaya",
+      "category": "Provisional",
+      "condition": "Retained technical transliteration in166; distinguish from vows.",
+      "note_id": "N-A035"
+    },
+    {
+      "pairs": [
+        "LCK-000036"
+      ],
+      "tibetan": "རིགས་རྒྱུད་",
+      "canonical_entry": "No exact established entry; related entries: རྒྱུད་",
+      "english": "spiritual family and continuum",
+      "category": "Provisional",
+      "condition": "Disclosed local interpretation of a potentially compound lineage/disposition expression; preserve continuum component pending review.",
+      "note_id": "N-A035"
+    },
+    {
+      "pairs": [
+        "LCK-000037"
+      ],
+      "tibetan": "ངེས་ཤེས་",
+      "canonical_entry": "No exact established entry; related entries: ཤེས་པ་; ངེས་པའི་ཤེས་པ་",
+      "english": "certain knowing",
+      "category": "Provisional",
+      "condition": "Compound containing established knowing; expanded construction occurs in9. Damaged repeated-vowel form at179 is separately annotated.",
+      "note_id": "N-A036"
+    },
+    {
+      "pairs": [
+        "LCK-000013"
+      ],
+      "tibetan": "ཡིད་ལ་མི་བྱེད་",
+      "canonical_entry": "No exact established entry; related entries: ཡིད་; ཕྱག་རྒྱ་ཆེན་པོ་",
+      "english": "not engaging the mental faculty",
+      "category": "Provisional",
+      "condition": "Negative attention/engagement construction; preserves mental faculty and does not prescribe absence of ordinary mind.",
+      "note_id": "N-A014"
+    },
+    {
+      "pairs": [
+        "LCK-000029"
+      ],
+      "tibetan": "དངོས་པོ་མེད་པ་",
+      "canonical_entry": "No exact established entry; related entries: སྟོང་པ་",
+      "english": "without concrete existence",
+      "category": "Provisional",
+      "condition": "Predicative denial at130; distinct from emptiness as an established headword. Does not promote concrete as a default for every thing noun.",
+      "note_id": "N-A029"
+    },
+    {
+      "pairs": [
+        "LCK-000003"
+      ],
+      "tibetan": "འགྲོ་བའི་དོན་མཛད་",
+      "canonical_entry": "དོན་ → Meaning",
+      "english": "act for the benefit of beings",
+      "category": "Provisional",
+      "condition": "Beneficiary verbal construction, not the list of six meanings.",
+      "note_id": "N-A003"
+    },
+    {
+      "pairs": [
+        "LCK-000003"
+      ],
+      "tibetan": "སྤྲུལ་སྐུ་",
+      "canonical_entry": "སྤྲུལ་པའི་སྐུ་ → Emanation embodiment",
+      "english": "emanation embodiment",
+      "category": "Grammatical",
+      "condition": "Abbreviated whole-expression form.",
+      "note_id": "N-A003"
+    },
+    {
+      "pairs": [
+        "LCK-000009",
+        "LCK-000025",
+        "LCK-000030",
+        "LCK-000037",
+        "LCK-000038"
+      ],
+      "tibetan": "རྣམ་པར་རྟོག་པ་",
+      "canonical_entry": "རྣམ་རྟོག་ → Differentiating conceptualization",
+      "english": "differentiating conceptualization",
+      "category": "Grammatical",
+      "condition": "Expanded grammatical form; do not collapse standalone རྟོག་པ་.",
+      "note_id": "N-A024"
+    },
+    {
+      "pairs": [
+        "LCK-000025",
+        "LCK-000038"
+      ],
+      "tibetan": "མི་རྟོག་",
+      "canonical_entry": "མི་རྟོག་པ་ → Non-conceptuality",
+      "english": "non-conceptual",
+      "category": "Grammatical",
+      "condition": "Adjectival modifier of primordial knowing.",
+      "note_id": "N-A024"
+    },
+    {
+      "pairs": [
+        "LCK-000004",
+        "LCK-000007",
+        "LCK-000023",
+        "LCK-000025",
+        "LCK-000026",
+        "LCK-000035"
+      ],
+      "tibetan": "སྒོམ་",
+      "canonical_entry": "སྒོམ་པ་ → Cultivation",
+      "english": "cultivation / cultivate / cultivating",
+      "category": "Grammatical",
+      "condition": "Inflected and abbreviated forms in their respective source constructions.",
+      "note_id": "N-A024"
+    },
+    {
+      "pairs": [
+        "LCK-000031"
+      ],
+      "tibetan": "མཉམ་པ་ཉིད་",
+      "canonical_entry": "མཉམ་ཉིད་ → Evenness",
+      "english": "evenness",
+      "category": "Grammatical",
+      "condition": "Expanded nominal expression; keeps canonical output.",
+      "note_id": "N-A031"
+    },
+    {
+      "pairs": [
+        "LCK-000037"
+      ],
+      "tibetan": "ཝལ་གྱིས་",
+      "canonical_entry": "ཝལ་གྱིས་ → Vividly clear",
+      "english": "with vivid clarity",
+      "category": "Grammatical",
+      "condition": "Transparent nominal grammatical construction modifying knowing; no component deletion.",
+      "note_id": "N-A036"
+    },
+    {
+      "pairs": [
+        "LCK-000013"
+      ],
+      "tibetan": "ཕྱག་རྒྱ་ཆེ་",
+      "canonical_entry": "ཕྱག་རྒྱ་ཆེན་པོ་ → Mahamudra",
+      "english": "Mahamudra",
+      "category": "Grammatical",
+      "condition": "Metrical shortened whole expression.",
+      "note_id": "N-A014"
+    },
+    {
+      "pairs": [
+        "LCK-000026"
+      ],
+      "tibetan": "ཡིད་གཉིས་",
+      "canonical_entry": "ཡིད་ → Mental faculty",
+      "english": "mental faculty thus divided",
+      "category": "Grammatical",
+      "condition": "Retains both components in the indecision construction; no new default for the noun.",
+      "note_id": "N-A026"
+    }
+  ],
+  "proposals": [
+    {
+      "Tibetan": "ལྷན་ཅིག་སྐྱེས་སྦྱོར་",
+      "English": "coemergent joining",
+      "Meaning and scope": "Title and its explicit explanation at42–45; includes title variant ལྷན་གཅིག་. Coemergent is a local working spelling; existing co-emergent ignorance remains unchanged.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ་; སེམས་; རྣམ་རྟོག་; ཆོས་སྐུ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000001, LCK-000006, LCK-000007, LCK-000016; N-A001.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A001."
+    },
+    {
+      "Tibetan": "སྐྱེས་སྦྱོར་",
+      "English": "coemergent joining",
+      "Meaning and scope": "Abbreviated title at20–21; linked form, not a competing interpretation of ordinary joining.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ལྷན་ཅིག་སྐྱེས་སྦྱོར་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000006, LCK-000007; N-A001.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A001."
+    },
+    {
+      "Tibetan": "ལྷན་ཅིག་སྐྱེས་པ་",
+      "English": "coemergent",
+      "Meaning and scope": "Predicate for the three named items at43. Does not authorize replacing or respelling the established whole-expression ignorance entry.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000016; N-A001.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A001."
+    },
+    {
+      "Tibetan": "བླ་མ་",
+      "English": "teacher",
+      "Meaning and scope": "Personal and explicitly named nonpersonal teachers in this work. Existing Guru Yoga retains whole-expression precedence.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "བླ་མའི་རྣལ་འབྱོར་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000002, LCK-000005, LCK-000018, LCK-000027, LCK-000030, LCK-000033, LCK-000034, LCK-000035, LCK-000036, LCK-000037, LCK-000038; N-A002.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A002."
+    },
+    {
+      "Tibetan": "གདམས་ངག་",
+      "English": "pith instructions",
+      "Meaning and scope": "Instructional transmission; singular pith instruction in the instrumental naming explanation. Singular/plural follow syntax.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཤེས་རབ་; སྒོམ་པ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000006, LCK-000007, LCK-000009, LCK-000011, LCK-000016, LCK-000023, LCK-000028, LCK-000029, LCK-000030; N-A007.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A007."
+    },
+    {
+      "Tibetan": "ཉོན་མོངས་པ་",
+      "English": "afflictions",
+      "Meaning and scope": "Maintain distinction from differentiating conceptualization and desire/aversion subtypes; includes abbreviated ཉོན་མོངས་ forms.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "རྣམ་རྟོག་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000008, LCK-000015, LCK-000024; N-A009.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A009."
+    },
+    {
+      "Tibetan": "དགེ་བའི་བཤེས་གཉེན་",
+      "English": "spiritual friend",
+      "Meaning and scope": "Includes abbreviated དགེ་བའི་བཤེས་; personal spiritual friend where གང་ཟག་ is explicit. Distinct label from teacher, not generic interchangeability.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "བླ་མ་; ལོག་བཤེས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000027, LCK-000029, LCK-000033, LCK-000034, LCK-000039; N-A019.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A019."
+    },
+    {
+      "Tibetan": "ལོག་བཤེས་",
+      "English": "misguided spiritual friend",
+      "Meaning and scope": "Adverse counterpart in the student qualifications; extended source form ལོག་པའི་བཤེས་ at90.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "དགེ་བའི་བཤེས་གཉེན་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000020, LCK-000024; N-A019.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A019."
+    },
+    {
+      "Tibetan": "བཀའ་",
+      "English": "teachings",
+      "Meaning and scope": "One of the four teachers; specific scope of scriptural teachings remains open. Do not assume speech by a named Buddha absent from source.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "བླ་མ་; གདམས་ངག་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000033; N-A032.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A032."
+    },
+    {
+      "Tibetan": "སྐུ་དྲིན་",
+      "English": "kindness",
+      "Meaning and scope": "Whole expression for benefaction/kindness; prevents erroneous free parsing of honorific སྐུ་ as embodiment. Kind realizes སྐུ་དྲིན་ཅན་.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "རྟོག་པ་; སྐུ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000030, LCK-000037; N-A030.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A030."
+    },
+    {
+      "Tibetan": "ཐུགས་ཀྱི་སྲས་",
+      "English": "son of the heart",
+      "Meaning and scope": "Lineage relationship to Mila, not biological son. No standalone heart or mind mapping for ཐུགས་ is established by this proposal.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཐུགས་རྗེ་; དགོངས་པ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000005; N-A005.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A005."
+    },
+    {
+      "Tibetan": "དངོས་གྲུབ་",
+      "English": "accomplishment",
+      "Meaning and scope": "Technical accomplishment attained through cultivation in Lavapa praise; does not overwrite attainment for ཐོབ་.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཐོབ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000004; N-A004.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A004."
+    },
+    {
+      "Tibetan": "མཁའ་འགྲོ་",
+      "English": "dakini",
+      "Meaning and scope": "Transliteration for the named class; plural in line9, not a replacement for space in literal ནམ་མཁའ་.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "བླ་མ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000004; N-A004.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A004."
+    },
+    {
+      "Tibetan": "འདུལ་བ་",
+      "English": "Discipline",
+      "Meaning and scope": "Doctrinal classification in26, preserving the tame/discipline verb relation. Ordinary verbal occurrences need separate grammatical review.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཆོས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000008; N-A010.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A010."
+    },
+    {
+      "Tibetan": "ཚད་མ་",
+      "English": "valid cognition",
+      "Meaning and scope": "Named instructional classification at30; does not replace knowing as an unrestricted output.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཤེས་པ་; སྒྲོ་འདོགས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000009; N-A010.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A010."
+    },
+    {
+      "Tibetan": "དབུ་མ་",
+      "English": "Middle Way",
+      "Meaning and scope": "Classification qualified by freedom from extremes at31–32.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "རྟག་ཆད་; སྒྲོ་འདོགས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000010; N-A010.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A010."
+    },
+    {
+      "Tibetan": "ཕ་རོལ་ཕྱིན་པ་",
+      "English": "perfection",
+      "Meaning and scope": "Abbreviated form occurring without discerning knowing; do not silently add that component. The fuller established expression retains its full output.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000011; N-A010.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A010."
+    },
+    {
+      "Tibetan": "རྫོགས་ཆེན་",
+      "English": "Great Perfection",
+      "Meaning and scope": "Classification grounded in completion of samsara/nirvana phenomena within ordinary mind; preserve distinction from perfection.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "སེམས་; ཕ་རོལ་ཕྱིན་པ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000012; N-A010.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A010."
+    },
+    {
+      "Tibetan": "ཞི་བྱེད་",
+      "English": "Pacification",
+      "Meaning and scope": "Named classification with its pacifying-suffering explanation; not calm abiding, which has its own source expression.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཞི་གནས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000014; N-A010.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A010."
+    },
+    {
+      "Tibetan": "གསང་སྔགས་",
+      "English": "Secret Mantra",
+      "Meaning and scope": "Named classification at41. Do not substitute Tantra without source support or overwrite continuum for an unrelated word.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "སྔགས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000015; N-A010.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A010."
+    },
+    {
+      "Tibetan": "སྔགས་",
+      "English": "mantra",
+      "Meaning and scope": "Object/application to obstacles at47; not praise. Protective relation is separately explained in the note.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "གསང་སྔགས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000017; N-A015.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A015."
+    },
+    {
+      "Tibetan": "རྟག་ཆད་",
+      "English": "eternalism and annihilationism",
+      "Meaning and scope": "Compact pair of extremes in31; preserve source order and pair distinction.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "དབུ་མ་; སྒྲོ་སྐུར་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000010; N-A012.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A012."
+    },
+    {
+      "Tibetan": "སྒྲོ་སྐུར་",
+      "English": "superimposition and denigration",
+      "Meaning and scope": "Abbreviated pair at31; keep established superimposition component and distinct negative counterpart.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "སྒྲོ་འདོགས་; རྟག་ཆད་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000010; N-A012.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A012."
+    },
+    {
+      "Tibetan": "འཁོར་བ་",
+      "English": "samsara",
+      "Meaning and scope": "Includes abbreviated འཁོར་ in the samsara/nirvana pair; no claim of a new definition beyond the source.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "མྱ་ངན་འདས་པ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000012, LCK-000022, LCK-000024, LCK-000028, LCK-000031; N-A013.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A013."
+    },
+    {
+      "Tibetan": "མྱ་ངན་འདས་པ་",
+      "English": "nirvana",
+      "Meaning and scope": "Explicit partner of samsara at35.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "འཁོར་བ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000012; N-A013.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A013."
+    },
+    {
+      "Tibetan": "ཆོས་བརྒྱད་",
+      "English": "eight worldly concerns",
+      "Meaning and scope": "Numbered idiom at88; do not expand into an unprovided list.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཆོས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000024; N-A023.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A023."
+    },
+    {
+      "Tibetan": "སངས་རྒྱས་",
+      "English": "buddhahood",
+      "Meaning and scope": "Only attainment/state contexts in this partition; individual Buddha references need a distinct scoped realization.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཐོབ་; འབྲས་བུ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000026, LCK-000031; N-A025.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A025."
+    },
+    {
+      "Tibetan": "བདག་པོའི་རྐྱེན་",
+      "English": "dominant condition",
+      "Meaning and scope": "Four-condition framework; omitted condition at58 is visibly supplied. Do not read the form as an owner or self without checking the full construction.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "དམིགས་པའི་རྐྱེན་; དེ་མ་ཐག་པའི་རྐྱེན་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000020, LCK-000027, LCK-000029; N-A018.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A018."
+    },
+    {
+      "Tibetan": "དམིགས་པའི་རྐྱེན་",
+      "English": "condition of the object of focus",
+      "Meaning and scope": "Preserves established object of focus in the technical condition expression.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "དམིགས་པ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000020, LCK-000025, LCK-000027, LCK-000030; N-A018.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A018."
+    },
+    {
+      "Tibetan": "དེ་མ་ཐག་པའི་རྐྱེན་",
+      "English": "immediate condition",
+      "Meaning and scope": "Narrow local working rendering. Whether immediately preceding should be specified requires human review; no independent temporal claim is made.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "བདག་པོའི་རྐྱེན་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000020, LCK-000026, LCK-000027, LCK-000031; N-A018.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A018."
+    },
+    {
+      "Tibetan": "སྐུ་བཞི་",
+      "English": "four embodiments",
+      "Meaning and scope": "Numbered expression built from the established embodiment family; the passage does not enumerate the four.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "སྐུ་; སྐུ་གསུམ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000036; N-A035.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A035."
+    },
+    {
+      "Tibetan": "དད་གུས་",
+      "English": "faith and devotion",
+      "Meaning and scope": "Keeps faith distinct from confident devotion. The phrase in29 depends on a disclosed textual conjecture from དད་དུས་.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "དད་པ་; མོས་གུས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000028, LCK-000029; N-A028.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A028."
+    },
+    {
+      "Tibetan": "ཞེན་འཛིན་",
+      "English": "clinging apprehension",
+      "Meaning and scope": "Whole compound at122; not a standalone assertion of an apprehending subject.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཞེན་པ་; འཛིན་པ་; གཟུང་འཛིན་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000028; N-A028.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A028."
+    },
+    {
+      "Tibetan": "གསལ་འདེབས་",
+      "English": "bring clarity",
+      "Meaning and scope": "Teacher quality at158; reminding is an alternative requiring review. Do not harmonize with the divergent supplication expression at164.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "གསལ་བ་; གསོལ་བ་འདེབས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000034; N-A033.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A033."
+    },
+    {
+      "Tibetan": "གསོལ་བ་འདེབས་",
+      "English": "offer supplication",
+      "Meaning and scope": "Literal treatment of the supplied explanatory label at164, even though it conflicts with the list.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "གསལ་འདེབས་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000035; N-A033.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A033."
+    },
+    {
+      "Tibetan": "འགལ་བསྒྱུར་",
+      "English": "transform adverse circumstances",
+      "Meaning and scope": "Instructional action explained through adverse situations in165–173; no generic substitution for contrivance-family entries.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "འགལ་བ་; སྒོམ་པ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000034, LCK-000036; N-A034.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A034."
+    },
+    {
+      "Tibetan": "ཤེས་རབ་གོ་འབྱེད་",
+      "English": "open up discerning knowing",
+      "Meaning and scope": "Whole instructional expression; retains discerning knowing. Whether open understanding through/of discerning knowing is more precise remains open.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཤེས་རབ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000034, LCK-000038; N-A034.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A034."
+    },
+    {
+      "Tibetan": "མཚམས་མེད་ལྔ་",
+      "English": "five deeds with immediate consequences",
+      "Meaning and scope": "Conventional named group at165; no absent enumeration is supplied.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "མི་དགེ་བཅུ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000036; N-A035.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A035."
+    },
+    {
+      "Tibetan": "དམ་ཚིག་",
+      "English": "samaya",
+      "Meaning and scope": "Retained technical transliteration in166; distinguish from vows.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "སྡོམ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000036; N-A035.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A035."
+    },
+    {
+      "Tibetan": "རིགས་རྒྱུད་",
+      "English": "spiritual family and continuum",
+      "Meaning and scope": "Disclosed local interpretation of a potentially compound lineage/disposition expression; preserve continuum component pending review.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "རྒྱུད་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000036; N-A035.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A035."
+    },
+    {
+      "Tibetan": "ངེས་ཤེས་",
+      "English": "certain knowing",
+      "Meaning and scope": "Compound containing established knowing; expanded construction occurs in9. Damaged repeated-vowel form at179 is separately annotated.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཤེས་པ་; ངེས་པའི་ཤེས་པ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000037; N-A036.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A036."
+    },
+    {
+      "Tibetan": "ཡིད་ལ་མི་བྱེད་",
+      "English": "not engaging the mental faculty",
+      "Meaning and scope": "Negative attention/engagement construction; preserves mental faculty and does not prescribe absence of ordinary mind.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "ཡིད་; ཕྱག་རྒྱ་ཆེན་པོ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000013; N-A014.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A014."
+    },
+    {
+      "Tibetan": "དངོས་པོ་མེད་པ་",
+      "English": "without concrete existence",
+      "Meaning and scope": "Predicative denial at130; distinct from emptiness as an established headword. Does not promote concrete as a default for every thing noun.",
+      "Allowed grammatical forms": "Ordinary number and inflection only within the stated scope; no global semantic substitution.",
+      "Contextual exceptions": "None approved. All uses here remain scoped provisional treatments.",
+      "Related entries": "སྟོང་པ་",
+      "Rationale and sources": "Whole 222-entry glossary and relevant full eight-column rows checked; no exact active headword. provisional-source-v1, LCK-000029; N-A029.",
+      "Status and open questions": "Proposed — not approved or activated. Review the exact scope and family implications in N-A029."
+    },
+    {
+      "Tibetan": "དོན་",
+      "English": "Meaning",
+      "Meaning and scope": "",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "Proposed only: benefit in འགྲོ་བའི་དོན་མཛད་ at L0004; beneficiary construction. Keep Meaning as the canonical lexical assignment.",
+      "Related entries": "Component of: སྒྲ་དོན་; མིང་དོན་; མིང་དོན་འདྲེས་པ་; སྒྲ་དོན་འདྲེས་རུང་; དོན་སྤྱི་",
+      "Rationale and sources": "G, line 199; Related mappings: G lines 23, 55, 86, 200, 201; provisional-source-v1 L0004 / LCK-000003; N-A003",
+      "Status and open questions": "Proposed contextual usage only — the established Meaning assignment remains unchanged. Review benefit in this beneficiary construction."
+    }
+  ],
+  "coverage": {
+    "pairs_complete": 39,
+    "pairs_remaining": 0,
+    "raw_lines_accounted_for": 191,
+    "omitted_pairs": [],
+    "independent_qc": false,
+    "source_changes": 0,
+    "glossary_changes": 0,
+    "self_check": "all 39 pairs read against source; terminology, order, participants, scope and negation checked; provisional records require external review",
+    "terminology_proposals": 44,
+    "usage_records": 52,
+    "source_vowel_defect_loci": 27,
+    "mechanical_self_checks": {
+      "pair_order_matches_packet": true,
+      "nonempty_pairs": 39,
+      "line_order_preserved": "191 English lines for 191 source lines; each pair line count matches",
+      "notes_links_valid": true,
+      "usage_note_links_valid": true,
+      "eight_column_proposal_schema_valid": true,
+      "audited_source_anomaly_loci_covered": 38,
+      "source_anomaly_loci_missing": 0
+    }
+  },
+  "handoff": "39/39 pairs and all 191 source lines accounted for. No source or glossary edits. Translator self-check complete; independent QC still required. New terminology, disclosed source conjectures and lineage/syntax questions remain open; see 39 notes and 44 proposal records. No physical-source check or human approval claimed."
+}
