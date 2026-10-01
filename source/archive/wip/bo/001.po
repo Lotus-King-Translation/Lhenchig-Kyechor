@@ -1,0 +1,2364 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5bd482de268e4ee7882d52c39a7267ac"
+msgid "༄༅། ། དང་པོ ། ༄། ལྷན་ གཅིག་ སྐྱེས་ སྦྱོར་ ཞེས་ བྱ་བ་ བཞུགས་ སོ །"
+msgstr ""
+
+msgctxt "eb8df20164804503b60e6dcd24f61289"
+msgid "བླ་མ་ རིན་པོ་ཆེ་ རྣམས་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
+msgstr ""
+
+msgctxt "71586aad6e244096974465f819d1ac53"
+msgid "རང་བཞིན་ དབྱིངས་ ལས་མ་ གཡོས་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "a65996f6cd4a4086a3d7f63b01f23f66"
+msgid "ཐུགས་རྗེ␣ས་ འགྲོ་བ␣འི་ དོན་ མཛད་ ཕྱིར ། །"
+msgstr ""
+
+msgctxt "2e707bee2c4e4687878336f8210f1325"
+msgid "སྤྲུལ་སྐུ་ འཇའ་ཚོན་ ལྟ་བུ␣ར་ བྱོན ། །"
+msgstr ""
+
+msgctxt "f6096b07243b4a85b466c9b01b153227"
+msgid "ཨུ་རྒྱན་ ཕག་མོ་ ལ་ ཕྱག་ འཚལ ། །"
+msgstr ""
+
+msgctxt "d0edba708c1c450daca0fbe257167355"
+msgid "ཕག་མོ␣ས་ དོངས་ སུ་ བྱིན་ བརླབས་པ␣འི ། །"
+msgstr ""
+
+msgctxt "fc8afd9d22134a80af0e4296fa26c50e"
+msgid "ཐུན་ གཅིག་ བསྒོམ་ ནས་ དངོས་གྲུབ་ ཐོབ ། །"
+msgstr ""
+
+msgctxt "74f716fc77bf470d9176021cedae7d6c"
+msgid "མཁའ་འགྲོ་ དབང་ དུ་ སྡུད་ མཛད་པ␣འི ། །"
+msgstr ""
+
+msgctxt "1d587f36575c4cfc99042c997487d29a"
+msgid "ལྭ་བ་པ་ ལ་ ཕྱག་ འཚལ་ བསྟོད ། །"
+msgstr ""
+
+msgctxt "e4c56bc530c1466d8d69729b48f20c26"
+msgid "དེ་ ཡི་ བྱིན་རླབས་ རཀྵི་ ཏ ། །"
+msgstr ""
+
+msgctxt "df43fbdc4d9548be859e4d5c433d9e7a"
+msgid "དེེ་ ཡི་ བརྒྱུད་འཛིན་ ལྷོ་བྲག་པ ། །"
+msgstr ""
+
+msgctxt "78ee6bd75774468c8a22135e0e29a9a8"
+msgid "དེ་ ཡིི་ བྱིན་རླབས་ གུང་ ཐང་པ ། །"
+msgstr ""
+
+msgctxt "889e244fd72548268b41f4ef45bccd91"
+msgid "མི་ལ␣འི་ ཐུགས་ ཀྱི་ སྲས་ གྱུར་པ ། །"
+msgstr ""
+
+msgctxt "10aa66bd1a5c4627b97faa845220412c"
+msgid "རྗེ་ མཚན་ལྡན་ བླ་མ་ རིན་པོ་ཆེ ། །"
+msgstr ""
+
+msgctxt "63a4949bb8da40c48e59a5d0df42a969"
+msgid "བརྒྱུད་པ␣འི་ བླ་མ་ རྣམས་ ལ་ བདག་ ཕྱག་ འཚལ ། །"
+msgstr ""
+
+msgctxt "504a607101db49d0b3faee19958c1876"
+msgid "བདག་ཉིད་ བརྗེད་པ␣ས་ འཇིགས་པ་ དང་ ། །"
+msgstr ""
+
+msgctxt "81930031098a43588ec89ecd842a5e06"
+msgid "སྐལ་ལྡན་ འགའ་ ལ་ ཕན་ གདགས་ ཕྱིར ། །"
+msgstr ""
+
+msgctxt "176754b16cbb478eb5e88fe61c9d203c"
+msgid "ལྟ་ རྗེའི་ གསུང་སྒྲོས་ ཇི་བཞིན་ དུ ། །"
+msgstr ""
+
+msgctxt "2be51189cb77449db0fa54bc19d4bec6"
+msgid "སྐྱེས་ སྦྱོར་ གདམས་ངག་ བྲི་བ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "646465da984047c48cf696e72fd288e6"
+msgid "དེ་ཡང་ སྐྱེས་ སྦྱོར་ གདམས་ངག་ ལ ། །"
+msgstr ""
+
+msgctxt "c3b4e85fd929435aa2cf3d108cd014a5"
+msgid "རྗེེའི་ ཞལ་ ནས་ འདི་སྐད་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "ffa5e97f87ec4662b80598ac8a9a642e"
+msgid "མཁས་ བཙུན་ སྒོམ་ སྟོན་ ཐམས་ཅད་ ཀྱིས ། །"
+msgstr ""
+
+msgctxt "8c15a573421f442f881a958b45d4909f"
+msgid "ཆོས་ སུ་ འདི་ཉིད་ ཟབ་བོ་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "1db99c595aad45fbaef4184041eea9f1"
+msgid "རྣམ་རྟོག་ དང་ ནི་ ཉོན་མོངས་པ ། །"
+msgstr ""
+
+msgctxt "dd7972ba454d486cb60bdf961126741d"
+msgid "ཐམས་ཅད་ འདུལ་བ␣ས་ འདུལ་བ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "3215d27652ee4320a7bc349db254ff6a"
+msgid "རྣམ་པ␣ར་ རྟོག་པ་ ཆོས་སྐུ་ རུ ། །"
+msgstr ""
+
+msgctxt "604fdba29fa74119be765082bf9a77c4"
+msgid "ངེས་པ␣འི་ ཤེས་པ་ བསྐྱེད་པ␣འི་ ས ། །"
+msgstr ""
+
+msgctxt "e31f7c4c4bc347d3a2a0927a7e25590e"
+msgid "སྒྲོ་འདོགས་ ནང་ དུ་ གཅོད་པ␣ས་ ན ། །"
+msgstr ""
+
+msgctxt "376cf3514fd748749069b69773022e22"
+msgid "འདི་ ནི་ ཚད་མ␣འི་ གདམས་ངག་ ཡིན ། །"
+msgstr ""
+
+msgctxt "59ba3ed44e0e4f09b361f8a6a05473f5"
+msgid "རྟག་ཆད་ སྒྲོ་སྐུར་ ལ་སོགས་པ␣འི ། །"
+msgstr ""
+
+msgctxt "fcd57f0e97ca4f35ab4f1be8e80407e1"
+msgid "མཐའ་ དང་ བྲལ་བ␣ས་ དབུ་མ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "a8558cb6257143c18d9e63ec17b0ac99"
+msgid "སྨྲ་ བསམ་བརྗོད་ དུ་ མེད་པ␣འི་ ཕྱིར ། །"
+msgstr ""
+
+msgctxt "cd0205199f4a4992be0c2611965040f2"
+msgid "ཕ་རོལ་ ཕྱིན་པ␣འི་ གདམས་ངག་ ཡིན ། །"
+msgstr ""
+
+msgctxt "a831597d58e34c898af1fa2751eb6eda"
+msgid "འཁོར་ དང་ མྱ་ངན་ འདས་པ␣འི་ ཆོས ། །"
+msgstr ""
+
+msgctxt "465440f1f0f74d57973d712fa71801c8"
+msgid "སེམས་ སུ་ རྫོགས་པ␣ས་ རྫོགས་ཆེན་ ཡིན ། །"
+msgstr ""
+
+msgctxt "89d56b1b905b4e1399426d9c887369ab"
+msgid "བཟང་ རྟོག་ ངན་ རྟོག་ ཐམས་ཅད་ ཀུན ། །"
+msgstr ""
+
+msgctxt "5beb8aa185cc494281e75751ce7105f5"
+msgid "ཡིད་ ལ་ མི་ བྱེད་ ཕྱག་རྒྱ་ ཆེ ། །"
+msgstr ""
+
+msgctxt "f4cdb46ee9f048a992530a159d628fae"
+msgid "སྡུག་བསྔལ་ ཞི་བ␣ས་ ཞི་བྱེད་ ཡིན ། །"
+msgstr ""
+
+msgctxt "bb5133cb0f954428a625826f5c5a7736"
+msgid "ཉོན་མོངས་ དང་ ནི་ རྣམ་རྟོག་ ཀུན ། །"
+msgstr ""
+
+msgctxt "9b6dd469c4e64a4aa43f2b19c6b5a22a"
+msgid "ལམ་ དུ་ སློངས་པ␣ས་ གསང་སྔགས་ ཡིན ། །"
+msgstr ""
+
+msgctxt "dee9f30e877a49cb9c11a6e217e2563c"
+msgid "སེམས་ དང་ རྣམ་རྟོག་ ཆོས་སྐུ་ གསུམ ། །"
+msgstr ""
+
+msgctxt "2a0367f757fb4afc94d4eddd34ef68b3"
+msgid "དང་པོ་ ལྷན་ཅིག་ སྐྱེས་པ་ དེ ། །"
+msgstr ""
+
+msgctxt "4d0f761360cf4342be703e92f254cc02"
+msgid "གདམས་པ␣ས་ སེམས་ སུ་ སྦྱོར་བ␣འི་ ཕྱིར ། །"
+msgstr ""
+
+msgctxt "6f531410cf034beeaaf25113567b0657"
+msgid "ལྷན་ཅིག་ སྐྱེས་ སྦྱོར་ ཞེས་ སུ་ བཤད ། །"
+msgstr ""
+
+msgctxt "0451bfb3ac9241beacc450c4acc89b82"
+msgid "འདྲེ་ དང་ བདུད་ ལ་སོགས་པ་ ཡི ། །"
+msgstr ""
+
+msgctxt "33557b8f7ead482691a660bca7aacf8b"
+msgid "བར་ཆད་ ལ་ ཡང་ སྔགས་ སོ་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "daf0dc9419b54d0283eb5735884b08c4"
+msgid "འདི་ ལ་ བསྡུས་པ␣འི་ དོན་ དྲུག་ སྟེ ། །"
+msgstr ""
+
+msgctxt "c66261c323e44e7593c448b1ad11cda5"
+msgid "བླ་མ་ དང་ ནི་ སློབ་མ་ དང་ ། །"
+msgstr ""
+
+msgctxt "da51b4adbf694548af4aa4910b89b62e"
+msgid "གོ་ཆ་ བགོ་ དང་ ཤེས་རབ་ གསུམ ། །"
+msgstr ""
+
+msgctxt "173fe70a5dc447ef81f781b91d959ea7"
+msgid "ཉམས་ དང་ ཕན་ཡོན་ འབྲས་་བུ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "619672bd3cc0427885c1a19a8a50b3ee"
+msgid "འདི་ དོན་ རྣམ་པ་ དྲུག་ གིས་ བཤད ། །"
+msgstr ""
+
+msgctxt "48e1145e708647658db8ba1165f0db8c"
+msgid "དང་ པོོ་ སློབ་མ␣འི་ མཚན་ཉིད་ ནི ། །"
+msgstr ""
+
+msgctxt "4cf5500b526b4fd3b1651bbcc405efad"
+msgid "རྣམ་པ་ གཉིས་ སུ་ རྗེ་བཙུན་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "005a5ce3668643c2b2814e4e99fa8cec"
+msgid "སྤྲང་ བྱ་ དང་ ནི་ བླང་ བྱ␣འོ ། །"
+msgstr ""
+
+msgctxt "2233ef87c5294982a0e0c6e249aa3c49"
+msgid "སྤང་བྱ་ ལ་ ཡང་ རྣམ་པ་ བཞི ། །"
+msgstr ""
+
+msgctxt "e4ecacd95a884cd5ab700cbc37ab4fc9"
+msgid "རྒྱུ་ ཡི་ དུས་ ན་ ཞེན་པ་ དང་ ། །"
+msgstr ""
+
+msgctxt "b95689fbbafb4aa0b26d4c6c4d1846aa"
+msgid "བདག་པོ␣འི་ དུས་ ན་ ལོག་ བཤེསཟིན ། །"
+msgstr ""
+
+msgctxt "d5fb73e8a47347c1b77ce8e1eae44ca5"
+msgid "དམིགས་པ␣འི་ དུས་ ན་ འཁྲུལ་པ་ དང་ ། །"
+msgstr ""
+
+msgctxt "c7518e15023d420084d0a1d46564af5a"
+msgid "དེ་ མ་ ཐག་པ␣འི་ དུས་ སུ་ ནི ། །"
+msgstr ""
+
+msgctxt "bc5dcc1600084c1cb6d3e6c02c55fc3e"
+msgid "རེ་དོགས་ གཉིས་ སུ་ ལྷུང་བ␣འོ ། །"
+msgstr ""
+
+msgctxt "4aab80f100dd4699b7e1610f6ffe6c23"
+msgid "དང་པོ་ རྒྱུ་དུས་ ཞེན་པ་ ནི ། །"
+msgstr ""
+
+msgctxt "3383a9e9e29a46c3b62841b46b470ae1"
+msgid "སྣང་སྲིད་ སྣ་ཚོགས་ སྣང་བ་ འདི ། །"
+msgstr ""
+
+msgctxt "f75458be7ed943e08ac3e0120631d6cc"
+msgid "རྨི་ལམ་ དག་ གི་ ནོར་ ཟས་ བཞིན ། །"
+msgstr ""
+
+msgctxt "ece65909f02544a9ad9dadef146e51e1"
+msgid "སྣངབ་ ཉིད་ ནི་ སྟོང་པ་ ལ ། །"
+msgstr ""
+
+msgctxt "bc50893794314b91b4cce782ba0e3697"
+msgid "སྟོང་པ་ ཡིན་པ␣ར་ མ་ ཤེས་པ␣ས ། །"
+msgstr ""
+
+msgctxt "48ca2093e3074c0e86b48c69b32141d3"
+msgid "ཟས་ དང་ ནོར་ དང་ ལོངས་སྤྱོད་ དང་ ། །"
+msgstr ""
+
+msgctxt "3fb004f30036459abf24c8829645cfee"
+msgid "བུ་ དང་ བུ་མོ་ ཆུང་མ་ དང་ ། །"
+msgstr ""
+
+msgctxt "336cea625df54d599e3d8e4887cdf08e"
+msgid "འདོད་ཡོན་ རྣམས་ ལ་ ཆགས་པ་ ཡིས ། །"
+msgstr ""
+
+msgctxt "77402ea65b464ec391f249e858d73a85"
+msgid "རྟག་པ␣ར་ བདེན་པ␣ར་ བཟུང་བ་ དང་ ། །"
+msgstr ""
+
+msgctxt "491aa8b799ce4f52a8f6f804452982b3"
+msgid "དངོས་པོ་ བདེན་པ␣ར་ ཞེན་པ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "8c1304e7b6b14ed0869cbd6385fec188"
+msgid "ཕྱི་མ␣འི་ ཆོས་ ནི་ མི་ དྲན་ ཏེ ། །"
+msgstr ""
+
+msgctxt "ce1aa5bb199c4a46b1753c8c2cbe940b"
+msgid "འདོད་པ␣འི་ དུག་ གི་ མྱོས་པ␣ར་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "ad7467da984a44a48faa887131e0e51c"
+msgid "ཆགས་སྡང་ ཉིད་ ཀྱིས་ དམ་ བཅིངས་ ནས ། །"
+msgstr ""
+
+msgctxt "9383f9271e9e4bc5860bcabcde006ea7"
+msgid "ཁམས་ གསུམ་ འཁོར་བ␣ར་ འཁྱམས་པ␣ར་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "0e05ea9f6fad4fe19c36160476ff9ac8"
+msgid "རྒྱུ་ ཡིི་ དུས་ ན་ ཞེན་པ་ འོ ། །"
+msgstr ""
+
+msgctxt "4c59dd41fa0b41b8bd64f61c8cabe4e4"
+msgid "དེ་ ནི་ སྤང་བྱ་ དང་པོ་ འོ ། །"
+msgstr ""
+
+msgctxt "7da8cab8f23246ccb5b4249e9ce28814"
+msgid "རྟེན་ གྱི་ གང་ཟག་ འགའ་ཞིག་ གིས ། །"
+msgstr ""
+
+msgctxt "e9dc12af9a0341dcaf6333fb4a674944"
+msgid "སློབ་དཔོན་ ཐ་སྙད་ ཅན་ ཞིག་ ལ ། །"
+msgstr ""
+
+msgctxt "38155b0d69bf4cec8e59b6802388bcc2"
+msgid "ལོ་ དང་ ཟླ་བ␣ར་ བསྟེནབྱས་ ནས ། །"
+msgstr ""
+
+msgctxt "855a32b5fae1429994ea1af4f410d4cc"
+msgid "སྒོམ་ གྱི་ གདམས་ངག་ ཐམས་ཅད་ ལ ། །"
+msgstr ""
+
+msgctxt "630584a00a5e499aa109512d5cf93b20"
+msgid "སུན་ འབྱིན་ གོལ་ས་ མང་ ཞེས་ ཟེར ། །"
+msgstr ""
+
+msgctxt "c3f3175473b1466d9ff7a11c672fd854"
+msgid "ཐོས་པ␣འི་ ཡོན་ཏན་ འབའ་ཞིག་ བརྗོད ། །"
+msgstr ""
+
+msgctxt "f588938b727e42ad9cf4fa6cde721e2b"
+msgid "ཚིག་ དང་ ཐ་སྙད་ སྒྲ་ ཚིག་ ལ །་།"
+msgstr ""
+
+msgctxt "6e4a67dcdd1e455f8b7c4045cd3f3a51"
+msgid "མཚན་བཅས་ འབའ་ཞིག་ བསྟན་པ་ ཡི ། །"
+msgstr ""
+
+msgctxt "d801800dfc5d41b7b73fd71323c1a3c5"
+msgid "ཐོས་པ་ རྐྱང་པ␣ར་ སོང་ གྱུར་ ན ། །"
+msgstr ""
+
+msgctxt "de4ab4ead72b4b87adf238066461a059"
+msgid "ཉོན་ མོོངས་ མགོ་བོ་ མ་ ནོན་ ཏེ ། །"
+msgstr ""
+
+msgctxt "6592df23cfb4420eb744d616f4b678c5"
+msgid "ཆོས་ བརྒྱད་ འབའ་ཞིག་ དོན་གཉེར་ ནས ། །"
+msgstr ""
+
+msgctxt "1bf881a88b994656a2f8de488f491624"
+msgid "འཁོོར་ བར་ ཡུན་རིང་ འཁྱམས་པ␣ར་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "58695252468846bfbf87df1081822d94"
+msgid "ལོག་པ␣འི་ བཤེས་ ཀྱིས་ ཟིན་པ་ ཡི ། །"
+msgstr ""
+
+msgctxt "a26565c63708459882c6c67b53f9522c"
+msgid "སྤང་བྱ་ འདི་ ནི་ གཉིས་པ␣ར་ འདོད ། །"
+msgstr ""
+
+msgctxt "ceba8384f7234ed8838548e94e600358"
+msgid "རྣམ་རྟོག་ ཆོས་སྐུ␣ར་ ཤེས་པ་ ལ ། །"
+msgstr ""
+
+msgctxt "196ba1413e72494a961ef6bcd329916c"
+msgid "རྣམ་པ␣ར་ རྟོག་པ་ སྤངས་ ནས་ སུ ། །"
+msgstr ""
+
+msgctxt "a1b0eb4a78764b88a1d4eb3b0aadd058"
+msgid "མི་ རྟོག་ ཡེ་ཤེས་ སྒོམ་པ་ ནི ། །"
+msgstr ""
+
+msgctxt "898b8f29add14d8b8afe29dfd4710c93"
+msgid "ཆོས་སྐུ་ ལོགས་ ནས་ ཐོབ་ འདོད་པ ། །"
+msgstr ""
+
+msgctxt "a7eda83b8fcf4bcdb18b991a6b53d6f6"
+msgid "དམིིགས་པ␣འི་ རྐྱེན་ དུ་ འཁྲུལ་པ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "8054e154849c4659aabaa1ae78ee30ac"
+msgid "སྤང་བྱ་ གསུམ་པ་ ཡིན་པ␣ར་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "1f0bfe8b5e214b6485c26df749651652"
+msgid "སྐྱེེས་ བུ་ དམ་པ་ འགའ་ཞིག་ གིས ། །"
+msgstr ""
+
+msgctxt "7749cafd6cfa4b21b4ba3cb4d7ded472"
+msgid "ལྟ་བ་ སྤྱོད་པ་ སྒོམ་པ་ གསུམ ། །"
+msgstr ""
+
+msgctxt "98d91ed8c08d411eaa207149fa736cbf"
+msgid "ཉམས་ སུ་ བླངས་པ␣འི་ བྱིན་རླབས་ ཀྱིས ། །"
+msgstr ""
+
+msgctxt "b5f76d49b4124e9d93d07b7208f8ee2a"
+msgid "སངས་རྒྱས་ ཐོབ་ ཏུ་རེ་བ་ དང་ ། །"
+msgstr ""
+
+msgctxt "cf0f7ff06ec94bf29cf3d33792a7f72c"
+msgid "གལ་ཏེ་ སངས་རྒྱས་ མ་ ཐོབ་ ན ། །"
+msgstr ""
+
+msgctxt "a1e73a38c8f64f47a65bd30aa57a88d0"
+msgid "དམྱལ་བ␣ར་ ལྷུང་ གིས་ དོགས་པ་ ནི ། །"
+msgstr ""
+
+msgctxt "5d0d1fa8542c451abc23e9bf1e94a7f7"
+msgid "དེ་ མ་ ཐག་པ␣འི་ རྐྱེན་ དུས་ སུ ། །"
+msgstr ""
+
+msgctxt "4e2253cde4344caf8bbca7cd20c11eaa"
+msgid "རེ་ དོོགས་ གཉིས་ སུ་ ལྟུང་བ␣ར་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "4dba4b58577f4962ade923e68cb4fbdc"
+msgid "དེ་ལྟར་ ཡིད་གཉིས་ ལྟུང་བ␣ས་ ན ། །"
+msgstr ""
+
+msgctxt "2e4e01780c1e4ebba011d5029b9b99b9"
+msgid "འདི་ ནིི་ སྤང་བྱ་ བཞི་པ␣ར་ འདོད ། །"
+msgstr ""
+
+msgctxt "4c04cf6ddd7844b2b0100083e33e9197"
+msgid "མཚན་ལྡན་ སློབ་མ་ བསྟེན་ བྱས་ ལ  །"
+msgstr ""
+
+msgctxt "32abd56344bb48e6860a3b938fd36a2e"
+msgid "ནང་གསེས་ བཞི་ རུ་ བླ་མ␣ས་ གསུངས ། །"
+msgstr ""
+
+msgctxt "a65f963fdd394db381e7647b5c69c877"
+msgid "རྒྱུ་ ཡི་ དུས་ ན་མ་ ཞེན་ དང་ །"
+msgstr ""
+
+msgctxt "a010e86fc6354bf79b5876118a018489"
+msgid "བདག་ པོོའི་ རྐྱེན་ གྱི་ དུས་ སུ་ ནི ། །"
+msgstr ""
+
+msgctxt "86f65d797faf44e5bee160e76d895509"
+msgid "དགེ་བ␣འི་ བཤེས་ ཀྱིས་ ཟིན་པ་ དང་ ། །"
+msgstr ""
+
+msgctxt "6d1e1ae4230b424faf7d4faade77dd96"
+msgid "དམིགས་ པའིི་ རྐྱེན་ དུ་མ་ འཁྲུལ་ དང་ ། །"
+msgstr ""
+
+msgctxt "a0c3cf37c84b4c4a8d752fc8b05bf388"
+msgid "དེ་ མ་ ཐག་པ␣འི་ དུས་ སུ་ ནི ། །"
+msgstr ""
+
+msgctxt "793884196ed84b2aa1ca57346df722d7"
+msgid "རེ་དོགས་ གཉིིས་ དང་ བྲལ་བ␣འོ ། །"
+msgstr ""
+
+msgctxt "0cf2cdcdce124527a31d41171caae003"
+msgid "དང་པོ་ གང་ཟག་ འགའ་ཞིག་ གིས ། །"
+msgstr ""
+
+msgctxt "d75da1c5ff254918a3599203a5863487"
+msgid "འཁོར་ དང་ རྫས་ དང་ ལོངས་སྤྱོད་ དང་ ། །"
+msgstr ""
+
+msgctxt "ad01349341b446daafe2ea8ec51cefed"
+msgid "བུ་ དང་ བུ་ མོོ་ ཆུང་མ་ དང་ ། །"
+msgstr ""
+
+msgctxt "7bae46a27a4645ddbb22f5deed1ba63f"
+msgid "མདོར་ན་ སྣང་གྲགས་ མ་ ལུས་ ཀུན ། །"
+msgstr ""
+
+msgctxt "9d3c0abe2d7c42509b48ddf0b9dca5eb"
+msgid "སྒྱུ་མ་ ལྟ་བུ␣ར་ གོ་བ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "7578d3c20c264a00a463b48f9495feb8"
+msgid "དངོས་པོ␣ར་ སྣང་བ་ ཐམས་ཅད་ ལ ། །"
+msgstr ""
+
+msgctxt "d97ed5c3071b452a8a947df239dc69fd"
+msgid "བདེན་ དང་ཞེན་ འཛིན་ མི་ འབྱུང་ སྟེ ། །"
+msgstr ""
+
+msgctxt "a886d269b8df46d3b5f537d9c47ff6ee"
+msgid "འཁོར་བ␣འི་ ཆོས་ ལ་ ཡིད་ བྱུང་ ནས ། །"
+msgstr ""
+
+msgctxt "f62e5d3d8f5c4a9ea5f8df27f5d126cf"
+msgid "དད་གུས་ གཉིས་ ཀྱི་ གདམས་ངག་ ཚོལ ། །"
+msgstr ""
+
+msgctxt "e4e2cb38a76942eaa44838d115c9bd4a"
+msgid "དེ་ ནིི་ རྒྱུ་དུས་ མ་ ཞེས་པ␣འི ། །"
+msgstr ""
+
+msgctxt "b71a920d75cc4c879a26aeda49cb8773"
+msgid "བླང་ བྱ␣འི་ སློབ་མ་ དང་པོ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "f5ac7b7729f3495fa0fb110d433bd0d1"
+msgid "དད་ དུས་ལྡན་པ␣འི་ གང་ཟག་ གིས ། །"
+msgstr ""
+
+msgctxt "0cb75706ef3b4ba7a65a88851d2b2503"
+msgid "དམ་པ་ གཅིག་ གི་ རྩ␣ར་ ཕྱིན་ ནས ། །"
+msgstr ""
+
+msgctxt "a787c7e155434525a554621f6b9bc563"
+msgid "མཚན་མེད་ ཆོས་སྐུ␣འི་ གདམས་ངག་ བསྟན ། །"
+msgstr ""
+
+msgctxt "1e3e721bd56845b1b56e0cfecefcd666"
+msgid "ཆོས་ རྣམས་ དངོས་པོ་ མེད་པ␣ར་ གོ ། །"
+msgstr ""
+
+msgctxt "f1f5301639dd4ca6901d02a6b0edfdc8"
+msgid "དེ་ ནི་ བདག་པོ␣འི་ རྐྱེན་ དུས་ སུ ། །"
+msgstr ""
+
+msgctxt "c007f884c73f4514a14c2ef59210f9da"
+msgid "དགེེ་བ␣འི་ བཤེས་ ཀྱིས་ ཟིན་པ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "80037e21d78f44b0a07d3cbadb55d909"
+msgid "དེ་ ནི་ ཚད་ལྡན་ གཉིས་པ་ འོ ། །"
+msgstr ""
+
+msgctxt "b6b96a1f84454379b5729c01663b04eb"
+msgid "དམ་པ␣འི་ སྐྱེས་བུ་ འགའ་ཞིག་ གིས ། །"
+msgstr ""
+
+msgctxt "473ffedc13c94254b61012c8a85a8e00"
+msgid "བླ་མ␣འི་ གདམས་ངག་ ལེགས་ ཐོབ་ ནས ། །"
+msgstr ""
+
+msgctxt "80b97f798dcb472e84374540af1f3a81"
+msgid "རྟོག་པ་ སེམས་ སུ་ ངོ་ ཤེས་པ␣ས ། །"
+msgstr ""
+
+msgctxt "9f7f0506c0624513b2d669a36d3fb18b"
+msgid "རྣམ་པ␣ར་ རྟོག་པ་ མི་ སྤང་ སྟེ ། །"
+msgstr ""
+
+msgctxt "4d715584284d4bb7b546a55165e25d38"
+msgid "དེ་ཉིད་ ཆོས་སྐུ་ ཡིན་པ␣ར་ ཤེས ། །"
+msgstr ""
+
+msgctxt "858bd30aa2c64427862e830a012bfc5f"
+msgid "རྟོག་པ་ སྐུ་དྲིན་ ཆེ␣ར་ གོ་བ␣ས ། །"
+msgstr ""
+
+msgctxt "e31e231fbb0b478e852ba042c84e42e9"
+msgid "རྟོག་པ་ ལམ་ དུ་ ཁྱེར་བ་ ནི ། །"
+msgstr ""
+
+msgctxt "48b88ae9563e4e3f90c4ff43ecfde050"
+msgid "དམིགས་པ␣འི་ རྐྱེན་ དུས་ མ་ འཁྲུལ་ ཏེ ། །"
+msgstr ""
+
+msgctxt "70af8697f0744efa84de857d904a38f1"
+msgid "ཚད་ལྡན་ སློབ་མ་ གསུམ་པ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "7ed3138c246841feaff5356e314b0fcd"
+msgid "རྣམ་རྟོག་ ཆོོས་ སྐུར་ ཐིམ་ གྱུར་པ␣ས ། །"
+msgstr ""
+
+msgctxt "782b4e9c092543ba9877d82fc0cd8dcc"
+msgid "སངས་རྒྱས་ བཟང་ ལ་ རེ་བ་ མེད ། །"
+msgstr ""
+
+msgctxt "696b06593efb4bc69183dcece378c3d9"
+msgid "འཁོར་བ་ ངན་ ལ་ དོགས་པ་ མེད ། །"
+msgstr ""
+
+msgctxt "5d6a6fc7124f49a09360c14d0b432e83"
+msgid "མཉམ་པ་ཉིད་ དུ་ ཤེས་པ་ ནི ། །"
+msgstr ""
+
+msgctxt "02e69366667f480f979e6f1be13b9a7b"
+msgid "དེ་ མ་ ཐག་པ␣འི་ རྐྱེན་ དུས་ སུ ། །"
+msgstr ""
+
+msgctxt "9127504d769f492aa181785b0db7ee77"
+msgid "རེ་དོགས་ གཉིས་ དང་ བྲལ་བ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "4eb28930b2984595b254108c1326fbdc"
+msgid "བླང་ བྱའིི་ མཚན་ཉིད་ བཞི་པ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "5fbfa44012e74575bc4881c3b7df77ba"
+msgid "དེ་ ཚོ་ སློབ་མ␣འི་ མཚན་ཉིད་ བསྟན ། །"
+msgstr ""
+
+msgctxt "b2fe034a103c4708b2a5a8756ce54968"
+msgid "མཚན་ཉིད་ ལྡན་པ␣འི་ སློབ་མ་ དེ␣ས ། །"
+msgstr ""
+
+msgctxt "476c25d4138a41a1a311f9e3a52c1c53"
+msgid "བླ་མ་ བཟང་པོ་ བསྟེན་ དགོས་པ␣ས ། །"
+msgstr ""
+
+msgctxt "22d16b1ce891442fae7e1b9f15825bd6"
+msgid "གཉིས་པ་ བླ་མ␣འི་ མཚན་ཉིད་ ནི ། །"
+msgstr ""
+
+msgctxt "268c2c8a74fe4824968213fa2494f9a8"
+msgid "བླ་མ་ ལ་ ཡང་ རྣམ་པ་ བཞི ། །"
+msgstr ""
+
+msgctxt "183389b1cb0847c18b97cd24f69dc4c2"
+msgid "གང་ཟག་ དགེ་བ␣འི་ བཤེས་གཉེན་ དང་ །།"
+msgstr ""
+
+msgctxt "136a0841ddff4468bd893265731c197e"
+msgid "བཀའ་ དང་ སྣང་བ་ རིག་པ་ འོ ། །"
+msgstr ""
+
+msgctxt "e9a6bd360df94686b5f9f30dc26c61f9"
+msgid "དང་པོ་ གང་ཟག་ བཤེས་གཉེན་ ནི ། །"
+msgstr ""
+
+msgctxt "50ca9dae044d4bf88b13e77997ba68c5"
+msgid "གསལ་ འདེབས་ ནུས་ དང་ འགལ་ བསྒྱུར་ ནུས ། །"
+msgstr ""
+
+msgctxt "8a302193e99648748d99daa6669ed847"
+msgid "མ་ འཁྲུལ་ཤེས་ རབ་ གོ་ འབྱེད་ ནུས ། །"
+msgstr ""
+
+msgctxt "25c38d948c0d49db804a456268f497e6"
+msgid "མཚན་ ཉིིད་ རྣམ་པ་ བཞི་ རུ་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "35b99f4dfcf34d29ac2947c0e0a40e5d"
+msgid "གང་ཟག་ ངན་ རྟོག་ གང་ བྱུང་ ཡང་ ། །"
+msgstr ""
+
+msgctxt "2c275f4db13b42099bb10b882ab8ef0f"
+msgid "སྒོམ་ གྱི་ གྲོགས་ སུ་ སྒྱུར་བྱེད་ ཅིང་ ། །"
+msgstr ""
+
+msgctxt "046775d37031415e9b381a8c8276ff96"
+msgid "སློོབ་ མ␣འི་ ཉམས་མྱོང་ གསོ་ ནུས་པ ། །"
+msgstr ""
+
+msgctxt "b3f6249af39a4b9390145c85b43c6a23"
+msgid "གསོལ་བ་ འདེབས་ ནུས་པ␣འི་ བླ་མ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "f68a0aa8642044e69e0aa414df0d4d6d"
+msgid "མཚམས་མེད་ ལྔ་ དང་ མི་དགེ་ བཅུ ། །"
+msgstr ""
+
+msgctxt "56436fb9d3ed487cbd1f3a7831b59ff1"
+msgid "སྡོམ་ དང་ དམ་ཚིག་ ཉམས་ ལ་སོགས ། །"
+msgstr ""
+
+msgctxt "81fea652b1c5420bab5007167ec13fe9"
+msgid "རིགས་རྒྱུད་ ལ་ ནི་ མི་ འཚམས་པ ། །"
+msgstr ""
+
+msgctxt "b45bfec2a1014ae89e0cf6fc52f954d1"
+msgid "འགལ་བ་ སྣ་ཚོགས་ འབྱུང་འགྱུར་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "9a77671b36e241c4b7405f4bdb96d7fc"
+msgid "མི་ བཟོད་ སྐད་ཅིག་མ་ འབྱེད་པ␣ར ། །"
+msgstr ""
+
+msgctxt "a039353194cc4d7a9f700bfe76a67617"
+msgid "དེ་ ནི་ རྟོག་པ་ ཡིན་པ␣ར་ ཤེས ། །"
+msgstr ""
+
+msgctxt "06635a72517e4f8e9f317ecae6fb6627"
+msgid "རྟོག་པ་ སེམས་ སུ་ ངོོ་ ཤེས་པ␣ས ། །"
+msgstr ""
+
+msgctxt "3efd448042ab421aa8990b48469506a9"
+msgid "སེམས་ཉིད་ སྐུ་བཞི␣ར་ བསྒྱུར་ ནུས་པ␣ས ། །"
+msgstr ""
+
+msgctxt "b0652d9647d840769431f80d9b04adb6"
+msgid "འགལ་ བསྒྱུར་ ནུས་པ␣འི་ བླ་མ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "f2f9d22a642540f9ae754a3572d82026"
+msgid "རྣམ་པ␣ར་ རྟོག་པ་ བྱུང་ དུས་ སུ ། །"
+msgstr ""
+
+msgctxt "b0be27e0541241c19a9f3a70516428ea"
+msgid "རང་ གི་ བླ་མ␣ར་ ཝལ་གྱིས་ ཤེས ། །"
+msgstr ""
+
+msgctxt "e6d6011299a241cd84bafa92434ae30d"
+msgid "རྟོག་པ་ སྐུ་དྲིན་ ཅན་ དུ་ གོ ། །"
+msgstr ""
+
+msgctxt "a95011476c9a433bb175bd82f2e0314f"
+msgid "ཆོས་ ཀྱི་ སྐུ་ དང་ རྣམ་རྟོག་ གཉིས ། །"
+msgstr ""
+
+msgctxt "c567641221e14a1d85655453fdaa959c"
+msgid "ཐ་དད་ ཅུང་ཟད་ མེད་པ␣ར་ ནི ། །"
+msgstr ""
+
+msgctxt "927be0aac7f74391b5c10ed419995d51"
+msgid "ངེེས་ ཤེས་ བརྟན་པོ་ སྐྱེས་པ་ དེ ། །"
+msgstr ""
+
+msgctxt "d457a933c0154a1193ce86135f3db48a"
+msgid "བདག་ གི་ མ་ འཁྲུལ་ བླ་མ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "ffe628502451437491315717bd389fab"
+msgid "རྣམ་རྟོག་ སེམས་ སུ་ ཤེས་ གྱུར་ ཏེ ། །"
+msgstr ""
+
+msgctxt "0aa662f7292b4f72b05015736dda937f"
+msgid "སེམས་ ཉིིད་ སྐྱེ་བ་ མེད་པ␣ར་ ཤེས ། །"
+msgstr ""
+
+msgctxt "e88228966289428e82f817b7de3d1ba1"
+msgid "རྣམ་པ␣ར་ རྟོག་པ་ སྤང་ དུ་ མེད ། །"
+msgstr ""
+
+msgctxt "340d309e8cbd4105b9bdf2a053ac228d"
+msgid "མི་ རྟོག་ ཡེེ་ ཤེས་ བསྒྲུབ་ ཏུ་ མེད ། །"
+msgstr ""
+
+msgctxt "dbfa8c0b7c1f4261a9d49088849cbe2f"
+msgid "རྟོག་པ་ སྣ་ཚོགས་ སྣང་བ་ འདི ། །"
+msgstr ""
+
+msgctxt "929c84a460594db0b6380399a18e625c"
+msgid "ཆུ་ ལ་ ལན་ཚྭ་ བཏབ་པ་ བཞིན ། །"
+msgstr ""
+
+msgctxt "186b85aecd544d888b0a8f1feb367002"
+msgid "རྟོག་པ་ སྟོང་པ་ གཉིས་ མེད་པ␣ར ། །"
+msgstr ""
+
+msgctxt "25570e313b374dc89574709447fa8c66"
+msgid "སྟོོན་པ␣ར་ བྱེད་པ␣འི་ བླ་མ་ དེ ། །"
+msgstr ""
+
+msgctxt "45fd22696ce34ea0976125f7995b1895"
+msgid "ཤེས་རབ་ གོ་ འབྱེད་ བླ་མ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "7163a32534c74ec99f8156a8c2165d6b"
+msgid "དེ་ ཚོོ་ གང་ཟག་ བཤེས་གཉེན་ གྱིས ། །"
+msgstr ""
+
+msgctxt "ba7c648e74a74f38a742bf45259db00a"
+msgid "མཚན་ཉིད་ རྣམ་པ་ བཞི་ ལྡན་ བཤད ། །"
+msgstr ""
+
+msgctxt "e564e8476db340709a8b525f93209843"
+msgid "གཉིིས་པ་ བཀའ་ ཡི་ བཤེས་གཉེན་ ནི ། །"
+msgstr ""
+
+msgctxt "b30cf401a9ad446fb2b3cdc0dcab4925"
+msgid "ལྷན་ ཅིིག་ སྐྱེས་ སྦྱོར་ གདམས་ངག་ འདི ། །"
+msgstr ""
+
+msgctxt "625be491840a4cbe9148773475b9a25f"
+msgid "ཡུན་ དུ་ བསྲིངས་ ནས་ བསྒོམ་ ལགས་ ན ། །"
+msgstr ""
+
+msgctxt "d0ef4cf921d04f6b8606f149d10ed5e1"
+msgid "བཀའ་ དང་ བསྟན་བཅོས་ མན་ངག་ སོགས ། །"
+msgstr ""
+
+msgctxt "4d325d4acc3e4ccf8b0a9e38efb4b066"
+msgid "ཐོས་པ་ ཙམ་ གྱིས་ ཤེས་ གྱུར་ ཏེ ། །"
+msgstr ""
+
+msgctxt "3a05bb6adc5e4b79a5ccc6f12b653fb1"
+msgid "རང་ གིིས་ བསྒོམས་པ␣འི་ ཉམས་མྱོང་ དང་ ། །"
+msgstr ""
+
+msgctxt "f1ab2ef78e09458385d3cbf585cd080d"
+msgid "དབྱེ␣ར་ མེད་ རོ་ གཅིག་ རྟོགས་ གྱུརཔས ། །"
+msgstr ""
+
+msgctxt "6a36db2197594c23a4889bdbc083be6e"
+msgid "ངེས་ པའིི་ ཤེས་པ་ སྐྱེ་བ␣ར་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "2545337f85b44cf6bb215fcf6a9a30ce"
+msgid "ཐེ་ཚོམ་ ཡིད་གཉིས་ བྲལ་ གྱུར་ ཏེ ། །"
+msgstr ""
+
+msgctxt "4d2edd397488483b8383b1b1de52f1b4"
+msgid "ཆོས་ ལ་ རང་ བྱན་ ཚུད་པ་ འབྱུང་ ། །"
+msgstr ""
+
+msgctxt "7facb28b6fec4cb6bbbb5213504ae246"
+msgid "གཅིག་ ཤེས་ ཀུན་ ལ་ མཁས་པ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "662e3653cd8945908deb7435e7e5a9b3"
+msgid "བཀའ་ ཡི་ བླ་མ་ དེ་ ལ་ བགྱི ། །"
+msgstr ""
+
+msgctxt "8c1770c9bf554d10b4bd395991f47425"
+msgid "གསུམ་པ་ སྣང་བ␣འི་ བཤེས་གཉེན་ ནི ། །"
+msgstr ""
+
+msgctxt "fa9c37818a9c43709867d9725e1ef41f"
+msgid "ཆོས་ རྣམས་ སེམས་ སུ་ རྟོགས་ ཙམ་ ན ། །"
+msgstr ""
+
+msgctxt "9c3406bf264c48a0ae28c34c596909ce"
+msgid "རྣམ་རྟོག་ སྣ་ཚོགས་ བདེ་སྡུག་ དང་ །"
+msgstr ""
+
+msgctxt "37fa34ac71554c78881814daf2f27ea6"
+msgid "སྣང་བ་ དཀར་དམར་ ཅིར་ སྣང་ ཡང་ །"
+msgstr ""
+
+msgctxt "027c21f84f924f17a8642b0ea58d17dc"
+msgid "རྟོགས་པ་ སྐྱེ་བ␣འི་ གྲོགས་ སུ་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "462f4414c25147b086af91ef5a99dd6d"
+msgid "གང་ དུ་ བསྡད་ ཀྱང་ གཞལ་ཡས་ ཁང་ ། །"
+msgstr ""
+
+msgctxt "e54a4e140b2148789e90fe9d97132f7e"
+msgid "སུ་ དང་ འགྲོགས་ ཀྱང་ ཡི་དམ་ ལྷ ། །"
+msgstr ""
+
+msgctxt "8014dc4b76144dbf929d1d12beefccd9"
+msgid "ཉམས་ ལ་ དེ་ལྟར་ ཤར་ ཙམ་ ན ། །"
+msgstr ""
+
+msgctxt "a6744fefab9f4a59865d5e5fce1d0b6b"
+msgid "སྣང་བ་ བཤེས་གཉེན་ དེ་ ཡིན་ གསུང་ །"
+msgstr ""
+
+msgctxt "d00158ecafe5487b8534205f8fa1ed09"
+msgid "ལྔ་ བཞི␣ར་ རིག་པ␣འི་ བླ་མ་ ནི ། །"
+msgstr ""
+
+msgctxt "6c9cfb4a97dd44168b7ef1246bb689d6"
+msgid "ཉོན་མོངས་ ལྔ་ དང་ གཟུང་འཛིན་ དང་ ། །"
+msgstr ""
+
+msgctxt "2e87c9fb8fa9463a8510ece738ae706c"
+msgid "མཚན་མ␣འི་ རྣམ་རྟོག་ སྣ་ཚོགས་ ཀུན ། །"
+msgstr ""
+
+msgctxt "a0218403c4934852b519073a7d5ca524"
+msgid "བདེ་ཆེན་ སྐྱེ་ མེད་ རོ་ གཅིག་ རྟོགས ། །"
+msgstr ""
+
+msgctxt "7a987ca1aca741cc88cedbef862d5764"
+msgid "འཁོར་འདས་ མཉམ་པ་ཉིད་ དུ་ རྟོགས ། །"
+msgstr ""
+
+msgctxt "1c7dd2539196402992d5ac3a5b8dd45b"
+msgid "རིག་པ་ ཆོས་སྐུ␣ར་ ཤར་ ཙམ་ ན ། །"
+msgstr ""
+
+msgctxt "f7dbf2b16bca484c8f2f33cac597fd3b"
+msgid "ཕྱིི་ ཡི་ བླ་མ་ མི་ དགོས་པ␣ས ། །"
+msgstr ""
+
+msgctxt "a700c596d4054bfea6de65933577272a"
+msgid "སྒྲོ་ འདོོགས་ ནང་ དུ་ ཆོད་པ་ ལ ། །"
+msgstr ""
+
+msgctxt "b721070cb5274d5595341cb67f4310d0"
+msgid "རིག་པ␣འི་ བཤེས་གཉེན་ དེ་ ལ་ ཟེར ། །"
+msgstr ""
+
+msgctxt "718b4deda78d46e98aaa242686fd2794"
+msgid "དེ་ ཚོ་ བླ་མ␣འི་ མཚན་ཉིད་ བསྟན ། །"
+msgstr ""
+
+msgctxt "987956a3961843b89649e072f321aa0c"
+msgid "སྤྱི་དོན་ གསུམ་པ་ ཚད་ལྡན་ གྱིས ། །"
+msgstr ""
+
+msgctxt "89c6f17bc24c44c9bc57562ff0849b5e"
+msgid "བླ་མ་ དམ་པ␣འི་ གདམས་ངག་ འདི ། །"
+msgstr ""
+
+msgctxt "1b3dbd227d2b403c991bec19dc738ac9"
+msgid "ཉམས་ སུ་ འདི་ལྟར་ བླང་བ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "b44e1585eb204a0b8d70e390be76216c"
+msgid "ཚེ་ འདི␣འི་ ལྟོས་ ཐག་ རབ་ བཅད་ དེ ། །"
+msgstr ""
+
+msgctxt "c6c63e9c3e6a436ea296e1d4f9ef841b"
+msgid "གྲུབ་ཐོབ་ གནས་ སམ་ དབེན་པ␣འི་ ས␣ར ། །"
+msgstr ""
+
+msgctxt "c4f40a49ddb3453fbd2e904fe9961a23"
+msgid "འབོལ་ ཆུང་ བདེ་བ␣འི་ སྟེང་ དག་ ཏུ ། །"
+msgstr ""
+
+msgctxt "b913e2b634244d19b9c34bbd3aae7697"
+msgid "སྐྱིལ་ཀྲུང་ ལ་སོགས་ ཅི་ བདེ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "e07cf0e6aa8142379f4d3365d87e2a7d"
+msgid "ལུས་ བསྲང་ ལག་པ་ མཉམ་བཞག་ བྱ ། །"
+msgstr ""
+
+msgctxt "f3cdcdaf19d04d45955aac04bf28b821"
+msgid "མགྲིན་པ་ ཡིད་ ཙམ་ དགུག་པ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "27ce77e4c2f148beb495f78d5c3bf1c3"
+msgid "མིག་ གཉིས་ སྣ་རྩེ␣ར་ ཟིམ་མེ་ གཏད ། །"
+msgstr ""
+
+msgctxt "40586cccd48d4a5ebc7bb75571a38aa8"
+msgid "དེ་ ནི་ ལུས་ ཀྱི་ འདུག་སྟངས་ ཡིན ། །"
+msgstr ""
+
+msgctxt "a12ed50b8bb3488ba31a9ebf8ddc69fa"
+msgid "དེ་ནས་ བྱང་ཆུབ་ སེམས་བསྐྱེད་ དེ ། །"
+msgstr ""
+
+msgctxt "029fee99f88144aaac24956304b731ea"
+msgid "བདག་ གིིས་ སེམས་ཅན་ ཐམས་ཅད་ ཀྱི ། །"
+msgstr ""
+
+msgctxt "23993ac8654e43f7b5b533bb134b2f58"
+msgid "དོན་ དུ་ སངས་རྒྱས་ འཐོབ་ བྱ␣འི་ ཕྱིར ། །"
+msgstr ""
+
+msgctxt "242143c382bf49a1815c07b05fa45382"
+msgid "ཟབ་མོ␣འི་ དོན་ འདི་ བསྒོམ་པ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "606e7a1b192c4827bd4be1f90099cefe"
+msgid "སྙམ་ དུ་ སེམས་ ནི་ ལྷན་ཅིག་ སྐྱེས ། །"
+msgstr ""
+
+msgctxt "b19ae955b29541e993049948c520f435"
+msgid "རང་ ལུས་ ཡི་དམ་ ལྷ་ བསྒོམས་ ནས ། །"
+msgstr ""
+
+msgctxt "29ce899136a742839ea391b2e70da509"
+msgid "སྤྱིི་ བོར་ བླ་མ་ དམ་པ་ བསྒོམས ། །"
+msgstr ""
+
+msgctxt "fb2d6c403bed4ea6b8f0fa6d982ad9c4"
+msgid "དེ་ནས་ གོ་ཆ་ གཉིས་ བགོ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "a100fe552d264677a48d80ac49e857e7"
+msgid "ལྟ་བ་ ཤེས་རབ་ གོ་ཆ་ འོ ། །"
+msgstr ""
+
+msgctxt "626f281e20d04329a9a3b7a64d38a23a"
+msgid "ལྟ་བ␣འི་ གོ་ཆ་ གཉིས་ ཡིན་ ཏེ ། །"
+msgstr ""
+
+msgctxt "dd1ab24e2082489abd5b1648037b6ce3"
+msgid "ཟབ་ དང་ རྒྱ་ ཆེ་ ལྟ་བ་ འོ ། །"
+msgstr ""
+
+msgctxt "5808ea0303294ffdbdcce7b656c1ee0a"
+msgid "ཟབ་པ་ ལ་ ནི་ རྣམ་ བཞི་ སྟེ ། །"
+msgstr ""
+
+msgctxt "04531ab093e64926a3ed34c4086831dd"
+msgid "ཤེེས་པ་ ཡི་ ནི་ མཚན་ཉིད་ དང་ ། །"
+msgstr ""
+
+msgctxt "750d0d9c9e224508b930207ca4b5b0d2"
+msgid "ཁྱད་པར་ གྱི་ ནི་ མཚན་ཉིད་ དང་ ། །"
+msgstr ""
+
+msgctxt "15fd8c76dd2343a0ab1ebb69c0a10216"
+msgid "བྱེད་པ་ ཡི་ ནི་ མཚན་ཉིད་ དང་ ། །"
+msgstr ""
+
+msgctxt "ee473f55c4b740319717799018687b58"
+msgid "ངོ་བོ་ ཉིད་ ཀྱི་ མཆན་ ཉིད་ དོ ། །"
+msgstr ""
+
+msgctxt "8a8a0a04331349b78fc4d928c63161bc"
+msgid "དང་པོ་ ཤེས་པ␣འི་ མཚན་ཉིད་ ནི ། །"
+msgstr ""
+
+msgctxt "ef6b721779bf400eb940e7e3044bf6d5"
+msgid "གདམས་ངག་ དང་ ནི་ ཤེས་རབ་ ཀྱིས ། །"
+msgstr ""
+
+msgctxt "010b67515c624c9d90ed6248b8720f68"
+msgid "ཤེས་པ␣འི་ མཚན་ཉིད་ ངོས་ གཟུང་ སྟེ ། །"
+msgstr ""
+
+msgctxt "e325b95e2979498ba964f7fe3aa9fc0b"
+msgid "རང་ གི་ སེམས་ ཀྱིས་ སེམས་ ལ་ ནི །་།"
+msgstr ""
+
+msgctxt "6689d53c08264ca0af013b681c780ae4"
+msgid "ནང་ དུ་ ཅེར་ གྱིས་ བལྟ་བ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "f21980036c7e482d917bfdcc3b7f58a2"
+msgid "བལྟས་པ␣ས་ སྐྱེ་ མེད་ ཆོས་ ཀྱི་ སྐུ ། །"
+msgstr ""
+
+msgctxt "a620430cc60642c88dc904f1be8e4c3d"
+msgid "འགག་པ་ མེད་པ་ ལོངས་སྐུ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "aa85eee9179642a09312ee33021c23b6"
+msgid "གནས་པ་ མེད་པ་ སྤྲུལ་པ␣འི་ སྐུ ། །"
+msgstr ""
+
+msgctxt "8a5e398471c2452bb407e8c0b903405a"
+msgid "སྐུ་གསུམ་ ཀུན་རྫོབ་ སྒྱུ་མ་ ཙམ ། །"
+msgstr ""
+
+msgctxt "c1e93d147e1340e58aed0396e6ce43ca"
+msgid "ཚིག་ བརྗོད་ བརྟག་པ␣འི་ བློ་ སྣང་ ལ␣ས ། །"
+msgstr ""
+
+msgctxt "e598217e02ec4de5b2860a31eb49b477"
+msgid "དོན་ ལ་ ངོས་ གཟུང་ བྲལ་བ་ ཡི ། །"
+msgstr ""
+
+msgctxt "d0fdb7876ce2421f9858022971a89101"
+msgid "བློ་ ཡི་ ཡུལ་ ལ␣ས་ འདས་པ་ ནི ། །"
+msgstr ""
+
+msgctxt "6273129b1c85486e98df03bb759d4df0"
+msgid "ངོ་ བོོ་ ཉིད་ ཀྱི་ སྐུ་ སྙམ་ དུ ། །"
+msgstr ""
+
+msgctxt "a2d05e230b614c998b0b8415c02afadb"
+msgid "ལན་ གཅིག་ ཝལ་གྱིས་ བསམ་པ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "053d102f02c943cfb8caa6322830d852"
+msgid "སེམས་ ཀྱི་ མཚན་ཉིད་ སྐུ་བཞི་ རུ ། །"
+msgstr ""
+
+msgctxt "247d11600ab54fafb8c7751c48d75d43"
+msgid "ངོས་ ནི་ ཟིན་པ␣ར་ གྱུར་ ཙམ་ ན ། །"
+msgstr ""
+
+msgctxt "def5aac0f98e47f48315911d1435eca7"
+msgid "ཤེས་ པའིི་ མཚན་ཉིད་ བྱ་བ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "897055f5c0774a8ba2baa90808bff454"
+msgid "གཉིས་པ་ ཁྱད་པར་ མཚན་ཉིད་ ནི ། །"
+msgstr ""
+
+msgctxt "f59382c8df3e4ec1b32e7d955a1109ac"
+msgid "རྟོག་པ་ བྱུང་ ཚད་ སེམས་ ཡིན་པ␣ས ། །"
+msgstr ""
+
+msgctxt "6dc6ac22c86746d39eb133b998e5c9f9"
+msgid "མི་ སྤང་ སྐུ་བཞི་ ཡིན་ སྙམ་ དུ ། །"
+msgstr ""
+
+msgctxt "370e46117b91446cbf536f4977f77288"
+msgid "ལན་ གཅིིག་ ཝལ་གྱིས་ བསམ་པ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "1a6971971e8e46e880727dbe78da934f"
+msgid "གསུམ་པ་ བྱེད་པ␣འི་ མཚན་ཉིད་ ནི ། །"
+msgstr ""
+
+msgctxt "aee51952bda64ef692b68423b307efae"
+msgid "སེམས་ཉིད་ སྐུ་ བཞིི་ ཡིན་མོད་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "4881eeeffdac45808767445d6975bcf1"
+msgid "སྐུ་བཞི་ བྱེད་ མཁན་ ལོགས་ ན་ མེད ། །"
+msgstr ""
+
+msgctxt "324dc35e655b4cfc94a20b6e08db29ad"
+msgid "སྙམ་ དུ་ ལན་ གཅིག་ བསམ་པ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "8489bd21e274494dbdf667afe399dc6b"
+msgid "ངོ་བོ་ ཉིིད་ ཀྱི་ མཚན་ཉིད་ དོ ། །"
+msgstr ""
+
+msgctxt "eab576a02df748148eef12f4448751b3"
+msgid "དེ་ རྣམས་ ཆོས་ རྣམས་ མ་ ལུས་ ཀུན ། །"
+msgstr ""
+
+msgctxt "9c49426e3bcc4fa3b49e6b98e3809a5c"
+msgid "མཚན་ཉིད་ བཞི་ ལས་མ་ འདས་པ␣ར ། །"
+msgstr ""
+
+msgctxt "da00da3dd5ab4c17a81fd6141da551f0"
+msgid "ཟབ་པ་ ལྟ་བ␣འི་ གོ་ཆ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "7cb9f49406444dd39c53038f1281b30b"
+msgid "རྒྱུ་ ཆེ་ ལྟ་བ␣འི་ གོ་ཆ་ ནི ། །"
+msgstr ""
+
+msgctxt "8066155bdb564e39b818b51db9b4a1c3"
+msgid "རྟོག་པ་ ཆོས་སྐུ␣ར་ ཐིམ་ གྱུར་ ནས ། །"
+msgstr ""
+
+msgctxt "526a2dfc9cd8407190092d5f303c2897"
+msgid "འཁོར་འདས་ མཉམ་པ་ཉིད་ དུ་ རྟོགས་པ␣ས ། །"
+msgstr ""
+
+msgctxt "18f8eecbaf684b1a873be30b0056b2ef"
+msgid "འབྲས་བུ་ བཟང་ ལ་ རེ་ མེད་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "cbbde80dd7814a9d9c5ae9dddeffa3c4"
+msgid "ཀུན་རྫོབ་ སྒྱུ་མ་ རྨི་ལམ་ ཙམ ། །"
+msgstr ""
+
+msgctxt "d244597590154d858a6495cf9bf5aa22"
+msgid "དཀར་ཕྱོགས་ དགེ་བ་ རྒྱུན་ མི་ ཆད ། །"
+msgstr ""
+
+msgctxt "022d59df71304611b92afb01f4c0b0a2"
+msgid "སྟོོོང་ ཉིད་ ལྟ་བ␣འི་ གདེང་ ལྡན་པ␣ས ། །"
+msgstr ""
+
+msgctxt "e26ee7ea77c14ed89b3b20a90999033f"
+msgid "འཁོར་བ␣ར་ ལྷུང་ དོགས་ མ་ མཆིས་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "d40aecc3052c48be875f7fd87b252425"
+msgid "ནག་ཕྱོགས་ མི་དགེ་ བཅུ་པོ་ སྤང་ ། །"
+msgstr ""
+
+msgctxt "ca06edd892f24f47af74b6b20c78acdd"
+msgid "སྙམ་ དུ་ ལན་ གཅིིག་ བསམ་པ་ དེ ། །"
+msgstr ""
+
+msgctxt "3a6ee1cd7a774d8ca5c48da4ff228264"
+msgid "རྒྱ་ ཆེ་ ལྟ་བ␣འི་ གོ་ཆ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "8b6dccb609084f1cac1acbab8de90555"
+msgid "དེ་ ཚོ་ ལྟ་བ␣འི་ གོ་ཆ་ སྟོན ། །"
+msgstr ""
+
+msgctxt "1e163d32fcd14ef583d8e18b2355b2e2"
+msgid "ཤེས་རབ་ གོོ་ ཆ་ གཉིས་ ཡིན་ ཏེ ། །"
+msgstr ""
+
+msgctxt "c4d3e10444bb4fb7b686934ccf8cabb5"
+msgid "ཕྱིི་ དང་ ནང་ གི་ གོ་ཆ་ འོ ། །"
+msgstr ""
+
+msgctxt "88eca75626c045e9a65ed5658445ce9f"
+msgid "ཕྱི་ ནི་ ལུས་ ཀྱི་ ན་ཚ་ དང་ ། །"
+msgstr ""
+
+msgctxt "7cfb8f7361164201a54b77650c4d002e"
+msgid "སྡུག་བསྔལ་ མི་ སྤང་ ཆོས་སྐུ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "475b96e702c44bc0bda38ed56e35972c"
+msgid "སྙམ་ དུ་ ལན་ གཅིག་ བསམ་པ␣འོ ། །"
+msgstr ""
+
+msgctxt "4d5ebb8b4ad54ec1b6c8813c72bbd435"
+msgid "ནང་ དུ་ སེམས་ ཀྱི་ དྲན་རྟོག་ རྣམས ། །"
+msgstr ""
+
+msgctxt "ff5ff4b1944348d29ff6a807bce8f4c4"
+msgid "མི་ སྤང་ སྐུ་དྲིན་ ཆེ་བ␣ར་ བལྟ ། །"
+msgstr ""
+
+msgctxt "a2cb787163d3424b9e5936a70356b1be"
+msgid "ཆེ་བ␣འི་ ཆེ་ ལུགས་ འདི་ལྟར་ བལྟ ། །"
+msgstr ""
+
+msgctxt "ab0b616398b9463e8f24e1b6cde0defc"
+msgid "དཀོན་མཆོག་ གསུམ་ ཡང་ རྣམ་རྟོག་ ཡིན ། །"
+msgstr ""
+
+msgctxt "917266bca9eb40f2b7f6dd2a30190507"
+msgid "སྐབས་ བརྒྱད་ ལམ་ ལྔ་ རྣམ་རྟོག་ ཡིན ། །"
+msgstr ""
+
+msgctxt "b4f3f18eeaea4e2592453d64ab7449df"
+msgid "དབང་པོ་ ལྔ་ ཡང་ རྣམ་རྟོག་ ཡིན ། །"
+msgstr ""
+
+msgctxt "2ad50ac39fb1423e90e506e18a6b6c3c"
+msgid "མཆོག་ ཐུན་མོང་ གཉིས་ ཀྱང་ རྣམ་རྟོག་ ཡིན ། །"
+msgstr ""
+
+msgctxt "b820c911fed341899f4bab975148c37b"
+msgid "འཇམ་དཔལ་ ཐོབ་པ␣ར་ བྱེད་པ་ ཡི ། །"
+msgstr ""
+
+msgctxt "ed3f979bce16405ab5491fb7236ec68e"
+msgid "རྒྱུ་ ཡང་ རྣམ་རྟོག་ ཁོ་རང་ ཡིན ། །"
+msgstr ""
+
+msgctxt "02c15cbabb9d4da48b0612fc7225ed39"
+msgid "ལམ་ དང་ འབྲས་བུ་ ཁོ་རང་ སྟེ ། །"
+msgstr ""
+
+msgctxt "a8fa1a27240d485bbd1c2da9ec4d0e30"
+msgid "རྟོག་པ་ ཤེས་རབ་ རྩལ་ སྦྱངས་ ནས ། །"
+msgstr ""
+
+msgctxt "aba93e2e405145f6ad9207d19e642d61"
+msgid "ཆོས་སྐུ་ ཡེ་ཤེས་ འབར་བ␣ར་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "c76c13f5621245a99800b0db154c7235"
+msgid "དེ་ ཚེ་ ཤེས་རབ་ གོ་ཆ་ བསྟན ། །"
+msgstr ""
+
+msgctxt "0e02f9a0e4884d7dbc6dec8bca6d926a"
+msgid "སྤྱི་ དོོན་ བཞི་པ་ ཉམས་ བླང་ གིས ། །"
+msgstr ""
+
+msgctxt "a84c38a6d1c049599dcb2c717f6d1793"
+msgid "ཤེས་རབ་ གསུམ་པོ་ བསྒོམས་པ་ ལ ། །"
+msgstr ""
+
+msgctxt "2f625c3cf5c64cfb99e60c12c0809f81"
+msgid "ཐོས་བསམ་ སྒོམ་པ་ གསུམ་ དུ་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "b9d71ef0ca1d409885b9ceaaf41dbc7d"
+msgid "དང་པོ་ ཐོས་པ␣འི་ ཤེས་རབ་ ནི ། །"
+msgstr ""
+
+msgctxt "90e6a6fb87404adcacb99e9f34a0945c"
+msgid "གདམས་ངག་ ཤེས་རབ་ མིག་ གིས་ ནི ། །"
+msgstr ""
+
+msgctxt "481c89119f6c42888a212d3845231d78"
+msgid "སེམས་ ཀྱི་ མཚན་ ཉིིད་ ལ་ བལྟས་ ཏེ ། །"
+msgstr ""
+
+msgctxt "c2f7a327d6884bd78ccfdaecebcdebcf"
+msgid "སྐྱེ་བ་ མེད་ ལ་ འགག་པ་ མེད ། །"
+msgstr ""
+
+msgctxt "5c8a8cc0808746f19ff215cf0ac9d130"
+msgid "གནས་ མེད་ དངོས་ པོམེད་པ་ འོ ། །"
+msgstr ""
+
+msgctxt "18f4a86fca0e4312a874bac61c16e957"
+msgid "རང་ གི་ ངག་ ཏུ་ ཚིག་ འདི་ རྣམས ། །"
+msgstr ""
+
+msgctxt "38744fb29b2645e7a87d732ea89ede75"
+msgid "གཞན་ གྱིས་ ཐོས་པ་ ཙམ་ དུ་ ནི ། །"
+msgstr ""
+
+msgctxt "0ab0f38e63f940909ec5596e2c52bef9"
+msgid "ལན་ གསུམ་ དུ་ ནི་ བརྗོད་བྱ␣ས་ ཏེ ། །"
+msgstr ""
+
+msgctxt "eba60b5fe1034b67a8828c48c6719626"
+msgid "དེ་ ལ་མ་ ཡེངས་ ཉན་པ་ ནི ། །"
+msgstr ""
+
+msgctxt "82ccdbd7120d4d94b2b5a09ac11820c0"
+msgid "ཐོས་པ␣འི་ ཤེས་རབ་ ཡིན་ ནོ་ གསུངས ། །"
+msgstr ""
+
+msgctxt "f08b6c6bf54c4a75962243db8bf3f108"
+msgid "གཉིས་པ་ བསམ་པ␣འི་ ཤེས་རབ་ ནི ། །"
+msgstr ""
+
+msgctxt "03be9f36d0504d82964efe2dc86b8360"
+msgid "གོང་ གི་ ཚིག་ རྣམས་ སེམས་པ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "92ad2c386ea54059a4a498433ca580fc"
+msgid "ཁམས་ གསུམ་ རང་སྣང་ འཁོར་འདས་ ཀུན ། །"
+msgstr ""
+
+msgctxt "bee2e3c46b544057bea412ccf9358e9b"
+msgid "དེ་དག་ སེམས་ ཀྱི་ ཆོ་འཕྲུལ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "af48975eb47749f4891f2eac86ad5739"
+msgid "སེམས་ཉིད་ སྐྱེ་བ་ མེད་པ་ ལ ། །"
+msgstr ""
+
+msgctxt "e5dbe862583d4f399be724c1ea468d21"
+msgid "གཞན་དག་ སྐྱེ་བ␣ར་ འཛིན་བྱེད་པ ། །"
+msgstr ""
+
+msgctxt "abe27b26f1004244b521d20f452bb378"
+msgid "སྐྱེས་ ན་ གང་ གི་ ཚེ་ ན་ སྐྱེས ། །"
+msgstr ""
+
+msgctxt "d2fcc20d10e94024827a25e79d795165"
+msgid "མངལ་ དང་ སྒོ་ང་ རྫུས་པ་ དང་ ། །"
+msgstr ""
+
+msgctxt "bbe6a6b29eca46ec9b744379ff832b6a"
+msgid "དྲོད་གཤེར་ ལ␣ས་ ནི་ སེམས་མ་ སྐྱེས ། ། །"
+msgstr ""
+
+msgctxt "56d4bb81d44841da86aa25ebc84ce7c5"
+msgid "ཕྱོགས་མཚམས་ སྟེང་འོག་ ཀུན་ ནས་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "c9b54aca6d9b48edaf57a431b5502f9d"
+msgid "སེམས་ ནི་ སྐྱེ་ ནི་ མ་ མྱོང་ ན ། །"
+msgstr ""
+
+msgctxt "1e9850b4ca534cb8b4169bd2a6432445"
+msgid "འབྱུང་བ་ བཞི་ དང་ ནམ་མཁའ་ ལ␣ས ། །"
+msgstr ""
+
+msgctxt "86b975ac01c34d57abf21a8f2d6b5c83"
+msgid "སེམས་ ནིི་ སྐྱེ་བ␣ར་ ཡོད་ མིན་ ཏེ ། །"
+msgstr ""
+
+msgctxt "fde845259c89430090db933708ddea57"
+msgid "རང་ གི་ ལུས་ ཀྱི་ སྤྱི་གཙུག་ ནས ། །"
+msgstr ""
+
+msgctxt "beb467543a5e4da181d52f588484c7dd"
+msgid "རྐང་མཐིལ་ ཡན་ཆད་ བཙལ་ བྱས་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "6d27e7f3da7a477988241deab58a8d8f"
+msgid "སེམས་ ནི་ སྐྱེ་བ␣ར་ མ་ མཐོང་བ␣ས ། །"
+msgstr ""
+
+msgctxt "298ebb67aaee49f1bad69a1f141006c7"
+msgid "སྐྱེ་བ་ མེེད་པ་ ཡིན་ སྣམ་ དུ ། །"
+msgstr ""
+
+msgctxt "b76d84fe0fdf41eeb5fe8cb9849cd00e"
+msgid "ལན་ གཅིག་ ཝལ་གྱིས་ བསམ་པ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "b8bf9f6bdcc04bc68b70d16601373558"
+msgid "འགག་ ན་ གང་ དུ་ འགག་པ␣ར་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "06a0a7547f4a49c5bf28a847f92da5ad"
+msgid "སེམས་ ལ་ འགག་ རྒྱུ་མ་ མཐོང་ སྟེ ། །"
+msgstr ""
+
+msgctxt "2b1a668dfe124c6f8f16eb014cf152ae"
+msgid "དང་པོ་ མ་ སྐྱེས་པ་ ཡི་ ཕྱིར ། །"
+msgstr ""
+
+msgctxt "4c4b406258824114967e699fa79b64c8"
+msgid "ཐ་མ་ འགག␣ས་ རྒྱུ་ མི་ འདུག་ གོ ། །"
+msgstr ""
+
+msgctxt "128bd92e772f4a459177d77a98001fc3"
+msgid "སྙམ་ དུ་ ཝལ་གྱིས་ བསམ་པ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "c77bfd5824284c62aaa64cd898e90a38"
+msgid "སེམས་ ལ་ གནས་པ་ ཡང་ མེད་ དེ ། །"
+msgstr ""
+
+msgctxt "d454a49bd28c4126b4588ce2af979cf3"
+msgid "སྤྱི་གཙུག་ རྐང་མཐིལ་ ཡན་ལག་ ལ␣ས ། །"
+msgstr ""
+
+msgctxt "2bddf0814ada41d688ce6fcfa0e62648"
+msgid "སེམས་ ནི་ གནས་ ས་རྡུལ་ ཙམ་ མེད ། །"
+msgstr ""
+
+msgctxt "1dd22b32543845c0b1e2784c1f718390"
+msgid "ཕྱི་ ཡི་ ཡུལ་ ལ་ མི་ གནས་ ཏེ ། །"
+msgstr ""
+
+msgctxt "92471544df5f462daef9fb1a33ffe3a6"
+msgid "སྐྱེ་འགག་ མེད་པ་ ཉིད་ ཡིན་པ␣ས ། །"
+msgstr ""
+
+msgctxt "a7f96f06f370475f8b87f47c4e322104"
+msgid "གནས་པ་ ཡོད་པ་ མ་ ཡིན་ ནོ ། །"
+msgstr ""
+
+msgctxt "0865047fca874750a0f9e5147403454a"
+msgid "སེམས་ ལ་ གནས་པ་ ཅི་ཡང་ མེད ། །"
+msgstr ""
+
+msgctxt "ca4c8bc0e967466691872c3b70eccf47"
+msgid "གལ་ཏེ་ དངོས་པོ་ ཡོད་ གྱུར་ ན ། །"
+msgstr ""
+
+msgctxt "7a44a512b46a4092b79870c0662b075b"
+msgid "དབྱེིབས་ དང་ཁ་ དོག་ གྲུབ་ དགོས་ ཏེ ། །"
+msgstr ""
+
+msgctxt "0831bbf7948f43a8a6c4e4edb87832fd"
+msgid "ཁ་དོག་ དབྱིབས་ སུ་ གྲུབ་པ་ མེད ། །"
+msgstr ""
+
+msgctxt "af30585ba3fd493aa0196328a773c6aa"
+msgid "དམར་སེར་ དཀ␣ར་ ལ་སོགས་པ་ ཡི ། །"
+msgstr ""
+
+msgctxt "f63343be5dfd4d068f8c1e6844599738"
+msgid "དབྱིབས་ ལ␣ས་ འདས་པ␣འི་ ངོས་ གཟུང་ བྲལ ། །"
+msgstr ""
+
+msgctxt "be87f1da0a79459db71505a8e802e144"
+msgid "སྙམ་ དུ་ སེེམས་པ␣ར་ བྱེད་པ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "01f8dfe1ca3744d498180280a0538978"
+msgid "བསམས་པ␣འི་ ཤེས་རབ་ དེ་ ཡིན་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "e3ce27e8484f4c92bd34404209cf8bd9"
+msgid "རྟོག་པ་ དོན་ དུ་ ཤེས་པ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "7a75045e94884a6db2f3edf5a6f8f115"
+msgid "བྱ་བ་ བཏང་བ␣འི་ སྐྱེས་བུ་ བཞིན ། །"
+msgstr ""
+
+msgctxt "4be5fa0dc8d845a2a8ba7f4ca6509c72"
+msgid "སེམས་ མི་ སྒྲིམ་ ཞིང་ ལུས་ ནི་ གློད ། །"
+msgstr ""
+
+msgctxt "8acfbc34bfff405ba3557d675cfec31a"
+msgid "སེམས་ དང་ རྟོག་པ་ དབྱེ␣ར་ མེད་པ␣ས ། །"
+msgstr ""
+
+msgctxt "226f241882fc4d8d8ac4b2e2654f2577"
+msgid "གསལ་ ལ་ ངོས་ གཟུང་ བྲལ་བ་ ཡི ། །"
+msgstr ""
+
+msgctxt "60bb5e62933d418a8321a985a352555f"
+msgid "ནམ་མཁའ་ དྭངས་པ␣འི་ དཀྱིལ་ ལྟ་བུ ། །"
+msgstr ""
+
+msgctxt "558cfb5c754b44158e20a9d0e024ad00"
+msgid "ངང་ ལ་མ་ ཡེངས་ གཞག་པ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "58f583f12ca545cca40bab19b40d9119"
+msgid "ཡང་ན་ འདི་ལྟར་ བཞག་ ཅེས་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "944a01db72d141f0887d247ef7110492"
+msgid "ཕྱིར་ཡང་ མི་ སྤྲོ་ ནང་མི་ བསྡུ ། །"
+msgstr ""
+
+msgctxt "1543df1403e84094b4388139fd8d2806"
+msgid "ཚོགས་ དྲུག་ རང་ གསལ་སྟོང་པ་ ཡི ། །"
+msgstr ""
+
+msgctxt "0b57db1cc59249e99a767d0710bfb609"
+msgid "ངང་ དུ་ ཆུ་ ལ་ ཆུ་ བཞག་ དང་ ། །"
+msgstr ""
+
+msgctxt "5cba3ecaeaec493a8d6bf08b7931ae88"
+msgid "མར་ ལ་མ␣ར་ ནི་ བཞག་པ་ ལྟར ། །"
+msgstr ""
+
+msgctxt "21ef6c1b6f494b5a90bbff7399e4bbbd"
+msgid "མ་ བཅོ␣ས་ གཉུག་ མ␣འི་ ངང་ ལ་ བཞག  །"
+msgstr ""
+
+msgctxt "21930254a46e441691ca86b29611b557"
+msgid "ཡང་ན་ འདིི་ ལྟར་ བཞག་ ཅེས་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "e31efa471e674a6889281860161d1611"
+msgid "སེམས་ དང་ རྣམ་རྟོག་ ཡེ་ཤེས་ གསུམ ། །"
+msgstr ""
+
+msgctxt "179dbd33fee6426896480c3f6421b85b"
+msgid "ངོ་བོ་ བདེ་སྟོང་ ཉིད་ ཀྱི་ ངང་ ། །"
+msgstr ""
+
+msgctxt "6eb5920788fe4bfaaab73028c78d63e2"
+msgid "མར་མེ་ རླུང་ གིས་ མ་ བསྐྱོད་ བཞིན ། །"
+msgstr ""
+
+msgctxt "db2dd9d3086a4cc8a9a7f895b5bdce4d"
+msgid "རྦ་རླབས་ མེད་པ་ རྒྱ་མཚོ་ བཞིན ། །"
+msgstr ""
+
+msgctxt "31a09fb07c3a431f8ba8232c6fbdd6f4"
+msgid "མཐའ་ དང་ བྲལ་བ་ ནམ་མཁའ་ བཞིན ། །"
+msgstr ""
+
+msgctxt "69768af69da94805bbd1eef16a6bf7e4"
+msgid "རྒྱུན་ ཆད་ མེད་པ་ ཆུ་བོ་ བཞིན ། །"
+msgstr ""
+
+msgctxt "2cb56c8ba51746c4b3ac73bed5e284cf"
+msgid "གསལ་ ལ་ མི་ གཡོ་ ངོས་ གཟུང་ བྲལ ། །"
+msgstr ""
+
+msgctxt "a2f37f9cde594792993268dbdfeddc40"
+msgid "མ་ བཅོོས་ ངོ་བོ␣ར་ རང་ གསལ་ དུ ། །"
+msgstr ""
+
+msgctxt "b589522ed094467482c24236a0375202"
+msgid "མ་ ཡེངས་ རྒྱུན་ ཆད་ མེད་པ␣ར་ བཞག  །"
+msgstr ""
+
+msgctxt "64cbc5a01cde4ae5b50e6e84ba14afa5"
+msgid "ཡང་ན་ ལུགས་ གཅིག་ འདི་ལྟར་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "0c447b51445b4943ae49961d104f90e7"
+msgid "ཆོས་ རྣམསཐམས་ ཅད་ རྣམ་རྟོག་ སྟེ ། །"
+msgstr ""
+
+msgctxt "11dac470b5a1429b8d0af145541a4055"
+msgid "རྣམ་པ␣ར་ རྟོག་པ་ སེམས་ཉིད་ ཡིན ། །"
+msgstr ""
+
+msgctxt "8da07f581b56480588fc4a0c35945fa1"
+msgid "སེམས་ དེ་ ཡེ་ནས་ སྐྱེ་ མེད་ ངང་ ། །"
+msgstr ""
+
+msgctxt "4fe46e35c21543cdb262639d40dc6c22"
+msgid "ནམ་མཁའ་ མཐའ་ དང་ བྲལ་བ་ བཞིན ། །"
+msgstr ""
+
+msgctxt "a006f9a224cc487d9b2ba9112c8ea7be"
+msgid "སེམས་ཉིད་ གསལ་ ལ་ ངོས་ གཟུང་ བྲལ ། །"
+msgstr ""
+
+msgctxt "bcb4489e8d744a9c8b1eb2f6a6dcaa17"
+msgid "གཟུང་འཛིན་ སྒྲ་ བསྒྱུར་ འདེབས་ ལ␣ས་ འདས ། །"
+msgstr ""
+
+msgctxt "ee16d0c67a00485fb0f50aad51acce1d"
+msgid "སྐྱེ་ མེད་ རང་ གི་ ངང་ ཉིད་ དུ ། །"
+msgstr ""
+
+msgctxt "139d6511530446c7a8c7de0feacd271c"
+msgid "བསྒོམ་ རྒྱུ་ ཏིལ་ ཙམ་ མ་ མཆིས་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "a819eb8388504dd98898fa1741e80d00"
+msgid "ཡེངས་ སུ་ སྐད་ཅིག་ ཙམ་ ཡང་ མེད ། །"
+msgstr ""
+
+msgctxt "315466854960407ca3669dcd3a35b1b5"
+msgid "སྟོོོོང་ ཉིད་ བདེ་ གསལ་ ངང་ ལ་ བཞག  །"
+msgstr ""
+
+msgctxt "ad332ec190424d10aea666d65b3b4f08"
+msgid "གལ་ ཏེེ་ དྲན་པ་ ཡེངས་པ་ ལ ། །"
+msgstr ""
+
+msgctxt "7626e3648210481f9732ed55aecfc318"
+msgid "དགེ་ དང་ མི་དགེ་ ལུང་ མ་ བསྟན ། །"
+msgstr ""
+
+msgctxt "4b706e3f83e543b78b29b1de91d9120d"
+msgid "རྣམ་རྟོག་ གསུམ་པོ་ གང་ བྱུང་ ཡང་ ། །"
+msgstr ""
+
+msgctxt "857e429d6d8f4c1f8287ae64fb3e0fb8"
+msgid "མི་ སྤང་ སྐུ་དྲིན་ ཆེ་བ␣ར་ བལྟ ། །"
+msgstr ""
+
+msgctxt "edcb54eaaeec44b6aeb0ff7d7856c3f9"
+msgid "དགེོས་ དང་ མེད་ དུ་ མི་ རུང་ དང་ ། །"
+msgstr ""
+
+msgctxt "8ef7612be0de42f4832df73f4f39fb90"
+msgid "སྐུ་དྲིན་ ཤིན་ཏུ་ ཆེ་བ␣ར་ བལྟ ། །"
+msgstr ""
+
+msgctxt "59799de0ef2041fd90cdbb4fffd2854f"
+msgid "དེ་ལྟ་ བུར་ ནི་ ཤེས་ ཙམ་ ན ། །"
+msgstr ""
+
+msgctxt "9250fad9a57e40e8a2714df046a0457d"
+msgid "ཆོས་སྐུ་ རྟོགས་པ␣འི་ ཐབས་ ཀྱི་ མཆོག  །"
+msgstr ""
+
+msgctxt "e5d6e2c6c7b0490f8aa55b0f827efb83"
+msgid "རྣམ་རྟོག་ ཁོ་རང་ ཡིན་པ␣འི་ ཕྱིར ། །"
+msgstr ""
+
+msgctxt "58daee34715244e5af10fc630a7d254d"
+msgid "སེམས་ ཀྱི་ སྙིགས་མ་ རྣམ་རྟོག་ སྟེ ། །"
+msgstr ""
+
+msgctxt "d21ed55bfa2b4c8795792d88f50a53e0"
+msgid "རྟོག་པ་ དོང་པོ་ ཆོས་སྐུ␣ར་ གྱུར ། །"
+msgstr ""
+
+msgctxt "be7dc9fb654b46438b07b20e060bb3eb"
+msgid "དེ་བ␣ས་ རྣམ་རྟོག་ ངོ་མཚར་ ཆེ ། །"
+msgstr ""
+
+msgctxt "24ea361066374bfb921a795ab88c0827"
+msgid "སྙམ་ དུ་ ཝལ་གྱིས་ ཤེས་པ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "ae5f81a9d77e48c6b9bafad00e3c99ff"
+msgid "རྟོག་པ་ སེམས་ཉིད་ སྐྱེ་ མེད་ དུ ། །"
+msgstr ""
+
+msgctxt "b29466f1ea1843c484b834f0b0d555bc"
+msgid "སྟོང་ཉིད་ ངང་ ལ་མ་ ཡེངས་ བཞག  །"
+msgstr ""
+
+msgctxt "eb3ff287a2c643be8840396917d3fb8d"
+msgid "ཡང་ན་ རྣམ་རྟོག་ བྱུང་ དུས་ སུ ། །"
+msgstr ""
+
+msgctxt "494c2bcdaf5a4fc8a45f3f53300d2b2d"
+msgid "ཉི་ཟེར་ ཙན་དན་ དྲི་ བཞིན་ དུ ། །"
+msgstr ""
+
+msgctxt "00092e179d7a47fd918230be9e265f34"
+msgid "སེམས་ དང་ རྟོོག་པ་ ཆོས་སྐུ་ གསུམ ། །"
+msgstr ""
+
+msgctxt "44c6f19dcb1a4d3c876a6ef2f433e895"
+msgid "ཐ་དད་ ཡོད་པ་ མ་ ཡིན་ ཏེ ། །"
+msgstr ""
+
+msgctxt "0dbb2f2de2a245758c268e67260651d8"
+msgid "ཆུ་ དང་ ཆུ་ ཡི་ རླབས་ བཞིན་ གནས ། །"
+msgstr ""
+
+msgctxt "48b245aa776a4601a316ec2edf90e8f7"
+msgid "སྙམ་ དུ་ ཝལ་གྱིས་ ཤེེས་ བྱས་ ནས ། །"
+msgstr ""
+
+msgctxt "6c65777e78d740da9cbfb84a967728f0"
+msgid "མ་ བཅོ␣ས་ ངང་ ལ་ མཉམ་པ␣ར་ བཞག  །"
+msgstr ""
+
+msgctxt "28841a059b484f24b2e2115d0765ced2"
+msgid "མ་ བཅོ␣ས་ ངང་ ལ་ བཞག་ བྱ་ན␣ས ། །"
+msgstr ""
+
+msgctxt "cb491075c22949a691735f3dcc28cb6e"
+msgid "རྣམ་རྟོག་ མ་ ལུས་ ཐམས་ཅད་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "82479e4aa7be4947b02c241d3b4ea753"
+msgid "ནམ་མཁ␣འི་ སྤྲིན་ བཞིན་ དེངས་པ␣ར་ ངེས ། །"
+msgstr ""
+
+msgctxt "7d146c92e732475facae1610bb59ed18"
+msgid "རྗེ་བཙུན་ རིན་ཆེན་ ཞལ་ ལྔ་ ནས ། །"
+msgstr ""
+
+msgctxt "ce7e77ba2be64b96acbe49e79e5867c0"
+msgid "ངེེད་ ཀུན་ རྣམ་རྟོག་ ལམདུ་ ཁྱེར ། །"
+msgstr ""
+
+msgctxt "c7025136093e470a9469fd2233362068"
+msgid "གཞན་དག་ རྟོག་པ་ སྤོང་བ␣ར་ འདོད ། །"
+msgstr ""
+
+msgctxt "1f388fae926140baae58da5d435a7825"
+msgid "རྟོག་པ་ སྤོང་བ␣ར་ འདོད་པ་ དེ ། །"
+msgstr ""
+
+msgctxt "0555cd2653c44d3fb524a955cea76fb4"
+msgid "ཆོས་ཉིད་ བདེ་ཆེན་ སྤོང་ དགོས་པ␣ས ། །"
+msgstr ""
+
+msgctxt "93c9e5fddef64c0198ebbb1f92ebea1a"
+msgid "སེམས་ཉིད་ སྤངས་ ན་ ཆོས་ ཀྱི་ སྐུ ། །"
+msgstr ""
+
+msgctxt "ef3aa6d2c8224f778ed76596d6df3113"
+msgid "སྤོང་བ␣ར་ འགྱུར་བ␣ར་ ཐེ་ཚོམ་ མེད ། །"
+msgstr ""
+
+msgctxt "0a499ff627e7406f9590af3228b0755a"
+msgid "དེ་བ␣ས་ མ་ ཡེངས་ ལམ་ དུ་ ཁྱེར ། །"
+msgstr ""
+
+msgctxt "20af22d005cf450382de7e677050344a"
+msgid "ཕ་རོལ་ ཕྱིན་པ␣འི་ རྣམ་དག་ ལ␣ས ། །"
+msgstr ""
+
+msgctxt "f9d2e79db49f49868f427cd16a02ba35"
+msgid "ཉོན་མོངས་ འཁོར་བ␣འི་ རྣམ་རྟོག་ དང་ ། །"
+msgstr ""
+
+msgctxt "da3d3a1b3dbc4f67a55af428c58f4ad4"
+msgid "ཐམས་ཅད་ མཁྱེན་པ␣འི་ ཡེ་ཤེས་ གཉིས ། །"
+msgstr ""
+
+msgctxt "0b38bd0935a74e2ea4eeff7899b4a749"
+msgid "གཉིས་ མེད་ རང་བཞིན་ གཅིག་པ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "0cd3c82d3feb46349173f6003613795f"
+msgid "ཐ་དད་ ཅུང་ཟད་ མེད་པ␣ར་ གསུངས ། །"
+msgstr ""
+
+msgctxt "2b080445a43e4590b5aa72d714e26992"
+msgid "ཕྱག་ རྒུ་ ཆེན་པོ␣འི་ རྒྱུད་ དག་ ལ␣ས ། །"
+msgstr ""
+
+msgctxt "e459dd2da0e145669399f338fc4f56f0"
+msgid "ཅི་ ལྟར་ མེ་ ཡིས་ ཚིག་ གྱུར་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "58988237d14c4dc29a10d6bb7b2f9b26"
+msgid "མེ་ དེ་ཉིད་ ལ་ འདུ་བ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "9e699ebb99674e6ea32d530f603f7bd0"
+msgid "ཇི་ལྟར་ རྣམ་རྟོག་ བྱུང་ གྱུརཀྱང་ ། །"
+msgstr ""
+
+msgctxt "cb7976a41a674534aa32df9b8bf9bbe2"
+msgid "རྟོག་པ་ དེ་ཉིད་ བསྟེན་པ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "ab22cd18b87c496eb4daa1a6ef6c4396"
+msgid "སྲེད་པ་ ཡིས་ ནི་ སྲེད་པ་ འདག  །"
+msgstr ""
+
+msgctxt "f2ac5d62cfe94957a01efa0eb38afd1a"
+msgid "རྟོག་པ་ ཉིད་ ཀྱིས་ རྟོག་པ་ སེལ ། །"
+msgstr ""
+
+msgctxt "512d3f13f35d4dc29e2d38c888073988"
+msgid "རྟོག་པ་ དེ་ ཉིིད་ ཐབས་ སུ་ གསུངས ། །"
+msgstr ""
+
+msgctxt "053e170204194eeb980659b399db3df1"
+msgid "རྡོ་རྗེ␣འི་ མགུར་ ལ␣ས་ འདི་སྐད་ གསུངས ། །"
+msgstr ""
+
+msgctxt "973290384bcf4737b32e911ac23e397c"
+msgid "ལྷན་ཅིག་ སྐྱེས་པ␣འི་ རྣམ་ཤེས་ འདི ། །"
+msgstr ""
+
+msgctxt "99de3e86e3d24efda4b4e9e089e72302"
+msgid "ཡེ་ཤེས་ ཡིན་པ␣ར་ ཅིར་ གྱིས་ གཟུང་ ། །"
+msgstr ""
+
+msgctxt "f07b446996634296afc971474aea6ecd"
+msgid "ངེེས་ ཤེས་ སྐྱེས་ ན་ དེ་ཉིད་ མཐོང་ ། །"
+msgstr ""
+
+msgctxt "20db952531684cd48c1e8306f8fbc4d7"
+msgid "རང་ ལ་ སྐྱེས་ ཀྱི་ རྣམ་རྟོག་ འདི ། །"
+msgstr ""
+
+msgctxt "c013af0d3eb640a5b7fee152f6b34d80"
+msgid "ཆོས་སྐུ་ ཡེིན་པ␣ར་ ཅིར་ གྱིས་ གཟུང་ ། །"
+msgstr ""
+
+msgctxt "84f60271c9454b69aef0239a6344c668"
+msgid "ཉམས་ སུ་ མྱོང་ ན་ སྙིང་པོ་ མཐོང་ ། །"
+msgstr ""
+
+msgctxt "b98f96a76366494f95bf3f300f692e78"
+msgid "བླ་མ་ ཆེན་པོ␣ས་ འདི་སྐད་ གསུངས ། །"
+msgstr ""
+
+msgctxt "8436e41e0ec44ead84e35b5ea8ae09bd"
+msgid "ཉོན་ མོོངས་ ཡེ་ཤེས་ ཉིད་ ཡིན་པ␣ས ། །"
+msgstr ""
+
+msgctxt "268b9345887e4927872d71d9489e72e5"
+msgid "གཉེན་པོ་ ལོགས་ ནས་ སྒོམ་ མི་ དགོས ། །"
+msgstr ""
+
+msgctxt "9b544061d9a44b5c9bad2e77565bffc0"
+msgid "རང་ ཤར་ གོ་ ན་ ཐབས་ ཀྱི་ མཆོག  །"
+msgstr ""
+
+msgctxt "62bae81e1cbd4ee8967e6e6158d58262"
+msgid "སྨྲྀ་ ཏ␣འི་ འབྲས་བུ་ ཇི་བཞིན་ དུ ། །"
+msgstr ""
+
+msgctxt "87a53326a67a4da5baa8eaeb9cb92d70"
+msgid "རྒྱུ་དུས་ ཉིད་ ནས་ འབྲས་བུ␣ར་ གནས ། །"
+msgstr ""
+
+msgctxt "a2bc7f6f1c9344889ef2abb795bec786"
+msgid "རྣམ་རྟོག་ སྣ་ཚོགས་ བྱུང་ དུས་ སུ ། །"
+msgstr ""
+
+msgctxt "9198c78e9a0247e8955f5a33ef8b9762"
+msgid "རྨ་བྱ␣འི་ ཟས་ ལྟར་ ཤེས་པ␣ར་ བྱ ། །"
+msgstr ""
+
+msgctxt "9c8774da29884ca2b00f4948f29b251b"
+msgid "དེ་ ཚེ་ ཤེེས་ རབ་ གསུམ་ སྒོམ་ བསྟན ། །"
+msgstr ""
+
+msgctxt "064f73d513b449218e6c7ff07f624185"
+msgid "ལྔ་པ་ ཉམས་ ཀྱི་ འབྱུང་ ཚུལ་ ནི ། །"
+msgstr ""
+
+msgctxt "b34607b704804751848c876c99d1b032"
+msgid "རྟོག་པ་ ལམ་ དུ་ ཁྱེར་ བྱས་ ནས ། །"
+msgstr ""
+
+msgctxt "c6cc0aa16a824458b385576744287be2"
+msgid "ཐུན་ བཞི་ རིམ་པ␣ར་ སྒོམ་ གྱུར་ ན ། །"
+msgstr ""
+
+msgctxt "18ac92598cfa4e6d83d981e48b2feb5d"
+msgid "སྔར་ འདྲིས་ མི་ ཕྲད་ རྡོ་ཚན་ ཁ ། །"
+msgstr ""
+
+msgctxt "9e24730982054b07b31e630c15fefec5"
+msgid "ནགས་མེ␣ས་ ཚིག་ དང་ བདེ་ གསལ་སྟོང་ ། །"
+msgstr ""
+
+msgctxt "6a75f3ae9cbe4e1a9f149728df7b30fd"
+msgid "ཉམས་མྱོང་ མདོར་བསྡུས་ བཞི་ འབྱུང་ གསུངས ། །"
+msgstr ""
+
+msgctxt "f43b1b3f24ed4d61b485f9b5a6e79593"
+msgid "དང་པོ་ ལྔ␣ར་ འདྲིས་ མི་ ཕྲད་ ནི ། །"
+msgstr ""
+
+msgctxt "5cf6dd2440364610a6eb401084ae8a3f"
+msgid "དཔེར་ན་ གྲོགས་པོ་ མཛའ་བོ་ གཉིས ། །"
+msgstr ""
+
+msgctxt "ee7bff605c5b4638ad35d9c02210768d"
+msgid "ལམ་ དུ་ ཏུག་ གིས་ ཕྲད་ གྱུར་ ན ། །"
+msgstr ""
+
+msgctxt "c847bdc91ff74906b030bad6eec3d0d0"
+msgid "ཕྲད་ དུས་ ཉིད་ ནས་ ངོ་ ཤེས་ ལྟར ། །"
+msgstr ""
+
+msgctxt "8ea5a1bcd5f645be820a75f626e16dd2"
+msgid "དེ་བཞིན་ རྣལ་འབྱོར་པ་ དེ␣ས་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "44c6d79c49dd4f58906af1143ca0edf1"
+msgid "རྣམ་རྟོག་ བྱུང་ དུས་ དེ་ཉིད་ དུ ། །"
+msgstr ""
+
+msgctxt "a87c498e63f6439ba0824ecae423eb40"
+msgid "རང་སེམས་ སྟོང་པ␣ར་ ཆོད་པ་ འབྱུང་ ། །"
+msgstr ""
+
+msgctxt "11f508ed886d4f7a8c784515de6386c1"
+msgid "ཕྲད་ འཇོམས་ བྱ་བ་ དེ་ ཡིན་ གསུངས ། །"
+msgstr ""
+
+msgctxt "aa59b7e8df584affaef94a5beeea8531"
+msgid "གཉིས་པ་ རྡོ་ཚན་ ཁ་བ་ ནི ། །"
+msgstr ""
+
+msgctxt "5c050f9ddf2642a893ac4d8cf6631d5f"
+msgid "སྤྲིན་ ལ␣ས་ ཁ་བ་ བྱུང་ གྱུར་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "f742b5d9edcc48919d13344d659dd357"
+msgid "རྡོོ་ ཚན་ སྟེང་ དུ་ བྱུང་ མ་ ཐག  །"
+msgstr ""
+
+msgctxt "819e128e51bb4d40b2aea8168b8dfb00"
+msgid "དེ་དུས་ ཉིད་ དུ་ ཆུར་ འགྱུར་ བཞིན ། །"
+msgstr ""
+
+msgctxt "e07523a600204c949889165a83ae9bf8"
+msgid "ཡེངས་ ལ␣ས་ རྟོག་པ་ བྱུང་ གྱུར་ ན ། །"
+msgstr ""
+
+msgctxt "c1b5ff8c572d4346a3f65684af61c7fb"
+msgid "བྱུང་ རྗེས་ ཉིད་ དུ་ སེམས་ སུ་ ཤེས ། །"
+msgstr ""
+
+msgctxt "f61dfc7e7608472fa6a192ea4fa64873"
+msgid "སེམས་ཉིད་ ཆོས་སྐུ་ སྤྲོས་བྲལ་ དུ ། །"
+msgstr ""
+
+msgctxt "95c7c650a02e4937b438e3f3f40b5a0d"
+msgid "འབད་ མི་ དགོས་པ␣ར་ རྟོག་པ་ འབྱུང་ ། །"
+msgstr ""
+
+msgctxt "d1544e013240406292f110824926137f"
+msgid "ཕྲད་ འཇོོམས་ བྱ་བ་ དེ་ ལ་ ཟེར ། །"
+msgstr ""
+
+msgctxt "318362cd949c4968979bbbe16cc6479e"
+msgid "གསུམ་པ་ ནགས་མེ␣ས་ ཚིག་པ་ ནི ། །"
+msgstr ""
+
+msgctxt "8e1a90ac3d2745e593d012233d98f1a8"
+msgid "དཔེེར་ ན་ ནགས་ ལ་ མེ་ ཤོ␣ར་ ན ། །"
+msgstr ""
+
+msgctxt "4bc59803c4f042a5a3df5d89f00fbb55"
+msgid "ཤིང་ དང་ རྩ་ དང་སེམས་ ཅན་ དང་ ། །"
+msgstr ""
+
+msgctxt "51d306324d694488b3867bcbac3a62da"
+msgid "ས་ཕྱོགས་ གཙང་ དང་ མི་གཙང་ སོགས ། །"
+msgstr ""
+
+msgctxt "87e225faa0c4490284a6827e5716dc95"
+msgid "རྟོགས་པ་ མེད་པ␣ར་ སྲེག་པ␣ར་ བྱེད ། །"
+msgstr ""
+
+msgctxt "a8a9267958eb4cffb8d1225945fd5005"
+msgid "རླུང་ དང་ སེར་བ་ ཅི་ བྱུང་ ཡང་ ། །"
+msgstr ""
+
+msgctxt "9d8b8f173c4648f8ac2ab36b2899c771"
+msgid "མི་ འཆི་ སླར་ གྲོགས་ བྱེད་པ་ བཞིན ། །"
+msgstr ""
+
+msgctxt "7c9eb2a484fb45569f2aff030f68fd44"
+msgid "རྟོགས་པ␣འི་ མེ་ ཆེན་ འབར་ ཙམ་ ན ། །"
+msgstr ""
+
+msgctxt "0e4bc54c8ecc4cada01a55719692009e"
+msgid "རྣམ་རྟོག་ བཟང་ངན་ སྣ་ཚོགས་ དང་ ། །"
+msgstr ""
+
+msgctxt "04450a0a0d8743be83ddd640ea93e871"
+msgid "གཟུང་ འཛིིན་ ཉོན་མོངས་ ཆགས་སྡང་ སོགས ། །"
+msgstr ""
+
+msgctxt "16b87274d44244c49a09f7a45cb45597"
+msgid "བླང་དོར་ དགག་སྒྲུབ་ མེད་པ་ རུ ། །"
+msgstr ""
+
+msgctxt "260532558502464194142d08122b8518"
+msgid "སྐྱེ་ མེེད་ ངང་ དུ་ སྲེག་པ␣ར་ བྱེད ། །"
+msgstr ""
+
+msgctxt "4b1218904a6c48d1a5b2a3fd62b576fa"
+msgid "རྣམ་རྟོག་ ཅི་ ལྟར་ མང་བ་ ལྟར ། །"
+msgstr ""
+
+msgctxt "36b14c6f529d4a2d853afa8135684d61"
+msgid "རྟོགས་པ་ སྐྱེ་བ␣འི་ གྲོགས་ སུ་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "98573c0633ce45f0935146353b7e25a0"
+msgid "མེ་ སྤྲུལ་ ཞེས་པ་ དེ་ ལ་ བྱེད ། །"
+msgstr ""
+
+msgctxt "ebb5bbd0ddd846c69926e9392cc5ad87"
+msgid "དེ་ལྟར་ རྟོགས་པ་ བརྟན་ ཙམ་ ན །"
+msgstr ""
+
+msgctxt "916bf52cc67a4d15b51ff153b23c4b73"
+msgid "གསལ་ ལ་ མི་ འགག␣ས་ མཐའ་ དང་ བྲལ ། །"
+msgstr ""
+
+msgctxt "5a1d933ba51a452e86112a913a6d37e6"
+msgid "བདེ་ གསལ་ མི་ རྟོག་ ཞེན་པ་ མེད ། །"
+msgstr ""
+
+msgctxt "efa5e9e1b5ea4dfbb69a8f6fbfaec2c6"
+msgid "ཁབ་ ཀྱིས་ བཙུགས་ ཀྱང་ བདེ་བ་ སྐྱེ ། །"
+msgstr ""
+
+msgctxt "4fc3dd189bc543bbb883edefca192ea6"
+msgid "ཉིན་མཚན་ ཐུན་ མཚམས་ འགྲོ་འདུག་ སོགས ། །"
+msgstr ""
+
+msgctxt "2439e376d23347eb84c3e167f7e2d92b"
+msgid "སྤྱོད་ལམ་ གང་ཡང་ ཁྱད་མེད་ ན ། །"
+msgstr ""
+
+msgctxt "41666ff03862411ea6c60798a900186e"
+msgid "བདེེ་ གསལ་ ཉམས་མྱོང་ བཞི་པ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "e4e665ff79cb46c1851c3a981e1f7a48"
+msgid "དེ་ ཚོ་ ཉམས་ ཀྱི་ འབྱུང་ ཚུལ་ བསྟན ། །"
+msgstr ""
+
+msgctxt "e18aa41abe9644e9ae7b90f9c7b70226"
+msgid "ཉམས་ དེ་ ཡུན་ དུ་ བསྲིངས་པ་ ཡིས ། །"
+msgstr ""
+
+msgctxt "0b5fe5010c964d529af72fe8bbea48e3"
+msgid "ཕན་ཡོན་ དང་ ནི་ འབྲས་བུ་ ལ ། །"
+msgstr ""
+
+msgctxt "375bf73390cd4fca8fd2bba58b1420a3"
+msgid "ནང་གསེས་ བཞི་ རུ་ བླ་མ␣ས་ གསུངས ། །"
+msgstr ""
+
+msgctxt "b6a441b096fe4a18a7fdbcbeec470b87"
+msgid "དེ་ ལ་ དང་པོ་ ཕན་ཡོན་ ནི ། །"
+msgstr ""
+
+msgctxt "a0b217764d4e4c1491089fa2810bf84b"
+msgid "སྒོམ་ གྱི་ ཐོག་ ཏུ་ ལྟ་བ་ འཆར ། །"
+msgstr ""
+
+msgctxt "fecb8154fce04171a9509588cf145774"
+msgid "ལྟ་བ␣འི་ ཐོག་ ཏུ་ སྒོམ་པ་ འཆར ། །"
+msgstr ""
+
+msgctxt "9020ae7afb804274b00aff7b6cc12fb6"
+msgid "ལྟ་ སྒོམ་ རོ་ གཅིག་ འཆར་བ␣ར་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "ccfda019229f45c89a93e0f0ce444aea"
+msgid "སྣང་བ་ སྣ་ཚོགས་ ཞེས་ བཤད་ དོ ། །"
+msgstr ""
+
+msgctxt "d7970f00c4214a558ca4f9b3c28f065a"
+msgid "མཚན་མ་ རང་ས␣ར་ གྲོལ་བ་ དང་ ། །"
+msgstr ""
+
+msgctxt "7f86807fc5e74122aa09d11bbe7ac5cf"
+msgid "རྒྱུ་དུས་ འབྲས་བུ་ དུས་ མཚུངས་པ␣ས ། །"
+msgstr ""
+
+msgctxt "138f30ddfdf24f58a6f0717bc9a768ee"
+msgid "ཆོས་ ལ་ རང་བཞིན་ ཚུད་པ་ འབྱུང་ ། །"
+msgstr ""
+
+msgctxt "f9c2681271644582b7656e2059703254"
+msgid "ཏིང་འཛིན་ ཟས་ ཀྱིས་ འཚོ་ འགྱུར་ ཏེ ། །"
+msgstr ""
+
+msgctxt "46c2f503eadb438684624d824f14ed6b"
+msgid "བར་ཆད་ བདུད་ ཀྱིས་ ཚུགས་ མི་ འགྱུར ། །"
+msgstr ""
+
+msgctxt "b121e137fc7f4a6190af14a09cbcfc53"
+msgid "མངོན་པར་ ཤེས་པ་ འཆར་ འགྱུར་ དང་ ། །"
+msgstr ""
+
+msgctxt "f12d25f2cc4f4d48b43d1380c51093fe"
+msgid "སངས་རྒྱས་ ཞིང་ཁམས་ མཐོང་ ལ་སོགས ། །"
+msgstr ""
+
+msgctxt "5a3d61e257614aecbc19e94ac7469f1e"
+msgid "ཐུན་མོང་ ཕན་ཡོན་ ལ་སོགས་ ཀུན ། །"
+msgstr ""
+
+msgctxt "55ab86cf064547ada5ae812f083dca38"
+msgid "འགག་པ་ མེད་པ␣ར་ ཤུགས་ ཀྱིས་ འབྱུང་ ། །"
+msgstr ""
+
+msgctxt "16a304b8941e4020b3136a92540eed7d"
+msgid "དེ་ལྟར་ ཡོན་ཏན་ མ་ ལུས་ ཀུན ། །"
+msgstr ""
+
+msgctxt "9d970d4c5bde4515afc12319ed4aff53"
+msgid "རང་ ལ་ རྫོགས་པ␣ར་ ཤར་ གྱུར་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "a5c81db4b9014d29b75470f7b7dd585c"
+msgid "གནས་སྐབས་ འབྲས་བུ␣ར་ ཤེས་བྱ␣ས་ ལ ། །"
+msgstr ""
+
+msgctxt "8bd9d377c2ed407e85686643c2338df7"
+msgid "ངོ་མཚར་ མཆོག་ ཏུ་ མི་ བཟུང་ ཞིང་ ། །"
+msgstr ""
+
+msgctxt "4e76491edcf24f778fc35424a5c4018a"
+msgid "རྒྱུན་ ཆད་ མེེད་པ␣ར་ འབད་ དེ་ བསྒོམ ། །"
+msgstr ""
+
+msgctxt "d6edd635cef74867bff806bb74a9aacd"
+msgid "རྟོག་པ␣འི་ རྗེས་སུ་ མི་ འབྲང་ ཞིང་ ། །"
+msgstr ""
+
+msgctxt "e66aa42c331e4162bbd063ffcba76614"
+msgid "རྣམ་རྟོག་ སེམས་ སུ་ ཤེས་བྱ␣ས་ ཏེ ། །"
+msgstr ""
+
+msgctxt "cb159e781c334a6386422d118d0bc9fa"
+msgid "སེམས་ཉིད་ སྐྱེ་ མེད་ སྤྲོས་བྲལ་ དུ ། །"
+msgstr ""
+
+msgctxt "791832d288d244cbb85f1eb2636afc1b"
+msgid "མི་ རྟོག་ བདེ་ གསལ་ སེང་ ངེ་ བསྒོམ ། །"
+msgstr ""
+
+msgctxt "5a1ba70b80a84f20951bd7b207dddb32"
+msgid "ངང་ ལ་མ་ ཡེེངས་ བསྒོམ་པ␣འི་ མཆོག  །"
+msgstr ""
+
+msgctxt "e84976aeb2324782a868a8531e31da41"
+msgid "རྟོག་པ་ བྱུང་ བརགྱུར་ ན་ ཡང་ ། །"
+msgstr ""
+
+msgctxt "0f961b325667437c8693555a8f5bbc75"
+msgid "སྐྱོན་ ཅན་ དག་ ཏུ་ མི་ བལྟ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "06f84acbaa0541ada75b895c7cd699cd"
+msgid "རང་བཞིན་ ཤེས་ ན་ ཆོས་སྐུ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "e5e5f2b931874a0e8166cbb0db08e75e"
+msgid "དེ་བ␣ས་ ལྷག་པ␣འི་ སྒོམ་པ་ ཞིག  །"
+msgstr ""
+
+msgctxt "a44c8d41ea43473396a8c0ee0345735b"
+msgid "ལོགས་ ནས་ འཚོལ་བ␣ར་ འདོད་ ལ་ རྣམས ། །"
+msgstr ""
+
+msgctxt "260ebf914c8b456a9e254c7cca0d0884"
+msgid "རེ་དོགས་ གཉིས་ སུ་ ལྷུང་བ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "528cc5e841de4fdd8d58308be45536a2"
+msgid "རེ་བ␣ས་ ཡོན་ཏན་ ཐམས་ཅད་ འགག␣ས ། །"
+msgstr ""
+
+msgctxt "f141c9d6226c44c488997bd2581d3d56"
+msgid "དོགས་པ་ ཡོད་ ན་ འཁོར་བ␣ར་ འཆིང་ ། །"
+msgstr ""
+
+msgctxt "80b51408310e49edbdb70e883fe25961"
+msgid "རྟོགས་པ␣ར་ མི་ འགྱུར་ བདེ་ གསལ་ མེད ། །"
+msgstr ""
+
+msgctxt "3b4a002491414ee18bd74923fbdaec77"
+msgid "གནས་པ་ བཟང་པོ་ ཡོད་ གྱུར་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "029b64c953a34b38bc34a546be9c49f7"
+msgid "གོལ་བ␣འི་ ལམ་ ཞེས་ རྗེ་བཙུན་ གསུངས ། །"
+msgstr ""
+
+msgctxt "a53ca495f09146b688b0e08fdb33cdb1"
+msgid "ལྟ་བ་ གཞི་ ཐོག་མ་ ལུས་ དང་ ། །"
+msgstr ""
+
+msgctxt "c0a23137985e44a68c226dedfe9ca355"
+msgid "སྒོོམ་པ་ གཞི་ ཐོག་ མོ་ལུས་ དང་ ། །"
+msgstr ""
+
+msgctxt "280d7445a291480f998216bd9876add8"
+msgid "རྟོགས་པ་ ཉམས་ ཐོག་མ་ ལུས་གསུམ ། །"
+msgstr ""
+
+msgctxt "ddd50bf6e61f4290a2758975effb51b0"
+msgid "རྟོག་པ་ ལམ་ དུ་ ཁྱེར་ དང་ བཞི ། །"
+msgstr ""
+
+msgctxt "8ed5b5c3929f4d4099ffca0132f68cd4"
+msgid "ལྷན་ཅིག་ སྐྱེས་ སྦྱོར་ ལུགས་ ཡིན་ གསུང་ ། །"
+msgstr ""
+
+msgctxt "4be8a8221f77403bb92880cc043adfb0"
+msgid "དེ་ ཚོ་ གནས་སྐབས་ ཕན་ཡོན་ ཡིན ། །"
+msgstr ""
+
+msgctxt "f3d50251c83946258c2e6cfa1a5b25b6"
+msgid "གཉིས་པ་ སྤྱོད་པ␣འི་ བོགས་ དོན་ ནི ། །"
+msgstr ""
+
+msgctxt "4f4945c764f84d9282f2fe0096446baa"
+msgid "མཆོག་ གི་ འབྲས་བུ་ འཆར་ འགྱུར་བ ། །"
+msgstr ""
+
+msgctxt "820cd577411b416083ecf60fb7753fa7"
+msgid "འགྲོ་ འཆག་ ཉལ་ དང་ སྤྱོད་ལམ་ ཀུན ། །"
+msgstr ""
+
+msgctxt "8f0498c59e0447fab8df2601591926f1"
+msgid "སྒོམ་ དང་ མ་ བྲལ་ སྤྱོད་པ␣འི་ མཆོག  །"
+msgstr ""
+
+msgctxt "ba63a6fd18d446958b765cf24832239a"
+msgid "བླང་ དོོར་ དགག་སྒྲུབ་ ཀུན་ དང་ བྲལ ། །"
+msgstr ""
+
+msgctxt "bfeb42080c174c58adfeaaf402ec8b84"
+msgid "ཉམས་ ང་ མེད་པ་ སེང་གེ་ བཞིན ། །"
+msgstr ""
+
+msgctxt "38fac7b4e1454fb4a345f096783472d1"
+msgid "གཙང་བཙོག་ མེད་པ་ ཁྱི་ ཕག་ བཞིན ། །"
+msgstr ""
+
+msgctxt "777d542d828f41cfac0ace9a969d9fde"
+msgid "གཟའ་ གཏད་མེད་པ་ སྨྱོན་པ་ བཞིན ། །"
+msgstr ""
+
+msgctxt "986faf1105294287a9893b92f4dfd736"
+msgid "དྲི་མ␣ས་ མ་ གོས་ སྤྱོད་པ་ བཞིན ། །"
+msgstr ""
+
+msgctxt "4bd8ca468cdc47e39850fe0915c2ed3d"
+msgid "ཚུལ་ ཆོས་ མེད་པ␣ས་ རོ་ལངས་ བཞིན ། །"
+msgstr ""
+
+msgctxt "be39807733754d5fb57910d40cc68f94"
+msgid "རྒྱུན་ ཆད་ མེད་པ␣ར་ གནས་ གྱུར་ ན ། །"
+msgstr ""
+
+msgctxt "c706eab387f1454d8b0b20a172b22dda"
+msgid "སྤྱོད་པ་ རྣམས་ ཀྱི་ ནང་ ན་ མཆོག  །"
+msgstr ""
+
+msgctxt "bec926cf74464fdeb64b814e30160531"
+msgid "སྤྱོད་པ་ དེ་ལྟར་ སྤྱད་པ་ ལ␣ས ། །"
+msgstr ""
+
+msgctxt "608d92960db84d179793144c1c70ed7f"
+msgid "རྩེ་གཅིག་ སྥོས་ བྲལ་ རོ་ གཅིག་ དང་ ། །"
+msgstr ""
+
+msgctxt "15bb76204b404880912def1bfa65c61e"
+msgid "བསྒོམ་ མེད་ མཐ␣ར་ ཕྱིན་ འབྲས་བུ་ ལ␣ས ། །"
+msgstr ""
+
+msgctxt "94f8bc82769c49e5968ca90d7ded1a03"
+msgid "འབྲས་བུ་ རོ་ གཅིག་ རྟོགས་པ་ ནི ། །"
+msgstr ""
+
+msgctxt "2dabf03c343a411db413f79c71974734"
+msgid "རེ་ དོོགས་ མེད་ ན་ འབྲས་བུ␣འི་ མཆོག  །"
+msgstr ""
+
+msgctxt "ca2ff5d718d74b5ca9c8be46c27cdb4d"
+msgid "ཆོས་སྐུ་ སྨྲ་ བསམ་བློ་ ལ␣ས་ འདས ། །"
+msgstr ""
+
+msgctxt "78425cbfeb1847b5b2ce12915e6da0db"
+msgid "ཡང་དག་ སངས་ རྒུ␣ས་ ཉིད་ ཀྱིས་ ཀྱང་ ། །"
+msgstr ""
+
+msgctxt "0af60bfcfc034cd59485459a1d6eb137"
+msgid "ཆོས་ མཐོང་བ␣ར་ ནི་ རིགས་ མ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "e5974a26f2f849c99f9d8bae2884f1df"
+msgid "འོན་ཀྱང་ གདུལ་བྱ␣འི་ སྣང་བ་ ལ␣ས ། །"
+msgstr ""
+
+msgctxt "34fba8a34aa4455b897b79b82908edfd"
+msgid "མཚན་ དང་ དཔེ་བྱད་ འབར་བ་ དང་ ། །"
+msgstr ""
+
+msgctxt "8686868f888349059ad3345e364079db"
+msgid "རང་བྱུང་ ཤྰ་ ཀ་ ཐུབ་ ལ་སོགས་པ␣འི ། །"
+msgstr ""
+
+msgctxt "f85b8e821f504dcdb76e8428d94dce22"
+msgid "སེམས་ཅན་ དོན་ བྱེད་ གཟུགས་སྐུ་ ཡིན ། །"
+msgstr ""
+
+msgctxt "7395ff0067db4c9c8ff4a8ba1f8b720a"
+msgid "ཆོསསྐུ་ སྤྲོས་བྲལ་ མཁའ་ འདྲ་ ལ␣ས ། །"
+msgstr ""
+
+msgctxt "0f1b34e077cd44159eac0312a3b6c7a9"
+msgid "ལོངས་སྐུ་ སྤྲིན་ དང་ འདྲ་བ␣ར་ འབྱུང་ ། །"
+msgstr ""
+
+msgctxt "9e1936deb1594e9682fb2e2318e1d47b"
+msgid "དེ་ལས་ སྤྲུལ་སྐུ་ ཆ␣ར་ ལྟ་བུ ། །"
+msgstr ""
+
+msgctxt "3d13bcccc9ff4b9ca2c48f7c16215511"
+msgid "སེམས་ཅན་ རྣམས་ ཀྱི་ དོན་ མཛད་ དང་ ། །"
+msgstr ""
+
+msgctxt "cc2a877aa01f41e5ad963c60ef2bafa1"
+msgid "བུམ་པ་ དཔག་བསམ་ ཤིང་ ཆེན་ དང་ ། །"
+msgstr ""
+
+msgctxt "b4bd2a83bd6a40dd88267529c0461d8a"
+msgid "ཡིད་བཞིན་ ནོར་བུ་ ཇི་བཞིན་ དུ ། །"
+msgstr ""
+
+msgctxt "162ec53d8b994178ac003712630a2ad2"
+msgid "རྟོག་པ་ མེད་པ␣ར་ འགྲོ་བ་ ཡི ། །"
+msgstr ""
+
+msgctxt "7dec56334218481a9a0ac48545967dc8"
+msgid "བསམ་པ་ ཇི་བཞིན་ ཆོས་སྟོན་པ ། །"
+msgstr ""
+
+msgctxt "cc2686ea9472449999d7c49ab6dd3c1c"
+msgid "རྒྱུད་ ཆེན་ དག་ ནས་ མང་ དུ་ གསུངས ། །"
+msgstr ""
+
+msgctxt "2dc4aca6ff78465dafafba04025d8357"
+msgid "འབྲས་བུ་ ཞེས་པ་ དེ་ ཡིན་ གསུངས ། །"
+msgstr ""
+
+msgctxt "e507730bd00f497ba71ec02cc75bdab5"
+msgid "དེ་ ཚོ་ ཕན་ཡོན་ འབྲས་བུ་ སྟེ ། །"
+msgstr ""
+
+msgctxt "0809b764b0f64e92b163031f17c7d75a"
+msgid "སྤྱི་དོན་ རྣམ་པ་ དྲུག་ བྱས་ ནས ། །"
+msgstr ""
+
+msgctxt "164167a961af4cd98257a2090805c1af"
+msgid "རྗེེ་ ཡི་ གསུངས་ སྒྲོས་ ཇི་བཞིན་ དུ ། །"
+msgstr ""
+
+msgctxt "588b41d548914eacb2fcb12ca0a785aa"
+msgid "རྐྱེན་ བཞི་ གོ་ཆ་ གཉིས་ གོན་པ␣འི ། །"
+msgstr ""
+
+msgctxt "0399c882af4b4febb500da1b8fdd7a37"
+msgid "ལྷན་ཅིག་ སྐྱེས་ སྦྱོར་ གདམས་ངག་ འདི ། །"
+msgstr ""
+
+msgctxt "611ee4fe91aa4b0192b1d7d545a67dba"
+msgid "རང་གཞན་ གཉིས་ཀ␣འི་ དོན་ དུ་ བརྩམས ། །"
+msgstr ""
+
+msgctxt "ce0f9f608bb94f60a145dda8c795d83f"
+msgid "མཁའ་འགྲོ་ ཆོས་སྐྱོང་ བཟོད་པ␣ར་ གསོལ ། །"
+msgstr ""
+
+msgctxt "e684bfb8e44d4bea857b30c95c086e84"
+msgid "འདི་ བྲིས་པ་ ཡི་ དགེ་བ་ ཡིས ། །"
+msgstr ""
+
+msgctxt "0bc9421dc0304480813f0d6d0e76f308"
+msgid "མཐའ་ ཡས་ སེམས་ཅན་ མ་ ལུས་ རྣམས ། །"
+msgstr ""
+
+msgctxt "f2fb2bc049a84316929e2aa59c49b241"
+msgid "རྣམ་རྟོག་ ཆོས་སྐུ␣ར་ རྟོགས་པ␣ར་ ཤོག  །"
+msgstr ""
+
+msgctxt "4a57f01f5e2b47e6833c45db41c8f7fe"
+msgid ""
+"ལྷན་ཅིག་ སྐྱེས་ སྦྱོར་ ལྡོམ་བུ་བ་ རྡོར་ རྒྱལ་ གྱིས་ སྦྱར་བ་ རྫོགས་ སོ །། །། "
+"ཤུབྷྃ ། །"
+msgstr ""

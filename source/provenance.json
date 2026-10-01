@@ -1,0 +1,13 @@
+{
+  "upstream_repository": "Lotus-King-Translation/Phagmo-Lhenchig-Kyechor",
+  "branch": "translations_wip-bo-001-po--main_en",
+  "commit": "396428b4d94b446448db9460185c554e696c181a",
+  "template_repository": "Lotus-King-Translation/tibetan-text-project-template",
+  "template_commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+  "golden_edition": false,
+  "source_edition": "provisional-source-v1",
+  "source_path": "source/archive/root/001.txt",
+  "source_sha256": "17ea0d8ee82a435fb37211802c8e607dee071a1dce60623811c427df94e2ea06",
+  "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+  "guidance_sha256": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760"
+}

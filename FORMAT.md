@@ -269,3 +269,9 @@ A paired-text release must pin:
 Release validation must prove exact pair symmetry and exact source coverage.
 
 Once tagged, the pair IDs in that release are immutable.
+
+## LCK provisional-source profile
+
+D001 authorizes bypassing the golden phase. This project retains `paired-text/2` pair symmetry and required formats, but uses `source: L0001 …` instead of `golden:` for exact provisional transcript line provenance. The source edition is `provisional-source-v1`, never a golden edition. `source/provenance.json` pins the raw bytes and upstream commit; `paired/segmentation.json` freezes pair-to-line assignment. Source blocks reproduce raw lines exactly, including the trailing space at L0493. The final newline in the archival file is absent and remains absent there; Markdown block separators are display syntax. All 589 raw lines belong to exactly one pair.
+
+The whole supplied work is one bounded release unit. Parallel translator partitions are work allocation, not separate section releases. `paired/source.md` and `paired/translation.md` remain canonical authored files after intake; `scripts/build_support.py` generates coverage, bilingual display and note/usage views without rewriting them.

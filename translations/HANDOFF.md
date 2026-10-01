@@ -1,45 +1,7 @@
 # Translation handoff
 
-Update this file before handing translation or QC work to another agent.
+Read AGENTS.md, PROJECT-STATUS.md, DECISIONS.md and CONTRACT.md first. Fixed source: provisional-source-v1, L0001–L0589 / LCK-000001–LCK-000110. Golden phase skipped by user (D001). Exact source/glossary/guidance hashes are in source/provenance.json. Standard: tibetan_translation_standard_v2.md.
 
-## Fixed inputs
+110 pairs frozen with formats; 0 translated, 110 remaining. Human reference has 589 nonempty entries but no authority over source/glossary. Source spellings are unchanged, including likely transcription defects; annotate exact spans. No independent QC, signoff, release, final validation or negative tests yet. No unmatched source IDs; English placeholders are explicitly unprocessed.
 
-- golden release:
-- golden commit/tag:
-- glossary version/hash:
-- translation guideline version:
-- explicit project decisions:
-
-## Current coverage
-
-- source pair/anchor range:
-- translated segments completed:
-- translated segments remaining:
-- unresolved translation notes:
-- provisional terminology usages:
-- independent QC performed: false
-
-## Release state
-
-- candidate commit:
-- validation:
-- negative tests:
-- final signoff:
-- release tag:
-- publication receipt:
-- remote verification:
-- clean tree:
-
-## Paired-text state
-
-- source release pinned:
-- translation release pinned:
-- pair IDs defined:
-- pair formats classified (prose/verse/h1/h2/h3):
-- unmatched source pairs:
-- unmatched translation pairs:
-- paired validation:
-
-## Next finite task
-
-State one bounded next task and the exact source range it covers.
+Single whole-work bounded batch; drafting partitions A: pairs1–39, B:40–74, C:75–110. Do not edit source/glossary. No physical scan checked and no exhaustive collation. Next task: complete all three translation partitions with notes/usages/proposals, then independent cross-review and coordinated publication. Only coordinator commits/pushes.

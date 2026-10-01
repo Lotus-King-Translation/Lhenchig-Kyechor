@@ -8,7 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "paired/source.md"
 TRANSLATION = ROOT / "paired/translation.md"
 ALLOWED_FORMATS = {"prose", "verse", "h1", "h2", "h3"}
-PAIR = re.compile(r"<!-- pair: ([^|>]+?)(.*?) -->")
+PAIR = re.compile(r"<!-- pair: ([^|>]+?)(\s*\|.*?)? -->")
 
 
 def front_matter(text):
@@ -37,7 +37,7 @@ def pairs(text, source_side):
             raise ValueError("duplicate pair ID: " + ident)
         seen.add(ident)
         metadata = {}
-        for piece in match.group(2).split("|"):
+        for piece in (match.group(2) or "").split("|"):
             piece = piece.strip()
             if not piece:
                 continue
@@ -46,7 +46,7 @@ def pairs(text, source_side):
                 raise ValueError("invalid pair metadata for " + ident)
             metadata[key.strip()] = value.strip()
         if source_side:
-            missing = {"golden", "role", "format"} - metadata.keys()
+            missing = {"source", "role", "format"} - metadata.keys()
             if missing:
                 raise ValueError(f"{ident} missing source metadata: {sorted(missing)}")
             if metadata["format"] not in ALLOWED_FORMATS:
@@ -63,7 +63,7 @@ def main():
         raise ValueError("both files must use schema paired-text/2")
     if sfm.get("text-id") != tfm.get("text-id"):
         raise ValueError("text-id mismatch")
-    if tfm.get("source-edition") not in {sfm.get("edition"), "unset"}:
+    if tfm.get("source-edition") != sfm.get("edition"):
         raise ValueError("translation source-edition does not match source edition")
     source_rows = pairs(source, True)
     translation_rows = pairs(translation, False)

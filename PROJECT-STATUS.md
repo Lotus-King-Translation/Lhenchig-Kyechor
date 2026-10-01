@@ -1,43 +1,15 @@
 # Project status
 
-Keep this file short and current. Older detailed history belongs in phase handoffs and receipts.
-
-## Current state
-
-- Work title: unset
-- Work code for pair IDs: unset
-- Current phase: source intake
-- Current bounded section/chapter: not started
-- Governing physical base witness: not selected
-- Governing base electronic transcript: not selected
-- Source register complete: false
-- Golden release: none
-- Translation release: none
-- Paired-text release: none
-
-## Current finite task
-
-Not yet defined.
-
-## Counts
-
-- registered source items: 0
-- frozen source anchors: 0
-- open electronic comparison loci: 0
-- open targeted scan/source checks: 0
-- open editorial decisions: 0
-- restored main-text objects: 0
-- translation segments complete: 0
-- paired segments complete: 0
-- paired segments with format classified: 0
-
-## Scope flags
-
-- full base-scan proofreading performed: false
-- exhaustive witness collation performed: false
-- eclectic/reconstructed-original edition intended: false
-- translation independent QC completed: false
-
-## Next action
-
-Populate editions/REGISTER.csv and select the project’s governing source strategy before editorial work.
+- Title: Lhenchig Kyechor (ལྷན་ཅིག་སྐྱེས་སྦྱོར།); work code LCK.
+- Phase: direct translation; golden phase explicitly skipped (D001).
+- Bounded work: complete supplied text L0001–L0589, pairs LCK-000001–LCK-000110.
+- Source: provisional-source-v1, legacy commit 396428b4d94b446448db9460185c554e696c181a; no physical witness identified.
+- Intake: 9 archival items registered; 589 source lines frozen; 110 pairs and formats fixed.
+- Translated: 0/110; remaining: 110.
+- Source textual changes/restorations: 0/0.
+- Targeted mechanical source checks: 2 complete, 0 pending (PO reversal; raw/v2 equality modulo final newline).
+- Golden textual decisions: none undertaken; unresolved readings will be recorded in translation notes.
+- Deliverables complete: archive/provenance, paired source, finite contract. Pending: translation, annotation/usage/proposals, independent agent QC, validation/negative tests, release/receipt.
+- Full scan proofreading: no. Exhaustive witness collation: no. Independent translation QC: not yet.
+- Release: none; next phase/chapter: none started.
+- Next finite task: translate and review all 110 fixed pairs under standard v2 and unchanged glossary.

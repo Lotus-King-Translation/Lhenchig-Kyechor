@@ -1,0 +1,3 @@
+# Preserve archival bytes and intentional source whitespace.
+source/archive/** -text -whitespace
+paired/source.md -whitespace
