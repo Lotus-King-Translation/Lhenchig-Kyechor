@@ -1,0 +1,676 @@
+{
+  "reviewer": "source_audit (A translator; independent of B)",
+  "activity": "Bounded post-correction verification of QC-B; not a repeat of the independent full35-pair review",
+  "checked_at_utc": "2026-10-01T20:01:12.274235+00:00",
+  "base_head": "263156621da0d8a65291b9a7f16afbb42b7d119d",
+  "scope": {
+    "english_corrections": [
+      "LCK-000040",
+      "LCK-000061",
+      "LCK-000067",
+      "LCK-000070",
+      "LCK-000074"
+    ],
+    "note_ids": [
+      "N-Q101",
+      "N-Q102",
+      "N-Q103",
+      "N-B017",
+      "N-B024"
+    ],
+    "usage_records": 4,
+    "proposal_records": 4,
+    "hash_scope": [
+      "LCK-000040",
+      "LCK-000041",
+      "LCK-000042",
+      "LCK-000043",
+      "LCK-000044",
+      "LCK-000045",
+      "LCK-000046",
+      "LCK-000047",
+      "LCK-000048",
+      "LCK-000049",
+      "LCK-000050",
+      "LCK-000051",
+      "LCK-000052",
+      "LCK-000053",
+      "LCK-000054",
+      "LCK-000055",
+      "LCK-000056",
+      "LCK-000057",
+      "LCK-000058",
+      "LCK-000059",
+      "LCK-000060",
+      "LCK-000061",
+      "LCK-000062",
+      "LCK-000063",
+      "LCK-000064",
+      "LCK-000065",
+      "LCK-000066",
+      "LCK-000067",
+      "LCK-000068",
+      "LCK-000069",
+      "LCK-000070",
+      "LCK-000071",
+      "LCK-000072",
+      "LCK-000073",
+      "LCK-000074"
+    ]
+  },
+  "affected_pair_ids": [
+    "LCK-000040",
+    "LCK-000046",
+    "LCK-000061",
+    "LCK-000064",
+    "LCK-000067",
+    "LCK-000070",
+    "LCK-000071",
+    "LCK-000072",
+    "LCK-000074"
+  ],
+  "input_sha256": {
+    "work/Lhenchig-Kyechor/paired/translation.md": "7f885c3a6efe65fe676b86c4c8fc5ea3c166df0f0713cff7537e48b7d4459fda",
+    "work/Lhenchig-Kyechor/paired/source.md": "f0cda17dc09b5aa15f9116597e92840704fd4d3032db9883aa20becaeac819f0",
+    "work/Lhenchig-Kyechor/glossary/expanded_tibetan_english_glossary.csv": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "work/Lhenchig-Kyechor/guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+    "work/Lhenchig-Kyechor/translations/notes.json": "c8b312f07471d4898e972acb9cb3ead834afdef8c93030b6e8a7b734ead7dd29",
+    "work/Lhenchig-Kyechor/translations/usages.json": "ab8390d53a85ef30404c0062710343796d24f11f6cee81cbb9ecaaa2158de161",
+    "work/Lhenchig-Kyechor/translations/proposed-glossary.csv": "247b13a771ed533ee6a44f8c18ef3cffc6113bb18afb0c686a71626a63b82f2b"
+  },
+  "prior_review_sha256": "81b1429a3db0cb015c2999fba6a0893330ded5bc695640b4aaa2dec3694954ad",
+  "hash_definition": "pair_text_sha256 hashes UTF-8 pair body text with only leading/trailing whitespace removed; exact internal newlines, punctuation and inline note links are included. No Unicode normalization. Canonical JSON hashes use UTF-8, sorted keys, compact separators and ensure_ascii=False.",
+  "pair_text_sha256": {
+    "LCK-000040": "f3764a6e3a79cf5ea5c82882ea85d2ba675e364c99105491b898f00ccdf7d45c",
+    "LCK-000041": "ca84ff259cb7cd3921744ba9d8fa2a22366cde1dd6c836e9801604ea437f23f1",
+    "LCK-000042": "602e8219411370d91cf9a33d6bf4f0ca910c50a3fd70e8d1177836264891dc6a",
+    "LCK-000043": "dbb567a1127b815ac03943da732d24f59e7ad15293b55a7bd47b1e5da8f40f5c",
+    "LCK-000044": "1181ac6ba6ed1d70fbc86e8dda48c25342ba6d9de7f6a98a99ea9eeda254f80b",
+    "LCK-000045": "ecc100252281a1fff87653035a27bfb48da65cf55dc4b07f97dc7a8d4757611e",
+    "LCK-000046": "e959818751d1ee8fd56f78c1f1684c7aa222b919549f494f4544dada44e3e6ac",
+    "LCK-000047": "827a327d862befe3a4b52a39452cc244359661c82444fda317f154472930d248",
+    "LCK-000048": "6d5014d1c091fd2a9a0940fd8bb42028d007811ce1918e7e9b65c4dbe09ec994",
+    "LCK-000049": "6600674e5a133638dc9803196b385eee48e3f35ba8ca59bedcb1a13a3618ecaf",
+    "LCK-000050": "626c655c6289013f5c0434a7e9de19b726826cec36a8206174602203ec1935cf",
+    "LCK-000051": "3440be25e0b5026552e24152b03cddef2cce9f1343a4ec0ede14e6c95a798666",
+    "LCK-000052": "662fcc2de921ef437babbb2cbb976876301bf4861a4cb9e903fc9c2c2e9692ca",
+    "LCK-000053": "2347b1dcf9da0fa60fc97e5d103fe439f3651e434e5379586dfc738475a6568f",
+    "LCK-000054": "13537bc64c6e3db2d072684ff657de379b36f50b0478c7a315b2d2cdef3c4260",
+    "LCK-000055": "5e3a45b4c6f1e8c67b82bfb6c61139a84f4ef37bb72016b628c5085220c42ed3",
+    "LCK-000056": "6d73b5b7e3dcb5d149fe92c48c06af3723c4fc148c4a1e04b5f09489a0c00c8c",
+    "LCK-000057": "7153aaa52ee8257aa71cce73baa794be587f4653413b9a6e40fb34dcd2df21b4",
+    "LCK-000058": "4158251aac1d01db086fd2a0ac0ca0602a566ab684cccc5edc9d1422ada44ecd",
+    "LCK-000059": "e8958a914198cd74033c52916421cc26a85feacb388147249c4a379e375d1ba1",
+    "LCK-000060": "ac2a76b7516265dc50d754630a1bf83ca501542bda497c3ade4c75a004b2b20b",
+    "LCK-000061": "287d9a6708b66854bb9cf33bbb1a5ca02528646ce9e1d676f59e6b4a05e5b2ca",
+    "LCK-000062": "77636cfc39ec6fdbaaf812744e51495f78773f868411d92250b18b9d1bf8dd8f",
+    "LCK-000063": "1d9f5c5ca7c58d914b3dffd66a7ae3f4bcbb635677592b4c402144ef18f4bf01",
+    "LCK-000064": "94f14a0df2369f2a06a0ac9207040dd2795da71f528fc3582307e76a3eebfe9c",
+    "LCK-000065": "c7020beac9444f69465bd2fabeadd509b0ae4242641ef06e7ce246a5ac72ba0b",
+    "LCK-000066": "b2e1dcc20a550686ca79c3cf25f5550b7af89b4d9b64d5d4316e1fd53de3b77c",
+    "LCK-000067": "2061a04d9390e2cd9395623a0aa2e55a4078be16f812dd4b1d70693ef1fd3bb6",
+    "LCK-000068": "5c33f64f5e1fb6d25bc64f90b27942fca38ad0ab81e227a065c9495a9b3f92d3",
+    "LCK-000069": "796af120e9c4eac2f319370de599077458ae61b6cc9ba28c6aca844882bc989a",
+    "LCK-000070": "1f74cfd01bae2ae72f683701d26f7f89c869c9d70ff14f083bdafeafffd69e17",
+    "LCK-000071": "a6e0fb506315e4e3784d2e2d9f07509b34e29c3dc7a9cbb3b8e2f2a1b4deeb5a",
+    "LCK-000072": "e3be48a2205c49c74a55b1b225c6c9f45c400af2387cfa4f10e362cc8df9d593",
+    "LCK-000073": "5e74f2bf0f3f8ca61072910f9762dd69b1c1d1c4045bbd5d965e5d62ef1f4b82",
+    "LCK-000074": "20a449add0db1757703feb660fc6a6403fa7a2f70714308c7ae213da24de2bff"
+  },
+  "source_pair_text_sha256": {
+    "LCK-000040": "a3c3157d28ca8f5d6280d341c12b4e2278ea62f29122fc8f6f86fde00e8db450",
+    "LCK-000041": "9d91f7198bd1da0dcc5770c43e6ac6ae41f287c53f8944af370f7e12337c5748",
+    "LCK-000042": "a884eae2a3096c9a38a2f45db6249edeecb43ec96c976af1c5361d8fe23f578b",
+    "LCK-000043": "b110527844d47a143eb8932268d68985cb876c9242365e0b614d5f09a62c8fb2",
+    "LCK-000044": "e58f4dc3f360b90498d710d33333d98d879dc2cf829bb9a9dc106fd5d1ee47ac",
+    "LCK-000045": "e17d425b508cd562713bb82ca1989c9180397465174f83ff446aee4e10f2519c",
+    "LCK-000046": "340869cd94a210ae099f3caa20f6d39e874a1c7cf21131894158837d7ac0f2c4",
+    "LCK-000047": "891d1cb35a0b702077592237c490f1aef306db8ce7ec13d035f115d4e83326e2",
+    "LCK-000048": "8930a50d80066d392b52ddc36f57e49ec502693dc64782c152bd5be4f1fdd771",
+    "LCK-000049": "9f045b398fa9955ba90401b38321761ca31eea30df681d4637c92cd1c37c8fec",
+    "LCK-000050": "97c4125ff77850544449422d846ebebc24e0d2b47b222d8df9c74b58aab01a77",
+    "LCK-000051": "48fd95a313d6107a2d9ad802f84424e2aecb5de6cdb9d14cf9232b548018053d",
+    "LCK-000052": "03791de6b0a17ac2e10eba54c6db91b58eb3d3e65cc5856a0e05016fc2633b72",
+    "LCK-000053": "d8688e6cbf0800525c0f6af30743a462e225694aebdea9e4773e6313508e09f1",
+    "LCK-000054": "bd2cc32b459640d920c1ae00210501247b2ec3211e3a8abe06509afdc85f4487",
+    "LCK-000055": "9c2cd9b8418e01c6348bcff9a13fc7810e284a5511f8f36f520a5d65c813d97b",
+    "LCK-000056": "d3c1edc33ce8fa32a0d0e138642098378911d2368cd2624341ed7f97c54265e9",
+    "LCK-000057": "da50d2a51334ffd5a3587b84075caffe3368b7ba7ce1479b2d994c263539e8cc",
+    "LCK-000058": "844cb1300adbf853d184d6e6e4118aaa6bdafdd9e1cb97c842de7f4ece7e8d99",
+    "LCK-000059": "9cb0efa998d7a16cee55226096946e64fe8296a03e764c514a559c41a28bb3ef",
+    "LCK-000060": "9c3a2a403cca0d1364134dc5c02d98096a86a0148d4cf4a4e0363e5ef1eb8ff3",
+    "LCK-000061": "840935170a48e1088481bb158792d1ac0121ffa12a614afc52250603f6dd0cfa",
+    "LCK-000062": "9776901850795bc51d068930021c5b09b8e8881fab95b506f136d5baec46726a",
+    "LCK-000063": "5c00f2ee61adc234da772323aeb03be78e43c643b573b69fd5ff8e1b594f048a",
+    "LCK-000064": "b3811dd9653fd98e20bc33dc1bfd379fb8420d237e947010903022ff981fbaf3",
+    "LCK-000065": "ae05ae51b734fe893ec6c090251b743fcd1bd396502bf00cfe12e12ea1a71ad3",
+    "LCK-000066": "f2fd1de79753c7326100f4beacbe4609107f069bb4339ae4b678d30ffe45243a",
+    "LCK-000067": "686983eea7804a616cf545a31e2b606b42c37f4b1f6dbf5f5aed5f13c2fb4dc4",
+    "LCK-000068": "089a375cfebec1e6d4f5db428d908792b37d5eb3a3ca6c6654a0d5ef7343cc0a",
+    "LCK-000069": "8c1afffbde8eb720dbf703bc70790ed855db158c62c6a68d1373857af7b9acb0",
+    "LCK-000070": "a01f3bb1145a491359e74f4889f2fdef3671a657c3743c8b288be15f54dc9c52",
+    "LCK-000071": "f3d9e50e068a648f30603965782edf1138738f7fe0d1bc56b77c91ba36dcdc43",
+    "LCK-000072": "b2df03be55806dce7854a63a831d478874791b6711ecf748958f5566a84d84b5",
+    "LCK-000073": "6ea93fed1600d8e6b5d04e596cc002d81cae6aad11d999e524199b9ba72c01d9",
+    "LCK-000074": "c89a4d12a9b670ac934cf6f4374995faaedf2ac4aafec7c6e82bfcc9515f546e"
+  },
+  "affected_note_sha256": {
+    "N-Q101": "4d0d3c319e3900f8aed855a8752d1040df5e491f49b6e2331b8d9bdbbe2a491b",
+    "N-Q102": "cafe092c94d4b88631bd7f59dba2bdd479275b60898d423a5007c3d87dc463b4",
+    "N-Q103": "1f545a1782766440cb3ff99606e44eb2c1b256b396d615fb8d5988e38356c903",
+    "N-B017": "eb5173950b8c152c6ee1380fde1a84dbe561165ad2f4fd356640ba1eda53813d",
+    "N-B024": "38cfd8f11b899fe307076f2ac5406b92c30a81645b06a3534dec35cff3f60588"
+  },
+  "affected_usage_sha256": {
+    "N-Q101": "1bd973c7383f2e03e8b6e62c1eb9c915958a2831b2f94e4e4ce2e53b57f357ed",
+    "N-Q102": "95d1818c4b7664a8e7ef0787bbe7ee88e8c48f7565368c573880026059c02782",
+    "N-Q103": "9e8c3af8b569d6a1869d1165d2b4d7640410dfbecc80b21c5b1854cc12bb6e8b",
+    "N-B017": "aec46c54e9a8d194727beb0602a5e69af24aaaa74cdc9ab872ea4036144fe1cb"
+  },
+  "affected_proposal_sha256": {
+    "ཕྱིར་ཡང་མི་སྤྲོ་ནང་མི་བསྡུ་": "41a017f6468a0c11b86fb610c1b22415b6b6a87f38c730d6b073c6c17bc65a7b",
+    "དངོས་པོ་": "88248353c2afd34c0c81a6106317092bf19a430efbf7bba4274d17be442495de",
+    "གློད་": "9b78fb28363c19dfb8eb2de10544c361a8781819e6e8bbe85cd8181274419477",
+    "དོན་དུ་": "deeaf68d8fa0a9e15199571db9e2fa894f494fcafff9b626017249efeb65dcb7"
+  },
+  "checks": [
+    {
+      "id": "VERIFY-QB01",
+      "pairs": [
+        "LCK-000040"
+      ],
+      "category": "bounded English correction",
+      "result": "pass",
+      "observed": "the teachings, treatises, key instructions, and so forth",
+      "evidence": "The list now renders བཀའ་དང་བསྟན་བཅོས་མན་ངག་སོགས། without the unexpressed named possessor; all list items remain."
+    },
+    {
+      "id": "VERIFY-QB02",
+      "pairs": [
+        "LCK-000061"
+      ],
+      "category": "bounded English correction",
+      "result": "pass",
+      "observed": "When you have trained in conceptual thought as the expressiveness of discerning knowing,",
+      "evidence": "The when-clause gives the training to the implied practitioner; primordial knowing is the subject of will blaze forth. Conceptual thought, expressiveness, discerning knowing and primordial knowing remain intact. The supplied as-relation remains explicitly provisional in N-B024."
+    },
+    {
+      "id": "VERIFY-QB03",
+      "pairs": [
+        "LCK-000067"
+      ],
+      "category": "bounded English correction",
+      "result": "pass",
+      "observed": "ordinary mind has never been experienced as arising.",
+      "evidence": "Experienced as arising supplies a grammatical complement without changing ordinary mind or the experiential negative."
+    },
+    {
+      "id": "VERIFY-QB04",
+      "pairs": [
+        "LCK-000070"
+      ],
+      "category": "bounded English correction",
+      "result": "pass",
+      "observed": "its shape and color would have to be established.",
+      "evidence": "Shape and color are the subject of would have to be established; the following negation of establishment as shape/color remains separate. The source anomaly remains in N-B009."
+    },
+    {
+      "id": "VERIFY-QB05",
+      "pairs": [
+        "LCK-000074"
+      ],
+      "category": "bounded English correction",
+      "result": "pass",
+      "observed": "there is no room for even an instant of distraction.",
+      "evidence": "No room for even an instant preserves complete negation and gives the instruction its constraint on distraction. The unresolved word-changing phrase remains visibly queried and linked to N-B011."
+    },
+    {
+      "id": "VERIFY-N-Q101",
+      "pairs": [
+        "LCK-000072"
+      ],
+      "category": "new local note and visible links",
+      "result": "pass",
+      "observed": "Exact note object matches the requested source span, provisional treatment, uncertainty and review action; all affected pairs link visibly."
+    },
+    {
+      "id": "VERIFY-N-Q102",
+      "pairs": [
+        "LCK-000064",
+        "LCK-000070"
+      ],
+      "category": "new local note and visible links",
+      "result": "pass",
+      "observed": "Exact note object matches the requested source span, provisional treatment, uncertainty and review action; all affected pairs link visibly."
+    },
+    {
+      "id": "VERIFY-N-Q103",
+      "pairs": [
+        "LCK-000071"
+      ],
+      "category": "new local note and visible links",
+      "result": "pass",
+      "observed": "Exact note object matches the requested source span, provisional treatment, uncertainty and review action; all affected pairs link visibly."
+    },
+    {
+      "id": "VERIFY-N-B024",
+      "pairs": [
+        "LCK-000061"
+      ],
+      "category": "note update",
+      "result": "pass",
+      "observed": "Retain eight topics without naming an external treatise; use five paths/five faculties. Supply attainments for the supreme/common pair, supported by the ensuing attainment construction. Provisionally read conceptual thought as the expressiveness of discerning knowing in the training phrase. The training is undertaken by the implied practitioner, not by primordial knowing; the corrected English uses a when-clause to make this clear."
+    },
+    {
+      "id": "VERIFY-N-B017",
+      "pairs": [
+        "LCK-000046"
+      ],
+      "category": "note update",
+      "result": "pass",
+      "observed": "Use “ordinary mind directed toward awakening” as a locally proposed composition, retaining the established component. Use buddhahood for the state to be attained, not attainment already achieved. At L0235–L0236, benefit renders སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་ as a locally provisional beneficiary construction; it does not replace the canonical Meaning mapping or the profound meaning at L0237."
+    },
+    {
+      "id": "VERIFY-USAGE-N-Q101",
+      "pairs": [
+        "LCK-000072"
+      ],
+      "category": "scoped provisional usage",
+      "result": "pass",
+      "observed": [
+        {
+          "pairs": [
+            "LCK-000072"
+          ],
+          "tibetan": "ཕྱིར་ཡང་མི་སྤྲོ་ནང་མི་བསྡུ།",
+          "canonical_entry": "Related འཕྲོ་འདུ་ → Proliferating and gathering; these exact forms not assigned",
+          "english": "neither send outward nor draw inward",
+          "category": "Provisional",
+          "condition": "Send outward and draw inward are retained as a local provisional construction. This names the outward/inward operation; its precise relation to the proliferating/gathering family remains under review.",
+          "note_id": "N-Q101"
+        }
+      ],
+      "evidence": "The occurrence and condition are explicit; canonical English remains distinguishable from the local proposal."
+    },
+    {
+      "id": "VERIFY-USAGE-N-Q102",
+      "pairs": [
+        "LCK-000064",
+        "LCK-000070"
+      ],
+      "category": "scoped provisional usage",
+      "result": "pass",
+      "observed": [
+        {
+          "pairs": [
+            "LCK-000064",
+            "LCK-000070"
+          ],
+          "tibetan": "དངོས་པོ་",
+          "canonical_entry": "No standalone entry; preserve established emptiness",
+          "english": "entity",
+          "category": "Provisional",
+          "condition": "Entity is a local provisional rendering for these two occurrences. No entity and if there were an entity express the respective source negation and hypothesis.",
+          "note_id": "N-Q102"
+        }
+      ],
+      "evidence": "The occurrence and condition are explicit; canonical English remains distinguishable from the local proposal."
+    },
+    {
+      "id": "VERIFY-USAGE-N-Q103",
+      "pairs": [
+        "LCK-000071"
+      ],
+      "category": "scoped provisional usage",
+      "result": "pass",
+      "observed": [
+        {
+          "pairs": [
+            "LCK-000071"
+          ],
+          "tibetan": "གློད།",
+          "canonical_entry": "Related སློད་པ་ → Loosen; exact form not assigned",
+          "english": "loosen",
+          "category": "Provisional",
+          "condition": "Loosen the body is retained provisionally as an interpretation of this source form; ordinary mind is not tightened, preserving the contrast.",
+          "note_id": "N-Q103"
+        }
+      ],
+      "evidence": "The occurrence and condition are explicit; canonical English remains distinguishable from the local proposal."
+    },
+    {
+      "id": "VERIFY-USAGE-N-B017",
+      "pairs": [
+        "LCK-000046"
+      ],
+      "category": "scoped provisional usage",
+      "result": "pass",
+      "observed": [
+        {
+          "pairs": [
+            "LCK-000046"
+          ],
+          "tibetan": "དོན་དུ་",
+          "canonical_entry": "དོན་ → Meaning",
+          "english": "for the benefit of",
+          "category": "Provisional",
+          "condition": "Use “ordinary mind directed toward awakening” as a locally proposed composition, retaining the established component. Use buddhahood for the state to be attained, not attainment already achieved. At L0235–L0236, benefit renders སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་ as a locally provisional beneficiary construction; it does not replace the canonical Meaning mapping or the profound meaning at L0237.",
+          "note_id": "N-B017"
+        }
+      ],
+      "evidence": "The occurrence and condition are explicit; canonical English remains distinguishable from the local proposal."
+    },
+    {
+      "id": "VERIFY-PROPOSAL-N-Q101",
+      "pairs": [
+        "LCK-000072"
+      ],
+      "category": "eight-column proposal",
+      "result": "pass",
+      "observed": [
+        {
+          "Tibetan": "ཕྱིར་ཡང་མི་སྤྲོ་ནང་མི་བསྡུ་",
+          "English": "neither send outward nor draw inward",
+          "Meaning and scope": "Scoped negative outward/inward instruction at L0367 / LCK-000072; not a general gloss for either verb.",
+          "Allowed grammatical forms": "This complete negative instruction only.",
+          "Contextual exceptions": "Local proposed construction; no blanket change to established proliferating and gathering.",
+          "Related entries": "འཕྲོ་འདུ་ → Proliferating and gathering; encountered སྤྲོ་ and བསྡུ་ require form/family review.",
+          "Rationale and sources": "N-Q101 and independent QC-B; exact source ends བསྡུ།; glossary headword final tsheg used here only. Existing family and English collisions checked; full construction is the proposal scope.",
+          "Status and open questions": "Proposed; decide whether proliferate outward / gather inward better preserves family vocabulary. Source spelling unchanged; owner approval pending."
+        }
+      ],
+      "evidence": "The row remains Proposed and records the exact B occurrence. Source-form/headword differences and established family constraints remain visible."
+    },
+    {
+      "id": "VERIFY-PROPOSAL-N-Q102",
+      "pairs": [
+        "LCK-000064",
+        "LCK-000070"
+      ],
+      "category": "eight-column proposal",
+      "result": "pass",
+      "observed": [
+        {
+          "Tibetan": "དངོས་པོ་",
+          "English": "entity",
+          "Meaning and scope": "LCK-000064 and LCK-000070; N-Q102; denial/hypothesis of concrete entity",
+          "Allowed grammatical forms": "",
+          "Contextual exceptions": "Local working proposal only; no general activation.",
+          "Related entries": "Compare ordinary things language; no standalone canonical entry.",
+          "Rationale and sources": "Independent QC-B, source checked by coordinator; LCK-000064 and LCK-000070; N-Q102; denial/hypothesis of concrete entity",
+          "Status and open questions": "Proposed; requires project-owner approval; source spelling unchanged."
+        }
+      ],
+      "evidence": "The row remains Proposed and records the exact B occurrence. Source-form/headword differences and established family constraints remain visible."
+    },
+    {
+      "id": "VERIFY-PROPOSAL-N-Q103",
+      "pairs": [
+        "LCK-000071"
+      ],
+      "category": "eight-column proposal",
+      "result": "pass",
+      "observed": [
+        {
+          "Tibetan": "གློད་",
+          "English": "loosen",
+          "Meaning and scope": "LCK-000071; N-Q103; attested གློད། in body instruction",
+          "Allowed grammatical forms": "",
+          "Contextual exceptions": "Local working proposal only; no general activation.",
+          "Related entries": "Compare སློད་པ་ (Loosen), སློད་ (Release), ལྷོད་པ་ (Relaxed); do not equate spellings silently.",
+          "Rationale and sources": "Independent QC-B, source checked by coordinator; LCK-000071; N-Q103; attested གློད། in body instruction",
+          "Status and open questions": "Proposed; requires project-owner approval; source spelling unchanged."
+        }
+      ],
+      "evidence": "The row remains Proposed and records the exact B occurrence. Source-form/headword differences and established family constraints remain visible."
+    },
+    {
+      "id": "VERIFY-PROPOSAL-N-B017",
+      "pairs": [
+        "LCK-000046"
+      ],
+      "category": "eight-column proposal",
+      "result": "pass",
+      "observed": [
+        {
+          "Tibetan": "དོན་དུ་",
+          "English": "for the benefit",
+          "Meaning and scope": "Contextual benefit/purpose construction; not a replacement for standalone meaning.; also beneficiary construction at L0235–L0236, LCK-000046, N-B017.",
+          "Allowed grammatical forms": "",
+          "Contextual exceptions": "Only the explicit action/purpose relationship in these occurrences.",
+          "Related entries": "དོན་",
+          "Rationale and sources": "L0584; N-C037. Full eight-column glossary search: no exact headword or English assignment found.; independent QC QB07; སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་.",
+          "Status and open questions": "Proposed; Owner approval pending.; B occurrence extension remains proposed, distinct from profound meaning at L0237."
+        }
+      ],
+      "evidence": "The row remains Proposed and records the exact B occurrence. Source-form/headword differences and established family constraints remain visible."
+    },
+    {
+      "id": "VERIFY-BASELINES",
+      "pairs": [
+        "LCK-000040",
+        "LCK-000041",
+        "LCK-000042",
+        "LCK-000043",
+        "LCK-000044",
+        "LCK-000045",
+        "LCK-000046",
+        "LCK-000047",
+        "LCK-000048",
+        "LCK-000049",
+        "LCK-000050",
+        "LCK-000051",
+        "LCK-000052",
+        "LCK-000053",
+        "LCK-000054",
+        "LCK-000055",
+        "LCK-000056",
+        "LCK-000057",
+        "LCK-000058",
+        "LCK-000059",
+        "LCK-000060",
+        "LCK-000061",
+        "LCK-000062",
+        "LCK-000063",
+        "LCK-000064",
+        "LCK-000065",
+        "LCK-000066",
+        "LCK-000067",
+        "LCK-000068",
+        "LCK-000069",
+        "LCK-000070",
+        "LCK-000071",
+        "LCK-000072",
+        "LCK-000073",
+        "LCK-000074"
+      ],
+      "category": "source/glossary and reviewed-input identity",
+      "result": "pass",
+      "observed": {
+        "work/translation-B.json": true,
+        "work/packet-B.json": true,
+        "work/Lhenchig-Kyechor/paired/source.md": true,
+        "work/Lhenchig-Kyechor/source/archive/root/001.txt": true,
+        "work/Lhenchig-Kyechor/glossary/expanded_tibetan_english_glossary.csv": true,
+        "work/Lhenchig-Kyechor/guidelines/tibetan_translation_standard_v2.md": true,
+        "work/Lhenchig-Kyechor/DECISIONS.md": true
+      },
+      "evidence": "Exact file SHA-256 comparison against the independent QC-B input hashes; no normalization."
+    },
+    {
+      "id": "VERIFY-DELTA-BOUNDARY",
+      "pairs": [
+        "LCK-000040",
+        "LCK-000041",
+        "LCK-000042",
+        "LCK-000043",
+        "LCK-000044",
+        "LCK-000045",
+        "LCK-000046",
+        "LCK-000047",
+        "LCK-000048",
+        "LCK-000049",
+        "LCK-000050",
+        "LCK-000051",
+        "LCK-000052",
+        "LCK-000053",
+        "LCK-000054",
+        "LCK-000055",
+        "LCK-000056",
+        "LCK-000057",
+        "LCK-000058",
+        "LCK-000059",
+        "LCK-000060",
+        "LCK-000061",
+        "LCK-000062",
+        "LCK-000063",
+        "LCK-000064",
+        "LCK-000065",
+        "LCK-000066",
+        "LCK-000067",
+        "LCK-000068",
+        "LCK-000069",
+        "LCK-000070",
+        "LCK-000071",
+        "LCK-000072",
+        "LCK-000073",
+        "LCK-000074"
+      ],
+      "category": "bounded change audit",
+      "result": "pass",
+      "observed": {
+        "pairs_compared": 35,
+        "changed_pair_bodies": [
+          "LCK-000040",
+          "LCK-000061",
+          "LCK-000064",
+          "LCK-000065",
+          "LCK-000066",
+          "LCK-000067",
+          "LCK-000068",
+          "LCK-000069",
+          "LCK-000070",
+          "LCK-000071",
+          "LCK-000072",
+          "LCK-000074"
+        ],
+        "other_substantive_English_changes": 0
+      },
+      "evidence": "All35 current B bodies equal the reviewed draft after the five replacements when only local-note links are removed. Additional N-B026 links remain within its existing pair63–73 scope; no repeated full semantic review is claimed."
+    },
+    {
+      "id": "VERIFY-ANCHORS-N-Q101",
+      "pairs": [
+        "LCK-000072"
+      ],
+      "category": "exact local evidence allocation",
+      "result": "pass",
+      "observed": {
+        "anchors": [
+          "L0367"
+        ],
+        "exact_span_match": true
+      },
+      "evidence": "Each recorded Tibetan line equals its frozen archival line at the listed stable anchor, including anomalous vowel marks."
+    },
+    {
+      "id": "VERIFY-ANCHORS-N-Q102",
+      "pairs": [
+        "LCK-000064",
+        "LCK-000070"
+      ],
+      "category": "exact local evidence allocation",
+      "result": "pass",
+      "observed": {
+        "anchors": [
+          "L0316",
+          "L0352"
+        ],
+        "exact_span_match": true
+      },
+      "evidence": "Each recorded Tibetan line equals its frozen archival line at the listed stable anchor, including anomalous vowel marks."
+    },
+    {
+      "id": "VERIFY-ANCHORS-N-Q103",
+      "pairs": [
+        "LCK-000071"
+      ],
+      "category": "exact local evidence allocation",
+      "result": "pass",
+      "observed": {
+        "anchors": [
+          "L0361"
+        ],
+        "exact_span_match": true
+      },
+      "evidence": "Each recorded Tibetan line equals its frozen archival line at the listed stable anchor, including anomalous vowel marks."
+    },
+    {
+      "id": "VERIFY-ANCHORS-N-B017",
+      "pairs": [
+        "LCK-000046"
+      ],
+      "category": "exact local evidence allocation",
+      "result": "pass",
+      "observed": {
+        "anchors": [
+          "L0234",
+          "L0235",
+          "L0236"
+        ],
+        "exact_span_match": true
+      },
+      "evidence": "Each recorded Tibetan line equals its frozen archival line at the listed stable anchor, including anomalous vowel marks."
+    },
+    {
+      "id": "VERIFY-ANCHORS-N-B024",
+      "pairs": [
+        "LCK-000061"
+      ],
+      "category": "exact local evidence allocation",
+      "result": "pass",
+      "observed": {
+        "anchors": [
+          "L0300",
+          "L0301",
+          "L0302",
+          "L0303",
+          "L0304",
+          "L0306"
+        ],
+        "exact_span_match": true
+      },
+      "evidence": "Each recorded Tibetan line equals its frozen archival line at the listed stable anchor, including anomalous vowel marks."
+    }
+  ],
+  "documentation_gap_disposition": [
+    {
+      "gap": "Missing Q101 eight-column candidate",
+      "disposition": "Closed: scoped whole-construction row added and checked."
+    },
+    {
+      "gap": "Existing don du proposal cited only C occurrence",
+      "disposition": "Closed: B L0235–L0236 / LCK-000046 / N-B017 added and checked."
+    }
+  ],
+  "remaining_blockers": [],
+  "preserved_open_questions": "The source/syntax questions and provisional terminology listed in qc-B.json and B notes remain explicitly unresolved. This verification neither authenticates the transcript nor approves terminology or source repairs.",
+  "limits": [
+    "Only the five requested English corrections and related annotation/usage/proposal deltas were semantically rechecked.",
+    "All35 B bodies were hashed and their substantive delta compared mechanically against the independently reviewed draft.",
+    "Full review/R01–R10 evidence remains in qc-B.json; those exercises were not rerun.",
+    "No physical witness, human certification, whole-model accuracy, or final project release is claimed.",
+    "No repository files edited by this verifier."
+  ],
+  "summary": {
+    "result": "pass",
+    "english_corrections_passed": 5,
+    "new_notes_passed": 3,
+    "updated_notes_passed": 2,
+    "new_usage_records_passed": 4,
+    "scoped_proposals_passed": 4,
+    "pairs_hashed": 35,
+    "source_glossary_unchanged": true,
+    "remaining_blocker_count": 0
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "reviewed_partition": "B",
+  "coordinator": "root",
+  "replacements": [
+    {
+      "pair": "LCK-000040",
+      "old": "the Buddha's teachings, treatises, key instructions, and so forth",
+      "new": "the teachings, treatises, key instructions, and so forth",
+      "reason": "Avoid an unrecorded named possessor; retain the entire list.",
+      "finding_id": "QB01",
+      "disposition": "accepted and applied after coordinator source check"
+    },
+    {
+      "pair": "LCK-000061",
+      "old": "Having trained in conceptual thought as the expressiveness of discerning knowing,",
+      "new": "When you have trained in conceptual thought as the expressiveness of discerning knowing,",
+      "reason": "Repair the dangling training subject without changing conceptual thought, expressiveness, discerning knowing, or the interpretation disclosed in N-B024.",
+      "finding_id": "QB02",
+      "disposition": "accepted and applied after coordinator source check"
+    },
+    {
+      "pair": "LCK-000067",
+      "old": "ordinary mind has never been experienced to arise.",
+      "new": "ordinary mind has never been experienced as arising.",
+      "reason": "Correct English complement structure while preserving ordinary mind and the experiential negative.",
+      "finding_id": "QB03",
+      "disposition": "accepted and applied after coordinator source check"
+    },
+    {
+      "pair": "LCK-000070",
+      "old": "it would have to be established as shape and color.",
+      "new": "its shape and color would have to be established.",
+      "reason": "Avoid asserting entity/property identity absent from the construction; keep the color and shape terms.",
+      "finding_id": "QB04",
+      "disposition": "accepted and applied after coordinator source check"
+    },
+    {
+      "pair": "LCK-000074",
+      "old": "there is not even an instant of distraction.",
+      "new": "there is no room for even an instant of distraction.",
+      "reason": "Clarify the constraint on distraction in this instruction; preserve complete negation.",
+      "finding_id": "QB05",
+      "disposition": "accepted and applied after coordinator source check"
+    }
+  ],
+  "note_additions_applied": [
+    "N-Q101",
+    "N-Q102",
+    "N-Q103"
+  ],
+  "note_updates_applied": [
+    {
+      "id": "N-B024",
+      "field": "treatment",
+      "value": "Retain eight topics without naming an external treatise; use five paths/five faculties. Supply attainments for the supreme/common pair, supported by the ensuing attainment construction. Provisionally read conceptual thought as the expressiveness of discerning knowing in the training phrase. The training is undertaken by the implied practitioner, not by primordial knowing; the corrected English uses a when-clause to make this clear.",
+      "reason": "QB02: preserve the provisional construction while correcting the English agent."
+    },
+    {
+      "id": "N-B017",
+      "field": "treatment",
+      "value": "Use “ordinary mind directed toward awakening” as a locally proposed composition, retaining the established component. Use buddhahood for the state to be attained, not attainment already achieved. At L0235–L0236, benefit renders སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་ as a locally provisional beneficiary construction; it does not replace the canonical Meaning mapping or the profound meaning at L0237.",
+      "reason": "QB07: account for the noncanonical but source-supported beneficiary use."
+    }
+  ],
+  "other_findings": [
+    {
+      "id": "QB06",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB07",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB08",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB09",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QB10",
+      "disposition": "rejected false correction; keep draft terminology"
+    },
+    {
+      "id": "QB11",
+      "disposition": "retained visibly provisional"
+    },
+    {
+      "id": "QB12",
+      "disposition": "conforming within stated provisional form notes"
+    },
+    {
+      "id": "QB13",
+      "disposition": "verified at the three stated samples"
+    },
+    {
+      "id": "QB14",
+      "disposition": "retained for owner terminology review"
+    },
+    {
+      "id": "QB15",
+      "disposition": "full requested range reviewed; no missing pair identified"
+    }
+  ],
+  "final_finding_dispositions": [
+    {
+      "id": "QB01",
+      "label": "Probable error",
+      "pairs": [
+        "LCK-000040"
+      ],
+      "disposition": "accepted and implemented"
+    },
+    {
+      "id": "QB02",
+      "label": "Confirmed error",
+      "pairs": [
+        "LCK-000061"
+      ],
+      "disposition": "accepted and implemented"
+    },
+    {
+      "id": "QB03",
+      "label": "Confirmed error",
+      "pairs": [
+        "LCK-000067"
+      ],
+      "disposition": "accepted and implemented"
+    },
+    {
+      "id": "QB04",
+      "label": "Probable error",
+      "pairs": [
+        "LCK-000070"
+      ],
+      "disposition": "accepted and implemented"
+    },
+    {
+      "id": "QB05",
+      "label": "Probable error",
+      "pairs": [
+        "LCK-000074"
+      ],
+      "disposition": "accepted and implemented"
+    },
+    {
+      "id": "QB06",
+      "label": "Documentation gap",
+      "pairs": [
+        "LCK-000072"
+      ],
+      "disposition": "documentation completed; source/glossary unchanged"
+    },
+    {
+      "id": "QB07",
+      "label": "Documentation gap",
+      "pairs": [
+        "LCK-000046"
+      ],
+      "disposition": "documentation completed; source/glossary unchanged"
+    },
+    {
+      "id": "QB08",
+      "label": "Documentation gap",
+      "pairs": [
+        "LCK-000064",
+        "LCK-000070",
+        "LCK-000071"
+      ],
+      "disposition": "documentation completed; source/glossary unchanged"
+    },
+    {
+      "id": "QB09",
+      "label": "Open question",
+      "pairs": [
+        "LCK-000042",
+        "LCK-000046",
+        "LCK-000049",
+        "LCK-000055",
+        "LCK-000057",
+        "LCK-000067",
+        "LCK-000070",
+        "LCK-000071",
+        "LCK-000074"
+      ],
+      "disposition": "retained visibly unresolved; no witness-based resolution claimed"
+    },
+    {
+      "id": "QB10",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000040",
+        "LCK-000041",
+        "LCK-000042",
+        "LCK-000047",
+        "LCK-000051",
+        "LCK-000054",
+        "LCK-000055",
+        "LCK-000061",
+        "LCK-000064",
+        "LCK-000066",
+        "LCK-000067",
+        "LCK-000069",
+        "LCK-000071",
+        "LCK-000073",
+        "LCK-000074"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QB11",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000045"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QB12",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000050",
+        "LCK-000051",
+        "LCK-000052",
+        "LCK-000053",
+        "LCK-000054",
+        "LCK-000055",
+        "LCK-000061"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QB13",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000063",
+        "LCK-000064",
+        "LCK-000070",
+        "LCK-000074"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QB14",
+      "label": "Open question",
+      "pairs": [
+        "LCK-000040",
+        "LCK-000041",
+        "LCK-000042",
+        "LCK-000044",
+        "LCK-000046",
+        "LCK-000047",
+        "LCK-000049",
+        "LCK-000050",
+        "LCK-000051",
+        "LCK-000052",
+        "LCK-000053",
+        "LCK-000054",
+        "LCK-000055",
+        "LCK-000057",
+        "LCK-000060",
+        "LCK-000061",
+        "LCK-000063",
+        "LCK-000066",
+        "LCK-000067",
+        "LCK-000070",
+        "LCK-000071",
+        "LCK-000072",
+        "LCK-000073",
+        "LCK-000074"
+      ],
+      "disposition": "retained visibly unresolved; no witness-based resolution claimed"
+    },
+    {
+      "id": "QB15",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000040",
+        "LCK-000041",
+        "LCK-000042",
+        "LCK-000043",
+        "LCK-000044",
+        "LCK-000045",
+        "LCK-000046",
+        "LCK-000047",
+        "LCK-000048",
+        "LCK-000049",
+        "LCK-000050",
+        "LCK-000051",
+        "LCK-000052",
+        "LCK-000053",
+        "LCK-000054",
+        "LCK-000055",
+        "LCK-000056",
+        "LCK-000057",
+        "LCK-000058",
+        "LCK-000059",
+        "LCK-000060",
+        "LCK-000061",
+        "LCK-000062",
+        "LCK-000063",
+        "LCK-000064",
+        "LCK-000065",
+        "LCK-000066",
+        "LCK-000067",
+        "LCK-000068",
+        "LCK-000069",
+        "LCK-000070",
+        "LCK-000071",
+        "LCK-000072",
+        "LCK-000073",
+        "LCK-000074"
+      ],
+      "disposition": "conforming; no change"
+    }
+  ],
+  "undisposed_findings": 0
+}

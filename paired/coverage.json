@@ -2,9 +2,9 @@
   "generated_by": "scripts/build_support.py",
   "inputs": {
     "paired/source.md": "f0cda17dc09b5aa15f9116597e92840704fd4d3032db9883aa20becaeac819f0",
-    "paired/translation.md": "330e1b12b02ed5099788a03060838fe5d1e2f89231d5d99b7e09c7dff026da12",
-    "translations/notes.json": "759f50d24d754a56463d3dc4df98733546ab735496e460ace05740e946b6b06b",
-    "translations/usages.json": "c25d1ba256185868711ac34da445ccbacc2dd7401767d85f3cf47dd89c9ff7b5"
+    "paired/translation.md": "7f885c3a6efe65fe676b86c4c8fc5ea3c166df0f0713cff7537e48b7d4459fda",
+    "translations/notes.json": "c8b312f07471d4898e972acb9cb3ead834afdef8c93030b6e8a7b734ead7dd29",
+    "translations/usages.json": "ab8390d53a85ef30404c0062710343796d24f11f6cee81cbb9ecaaa2158de161"
   },
   "pairs": [
     {
@@ -532,7 +532,8 @@
         "N-A007",
         "N-A013",
         "N-A028",
-        "N-A038"
+        "N-A038",
+        "N-Q301"
       ]
     },
     {
@@ -1257,7 +1258,8 @@
         "N-B002",
         "N-B012",
         "N-B019",
-        "N-B026"
+        "N-B026",
+        "N-Q102"
       ]
     },
     {
@@ -1385,7 +1387,8 @@
         "N-B009",
         "N-B022",
         "N-B026",
-        "N-B028"
+        "N-B028",
+        "N-Q102"
       ]
     },
     {
@@ -1407,7 +1410,8 @@
       "notes": [
         "N-B010",
         "N-B022",
-        "N-B026"
+        "N-B026",
+        "N-Q103"
       ]
     },
     {
@@ -1427,7 +1431,8 @@
       "status": "translated; annotated provisional interpretation",
       "notes": [
         "N-B026",
-        "N-B029"
+        "N-B029",
+        "N-Q101"
       ]
     },
     {
@@ -1878,7 +1883,8 @@
       "notes": [
         "N-C020",
         "N-C032",
-        "N-C038"
+        "N-C038",
+        "N-Q201"
       ]
     },
     {
@@ -2074,7 +2080,8 @@
       "role": "main_text",
       "status": "translated; annotated provisional interpretation",
       "notes": [
-        "N-C026"
+        "N-C026",
+        "N-Q201"
       ]
     },
     {
@@ -2136,7 +2143,8 @@
       "notes": [
         "N-C010",
         "N-C037",
-        "N-C038"
+        "N-C038",
+        "N-Q201"
       ]
     },
     {
@@ -2170,7 +2178,8 @@
         "N-C001",
         "N-C032",
         "N-C034",
-        "N-C037"
+        "N-C037",
+        "N-Q201"
       ]
     },
     {

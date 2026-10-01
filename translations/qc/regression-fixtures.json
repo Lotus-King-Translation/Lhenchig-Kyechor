@@ -1,0 +1,255 @@
+{
+  "scope": "Manual artifact and explicitly synthetic boundary exercises by independent reviewers; not model-wide measurement. Original historical dossier unavailable where specified.",
+  "fixtures": [
+    {
+      "id": "R21",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Given ཟླ་བ་གཅིག་ཙམ་ནས་ཉིན་སྣང་འདྲེ་ཐུབ།, test “After about a month, daytime appearance can be overcome”; then propose automatically establishing integrate with.",
+      "observed_decision": "Reject overcome and reject automatic glossary promotion. Any locally proposed mix-family construction needs a source-linked note, subject/relation review, and owner approval.",
+      "evidence": "Standard II example B and R21; full rows སྒྲ་དོན་འདྲེས་རུང་ and མིང་དོན་འདྲེས་པ་. The historical passage was not independently authenticated.",
+      "result": "pass"
+    },
+    {
+      "id": "R22",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "For the explicitly non-visionary འཁྲུལ་པ་ལུ་གུ་རྒྱུད་, test “vajra chains of delusion.”",
+      "observed_decision": "Reject imported vajra; use the documented chain of delusion exception for this scope while preserving vajra chains in its visionary default.",
+      "evidence": "Full ལུ་གུ་རྒྱུད་ row records the user’s scoped exception; no universal continuum replacement is inferred.",
+      "result": "pass"
+    },
+    {
+      "id": "R23",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Constructed colophon sentence: དགོངས་པ་ཟབ་པའི་བླ་མའི་བཀའ་བཞིན་བདག་གིས་བྲིས། Test “With my profound enlightened intent, I wrote according to the teacher’s teachings.”",
+      "observed_decision": "Reject attribution of profound enlightened intent to the author; the modifier belongs to the teacher. A source-faithful synthetic correction is I wrote according to the teachings of the teacher whose enlightened intent is profound.",
+      "evidence": "Explicit constructed genitive/modifier chain; དགོངས་པ་ → enlightened intent. This does not claim review of the unavailable historical p.299 colophon.",
+      "result": "pass"
+    },
+    {
+      "id": "R24",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "In a sentence with two occurrences of དགོངས་པ་, test replacing the second enlightened intent with mind solely to avoid repetition; also infer a standalone ཐུགས་ mapping from that replacement.",
+      "observed_decision": "Reject both changes. Keep enlightened intent and assess any standalone ཐུགས་ through its own source construction and note.",
+      "evidence": "Full དགོངས་པ་ and ཐུགས་རྗེ་ rows; neither establishes a universal standalone ཐུགས་ gloss.",
+      "result": "pass"
+    },
+    {
+      "id": "R25",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "For སྤྱི་བོའི་སྙིང་གར་བླ་མ་བསྒོམས་ནས་གསོལ་བ་བཏབ།, test “Cultivate the teacher and make supplication.”",
+      "observed_decision": "Flag missing crown/heart locative material. Require a visible source query; do not silently choose crown, heart, or a reconstructed combination.",
+      "evidence": "Exact standard example C; difficult source location remains represented rather than silently deleted.",
+      "result": "pass"
+    },
+    {
+      "id": "R26",
+      "mode": "not tested",
+      "tested_wording": "Original disrupted song on the guideline’s p.289 (T:29).",
+      "observed_decision": "Not tested: the original song and its disrupted layout are not among the reviewed inputs. No claim of reconstructing or certifying that historical passage is made.",
+      "evidence": "The standard names this source defect but does not reproduce the required complete song. A preservation check on A’s different defects is recorded under QA10 and R29.",
+      "result": "not-tested"
+    },
+    {
+      "id": "R27",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "For རབ་འབྲིང་གསུམ་གའི་, test confident “all three middling types.”",
+      "observed_decision": "Reject unsupported narrowing; flag the numerical grouping and source reading without substituting another unverified grouping.",
+      "evidence": "Exact R27 source fragment; the abbreviated expression does not establish three middling types.",
+      "result": "pass"
+    },
+    {
+      "id": "R28",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Test “The རྣམ་རྟོག་ row says Established, so its pending thoughts wording is approved”; also treat blank supplementary fields of རྣམ་པ་ as license to drop aspects.",
+      "observed_decision": "Reject both inferences. Keep differentiating conceptualization unless a scoped provisional/approved exception is documented; restore the omitted aspect component in QA01.",
+      "evidence": "Full eight-column rows; original assignments and supplementary proposal status have separate authority.",
+      "result": "pass"
+    },
+    {
+      "id": "R29",
+      "mode": "actual draft",
+      "tested_wording": "Review all 39 A pairs against the frozen source; test a hypothetical formatting cleanup changing L0007 དོངས་ to དངོས་ without a textual decision, and a claim that reviewing A covers all 110 pairs.",
+      "observed_decision": "Reject the cleanup and the whole-work coverage claim. Actual scope is 39 pairs / 191 source lines; the raw source hash remains 17ea0d8ee82a435fb37211802c8e607dee071a1dce60623811c427df94e2ea06.",
+      "evidence": "Exact raw-source checksum, stable pair order, 191-line representation check, and no source/glossary writes during this review.",
+      "result": "pass"
+    },
+    {
+      "id": "R30",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "For A L0136 རྟོག་པ་སེམས་སུ་ངོ་ཤེས་པས།, test conventional rewrite “recognizes thought as mind”; also treat the proposed teacher gloss as an approved glossary entry in later runs.",
+      "observed_decision": "Reject dropped conceptual and ordinary components and reject silent promotion of the teacher proposal. The QA02 correction leaves the full Dharma embodiment term intact and changes only the misplaced emphasis.",
+      "evidence": "Full རྟོག་པ་, སེམས་, and recognition rows; Part II Q9; teacher remains provisional in N-A002.",
+      "result": "pass"
+    },
+    {
+      "id": "R01",
+      "fixture_type": "actual B text plus adversarial proposed correction",
+      "tested_wording_or_correction": "LCK-000041 “realize phenomena to be ordinary mind”; proposed correction: remove ordinary because no separate modifier appears.",
+      "observed_review_decision": "Reject correction; keep ordinary mind.",
+      "evidence": "Established སེམས་ → Ordinary mind; source L0205.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R02",
+      "fixture_type": "synthetic boundary fixture; historical T:23 unavailable",
+      "tested_wording_or_correction": "Synthetic Tibetan སེམས་ནི་ཡེ་ནས་སངས་རྒྱས་ཡིན།; candidate “ordinary mind is buddha from the beginning”; proposed correction changes ordinary mind to mind on doctrinal grounds.",
+      "observed_review_decision": "Reject the doctrinally motivated deletion. This synthetic exercise does not review historical T:23.",
+      "evidence": "Established སེམས་ entry explicitly does not exclude primordial-buddha descriptions.",
+      "result": "pass (synthetic only); historical application not-tested",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R03",
+      "fixture_type": "synthetic two-entry boundary fixture",
+      "tested_wording_or_correction": "Synthetic pair: ཐ་མལ་གྱི་ཤེས་པ་ and སེམས་ both rendered ordinary mind.",
+      "observed_review_decision": "Flag conflation; restore ordinary knowing for the former and keep ordinary mind for the latter.",
+      "evidence": "Distinct full eight-column entries ཐ་མལ་གྱི་ཤེས་པ་ and སེམས་.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R04",
+      "fixture_type": "synthetic construction fixture; historical T:41 unavailable",
+      "tested_wording_or_correction": "Synthetic རང་བཞིན་གྱིས་ rendered “by its intrinsic nature”; proposed smoothing deletes intrinsic or treats the construction as already approved.",
+      "observed_review_decision": "Reject intrinsic deletion and the false approval claim; retain the lexical commitment with construction-specific provisional annotation.",
+      "evidence": "རང་བཞིན་ → Intrinsic nature; supplementary status says the by-construction requires review.",
+      "result": "pass (synthetic only); historical application not-tested",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R05",
+      "fixture_type": "actual B repeated terminology",
+      "tested_wording_or_correction": "LCK-000061 repeatedly uses differentiating conceptualization for རྣམ་རྟོག་.",
+      "observed_review_decision": "Keep all occurrences; conventional alternatives are not grounds for reopening the mapping.",
+      "evidence": "Full glossary entry and Part I §3; source L0299–L0304.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R06",
+      "fixture_type": "synthetic mutation of actual B",
+      "tested_wording_or_correction": "Mutate LCK-000061 to “The Three Jewels are thoughts,” claiming an open-question glossary note approved thoughts.",
+      "observed_review_decision": "Flag unauthorized activation; restore differentiating conceptualization unless a genuinely needed local provisional use is separately justified.",
+      "evidence": "The entry status explicitly keeps thoughts pending.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R07",
+      "fixture_type": "actual B contrasting forms with synthetic mutation",
+      "tested_wording_or_correction": "LCK-000041 realization for རྟོགས་པ་ and LCK-000054 conceptual thought for རྟོག་པ་; synthetic mutation makes both realization.",
+      "observed_review_decision": "Reject conflation and restore conceptual thought at268; keep realization at208.",
+      "evidence": "Separate glossary headwords and unchanged source consonant endings.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R08",
+      "fixture_type": "actual B adjacent distinction with synthetic mutation",
+      "tested_wording_or_correction": "LCK-000061 discerning knowing at306 and primordial knowing at307; synthetic revision replaces both with wisdom.",
+      "observed_review_decision": "Reject both replacements and preserve the different knowing expressions.",
+      "evidence": "Distinct ཤེས་རབ་ and ཡེ་ཤེས་ rows, including provenance/status.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R09",
+      "fixture_type": "actual B wording with synthetic shortening",
+      "tested_wording_or_correction": "LCK-000040 experiential acquaintance for ཉམས་མྱོང་; proposed shortening to experience or realization.",
+      "observed_review_decision": "Reject unauthorized shortening; keep experiential acquaintance.",
+      "evidence": "Separate experience, experiential acquaintance and realization entries.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R10",
+      "fixture_type": "synthetic two-expression fixture; nearby B construction reviewed separately",
+      "tested_wording_or_correction": "Synthetic ཅེར་མཐོང་ and ཅེར་གཞག་ both rendered naked seeing.",
+      "observed_review_decision": "Flag the second: restore naked resting. In actual pair50, retain the separately proposed naked-looking construction without equating it automatically with either headword.",
+      "evidence": "Full rows explicitly preserve seeing/resting distinction; N-B020 scopes actual ཅེར་གྱིས་བལྟ་.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R11",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Source སྣང་བ་བཞི་; draft “four visions”; proposed reviewer edit “four appearances”.",
+      "observed_decision": "Rejected the proposed edit; retained four visions.",
+      "evidence": "Established complete entry སྣང་བ་བཞི་; Part I §3.3 and Part II R11.",
+      "result": "pass"
+    },
+    {
+      "id": "R12",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Source ཞི་ལྷག་ཟུང་འབྲེལ་; draft “union of calm abiding and insight”; proposed insertion of “special”.",
+      "observed_decision": "Rejected the insertion because the complete expression governs, although standalone ལྷག་མཐོང་ is special insight.",
+      "evidence": "Full rows for ཞི་གནས་, ལྷག་མཐོང་ and the whole expression read; Part II R12.",
+      "result": "pass"
+    },
+    {
+      "id": "R13",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Source རླུང་སེམས་ / ཡིད་ཀྱི་རྣམ་ཤེས་; proposed “wind-ordinary mind” / “mental-faculty consciousness”.",
+      "observed_decision": "Rejected mechanical component expansion; selected wind-mind and mental consciousness. Standalone ordinary mind and mental faculty remain intact elsewhere.",
+      "evidence": "Whole-expression rows and their contextual exceptions; Part II R13.",
+      "result": "pass"
+    },
+    {
+      "id": "R14",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Source སོ་སོར་རྟོག་པའི་ཡེ་ཤེས་; proposed “primordial knowing of individual conceptual thought”.",
+      "observed_decision": "Rejected the reconstruction; retained discriminating primordial knowing.",
+      "evidence": "Established lexicalized whole expression, all eight columns read; Part II R14.",
+      "result": "pass"
+    },
+    {
+      "id": "R15",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Sources ལྟ་སྟངས་ and གཟིགས་སྟངས་ both rendered gaze; reviewer requests a different term for one to enforce reversibility.",
+      "observed_decision": "Rejected the invented distinction; shared gaze is original and documented as such.",
+      "evidence": "Both full gaze rows explicitly preserve the shared output while leaving its rationale open; Part II R15.",
+      "result": "pass"
+    },
+    {
+      "id": "R16",
+      "mode": "actual draft",
+      "tested_wording": "LCK-000083: “how is it to be apprehended as primordial knowing?” / “When certain knowing arises”.",
+      "observed_decision": "No substring-collision finding: knowing inside primordial knowing is expected; certain knowing has separate provisional N-C012 documentation.",
+      "evidence": "Established knowing/primordial-knowing rows plus N-C012; Part II R16.",
+      "result": "pass"
+    },
+    {
+      "id": "R17",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Source ས་ལེ་བ་ as an adverbial construction → “clearly and distinctly”; བྱ་བྲལ་ as a nominal construction → “freedom from doing”.",
+      "observed_decision": "Accepted both transparent grammatical realizations, preserving all lexical components; no new synonym authorized.",
+      "evidence": "Part I §4 general grammatical permission; full doing-family rows; Part II R17.",
+      "result": "pass"
+    },
+    {
+      "id": "R18",
+      "mode": "actual draft",
+      "tested_wording": "LCK-000076: “the dregs of ordinary mind”; glossary display string Ordinary mind.",
+      "observed_decision": "Accepted lowercase ordinary mind within the sentence; no lexical deviation or missing ordinary component.",
+      "evidence": "Full སེམས་ row and Part I §9; Part II R18.",
+      "result": "pass"
+    },
+    {
+      "id": "R19",
+      "mode": "actual draft",
+      "tested_wording": "LCK-000090/LCK-000101: “accepting and rejecting, denying and affirming” for བླང་དོར་དགག་སྒྲུབ་.",
+      "observed_decision": "Kept source order. A proposed edit to affirming and denying was rejected; no source reversal licenses it.",
+      "evidence": "Full དགག་སྒྲུབ་ and སྤང་བླང་ rows plus N-C036; Part II R19.",
+      "result": "pass"
+    },
+    {
+      "id": "R20",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Stipulated suppression-exercise occurrence of standalone དགག་; proposed “deny differentiating conceptualization,” justified only from དགག་སྒྲུབ་.",
+      "observed_decision": "Rejected inferred standalone deny. Require source-local verb analysis and an explicitly provisional suppress/prevent-arising construction if supported; do not silently substitute thoughts for differentiating conceptualization.",
+      "evidence": "Full denying-and-affirming row explicitly leaves standalone དགག་ unresolved. Synthetic exercise; unavailable historical T:17 was not inspected; Part II R20.",
+      "result": "pass"
+    }
+  ]
+}

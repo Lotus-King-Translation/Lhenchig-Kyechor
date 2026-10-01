@@ -1,0 +1,210 @@
+{
+  "reviewed_partition": "C",
+  "coordinator": "root",
+  "replacements": [
+    {
+      "pair": "LCK-000089",
+      "old": "it burns them without realization [wording uncertain].",
+      "new": "it burns them without [conceptual thought].",
+      "reason": "Meaningful, visibly conjectural interpretation of the forest-fire simile; supplied realization reading remains exact in N-C017.",
+      "finding_id": "QC01",
+      "disposition": "accepted and applied after coordinator source check"
+    },
+    {
+      "pair": "LCK-000093",
+      "old": "there is “entry of intrinsic nature into dharma” [reading uncertain].",
+      "new": "there is “entry of intrinsic nature into dharma” [reading uncertain]. [N-Q201](../translations/NOTES.md#n-q201)",
+      "reason": "Expose the scoped provisional technical use at the exact occurrence.",
+      "finding_id": "QC06",
+      "disposition": "accepted and applied after coordinator source check"
+    },
+    {
+      "pair": "LCK-000103",
+      "old": "cannot appropriately be said to see dharma.",
+      "new": "cannot appropriately be said to see dharma. [N-Q201](../translations/NOTES.md#n-q201)",
+      "reason": "Expose the scoped provisional technical use at the exact occurrence.",
+      "finding_id": "QC06",
+      "disposition": "accepted and applied after coordinator source check"
+    },
+    {
+      "pair": "LCK-000106",
+      "old": "wishes, they teach dharma:",
+      "new": "wishes, they teach dharma: [N-Q201](../translations/NOTES.md#n-q201)",
+      "reason": "Expose the scoped provisional technical use at the exact occurrence.",
+      "finding_id": "QC06",
+      "disposition": "accepted and applied after coordinator source check"
+    },
+    {
+      "pair": "LCK-000108",
+      "old": "With the general meaning arranged in six aspects,",
+      "new": "With the general meaning arranged in six aspects, [N-Q201](../translations/NOTES.md#n-q201)",
+      "reason": "Expose the scoped provisional technical use at the exact occurrence.",
+      "finding_id": "QC06",
+      "disposition": "accepted and applied after coordinator source check"
+    }
+  ],
+  "note_additions_applied": [
+    "N-Q201"
+  ],
+  "note_updates_applied": [
+    {
+      "id": "N-C017",
+      "field": "treatment",
+      "value": "Use “without [conceptual thought]” as an explicitly bracketed local conjecture reading རྟོག་པ་ for supplied རྟོགས་པ་. The unchanged source says “without realization.” The proposed reading describes the fire burning the listed objects without conceptual thought; it is not an approved replacement of realization or a silently activated “without discrimination” gloss.",
+      "reason": "QC01: provide a meaningful working interpretation while preserving the exact distinct source word and conjectural status."
+    },
+    {
+      "id": "N-C017",
+      "field": "uncertainty",
+      "value": "The one-letter conjecture is supported by the indiscriminate-burning analogy but has no witness confirmation. The supplied “without realization” remains a viable literal fallback with unresolved sense. This is an open textual interpretation, not an authenticated emendation.",
+      "reason": "QC01: distinguish contextual plausibility from textual evidence."
+    },
+    {
+      "id": "N-C017",
+      "field": "review_action",
+      "value": "Check whether the final ས་ belongs in a physical witness or independently established citation. Approve, revise, or reject the bracketed conceptual-thought conjecture; if rejected, restore the visibly queried literal realization reading.",
+      "reason": "QC01: actionable review of the precise proposed change."
+    }
+  ],
+  "other_findings": [
+    {
+      "id": "QC02",
+      "disposition": "conforming"
+    },
+    {
+      "id": "QC03",
+      "disposition": "conforming"
+    },
+    {
+      "id": "QC04",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QC05",
+      "disposition": "conforming"
+    },
+    {
+      "id": "QC07",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QC08",
+      "disposition": "conforming"
+    },
+    {
+      "id": "QC09",
+      "disposition": "conforming"
+    },
+    {
+      "id": "QC10",
+      "disposition": "conforming"
+    }
+  ],
+  "final_finding_dispositions": [
+    {
+      "id": "QC01",
+      "label": "Open question",
+      "pairs": [
+        "LCK-000089"
+      ],
+      "disposition": "accepted and implemented"
+    },
+    {
+      "id": "QC02",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000088"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QC03",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000075"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QC04",
+      "label": "Open question",
+      "pairs": [
+        "LCK-000076",
+        "LCK-000080",
+        "LCK-000084",
+        "LCK-000090",
+        "LCK-000093",
+        "LCK-000101"
+      ],
+      "disposition": "retained visibly unresolved; no witness-based resolution claimed"
+    },
+    {
+      "id": "QC05",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000078"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QC06",
+      "label": "Documentation gap",
+      "pairs": [
+        "LCK-000093",
+        "LCK-000103",
+        "LCK-000106",
+        "LCK-000108"
+      ],
+      "disposition": "accepted and implemented"
+    },
+    {
+      "id": "QC07",
+      "label": "Open question",
+      "pairs": [
+        "LCK-000087",
+        "LCK-000088",
+        "LCK-000092",
+        "LCK-000099",
+        "LCK-000102"
+      ],
+      "disposition": "retained visibly unresolved; no witness-based resolution claimed"
+    },
+    {
+      "id": "QC08",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000108",
+        "LCK-000109",
+        "LCK-000110"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QC09",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000090",
+        "LCK-000101"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QC10",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000083",
+        "LCK-000084",
+        "LCK-000091",
+        "LCK-000093",
+        "LCK-000094",
+        "LCK-000096",
+        "LCK-000097",
+        "LCK-000103",
+        "LCK-000105",
+        "LCK-000106"
+      ],
+      "disposition": "conforming; no change"
+    }
+  ],
+  "undisposed_findings": 0
+}

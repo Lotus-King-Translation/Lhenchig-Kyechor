@@ -609,3 +609,35 @@ Generated from `usages.json`. Canonical glossary assignments remain unchanged. A
 - **LCK-000106** — དཔག་བསམ་ཤིང་ཆེན་
   Canonical entry: No complete entry; related: ཡིད་བཞིན་ནོར་བུ་; English: great wish-fulfilling tree; category: Provisional.
   Local technical expression at L0573; preserve related established terms. Reference: N-C038.
+
+- **LCK-000072** — ཕྱིར་ཡང་མི་སྤྲོ་ནང་མི་བསྡུ།
+  Canonical entry: Related འཕྲོ་འདུ་ → Proliferating and gathering; these exact forms not assigned; English: neither send outward nor draw inward; category: Provisional.
+  Send outward and draw inward are retained as a local provisional construction. This names the outward/inward operation; its precise relation to the proliferating/gathering family remains under review. Reference: N-Q101.
+
+- **LCK-000064, LCK-000070** — དངོས་པོ་
+  Canonical entry: No standalone entry; preserve established emptiness; English: entity; category: Provisional.
+  Entity is a local provisional rendering for these two occurrences. No entity and if there were an entity express the respective source negation and hypothesis. Reference: N-Q102.
+
+- **LCK-000071** — གློད།
+  Canonical entry: Related སློད་པ་ → Loosen; exact form not assigned; English: loosen; category: Provisional.
+  Loosen the body is retained provisionally as an interpretation of this source form; ordinary mind is not tightened, preserving the contrast. Reference: N-Q103.
+
+- **LCK-000046** — དོན་དུ་
+  Canonical entry: དོན་ → Meaning; English: for the benefit of; category: Provisional.
+  Use “ordinary mind directed toward awakening” as a locally proposed composition, retaining the established component. Use buddhahood for the state to be attained, not attainment already achieved. At L0235–L0236, benefit renders སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་ as a locally provisional beneficiary construction; it does not replace the canonical Meaning mapping or the profound meaning at L0237. Reference: N-B017.
+
+- **LCK-000093, LCK-000103, LCK-000106** — ཆོས་
+  Canonical entry: No established complete entry; preserve existing dharma embodiment and Meaning components as applicable.; English: dharma; category: Provisional.
+  Source-linked C occurrence extension; differing local senses and source uncertainties remain open. See N-Q201. Reference: N-Q201.
+
+- **LCK-000108** — སྤྱི་དོན་
+  Canonical entry: No established complete entry; preserve existing dharma embodiment and Meaning components as applicable.; English: general meaning; category: Provisional.
+  Source-linked C occurrence extension; differing local senses and source uncertainties remain open. See N-Q201. Reference: N-Q201.
+
+- **LCK-000028** — ཡིད་བྱུང་
+  Canonical entry: No whole-expression entry; ཡིད་ → mental faculty; English: disenchanted; category: Provisional.
+  L0123: disenchantment with samsaric phenomena in the nonclinging-student description; raw form preserved and any relation to ཡིད་འབྱུང་ remains under review. Reference: N-Q301.
+
+- **LCK-000028** — དད་གུས་གཉིས་ཀྱི་
+  Canonical entry: དད་པ་ → faith; མོས་གུས་ → confident devotion remains a separate entry; English: with faith and devotion; category: Provisional.
+  Local manner/means interpretation despite supplied genitive ཀྱི་; an intended instrumental ཀྱིས་ remains conjectural. Reference: N-Q301.

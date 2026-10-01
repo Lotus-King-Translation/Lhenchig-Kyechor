@@ -1796,5 +1796,96 @@
     "category": "Provisional",
     "condition": "Local technical expression at L0573; preserve related established terms.",
     "note_id": "N-C038"
+  },
+  {
+    "pairs": [
+      "LCK-000072"
+    ],
+    "tibetan": "ཕྱིར་ཡང་མི་སྤྲོ་ནང་མི་བསྡུ།",
+    "canonical_entry": "Related འཕྲོ་འདུ་ → Proliferating and gathering; these exact forms not assigned",
+    "english": "neither send outward nor draw inward",
+    "category": "Provisional",
+    "condition": "Send outward and draw inward are retained as a local provisional construction. This names the outward/inward operation; its precise relation to the proliferating/gathering family remains under review.",
+    "note_id": "N-Q101"
+  },
+  {
+    "pairs": [
+      "LCK-000064",
+      "LCK-000070"
+    ],
+    "tibetan": "དངོས་པོ་",
+    "canonical_entry": "No standalone entry; preserve established emptiness",
+    "english": "entity",
+    "category": "Provisional",
+    "condition": "Entity is a local provisional rendering for these two occurrences. No entity and if there were an entity express the respective source negation and hypothesis.",
+    "note_id": "N-Q102"
+  },
+  {
+    "pairs": [
+      "LCK-000071"
+    ],
+    "tibetan": "གློད།",
+    "canonical_entry": "Related སློད་པ་ → Loosen; exact form not assigned",
+    "english": "loosen",
+    "category": "Provisional",
+    "condition": "Loosen the body is retained provisionally as an interpretation of this source form; ordinary mind is not tightened, preserving the contrast.",
+    "note_id": "N-Q103"
+  },
+  {
+    "pairs": [
+      "LCK-000046"
+    ],
+    "tibetan": "དོན་དུ་",
+    "canonical_entry": "དོན་ → Meaning",
+    "english": "for the benefit of",
+    "category": "Provisional",
+    "condition": "Use “ordinary mind directed toward awakening” as a locally proposed composition, retaining the established component. Use buddhahood for the state to be attained, not attainment already achieved. At L0235–L0236, benefit renders སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་ as a locally provisional beneficiary construction; it does not replace the canonical Meaning mapping or the profound meaning at L0237.",
+    "note_id": "N-B017"
+  },
+  {
+    "pairs": [
+      "LCK-000093",
+      "LCK-000103",
+      "LCK-000106"
+    ],
+    "tibetan": "ཆོས་",
+    "canonical_entry": "No established complete entry; preserve existing dharma embodiment and Meaning components as applicable.",
+    "english": "dharma",
+    "category": "Provisional",
+    "condition": "Source-linked C occurrence extension; differing local senses and source uncertainties remain open. See N-Q201.",
+    "note_id": "N-Q201"
+  },
+  {
+    "pairs": [
+      "LCK-000108"
+    ],
+    "tibetan": "སྤྱི་དོན་",
+    "canonical_entry": "No established complete entry; preserve existing dharma embodiment and Meaning components as applicable.",
+    "english": "general meaning",
+    "category": "Provisional",
+    "condition": "Source-linked C occurrence extension; differing local senses and source uncertainties remain open. See N-Q201.",
+    "note_id": "N-Q201"
+  },
+  {
+    "pairs": [
+      "LCK-000028"
+    ],
+    "tibetan": "ཡིད་བྱུང་",
+    "canonical_entry": "No whole-expression entry; ཡིད་ → mental faculty",
+    "english": "disenchanted",
+    "category": "Provisional",
+    "condition": "L0123: disenchantment with samsaric phenomena in the nonclinging-student description; raw form preserved and any relation to ཡིད་འབྱུང་ remains under review.",
+    "note_id": "N-Q301"
+  },
+  {
+    "pairs": [
+      "LCK-000028"
+    ],
+    "tibetan": "དད་གུས་གཉིས་ཀྱི་",
+    "canonical_entry": "དད་པ་ → faith; མོས་གུས་ → confident devotion remains a separate entry",
+    "english": "with faith and devotion",
+    "category": "Provisional",
+    "condition": "Local manner/means interpretation despite supplied genitive ཀྱི་; an intended instrumental ཀྱིས་ remains conjectural.",
+    "note_id": "N-Q301"
   }
 ]

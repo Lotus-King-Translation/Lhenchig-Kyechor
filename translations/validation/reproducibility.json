@@ -1,0 +1,13 @@
+{
+  "command": "python3 scripts/build_support.py",
+  "result": "pass; two consecutive builds byte-identical",
+  "generated_sha256": {
+    "paired/coverage.json": "ccb2df3348665bc8080a70bc42637e77e8fb6970a7e4bceec8293f90b66384ab",
+    "paired/manifest.json": "d20b11869ee5e585e7820e805e26ec36b6d48f4ac170300a230760ed2dd861f6",
+    "paired/bilingual.md": "3f69e12571626404cadeb281515789c0fbcc33b2ab34a7ad4242dd63e3a54d35",
+    "translations/NOTES.md": "bddfd349ecc65a5ed12d8ae97f1499fcead63fd702251eca2e8654decca6a4e6",
+    "translations/USAGE.md": "26bc9dc9c777cc805364544fa74e6774a380f4d86e1f95176c4bffab7eae97cc",
+    "translations/source-queries.json": "f8539d9b40b3c8f35e45d6021853205e5bbe803c30e0a95b162a0e5326389514"
+  },
+  "canonical_files_rewritten": false
+}

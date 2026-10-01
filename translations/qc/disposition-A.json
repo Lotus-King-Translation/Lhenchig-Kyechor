@@ -1,0 +1,167 @@
+{
+  "reviewed_partition": "A",
+  "coordinator": "root",
+  "replacements": [
+    {
+      "pair": "LCK-000018",
+      "old": "it is explained through these six meanings.",
+      "new": "it is explained through these six aspects of meaning.",
+      "reason": "Restore རྣམ་པ་ (aspects) while preserving the six-item outline and meaning.",
+      "finding_id": "QA01",
+      "disposition": "accepted and applied after coordinator source check"
+    },
+    {
+      "pair": "LCK-000030",
+      "old": "one knows it to be Dharma embodiment itself.",
+      "new": "one knows that very thing to be Dharma embodiment.",
+      "reason": "Attach ཉིད་ to de/that, not to dharma embodiment.",
+      "finding_id": "QA02",
+      "disposition": "accepted and applied after coordinator source check"
+    },
+    {
+      "pair": "LCK-000028",
+      "old": "one seeks pith instructions with faith and devotion.",
+      "new": "one seeks pith instructions with faith and devotion. [N-Q301](../translations/NOTES.md#n-q301)",
+      "reason": "Attach the exact two-line provisional-expression and particle note without silently changing the current lexical treatment.",
+      "finding_id": "QA03",
+      "disposition": "accepted and applied after coordinator source check"
+    }
+  ],
+  "note_additions_applied": [
+    "N-Q301"
+  ],
+  "note_updates_applied": [],
+  "other_findings": [
+    {
+      "id": "QA04",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QA05",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QA06",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QA07",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QA08",
+      "disposition": "conforming"
+    },
+    {
+      "id": "QA09",
+      "disposition": "conforming"
+    },
+    {
+      "id": "QA10",
+      "disposition": "retained visibly unresolved"
+    }
+  ],
+  "final_finding_dispositions": [
+    {
+      "id": "QA01",
+      "label": "Confirmed error",
+      "pairs": [
+        "LCK-000018"
+      ],
+      "disposition": "accepted and implemented"
+    },
+    {
+      "id": "QA02",
+      "label": "Confirmed error",
+      "pairs": [
+        "LCK-000030"
+      ],
+      "disposition": "accepted and implemented"
+    },
+    {
+      "id": "QA03",
+      "label": "Documentation gap",
+      "pairs": [
+        "LCK-000028"
+      ],
+      "disposition": "accepted and implemented"
+    },
+    {
+      "id": "QA04",
+      "label": "Open question",
+      "pairs": [
+        "LCK-000005"
+      ],
+      "disposition": "retained visibly unresolved; no witness-based resolution claimed"
+    },
+    {
+      "id": "QA05",
+      "label": "Open question",
+      "pairs": [
+        "LCK-000006"
+      ],
+      "disposition": "retained visibly unresolved; no witness-based resolution claimed"
+    },
+    {
+      "id": "QA06",
+      "label": "Open question",
+      "pairs": [
+        "LCK-000023",
+        "LCK-000027",
+        "LCK-000029"
+      ],
+      "disposition": "retained visibly unresolved; no witness-based resolution claimed"
+    },
+    {
+      "id": "QA07",
+      "label": "Open question",
+      "pairs": [
+        "LCK-000036"
+      ],
+      "disposition": "retained visibly unresolved; no witness-based resolution claimed"
+    },
+    {
+      "id": "QA08",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000009",
+        "LCK-000013",
+        "LCK-000025",
+        "LCK-000030",
+        "LCK-000035",
+        "LCK-000036",
+        "LCK-000037",
+        "LCK-000038"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QA09",
+      "label": "Conforming / no change",
+      "pairs": [
+        "LCK-000025",
+        "LCK-000030",
+        "LCK-000038"
+      ],
+      "disposition": "conforming; no change"
+    },
+    {
+      "id": "QA10",
+      "label": "Open question",
+      "pairs": [
+        "LCK-000004",
+        "LCK-000009",
+        "LCK-000019",
+        "LCK-000020",
+        "LCK-000021",
+        "LCK-000023",
+        "LCK-000028",
+        "LCK-000029",
+        "LCK-000034",
+        "LCK-000035"
+      ],
+      "disposition": "retained visibly unresolved; no witness-based resolution claimed"
+    }
+  ],
+  "undisposed_findings": 0
+}

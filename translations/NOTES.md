@@ -166,7 +166,7 @@ Generated from `notes.json`. All locations refer to provisional-source-v1 and it
 
 **Location:** LCK-000008, LCK-000015, LCK-000024; L0025, L0040, L0087.
 
-**Exact Tibetan:** ཉོན་མོངས་པ་
+**Exact Tibetan:** ཉོན་མོངས་པ
 
 **Category:** terminology gap
 
@@ -1145,7 +1145,7 @@ Generated from `notes.json`. All locations refer to provisional-source-v1 and it
 
 **Problem and evidence:** བྱང་ཆུབ་སེམས་ has no whole-expression entry; standalone སེམས་ is ordinary mind. The following lines explicitly give the aspiration to buddhahood for every being.
 
-**Working treatment:** Use “ordinary mind directed toward awakening” as a locally proposed composition, retaining the established component. Use buddhahood for the state to be attained, not attainment already achieved.
+**Working treatment:** Use “ordinary mind directed toward awakening” as a locally proposed composition, retaining the established component. Use buddhahood for the state to be attained, not attainment already achieved. At L0235–L0236, benefit renders སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་ as a locally provisional beneficiary construction; it does not replace the canonical Meaning mapping or the profound meaning at L0237.
 
 **Uncertainty:** The term’s technical scope should be approved; the local purpose construction is clear.
 
@@ -1290,7 +1290,7 @@ Generated from `notes.json`. All locations refer to provisional-source-v1 and it
 
 **Problem and evidence:** The referent of “eight topics” is not identified by the source. “Attainments” after supreme/common is implicit; Manjushri is explicitly named. རྟོག་པ་ཤེས་རབ་རྩལ་སྦྱངས་ has no explicit case marker showing the relation of conceptual thought to discerning knowing’s expressiveness.
 
-**Working treatment:** Retain eight topics without naming an external treatise; use five paths/five faculties. Supply attainments for the supreme/common pair, supported by the ensuing attainment construction. Provisionally read conceptual thought as the expressiveness of discerning knowing in the training phrase.
+**Working treatment:** Retain eight topics without naming an external treatise; use five paths/five faculties. Supply attainments for the supreme/common pair, supported by the ensuing attainment construction. Provisionally read conceptual thought as the expressiveness of discerning knowing in the training phrase. The training is undertaken by the implied practitioner, not by primordial knowing; the corrected English uses a when-clause to make this clear.
 
 **Uncertainty:** The doctrinal list and that relational “as” need review. Do not identify the eight items from general tradition alone.
 
@@ -1781,11 +1781,11 @@ Generated from `notes.json`. All locations refer to provisional-source-v1 and it
 
 **Problem and evidence:** The supplied word is རྟོགས་པ་, realization, where the fire analogy may suggest རྟོག་པ་, conceptual thought. These are distinct glossary entries.
 
-**Working treatment:** Retain without realization with a wording-uncertain marker; do not silently translate without discrimination.
+**Working treatment:** Use “without [conceptual thought]” as an explicitly bracketed local conjecture reading རྟོག་པ་ for supplied རྟོགས་པ་. The unchanged source says “without realization.” The proposed reading describes the fire burning the listed objects without conceptual thought; it is not an approved replacement of realization or a silently activated “without discrimination” gloss.
 
-**Uncertainty:** The literal reading is represented but its intended sense is unresolved.
+**Uncertainty:** The one-letter conjecture is supported by the indiscriminate-burning analogy but has no witness confirmation. The supplied “without realization” remains a viable literal fallback with unresolved sense. This is an open textual interpretation, not an authenticated emendation.
 
-**Review action:** Check whether the final ས་ belongs in the source; retain the distinction in any correction.
+**Review action:** Check whether the final ས་ belongs in a physical witness or independently established citation. Approve, revise, or reject the bracketed conceptual-thought conjecture; if rejected, restore the visibly queried literal realization reading.
 
 <a id="n-c018"></a>
 ## N-C018
@@ -2194,3 +2194,93 @@ Generated from `notes.json`. All locations refer to provisional-source-v1 and it
 **Uncertainty:** The senses fit the local constructions; no new canonical entries are approved. The major/minor differentiation is a conventional compound interpretation supplied provisionally.
 
 **Review action:** Review the proposed compounds, preserve the difference between craving and clinging, and check the marks terminology in the result section.
+
+<a id="n-q101"></a>
+## N-Q101
+
+**Location:** LCK-000072; L0367.
+
+**Exact Tibetan:** ཕྱིར་ཡང་མི་སྤྲོ་ནང་མི་བསྡུ། །
+
+**Category:** terminology/form and contextual use
+
+**Problem and evidence:** The source uses སྤྲོ་ and བསྡུ་; the glossary establishes the related whole expression འཕྲོ་འདུ་ as proliferating and gathering, not an exact match for these forms.
+
+**Working treatment:** Send outward and draw inward are retained as a local provisional construction. This names the outward/inward operation; its precise relation to the proliferating/gathering family remains under review.
+
+**Uncertainty:** The negative directions are clear; the family realization should be approved rather than inferred from near-matching spellings.
+
+**Review action:** Add the local usage record and review whether proliferate outward / gather inward better preserves the family; do not overwrite established entries.
+
+<a id="n-q102"></a>
+## N-Q102
+
+**Location:** LCK-000064, LCK-000070; L0316, L0352.
+
+**Exact Tibetan:** གནས་མེད་དངོས་པོམེད་པ་འོ། །
+གལ་ཏེ་དངོས་པོ་ཡོད་གྱུར་ན། །
+
+**Category:** terminology gap
+
+**Problem and evidence:** Standalone དངོས་པོ་ has no glossary entry. The draft uses entity in the denial and hypothetical existence constructions.
+
+**Working treatment:** Entity is a local provisional rendering for these two occurrences. No entity and if there were an entity express the respective source negation and hypothesis.
+
+**Uncertainty:** The broad sense is clear, but its relation to things/concrete existence elsewhere in the work needs owner terminology review.
+
+**Review action:** Add an eight-column proposal or link to the whole-work proposal with these precise occurrences; do not substitute for established emptiness.
+
+<a id="n-q103"></a>
+## N-Q103
+
+**Location:** LCK-000071; L0361.
+
+**Exact Tibetan:** སེམས་མི་སྒྲིམ་ཞིང་ལུས་ནི་གློད། །
+
+**Category:** terminology/form
+
+**Problem and evidence:** The body instruction has གློད་, not the glossary forms སློད་པ་ → Loosen, སློད་ → Release, or ལྷོད་པ་ → Relaxed.
+
+**Working treatment:** Loosen the body is retained provisionally as an interpretation of this source form; ordinary mind is not tightened, preserving the contrast.
+
+**Uncertainty:** The practical sense is strong but the form is not an approved blanket equivalent.
+
+**Review action:** Review the local form relation and add its usage record; retain the source spelling.
+
+<a id="n-q201"></a>
+## N-Q201
+
+**Location:** LCK-000093, LCK-000103, LCK-000106, LCK-000108; L0511, L0564, L0576, L0580.
+
+**Exact Tibetan:** ཆོས་ལ་རང་བཞིན་ཚུད་པ་འབྱུང་། །
+ཆོས་མཐོང་བར་ནི་རིགས་མ་ཡིན། །
+བསམ་པ་ཇི་བཞིན་ཆོས་སྟོན་པ། །
+སྤྱི་དོན་རྣམ་པ་དྲུག་བྱས་ནས། །
+
+**Category:** Terminology gap; occurrence scope
+
+**Problem and evidence:** Standalone ཆོས་ and the topic-heading expression སྤྱི་དོན་ lack active complete mappings. Existing Dharma-embodiment and Meaning rows do not settle these standalone/compound uses. དོན་སྤྱི་ is a different, reversed expression meaning meaning generalization.
+
+**Working treatment:** Retain dharma provisionally at L0511/L0564/L0576 and general meaning for the six-topic formula at L0580. Link to the shared proposal records while extending their occurrence lists to these pairs. At L0576 the teaching context supports teachings; this does not settle the referent in the two queried clauses.
+
+**Uncertainty:** Glossary approval remains pending; N-C020 and N-C026 preserve the substantive source/scope uncertainties. General meaning is a working heading choice, not meaning generalization.
+
+**Review action:** Extend the shared proposed usages for ཆོས་ and སྤྱི་དོན་ to the exact C occurrences; owner approval must retain the differing local senses and source queries.
+
+<a id="n-q301"></a>
+## N-Q301
+
+**Location:** LCK-000028; L0123, L0124.
+
+**Exact Tibetan:** འཁོར་བའི་ཆོས་ལ་ཡིད་བྱུང་ནས། །
+དད་གུས་གཉིས་ཀྱི་གདམས་ངག་ཚོལ། །
+
+**Category:** contextual use; source reading; syntax/reference
+
+**Problem and evidence:** The raw phrase is ཡིད་བྱུང་. The glossary establishes mental faculty for standalone ཡིད་ but has no complete disenchantment expression. Reading this as disenchantment may relate to the ཡིད་འབྱུང་ family; the exact form is not silently regularized. The next line supplies དད་གུས་གཉིས་ཀྱི་ with genitive ཀྱི་, while the English with faith and devotion expresses a means/manner relation.
+
+**Working treatment:** Use disenchanted with the phenomena of samsara as a local provisional whole-expression reading. Retain with faith and devotion provisionally, treating the genitive phrase as an irregular or elliptical manner construction; an intended ཀྱིས་ is a conjecture only. Preserve both raw strings unchanged.
+
+**Uncertainty:** The nonclinging context supports disenchantment, but whether བྱུང་ is an acceptable inflected form or a transcription defect is unresolved. The genitive might instead qualify pith instructions: instructions concerning the two, faith and devotion. The present English does not settle that choice.
+
+**Review action:** Check L0123–L0124 against a reliable source; review the complete disenchantment expression and the faith/devotion clause before approving the usage or changing any Tibetan.

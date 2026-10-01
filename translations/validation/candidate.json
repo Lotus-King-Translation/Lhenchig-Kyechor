@@ -1,0 +1,24 @@
+{
+  "schema": "paired-text/2; LCK provisional profile",
+  "pairs": 110,
+  "source_lines": 589,
+  "translated_pairs": 110,
+  "unprocessed_pairs": 0,
+  "formats": {
+    "h1": 1,
+    "h2": 0,
+    "h3": 0,
+    "prose": 2,
+    "verse": 107
+  },
+  "notes": 114,
+  "source_edition": "provisional-source-v1",
+  "translation_edition": "translation-v0.1.0",
+  "archive_hashes": "pass",
+  "input_hashes": "pass",
+  "exact_source_reconstruction": "pass",
+  "legacy_reversal": "pass (L0493 documented trailing-space loss)",
+  "closing_material": "retained",
+  "final_mode": false,
+  "semantic_certification": false
+}

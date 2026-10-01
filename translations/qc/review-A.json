@@ -1,0 +1,416 @@
+{
+  "reviewer": "/root/translate_c; independent of partition A (author of C only)",
+  "scope": [
+    "LCK-000001",
+    "LCK-000002",
+    "LCK-000003",
+    "LCK-000004",
+    "LCK-000005",
+    "LCK-000006",
+    "LCK-000007",
+    "LCK-000008",
+    "LCK-000009",
+    "LCK-000010",
+    "LCK-000011",
+    "LCK-000012",
+    "LCK-000013",
+    "LCK-000014",
+    "LCK-000015",
+    "LCK-000016",
+    "LCK-000017",
+    "LCK-000018",
+    "LCK-000019",
+    "LCK-000020",
+    "LCK-000021",
+    "LCK-000022",
+    "LCK-000023",
+    "LCK-000024",
+    "LCK-000025",
+    "LCK-000026",
+    "LCK-000027",
+    "LCK-000028",
+    "LCK-000029",
+    "LCK-000030",
+    "LCK-000031",
+    "LCK-000032",
+    "LCK-000033",
+    "LCK-000034",
+    "LCK-000035",
+    "LCK-000036",
+    "LCK-000037",
+    "LCK-000038",
+    "LCK-000039"
+  ],
+  "input_sha256": {
+    "work/translation-A.json": "57bac4c273868b90cc644c7d7346e648e0dce24dd738a2003e1b48ce4ff53dde",
+    "source": "f0cda17dc09b5aa15f9116597e92840704fd4d3032db9883aa20becaeac819f0",
+    "glossary": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "raw_source": "17ea0d8ee82a435fb37211802c8e607dee071a1dce60623811c427df94e2ea06",
+    "guidance": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760"
+  },
+  "findings": [
+    {
+      "id": "QA01",
+      "pairs": [
+        "LCK-000018"
+      ],
+      "label": "Confirmed error",
+      "category": "coverage; terminology",
+      "severity": "Low",
+      "confidence": "High",
+      "source_span": "འདི་དོན་རྣམ་པ་དྲུག་གིས་བཤད། །",
+      "problem": "The draft it is explained through these six meanings omits རྣམ་པ་, whose established assignment is aspect. The sixfold list remains correctly counted, but its final formulation loses a source component.",
+      "proposed_fix": "Use it is explained through these six aspects of meaning. This preserves meaning, aspects, and the source count without changing the outline.",
+      "disposition": "proposed correction"
+    },
+    {
+      "id": "QA02",
+      "pairs": [
+        "LCK-000030"
+      ],
+      "label": "Confirmed error",
+      "category": "syntax/reference; meaning/scope",
+      "severity": "Low",
+      "confidence": "High",
+      "source_span": "རྣམ་པར་རྟོག་པ་མི་སྤང་སྟེ། །\nདེ་ཉིད་ཆོས་སྐུ་ཡིན་པར་ཤེས། །",
+      "problem": "The source དེ་ཉིད་ emphasizes the preceding differentiating conceptualization as the subject of the identification. The draft it ... Dharma embodiment itself shifts that emphasis onto the predicate.",
+      "proposed_fix": "Use one knows that very thing to be Dharma embodiment. The referent remains the preceding differentiating conceptualization, and the protected term is unchanged.",
+      "disposition": "proposed correction"
+    },
+    {
+      "id": "QA03",
+      "pairs": [
+        "LCK-000028"
+      ],
+      "label": "Documentation gap",
+      "category": "exception/provisional use; source integrity; syntax/reference",
+      "severity": "Medium",
+      "confidence": "High",
+      "source_span": "འཁོར་བའི་ཆོས་ལ་ཡིད་བྱུང་ནས། །\nདད་གུས་གཉིས་ཀྱི་གདམས་ངག་ཚོལ། །",
+      "problem": "Disenchanted is a plausible whole-expression interpretation of ཡིད་བྱུང་, but no exact glossary row, usage record, or explanatory note scopes it against mental faculty. In the next line, with faith and devotion reads ཀྱི་ instrumentally although the supplied particle is genitive, not ཀྱིས་. N-A028 quotes both lines without documenting these decisions.",
+      "proposed_fix": "Retain the English provisionally, add N-Q301 at the two affected lines, and add the recommended scoped usage/proposal records in the summary. Do not silently alter བྱུང་ to འབྱུང་ or ཀྱི་ to ཀྱིས་.",
+      "disposition": "proposed correction"
+    },
+    {
+      "id": "QA04",
+      "pairs": [
+        "LCK-000005"
+      ],
+      "label": "Open question",
+      "category": "syntax/reference; attribution",
+      "severity": "Medium",
+      "confidence": "Moderate",
+      "source_span": "དེ་ཡི་བྱིན་རླབས་རཀྵི་ཏ། །\nདེེ་ཡི་བརྒྱུད་འཛིན་ལྷོ་བྲག་པ། །\nདེ་ཡིི་བྱིན་རླབས་གུང་ཐང་པ། །\nམི་ལའི་ཐུགས་ཀྱི་སྲས་གྱུར་པ། །\nརྗེ་མཚན་ལྡན་བླ་མ་རིན་པོ་ཆེ། །\nབརྒྱུད་པའི་བླ་མ་རྣམས་ལ་བདག་ཕྱག་འཚལ། །",
+      "problem": "The succession is elliptical; the blessing relation and successive de referents are not fully specified. The draft brackets recipient of and makes the qualified lord in L0015 the disciple described in L0014, while keeping the preceding Gungthangpa item distinct. N-A005 correctly states the unresolved historical/lineage questions.",
+      "proposed_fix": "Retain the draft and N-A005. Do not identify Rakshita with a named historical person or identify the unnamed heart-son without witness/citation evidence.",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QA05",
+      "pairs": [
+        "LCK-000006"
+      ],
+      "label": "Open question",
+      "category": "source integrity; attribution",
+      "severity": "Medium",
+      "confidence": "Moderate",
+      "source_span": "ལྟ་རྗེའི་གསུང་སྒྲོས་ཇི་བཞིན་དུ། །",
+      "problem": "The phrase ལྟ་རྗེའི་ is unresolved. The draft’s lord reading treats ལྟ་ as extraneous, and N-A006 explicitly records that source syllable and the limitation.",
+      "proposed_fix": "Retain the disclosed provisional rendering and the source query. A confident lord of the view or another historical name would not be established by the available evidence.",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QA06",
+      "pairs": [
+        "LCK-000023",
+        "LCK-000027",
+        "LCK-000029"
+      ],
+      "label": "Open question",
+      "category": "syntax/reference; instructional context",
+      "severity": "Medium",
+      "confidence": "Moderate",
+      "source_span": "རྟེན་གྱི་གང་ཟག་འགའ་ཞིག་གིས། །\nསློབ་དཔོན་ཐ་སྙད་ཅན་ཞིག་ལ། །\nམཚན་ལྡན་སློབ་མ་བསྟེན་བྱས་ལ །\nནང་གསེས་བཞི་རུ་བླ་མས་གསུངས། །\nདད་དུས་ལྡན་པའི་གང་ཟག་གིས། །\nདམ་པ་གཅིག་གི་རྩར་ཕྱིན་ནས། །\nམཚན་མེད་ཆོས་སྐུའི་གདམས་ངག་བསྟན། །\nཆོས་རྣམས་དངོས་པོ་མེད་པར་གོ། །",
+      "problem": "The supporting-basis phrase, terminology-qualified teacher, reliance on a qualified student, and passive shift in the instruction encounter are compressed or defective. N-A022, N-A027, and N-A029 expose these issues. The passive is taught at L0129 is supported by the visitor/teacher encounter, but is not an explicit new Tibetan subject.",
+      "proposed_fix": "Retain these scoped notes. Do not silently change student to teacher at L0108, assign disparagement to a definite speaker at L0082, or turn the visitor into the teacher at L0129.",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QA07",
+      "pairs": [
+        "LCK-000036"
+      ],
+      "label": "Open question",
+      "category": "source integrity; syntax/reference; meaning/scope",
+      "severity": "High",
+      "confidence": "Low",
+      "source_span": "རིགས་རྒྱུད་ལ་ནི་མི་འཚམས་པ། །\nའགལ་བ་སྣ་ཚོགས་འབྱུང་འགྱུར་ཀྱང་། །\nམི་བཟོད་སྐད་ཅིག་མ་འབྱེད་པར། །\nདེ་ནི་རྟོག་པ་ཡིན་པར་ཤེས། །\nརྟོག་པ་སེམས་སུ་ངོོ་ཤེས་པས། །\nསེམས་ཉིད་སྐུ་བཞིར་བསྒྱུར་ནུས་པས། །\nའགལ་བསྒྱུར་ནུས་པའི་བླ་མ་ཡིན། །",
+      "problem": "The intolerance clause and spiritual-family/continuum construction remain materially uncertain. N-A035 brackets giving way to, quotes the exact defective clause, and does not claim a settled reading. That treatment is defensible as visibly provisional; the transcript alone cannot authenticate it.",
+      "proposed_fix": "Retain the existing explicit uncertainty. Prioritize witness checking of L0167 and L0169; do not treat the conjecture as an approved instruction or glossary entry.",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QA08",
+      "pairs": [
+        "LCK-000009",
+        "LCK-000013",
+        "LCK-000025",
+        "LCK-000030",
+        "LCK-000035",
+        "LCK-000036",
+        "LCK-000037",
+        "LCK-000038"
+      ],
+      "label": "Conforming / no change",
+      "category": "terminology; reviewer-introduced error",
+      "severity": "Medium",
+      "confidence": "High",
+      "source_span": "བཟང་རྟོག་ངན་རྟོག་ཐམས་ཅད་ཀུན། །\nརྣམ་རྟོག་ཆོས་སྐུར་ཤེས་པ་ལ། །\nརྣམ་པར་རྟོག་པ་སྤངས་ནས་སུ། །\nམི་རྟོག་ཡེ་ཤེས་སྒོམ་པ་ནི། །\nརྟོག་པ་སེམས་སུ་ངོ་ཤེས་པས། །\nརྣམ་པར་རྟོག་པ་མི་སྤང་སྟེ། །\nགང་ཟག་ངན་རྟོག་གང་བྱུང་ཡང་། །\nདེ་ནི་རྟོག་པ་ཡིན་པར་ཤེས། །\nརྟོག་པ་སེམས་སུ་ངོོ་ཤེས་པས། །\nརྣམ་པར་རྟོག་པ་བྱུང་དུས་སུ། །\nརྣམ་རྟོག་སེམས་སུ་ཤེས་གྱུར་ཏེ། །\nསེམས་ཉིིད་སྐྱེ་བ་མེད་པར་ཤེས། །\nརྣམ་པར་རྟོག་པ་སྤང་དུ་མེད། །\nམི་རྟོག་ཡེེ་ཤེས་བསྒྲུབ་ཏུ་མེད། །\nརྟོག་པ་སྟོང་པ་གཉིས་མེད་པར། །\nཤེས་རབ་གོ་འབྱེད་བླ་མ་ཡིན། །",
+      "problem": "The draft distinguishes conceptualizing for standalone རྟོག་, conceptual thought for རྟོག་པ་, and differentiating conceptualization for རྣམ་རྟོག་ and its expanded form. No རྟོགས་ occurs in A, and no realization has been introduced. Ordinary mind, primordial knowing, discerning knowing, and experiential acquaintance retain their protected identities.",
+      "proposed_fix": "Retain these lexical choices. Reject a stylistic rewrite to thoughts, generic mind, wisdom, or experience that erases the applicable established distinctions.",
+      "disposition": "conforming"
+    },
+    {
+      "id": "QA09",
+      "pairs": [
+        "LCK-000025",
+        "LCK-000030",
+        "LCK-000038"
+      ],
+      "label": "Conforming / no change",
+      "category": "negation; instructional context",
+      "severity": "High",
+      "confidence": "High",
+      "source_span": "རྣམ་རྟོག་ཆོས་སྐུར་ཤེས་པ་ལ། །\nརྣམ་པར་རྟོག་པ་སྤངས་ནས་སུ། །\nམི་རྟོག་ཡེ་ཤེས་སྒོམ་པ་ནི། །\nཆོས་སྐུ་ལོགས་ནས་ཐོབ་འདོད་པ། །\nདམིིགས་པའི་རྐྱེན་དུ་འཁྲུལ་པ་སྟེ། །\nསྤང་བྱ་གསུམ་པ་ཡིན་པར་གསུང་། །\nརྟོག་པ་སེམས་སུ་ངོ་ཤེས་པས། །\nརྣམ་པར་རྟོག་པ་མི་སྤང་སྟེ། །\nདེ་ཉིད་ཆོས་སྐུ་ཡིན་པར་ཤེས། །\nརྣམ་རྟོག་སེམས་སུ་ཤེས་གྱུར་ཏེ། །\nསེམས་ཉིིད་སྐྱེ་བ་མེད་པར་ཤེས། །\nརྣམ་པར་རྟོག་པ་སྤང་དུ་མེད། །\nམི་རྟོག་ཡེེ་ཤེས་བསྒྲུབ་ཏུ་མེད། །",
+      "problem": "The rejected student seeks dharma embodiment elsewhere by rejecting differentiating conceptualization; the accepted student does not reject it, and the final teacher passage negates both rejection and separate accomplishment. The English preserves this instructional contrast and both negations.",
+      "proposed_fix": "Retain the sequence; do not isolate the rejected student’s conduct as a positive cultivation instruction. Apply only the local emphasis fix in QA02.",
+      "disposition": "conforming"
+    },
+    {
+      "id": "QA10",
+      "pairs": [
+        "LCK-000004",
+        "LCK-000009",
+        "LCK-000019",
+        "LCK-000020",
+        "LCK-000021",
+        "LCK-000023",
+        "LCK-000028",
+        "LCK-000029",
+        "LCK-000034",
+        "LCK-000035"
+      ],
+      "label": "Open question",
+      "category": "source integrity; annotation coverage",
+      "severity": "Medium",
+      "confidence": "High",
+      "source_span": "ཕག་མོས་དོངས་སུ་བྱིན་བརླབས་པའི། །\nངེས་པའི་ཤེས་པ་བསྐྱེད་པའི་ས། །\nསྤྲང་བྱ་དང་ནི་བླང་བྱའོ། །\nབདག་པོའི་དུས་ན་ལོག་བཤེསཟིན། །\nསྣངབ་ཉིད་ནི་སྟོང་པ་ལ། །\nལོ་དང་ཟླ་བར་བསྟེནབྱས་ནས། །\nདེ་ནིི་རྒྱུ་དུས་མ་ཞེས་པའི། །\nདད་དུས་ལྡན་པའི་གང་ཟག་གིས། །\nགསལ་འདེབས་ནུས་དང་འགལ་བསྒྱུར་ནུས། །\nགསོལ་བ་འདེབས་ནུས་པའི་བླ་མ་ཡིན། །",
+      "problem": "Known defects and divergent labels are preserved in the transcript and exposed in local notes: dongs/dngos, final sa, sprang/spang, missing tshegs, ma zhes, dad dus, and bring clarity versus offer supplication. All 38 intake-anomaly/repeated-vowel lines in A have localized note coverage.",
+      "proposed_fix": "Retain the recorded unresolved treatments. In particular, the supplied basis at L0028 and offer supplication at L0164 must not be silently replaced by smoother expected readings.",
+      "disposition": "retained visibly unresolved"
+    }
+  ],
+  "replacements": [
+    {
+      "pair": "LCK-000018",
+      "old": "it is explained through these six meanings.",
+      "new": "it is explained through these six aspects of meaning.",
+      "reason": "Restore རྣམ་པ་ (aspects) while preserving the six-item outline and meaning.",
+      "finding_id": "QA01"
+    },
+    {
+      "pair": "LCK-000030",
+      "old": "one knows it to be Dharma embodiment itself.",
+      "new": "one knows that very thing to be Dharma embodiment.",
+      "reason": "Attach ཉིད་ to de/that, not to dharma embodiment.",
+      "finding_id": "QA02"
+    },
+    {
+      "pair": "LCK-000028",
+      "old": "one seeks pith instructions with faith and devotion.",
+      "new": "one seeks pith instructions with faith and devotion. [N-Q301](../translations/NOTES.md#n-q301)",
+      "reason": "Attach the exact two-line provisional-expression and particle note without silently changing the current lexical treatment.",
+      "finding_id": "QA03"
+    }
+  ],
+  "note_additions": [
+    {
+      "id": "N-Q301",
+      "pairs": [
+        "LCK-000028"
+      ],
+      "anchors": [
+        "L0123",
+        "L0124"
+      ],
+      "tibetan": "འཁོར་བའི་ཆོས་ལ་ཡིད་བྱུང་ནས། །\nདད་གུས་གཉིས་ཀྱི་གདམས་ངག་ཚོལ། །",
+      "category": "contextual use; source reading; syntax/reference",
+      "problem": "The raw phrase is ཡིད་བྱུང་. The glossary establishes mental faculty for standalone ཡིད་ but has no complete disenchantment expression. Reading this as disenchantment may relate to the ཡིད་འབྱུང་ family; the exact form is not silently regularized. The next line supplies དད་གུས་གཉིས་ཀྱི་ with genitive ཀྱི་, while the English with faith and devotion expresses a means/manner relation.",
+      "treatment": "Use disenchanted with the phenomena of samsara as a local provisional whole-expression reading. Retain with faith and devotion provisionally, treating the genitive phrase as an irregular or elliptical manner construction; an intended ཀྱིས་ is a conjecture only. Preserve both raw strings unchanged.",
+      "uncertainty": "The nonclinging context supports disenchantment, but whether བྱུང་ is an acceptable inflected form or a transcription defect is unresolved. The genitive might instead qualify pith instructions: instructions concerning the two, faith and devotion. The present English does not settle that choice.",
+      "review_action": "Check L0123–L0124 against a reliable source; review the complete disenchantment expression and the faith/devotion clause before approving the usage or changing any Tibetan."
+    }
+  ],
+  "note_updates": [],
+  "regression_fixtures": [
+    {
+      "id": "R21",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Given ཟླ་བ་གཅིག་ཙམ་ནས་ཉིན་སྣང་འདྲེ་ཐུབ།, test “After about a month, daytime appearance can be overcome”; then propose automatically establishing integrate with.",
+      "observed_decision": "Reject overcome and reject automatic glossary promotion. Any locally proposed mix-family construction needs a source-linked note, subject/relation review, and owner approval.",
+      "evidence": "Standard II example B and R21; full rows སྒྲ་དོན་འདྲེས་རུང་ and མིང་དོན་འདྲེས་པ་. The historical passage was not independently authenticated.",
+      "result": "pass"
+    },
+    {
+      "id": "R22",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "For the explicitly non-visionary འཁྲུལ་པ་ལུ་གུ་རྒྱུད་, test “vajra chains of delusion.”",
+      "observed_decision": "Reject imported vajra; use the documented chain of delusion exception for this scope while preserving vajra chains in its visionary default.",
+      "evidence": "Full ལུ་གུ་རྒྱུད་ row records the user’s scoped exception; no universal continuum replacement is inferred.",
+      "result": "pass"
+    },
+    {
+      "id": "R23",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Constructed colophon sentence: དགོངས་པ་ཟབ་པའི་བླ་མའི་བཀའ་བཞིན་བདག་གིས་བྲིས། Test “With my profound enlightened intent, I wrote according to the teacher’s teachings.”",
+      "observed_decision": "Reject attribution of profound enlightened intent to the author; the modifier belongs to the teacher. A source-faithful synthetic correction is I wrote according to the teachings of the teacher whose enlightened intent is profound.",
+      "evidence": "Explicit constructed genitive/modifier chain; དགོངས་པ་ → enlightened intent. This does not claim review of the unavailable historical p.299 colophon.",
+      "result": "pass"
+    },
+    {
+      "id": "R24",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "In a sentence with two occurrences of དགོངས་པ་, test replacing the second enlightened intent with mind solely to avoid repetition; also infer a standalone ཐུགས་ mapping from that replacement.",
+      "observed_decision": "Reject both changes. Keep enlightened intent and assess any standalone ཐུགས་ through its own source construction and note.",
+      "evidence": "Full དགོངས་པ་ and ཐུགས་རྗེ་ rows; neither establishes a universal standalone ཐུགས་ gloss.",
+      "result": "pass"
+    },
+    {
+      "id": "R25",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "For སྤྱི་བོའི་སྙིང་གར་བླ་མ་བསྒོམས་ནས་གསོལ་བ་བཏབ།, test “Cultivate the teacher and make supplication.”",
+      "observed_decision": "Flag missing crown/heart locative material. Require a visible source query; do not silently choose crown, heart, or a reconstructed combination.",
+      "evidence": "Exact standard example C; difficult source location remains represented rather than silently deleted.",
+      "result": "pass"
+    },
+    {
+      "id": "R26",
+      "mode": "not tested",
+      "tested_wording": "Original disrupted song on the guideline’s p.289 (T:29).",
+      "observed_decision": "Not tested: the original song and its disrupted layout are not among the reviewed inputs. No claim of reconstructing or certifying that historical passage is made.",
+      "evidence": "The standard names this source defect but does not reproduce the required complete song. A preservation check on A’s different defects is recorded under QA10 and R29.",
+      "result": "not-tested"
+    },
+    {
+      "id": "R27",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "For རབ་འབྲིང་གསུམ་གའི་, test confident “all three middling types.”",
+      "observed_decision": "Reject unsupported narrowing; flag the numerical grouping and source reading without substituting another unverified grouping.",
+      "evidence": "Exact R27 source fragment; the abbreviated expression does not establish three middling types.",
+      "result": "pass"
+    },
+    {
+      "id": "R28",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "Test “The རྣམ་རྟོག་ row says Established, so its pending thoughts wording is approved”; also treat blank supplementary fields of རྣམ་པ་ as license to drop aspects.",
+      "observed_decision": "Reject both inferences. Keep differentiating conceptualization unless a scoped provisional/approved exception is documented; restore the omitted aspect component in QA01.",
+      "evidence": "Full eight-column rows; original assignments and supplementary proposal status have separate authority.",
+      "result": "pass"
+    },
+    {
+      "id": "R29",
+      "mode": "actual draft",
+      "tested_wording": "Review all 39 A pairs against the frozen source; test a hypothetical formatting cleanup changing L0007 དོངས་ to དངོས་ without a textual decision, and a claim that reviewing A covers all 110 pairs.",
+      "observed_decision": "Reject the cleanup and the whole-work coverage claim. Actual scope is 39 pairs / 191 source lines; the raw source hash remains 17ea0d8ee82a435fb37211802c8e607dee071a1dce60623811c427df94e2ea06.",
+      "evidence": "Exact raw-source checksum, stable pair order, 191-line representation check, and no source/glossary writes during this review.",
+      "result": "pass"
+    },
+    {
+      "id": "R30",
+      "mode": "synthetic boundary fixture",
+      "tested_wording": "For A L0136 རྟོག་པ་སེམས་སུ་ངོ་ཤེས་པས།, test conventional rewrite “recognizes thought as mind”; also treat the proposed teacher gloss as an approved glossary entry in later runs.",
+      "observed_decision": "Reject dropped conceptual and ordinary components and reject silent promotion of the teacher proposal. The QA02 correction leaves the full Dharma embodiment term intact and changes only the misplaced emphasis.",
+      "evidence": "Full རྟོག་པ་, སེམས་, and recognition rows; Part II Q9; teacher remains provisional in N-A002.",
+      "result": "pass"
+    }
+  ],
+  "summary": {
+    "qc_version": "2.0, 26 September 2026",
+    "source_version": "provisional-source-v1; whole-source tag 63286daa11ad0e703b4e92b1b5bbc9deae7b7f57",
+    "review_mode": "full requested scope",
+    "reviewed_pairs": 39,
+    "reviewed_source_lines": 191,
+    "unreviewed_pairs_within_assignment": 0,
+    "coverage": "Complete for the requested range",
+    "disposition": "Revision required: two local wording fixes and one missing contextual/source note; after integration, ready with explicit review flags subject to coordinator verification.",
+    "confirmed_errors": 2,
+    "documentation_gaps": 1,
+    "open_questions": 5,
+    "conforming_findings": 2,
+    "replacements": 3,
+    "new_notes": 1,
+    "existing_intake_anomaly_lines_reviewed": 38,
+    "existing_intake_anomaly_lines_noted": 38,
+    "checks_actually_performed": [
+      "Read all A source/draft pairs, all 39 notes, all usage records and 44 eight-column proposals.",
+      "Read Part II and applicable full glossary rows; Part I previously read in this session remains governing.",
+      "Reviewed source-to-English representation, English-to-source support, modifier attachment, speaker/subject, negation, count, instructional sequence, terminology identity, provisional authority, and note traceability.",
+      "Checked neighboring source L0192–L0208 for the teacher-category continuation.",
+      "Verified exact pair order, 191 source/draft lines, input hashes, note references, and complete intake-anomaly note coverage.",
+      "Re-audited both proposed semantic/lexical corrections against the same rules."
+    ],
+    "regression_results": {
+      "assigned": 10,
+      "pass": 9,
+      "fail": 0,
+      "not_tested": 1,
+      "not_tested_ids": [
+        "R26"
+      ],
+      "scope_limit": "Nine bounded tests/decisions, mostly explicitly synthetic; no model-wide accuracy claim and no original historical-source authentication."
+    },
+    "limitations": [
+      "No physical witness, scan proofreading, exhaustive collation, or historical identification.",
+      "Original historical passages referenced by the standard are not authenticated here; R26 is not tested because its full song/layout is unavailable.",
+      "Existing provisional glossary uses and source conjectures remain proposed, not owner-approved.",
+      "This report does not independently review partition C, which this agent translated."
+    ],
+    "recommended_usage_additions": [
+      {
+        "pairs": [
+          "LCK-000028"
+        ],
+        "tibetan": "ཡིད་བྱུང་",
+        "canonical_entry": "No whole-expression entry; ཡིད་ → mental faculty",
+        "english": "disenchanted",
+        "category": "Provisional",
+        "condition": "L0123: disenchantment with samsaric phenomena in the nonclinging-student description; raw form preserved and any relation to ཡིད་འབྱུང་ remains under review.",
+        "note_id": "N-Q301"
+      },
+      {
+        "pairs": [
+          "LCK-000028"
+        ],
+        "tibetan": "དད་གུས་གཉིས་ཀྱི་",
+        "canonical_entry": "དད་པ་ → faith; མོས་གུས་ → confident devotion remains a separate entry",
+        "english": "with faith and devotion",
+        "category": "Provisional",
+        "condition": "Local manner/means interpretation despite supplied genitive ཀྱི་; an intended instrumental ཀྱིས་ remains conjectural.",
+        "note_id": "N-Q301"
+      }
+    ],
+    "recommended_proposal_additions": [
+      {
+        "Tibetan": "ཡིད་བྱུང་",
+        "English": "disenchanted",
+        "Meaning and scope": "Source-attested whole expression at L0123, interpreted as disenchantment with samsaric phenomena in this local nonclinging context.",
+        "Allowed grammatical forms": "This supplied past/predicative form only until the relation to other forms is reviewed.",
+        "Contextual exceptions": "Proposed whole-expression treatment; no change to mental faculty for standalone ཡིད་.",
+        "Related entries": "ཡིད་; proposed family form ཡིད་འབྱུང་; ཞེན་པ་",
+        "Rationale and sources": "provisional-source-v1 L0123 / LCK-000028; N-Q301. Full glossary search found mental-faculty compounds but no complete disenchantment expression. No Tibetan regularization performed.",
+        "Status and open questions": "Proposed; verify whether raw བྱུང་ is the intended inflected form or a defect, and approve the local contextual sense before activation."
+      }
+    ],
+    "presentation": "No presentation-only corrections proposed; retain source line order and current note links."
+  }
+}

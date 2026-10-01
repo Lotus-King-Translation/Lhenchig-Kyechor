@@ -194,7 +194,7 @@ Its meanings are summarized in six:
 the teacher and the student,  
 putting on armor, the three kinds of discerning knowing,  
 experience, and benefits and results:  
-it is explained through these six meanings. [N-A002](../translations/NOTES.md#n-a002) [N-A016](../translations/NOTES.md#n-a016)
+it is explained through these six aspects of meaning. [N-A002](../translations/NOTES.md#n-a002) [N-A016](../translations/NOTES.md#n-a016)
 
 <!-- LCK-000019 -->
 **LCK-000019 · L0053–L0055**
@@ -390,7 +390,7 @@ to be like an illusion.
 Regarding all that appears as things,  
 neither taking them as real nor clinging apprehension arises.  
 Disenchanted with the phenomena of samsara,  
-one seeks pith instructions with faith and devotion.  
+one seeks pith instructions with faith and devotion. [N-Q301](../translations/NOTES.md#n-q301)  
 This one, [not clinging] at the time of the cause,  
 is the first student to be accepted. [N-A007](../translations/NOTES.md#n-a007) [N-A013](../translations/NOTES.md#n-a013) [N-A028](../translations/NOTES.md#n-a028) [N-A038](../translations/NOTES.md#n-a038)
 
@@ -430,7 +430,7 @@ A certain excellent person
 has thoroughly received the teacher's pith instructions,  
 recognizes conceptual thought as ordinary mind,  
 and does not reject differentiating conceptualization;  
-one knows it to be Dharma embodiment itself.  
+one knows that very thing to be Dharma embodiment.  
 Understanding conceptual thought's great kindness,  
 one carries conceptual thought onto the path:  
 there is no delusion at the time of the condition of the object of focus.  
@@ -598,7 +598,7 @@ four aspects of qualifications have been explained. [N-A019](../translations/NOT
 Second, the spiritual friend who is the teachings: [N-B001](../translations/NOTES.md#n-b001) [N-B012](../translations/NOTES.md#n-b012)  
 if you cultivate these pith instructions  
 on coemergent joining over a long period,  
-the Buddha's teachings, treatises, key instructions, and so forth [N-B013](../translations/NOTES.md#n-b013)  
+the teachings, treatises, key instructions, and so forth [N-B013](../translations/NOTES.md#n-b013)  
 will become known merely through hearing them.  
 With your own experiential acquaintance through cultivation,  
 you will realize them to be inseparable, of one taste; [N-B002](../translations/NOTES.md#n-b002)  
@@ -918,7 +918,7 @@ The supreme and common attainments are both differentiating conceptualization.
 The cause that brings about the attainment of Manjushri  
 is itself differentiating conceptualization.  
 It is itself the path and the result.”  
-Having trained in conceptual thought as the expressiveness of discerning knowing,  
+When you have trained in conceptual thought as the expressiveness of discerning knowing,  
 the primordial knowing of Dharma embodiment will blaze forth.
 
 <!-- LCK-000062 -->
@@ -952,7 +952,7 @@ First, discerning knowing through hearing:
 with the eye of pith instructions and discerning knowing, [N-B012](../translations/NOTES.md#n-b012)  
 look at the characteristic of ordinary mind: [N-B001](../translations/NOTES.md#n-b001) [N-B019](../translations/NOTES.md#n-b019)  
 “There is no arising and no cessation;  
-there is no abiding and no entity.” [N-B002](../translations/NOTES.md#n-b002) [N-B026](../translations/NOTES.md#n-b026)
+there is no abiding and no entity.” [N-B002](../translations/NOTES.md#n-b002) [N-B026](../translations/NOTES.md#n-b026) [N-Q102](../translations/NOTES.md#n-q102)
 
 <!-- LCK-000065 -->
 **LCK-000065 · L0317–L0321**
@@ -1006,7 +1006,7 @@ If it arose, when did it arise?
 From a womb, an egg, spontaneous birth,  
 or warmth and moisture, ordinary mind has not arisen.  
 From any cardinal or intermediate direction, above or below,  
-ordinary mind has never been experienced to arise.  
+ordinary mind has never been experienced as arising.  
 From the four elements or from space,  
 there is no arising of ordinary mind. [N-B001](../translations/NOTES.md#n-b001)  
 Even when you search your own body, from its crown  
@@ -1061,12 +1061,12 @@ For ordinary mind, there is no abiding whatsoever.” [N-B026](../translations/N
 བསམས་པའི་ཤེས་རབ་དེ་ཡིན་གསུང་། །
 
 “If there were an entity,  
-it would have to be established as shape and color. [N-B009](../translations/NOTES.md#n-b009)  
+its shape and color would have to be established. [N-B009](../translations/NOTES.md#n-b009)  
 It is established as neither color nor shape— [N-B028](../translations/NOTES.md#n-b028)  
 red, yellow, white, and so forth;  
 beyond shape, it is free from identification.”  
 Reflecting in this way [N-B001](../translations/NOTES.md#n-b001)  
-is discerning knowing through reflection, it is said. [N-B022](../translations/NOTES.md#n-b022) [N-B026](../translations/NOTES.md#n-b026)
+is discerning knowing through reflection, it is said. [N-B022](../translations/NOTES.md#n-b022) [N-B026](../translations/NOTES.md#n-b026) [N-Q102](../translations/NOTES.md#n-q102)
 
 <!-- LCK-000071 -->
 **LCK-000071 · L0359–L0365**
@@ -1085,7 +1085,7 @@ do not tighten ordinary mind, and loosen the body.
 Since ordinary mind and conceptual thought are inseparable,  
 clear and free from identification, [N-B022](../translations/NOTES.md#n-b022)  
 like the midst of clear space,  
-rest undistracted in that condition. [N-B026](../translations/NOTES.md#n-b026)
+rest undistracted in that condition. [N-B026](../translations/NOTES.md#n-b026) [N-Q103](../translations/NOTES.md#n-q103)
 
 <!-- LCK-000072 -->
 **LCK-000072 · L0366–L0371**
@@ -1102,7 +1102,7 @@ Or, it is said, rest in this way:
 In the condition where the six collections are self-clear and empty, [N-B029](../translations/NOTES.md#n-b029)  
 as water is placed in water,  
 or butter is placed in butter,  
-rest in the uncontrived, genuine condition.” [N-B026](../translations/NOTES.md#n-b026)
+rest in the uncontrived, genuine condition.” [N-B026](../translations/NOTES.md#n-b026) [N-Q101](../translations/NOTES.md#n-q101)
 
 <!-- LCK-000073 -->
 **LCK-000073 · L0372–L0381**
@@ -1153,7 +1153,7 @@ ordinary mind itself is clear and free from identification, [N-B022](../translat
 beyond apprehended object and apprehending subject and ‘word-changing imposition’ [?]. [N-B011](../translations/NOTES.md#n-b011)  
 In its own condition of non-arising,  
 though there is not a sesame seed's worth to cultivate,  
-there is not even an instant of distraction.  
+there is no room for even an instant of distraction.  
 Rest in the condition of emptiness, bliss, and clarity.” [N-B001](../translations/NOTES.md#n-b001) [N-B031](../translations/NOTES.md#n-b031)
 
 <!-- LCK-000075 -->
@@ -1411,7 +1411,7 @@ Third, a forest burned by fire:
 for example, when a forest catches fire,  
 trees, grass, sentient beings,  
 clean and unclean places, and so forth—  
-it burns them without realization [wording uncertain].  
+it burns them without [conceptual thought].  
 Whatever wind or hail arises,  
 far from dying out, the fire is further helped. [N-C001](../translations/NOTES.md#n-c001) [N-C017](../translations/NOTES.md#n-c017) [N-C030](../translations/NOTES.md#n-c030)
 
@@ -1487,7 +1487,7 @@ view and cultivation arise as one taste.
 This is described as “diverse appearances.”  
 Marks are liberated in their own place,  
 and since the time of the cause and the result are the same,  
-there is “entry of intrinsic nature into dharma” [reading uncertain]. [N-C020](../translations/NOTES.md#n-c020) [N-C032](../translations/NOTES.md#n-c032) [N-C038](../translations/NOTES.md#n-c038)
+there is “entry of intrinsic nature into dharma” [reading uncertain]. [N-Q201](../translations/NOTES.md#n-q201) [N-C020](../translations/NOTES.md#n-c020) [N-C032](../translations/NOTES.md#n-c032) [N-C038](../translations/NOTES.md#n-c038)
 
 <!-- LCK-000094 -->
 **LCK-000094 · L0512–L0517**
@@ -1643,7 +1643,7 @@ without hope and fear, is the supreme result. [N-C001](../translations/NOTES.md#
 
 Dharma embodiment is beyond speech, reflection, and conceptual mind;  
 even a genuine buddha  
-cannot appropriately be said to see dharma. [N-C026](../translations/NOTES.md#n-c026)
+cannot appropriately be said to see dharma. [N-Q201](../translations/NOTES.md#n-q201) [N-C026](../translations/NOTES.md#n-c026)
 
 <!-- LCK-000104 -->
 **LCK-000104 · L0565–L0568**
@@ -1684,7 +1684,7 @@ acts for the benefit of sentient beings. [N-C008](../translations/NOTES.md#n-c00
 Like a vase, a great wish-fulfilling tree,  
 and a wish-fulfilling jewel,  
 without conceptual thought, according to beings’  
-wishes, they teach dharma:  
+wishes, they teach dharma: [N-Q201](../translations/NOTES.md#n-q201)  
 this is stated often in the great tantras.  
 That is what is called the result. [N-C010](../translations/NOTES.md#n-c010) [N-C037](../translations/NOTES.md#n-c037) [N-C038](../translations/NOTES.md#n-c038)
 
@@ -1705,7 +1705,7 @@ These are the benefits and results.
 རང་གཞན་གཉིས་ཀའི་དོན་དུ་བརྩམས། །  
 མཁའ་འགྲོ་ཆོས་སྐྱོང་བཟོད་པར་གསོལ། །
 
-With the general meaning arranged in six aspects,  
+With the general meaning arranged in six aspects, [N-Q201](../translations/NOTES.md#n-q201)  
 in accordance with the lord’s spoken words,  
 with four conditions and the donning of two armors,  
 these pith instructions on coemergent joining  

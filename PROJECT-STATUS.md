@@ -1,16 +1,17 @@
 # Project status
 
-- Title: Lhenchig Kyechor (ལྷན་ཅིག་སྐྱེས་སྦྱོར།); work code LCK.
-- Phase: direct translation; golden phase explicitly skipped (D001).
-- Bounded work: complete supplied text L0001–L0589, pairs LCK-000001–LCK-000110.
-- Source: provisional-source-v1, legacy commit 396428b4d94b446448db9460185c554e696c181a; no physical witness identified.
-- Intake: 9 archival items registered; 589 source lines frozen; 110 pairs and formats fixed.
-- Draft coverage: 110/110 pairs; unprocessed: 0. Two pairs retain unresolved Tibetan phrases.
-- Source textual changes/restorations: 0/0.
-- Targeted mechanical source checks: 2 complete, 0 pending (PO reversal; raw/v2 equality modulo final newline).
-- Golden textual decisions: none undertaken; unresolved readings will be recorded in translation notes.
-- Deliverables complete: archive/provenance, canonical source/English draft, 109 notes, 152 usage records, 109 consolidated proposal rows, generated bilingual/coverage views. Pending: independent QC/dispositions and working release/receipt.
-- Validation: exact archive/source/glossary checks pass; 20 draft corruption/unsigned-gate tests pass. Independent QC is in progress.
-- Full scan proofreading: no. Exhaustive witness collation: no. Independent translation QC: not yet.
-- Source release: provisional-source-v1 (verified annotated tag); translation release: none; next phase/chapter: none started.
-- Next finite task: dispose independent QC findings for all 110 pairs, validate and release the annotated working edition.
+- Work: Lhenchig Kyechor; code LCK.
+- Phase: complete annotated English working translation; golden phase skipped by D001.
+- Scope: whole supplied work, L0001–L0589 / LCK-000001–LCK-000110; no next chapter started.
+- Governing source: provisional-source-v1, commit 63286daa11ad0e703b4e92b1b5bbc9deae7b7f57; legacy input 396428b4d94b446448db9460185c554e696c181a. Physical exemplar unidentified.
+- Source archive:9 items;589 frozen lines;110 fixed pairs (107verse,2prose,1heading).
+- Coverage:110/110 pairs represented;0 unprocessed;2 pairs retain an unresolved Tibetan phrase (76 and80). Other provisional interpretations are explicitly annotated.
+- Source edits/restorations:0/0. Targeted mechanical source checks:2 complete,0 pending. Golden editorial decisions:not undertaken.
+- Annotation: 114 notes;160 usage records;113 inactive eight-column proposal rows. 117 intake source-anomaly loci are locally annotated and remain available for witness checking.
+- Independent agent QC:110/110 pairs reviewed;35 finding groups disposed;8 English wording revisions accepted, including1 bracketed conjecture;0 undisposed findings. Applied revisions independently verified; final110 pair-body hashes match reviewer verifications.
+- Validation: archive/glossary/source preservation, exact589-line coverage and paired structure pass;23 corruption/unsigned-final tests pass; two builds byte-identical.
+- Signoff: agent-reviewed provisional working release, translations/signoff.json; no human certification.
+- Full scan proofreading:no. Exhaustive witness collation:no.
+- Translation candidate:translation-v0.1.0; paired candidate:paired-v0.1.0. Publication receipt will record remote tag verification.
+- Deliverables complete: canonical source/English, bilingual view, notes/usages/proposals, coverage/provenance, QC/dispositions and checks. Remaining publication step: tagged-release receipt.
+- Next finite task for a later commission: source-witness checks and owner decisions on the explicitly listed source/terminology questions. No translation segment remains unprocessed.

@@ -48,6 +48,9 @@ def run(allow_incomplete=False):
     ]
     if not allow_incomplete:
         tests += [
+            ('unattested source quote in note', lambda r: rewrite(r, 'translations/notes.json', lambda s: s.replace('དང་པོ', 'དང་པར', 1))),
+            ('unapproved proposed term activated', lambda r: rewrite(r, 'translations/proposed-glossary.csv', lambda s: s.replace('Proposed', 'Established', 1))),
+            ('invalid usage note link', lambda r: rewrite(r, 'translations/usages.json', lambda s: s.replace('N-A001', 'N-Z999', 1))),
             ('unprocessed pair', lambda r: rewrite(r, 'paired/translation.md', lambda s: s.replace('<!-- pair: LCK-000110 -->', '<!-- pair: LCK-000110 -->\n\n[Not yet translated.]'))),
             ('required note removed', lambda r: rewrite(r, 'paired/translation.md', lambda s: __import__('re').sub(r'\[N-[A-Z]\d+\]\(\.\./translations/NOTES\.md#n-[a-z]\d+\)', '', s, count=1))),
             ('broken note reference', lambda r: rewrite(r, 'paired/translation.md', lambda s: s.replace('<!-- pair: LCK-000001 -->', '<!-- pair: LCK-000001 -->\n\n[N-Z999](../translations/NOTES.md#n-z999)'))),

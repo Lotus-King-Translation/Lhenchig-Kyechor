@@ -1,0 +1,497 @@
+{
+  "reviewer": "translate_c: independent reviewer of partition A",
+  "verified_at_utc": "2026-10-01T20:01:44.392748+00:00",
+  "scope": {
+    "mode": "bounded integration verification; no full semantic rereview",
+    "pairs": "LCK-000001–LCK-000039",
+    "pair_count": 39,
+    "source_lines": "L0001–L0191",
+    "accepted_findings": [
+      "QA01",
+      "QA02",
+      "QA03"
+    ],
+    "metadata_exception": "N-A009 exact-quote final-tsheg correction separately authorized by coordinator"
+  },
+  "result": "pass",
+  "blockers": [],
+  "checks": [
+    {
+      "check": "original_draft_identity",
+      "result": "pass",
+      "detail": "Draft SHA256 equals the independent QC input hash."
+    },
+    {
+      "check": "QA01_replacement_precondition",
+      "result": "pass",
+      "detail": {
+        "pair": "LCK-000018",
+        "old_occurrences": 1
+      }
+    },
+    {
+      "check": "QA03_replacement_precondition",
+      "result": "pass",
+      "detail": {
+        "pair": "LCK-000028",
+        "old_occurrences": 1
+      }
+    },
+    {
+      "check": "QA02_replacement_precondition",
+      "result": "pass",
+      "detail": {
+        "pair": "LCK-000030",
+        "old_occurrences": 1
+      }
+    },
+    {
+      "check": "all_39_pair_texts",
+      "result": "pass",
+      "detail": {
+        "reviewed": 39,
+        "unchanged": 36,
+        "changed_pairs": [
+          "LCK-000018",
+          "LCK-000028",
+          "LCK-000030"
+        ]
+      }
+    },
+    {
+      "check": "A_pair_order",
+      "result": "pass",
+      "detail": "First 39 canonical English pair IDs equal the original A draft order."
+    },
+    {
+      "check": "N-Q301_exact_note",
+      "result": "pass",
+      "detail": "One note, exactly equal to the accepted QC note dictionary."
+    },
+    {
+      "check": "N-Q301_rendered_note",
+      "result": "pass",
+      "detail": "Heading resolves #n-q301 and all authored note fields render without text alteration."
+    },
+    {
+      "check": "N-Q301_local_link",
+      "result": "pass",
+      "detail": "Exactly one note link attached at the accepted sentence in pair28; position also enforced by exact pair comparison."
+    },
+    {
+      "check": "N-Q301_two_exact_usages",
+      "result": "pass",
+      "detail": "Both accepted provisional records present exactly once with unchanged scope and status."
+    },
+    {
+      "check": "N-Q301_one_exact_proposal",
+      "result": "pass",
+      "detail": "Exactly one row matches all eight accepted columns and remains Proposed."
+    },
+    {
+      "check": "N-A009_separate_metadata_correction",
+      "result": "pass",
+      "detail": "Authorized removal of final tsheg in exact-quote metadata only; no A pair text change."
+    },
+    {
+      "check": "source_identity",
+      "result": "pass",
+      "detail": {
+        "path": "paired/source.md",
+        "sha256": "f0cda17dc09b5aa15f9116597e92840704fd4d3032db9883aa20becaeac819f0"
+      }
+    },
+    {
+      "check": "glossary_identity",
+      "result": "pass",
+      "detail": {
+        "path": "glossary/expanded_tibetan_english_glossary.csv",
+        "sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf"
+      }
+    },
+    {
+      "check": "guidance_identity",
+      "result": "pass",
+      "detail": {
+        "path": "guidelines/tibetan_translation_standard_v2.md",
+        "sha256": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760"
+      }
+    }
+  ],
+  "pair_hash_convention": "SHA-256 of UTF-8 pair text after removing only LF framing around the canonical marker-delimited body; internal line breaks and all other text retained; no terminal newline. Original and expected texts are the exact JSON translation strings.",
+  "pair_texts": [
+    {
+      "id": "LCK-000001",
+      "result": "pass",
+      "original_sha256": "9d38fc041203ab40301e73df3223075af0e14aa9e45de8a2073d8fc9f36a24ab",
+      "expected_sha256": "9d38fc041203ab40301e73df3223075af0e14aa9e45de8a2073d8fc9f36a24ab",
+      "actual_sha256": "9d38fc041203ab40301e73df3223075af0e14aa9e45de8a2073d8fc9f36a24ab",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000002",
+      "result": "pass",
+      "original_sha256": "c48ab53954b4d6ace091a7a960defffe97bde3970ee32b1977548e0bc6a93d19",
+      "expected_sha256": "c48ab53954b4d6ace091a7a960defffe97bde3970ee32b1977548e0bc6a93d19",
+      "actual_sha256": "c48ab53954b4d6ace091a7a960defffe97bde3970ee32b1977548e0bc6a93d19",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000003",
+      "result": "pass",
+      "original_sha256": "c1989555cee931355289c76ec6bed6c9a756ba3e759fa1aa161e585b46c2929a",
+      "expected_sha256": "c1989555cee931355289c76ec6bed6c9a756ba3e759fa1aa161e585b46c2929a",
+      "actual_sha256": "c1989555cee931355289c76ec6bed6c9a756ba3e759fa1aa161e585b46c2929a",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000004",
+      "result": "pass",
+      "original_sha256": "f769e413850c6df704755e2ed697a8bd2b36092c4ad4ea916a25d9b813fad03a",
+      "expected_sha256": "f769e413850c6df704755e2ed697a8bd2b36092c4ad4ea916a25d9b813fad03a",
+      "actual_sha256": "f769e413850c6df704755e2ed697a8bd2b36092c4ad4ea916a25d9b813fad03a",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000005",
+      "result": "pass",
+      "original_sha256": "cce3ce53fb7de9200d5d445b21dc8797e8a47560f87384558ec1d24ce2cb253f",
+      "expected_sha256": "cce3ce53fb7de9200d5d445b21dc8797e8a47560f87384558ec1d24ce2cb253f",
+      "actual_sha256": "cce3ce53fb7de9200d5d445b21dc8797e8a47560f87384558ec1d24ce2cb253f",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000006",
+      "result": "pass",
+      "original_sha256": "aafa4d251f00bcd83b745e63a02b353c464a1ea01a2c1d6fa60e8233ce53feee",
+      "expected_sha256": "aafa4d251f00bcd83b745e63a02b353c464a1ea01a2c1d6fa60e8233ce53feee",
+      "actual_sha256": "aafa4d251f00bcd83b745e63a02b353c464a1ea01a2c1d6fa60e8233ce53feee",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000007",
+      "result": "pass",
+      "original_sha256": "df1bb955df58cf98fa21773bbf4ecffe64196427f733b4eab490e660640db64d",
+      "expected_sha256": "df1bb955df58cf98fa21773bbf4ecffe64196427f733b4eab490e660640db64d",
+      "actual_sha256": "df1bb955df58cf98fa21773bbf4ecffe64196427f733b4eab490e660640db64d",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000008",
+      "result": "pass",
+      "original_sha256": "3c2c17a4cb74f511f618e013457d57fbdb2d85801d03a430401df987549396f8",
+      "expected_sha256": "3c2c17a4cb74f511f618e013457d57fbdb2d85801d03a430401df987549396f8",
+      "actual_sha256": "3c2c17a4cb74f511f618e013457d57fbdb2d85801d03a430401df987549396f8",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000009",
+      "result": "pass",
+      "original_sha256": "d5942abf4c7d2706b5b67a470847e585c36b135baa57a0c30d3e094f5e4587cd",
+      "expected_sha256": "d5942abf4c7d2706b5b67a470847e585c36b135baa57a0c30d3e094f5e4587cd",
+      "actual_sha256": "d5942abf4c7d2706b5b67a470847e585c36b135baa57a0c30d3e094f5e4587cd",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000010",
+      "result": "pass",
+      "original_sha256": "445aacc6f55419ada16ef296e026de774f302c0b6ed4c0385ea0c95bffaaa115",
+      "expected_sha256": "445aacc6f55419ada16ef296e026de774f302c0b6ed4c0385ea0c95bffaaa115",
+      "actual_sha256": "445aacc6f55419ada16ef296e026de774f302c0b6ed4c0385ea0c95bffaaa115",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000011",
+      "result": "pass",
+      "original_sha256": "5ad92bcd8e9f9c72e07ec89978346935bdaab71e7fe54f251c400d561517a0f9",
+      "expected_sha256": "5ad92bcd8e9f9c72e07ec89978346935bdaab71e7fe54f251c400d561517a0f9",
+      "actual_sha256": "5ad92bcd8e9f9c72e07ec89978346935bdaab71e7fe54f251c400d561517a0f9",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000012",
+      "result": "pass",
+      "original_sha256": "c8235427bdb6fc9107aa95eb6878758c0a468bb08ef2cdaf1fb442495e5e11c8",
+      "expected_sha256": "c8235427bdb6fc9107aa95eb6878758c0a468bb08ef2cdaf1fb442495e5e11c8",
+      "actual_sha256": "c8235427bdb6fc9107aa95eb6878758c0a468bb08ef2cdaf1fb442495e5e11c8",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000013",
+      "result": "pass",
+      "original_sha256": "0ed8b666e20a0b80f92c3ad7d48a16cb570c8178e56711d9dd1f8c53c0f0452c",
+      "expected_sha256": "0ed8b666e20a0b80f92c3ad7d48a16cb570c8178e56711d9dd1f8c53c0f0452c",
+      "actual_sha256": "0ed8b666e20a0b80f92c3ad7d48a16cb570c8178e56711d9dd1f8c53c0f0452c",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000014",
+      "result": "pass",
+      "original_sha256": "d5f9ba45a8024a255f633ff28e625840e3192f47442cab6244b0847b794cf097",
+      "expected_sha256": "d5f9ba45a8024a255f633ff28e625840e3192f47442cab6244b0847b794cf097",
+      "actual_sha256": "d5f9ba45a8024a255f633ff28e625840e3192f47442cab6244b0847b794cf097",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000015",
+      "result": "pass",
+      "original_sha256": "4fda4834fcb4c98eab08430ae9f6df42c10917af67d2b315ab97d918bd555f3f",
+      "expected_sha256": "4fda4834fcb4c98eab08430ae9f6df42c10917af67d2b315ab97d918bd555f3f",
+      "actual_sha256": "4fda4834fcb4c98eab08430ae9f6df42c10917af67d2b315ab97d918bd555f3f",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000016",
+      "result": "pass",
+      "original_sha256": "ea00fa5fec248592c6df65c04b5049c86ceff7c1f9f803574f23bdcddd6c40bf",
+      "expected_sha256": "ea00fa5fec248592c6df65c04b5049c86ceff7c1f9f803574f23bdcddd6c40bf",
+      "actual_sha256": "ea00fa5fec248592c6df65c04b5049c86ceff7c1f9f803574f23bdcddd6c40bf",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000017",
+      "result": "pass",
+      "original_sha256": "a6d0b5d0bd3c71e7539a2b453e9792520f59e8bc0fa8749b1321fad81d2f25d3",
+      "expected_sha256": "a6d0b5d0bd3c71e7539a2b453e9792520f59e8bc0fa8749b1321fad81d2f25d3",
+      "actual_sha256": "a6d0b5d0bd3c71e7539a2b453e9792520f59e8bc0fa8749b1321fad81d2f25d3",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000018",
+      "result": "pass",
+      "original_sha256": "3eafc64ea693b5afd77783649ff21adfc5e088725653e094919fe4067b7ad616",
+      "expected_sha256": "bba3534693dce7356eef2862d8e3e2d2e6fa1dbff0a931c71bdf0a45f5438b6c",
+      "actual_sha256": "bba3534693dce7356eef2862d8e3e2d2e6fa1dbff0a931c71bdf0a45f5438b6c",
+      "authorized_changes": [
+        "QA01"
+      ],
+      "changed_from_original": true
+    },
+    {
+      "id": "LCK-000019",
+      "result": "pass",
+      "original_sha256": "3fcac1903e924bd50f47407a30cea38cdbdf50881f5acfbad174373e6275a9fd",
+      "expected_sha256": "3fcac1903e924bd50f47407a30cea38cdbdf50881f5acfbad174373e6275a9fd",
+      "actual_sha256": "3fcac1903e924bd50f47407a30cea38cdbdf50881f5acfbad174373e6275a9fd",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000020",
+      "result": "pass",
+      "original_sha256": "23f45b42275424e37a4034422a0c3e240fa22377308d444ed45da22f93843d30",
+      "expected_sha256": "23f45b42275424e37a4034422a0c3e240fa22377308d444ed45da22f93843d30",
+      "actual_sha256": "23f45b42275424e37a4034422a0c3e240fa22377308d444ed45da22f93843d30",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000021",
+      "result": "pass",
+      "original_sha256": "75db7a7f259a8c479df2536c41e861e178bd885794f390baeaae4d48810ab650",
+      "expected_sha256": "75db7a7f259a8c479df2536c41e861e178bd885794f390baeaae4d48810ab650",
+      "actual_sha256": "75db7a7f259a8c479df2536c41e861e178bd885794f390baeaae4d48810ab650",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000022",
+      "result": "pass",
+      "original_sha256": "d1ae189cbc82ac1cb4ecb6b10b276631b8270b20110e33e22a3dda9c63dba5c3",
+      "expected_sha256": "d1ae189cbc82ac1cb4ecb6b10b276631b8270b20110e33e22a3dda9c63dba5c3",
+      "actual_sha256": "d1ae189cbc82ac1cb4ecb6b10b276631b8270b20110e33e22a3dda9c63dba5c3",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000023",
+      "result": "pass",
+      "original_sha256": "d011a0367a46dcabed6632e68b6bcfcd003a816eff65118e305b514bc8b2f737",
+      "expected_sha256": "d011a0367a46dcabed6632e68b6bcfcd003a816eff65118e305b514bc8b2f737",
+      "actual_sha256": "d011a0367a46dcabed6632e68b6bcfcd003a816eff65118e305b514bc8b2f737",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000024",
+      "result": "pass",
+      "original_sha256": "e524cd74e12e552df809283960499d8436d20537442e7cc6a179e60c2c9f96cc",
+      "expected_sha256": "e524cd74e12e552df809283960499d8436d20537442e7cc6a179e60c2c9f96cc",
+      "actual_sha256": "e524cd74e12e552df809283960499d8436d20537442e7cc6a179e60c2c9f96cc",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000025",
+      "result": "pass",
+      "original_sha256": "21e35ab915be4fd0ccb4ef920db11033e220781efb1cb0fd28cfcb257412aee5",
+      "expected_sha256": "21e35ab915be4fd0ccb4ef920db11033e220781efb1cb0fd28cfcb257412aee5",
+      "actual_sha256": "21e35ab915be4fd0ccb4ef920db11033e220781efb1cb0fd28cfcb257412aee5",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000026",
+      "result": "pass",
+      "original_sha256": "9ccf548848666c2bbdea65aa5a1300a3aeeb876a8b662020ae0f913d7eddc537",
+      "expected_sha256": "9ccf548848666c2bbdea65aa5a1300a3aeeb876a8b662020ae0f913d7eddc537",
+      "actual_sha256": "9ccf548848666c2bbdea65aa5a1300a3aeeb876a8b662020ae0f913d7eddc537",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000027",
+      "result": "pass",
+      "original_sha256": "b617028edd23382676c57262b6b97f97228b4d35530134f0e6abf68238a3602f",
+      "expected_sha256": "b617028edd23382676c57262b6b97f97228b4d35530134f0e6abf68238a3602f",
+      "actual_sha256": "b617028edd23382676c57262b6b97f97228b4d35530134f0e6abf68238a3602f",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000028",
+      "result": "pass",
+      "original_sha256": "1da4dadc94d588e32e5840287363f02bcc5b6032e49b8f1a6c8f3652fddef1c7",
+      "expected_sha256": "8a86165ce60d251ab1c764968a281ff0ab5d8c3a6f1ba463543e8a527f6d1c33",
+      "actual_sha256": "8a86165ce60d251ab1c764968a281ff0ab5d8c3a6f1ba463543e8a527f6d1c33",
+      "authorized_changes": [
+        "QA03"
+      ],
+      "changed_from_original": true
+    },
+    {
+      "id": "LCK-000029",
+      "result": "pass",
+      "original_sha256": "edb9a022f6f77f78b11d47f296ab40df661710847d07d42ee0a4eba6f51fe002",
+      "expected_sha256": "edb9a022f6f77f78b11d47f296ab40df661710847d07d42ee0a4eba6f51fe002",
+      "actual_sha256": "edb9a022f6f77f78b11d47f296ab40df661710847d07d42ee0a4eba6f51fe002",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000030",
+      "result": "pass",
+      "original_sha256": "05d1036d8ce3a14b86014db6c39527c5ebf012854e66c4203be262d0cb49321f",
+      "expected_sha256": "dd98631da362f0b01f79f496cbce8deeaa1f6551f04165d2144a7d5015439b3e",
+      "actual_sha256": "dd98631da362f0b01f79f496cbce8deeaa1f6551f04165d2144a7d5015439b3e",
+      "authorized_changes": [
+        "QA02"
+      ],
+      "changed_from_original": true
+    },
+    {
+      "id": "LCK-000031",
+      "result": "pass",
+      "original_sha256": "19541e1307112461a61fc3b5ac293efb87f759c9f2b06a19af0e59221f60f05a",
+      "expected_sha256": "19541e1307112461a61fc3b5ac293efb87f759c9f2b06a19af0e59221f60f05a",
+      "actual_sha256": "19541e1307112461a61fc3b5ac293efb87f759c9f2b06a19af0e59221f60f05a",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000032",
+      "result": "pass",
+      "original_sha256": "4ace28cbd36d9a129a0fe279c0a804c747e4a45ed514d8b5eb1e84c1dd7d29a6",
+      "expected_sha256": "4ace28cbd36d9a129a0fe279c0a804c747e4a45ed514d8b5eb1e84c1dd7d29a6",
+      "actual_sha256": "4ace28cbd36d9a129a0fe279c0a804c747e4a45ed514d8b5eb1e84c1dd7d29a6",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000033",
+      "result": "pass",
+      "original_sha256": "52300cbf4ba94a2384ccc5150652d2aa9f6157014be07617a9e62acb0cd336dc",
+      "expected_sha256": "52300cbf4ba94a2384ccc5150652d2aa9f6157014be07617a9e62acb0cd336dc",
+      "actual_sha256": "52300cbf4ba94a2384ccc5150652d2aa9f6157014be07617a9e62acb0cd336dc",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000034",
+      "result": "pass",
+      "original_sha256": "b8f8548ba079285dd8871d380a81ab0ffb80e44bca135f228c4301fc232f71ad",
+      "expected_sha256": "b8f8548ba079285dd8871d380a81ab0ffb80e44bca135f228c4301fc232f71ad",
+      "actual_sha256": "b8f8548ba079285dd8871d380a81ab0ffb80e44bca135f228c4301fc232f71ad",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000035",
+      "result": "pass",
+      "original_sha256": "870cd41747ee30ff0d06fbc873ed39acbd02e808c58a640d87d3019e104a62cc",
+      "expected_sha256": "870cd41747ee30ff0d06fbc873ed39acbd02e808c58a640d87d3019e104a62cc",
+      "actual_sha256": "870cd41747ee30ff0d06fbc873ed39acbd02e808c58a640d87d3019e104a62cc",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000036",
+      "result": "pass",
+      "original_sha256": "803792af2a16801bd3648bbe6107d4a604d5a429a6f12bd07087ed237172bfe6",
+      "expected_sha256": "803792af2a16801bd3648bbe6107d4a604d5a429a6f12bd07087ed237172bfe6",
+      "actual_sha256": "803792af2a16801bd3648bbe6107d4a604d5a429a6f12bd07087ed237172bfe6",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000037",
+      "result": "pass",
+      "original_sha256": "ca9e84ea5dab98271178fe8dbcb7ace26444b864da0e96ef3ad9fcc957ea041e",
+      "expected_sha256": "ca9e84ea5dab98271178fe8dbcb7ace26444b864da0e96ef3ad9fcc957ea041e",
+      "actual_sha256": "ca9e84ea5dab98271178fe8dbcb7ace26444b864da0e96ef3ad9fcc957ea041e",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000038",
+      "result": "pass",
+      "original_sha256": "60fcbe66d9ee668ae4ac468e19a3bb1c9ac60ab0a846d4fd0f3ab89a5871d522",
+      "expected_sha256": "60fcbe66d9ee668ae4ac468e19a3bb1c9ac60ab0a846d4fd0f3ab89a5871d522",
+      "actual_sha256": "60fcbe66d9ee668ae4ac468e19a3bb1c9ac60ab0a846d4fd0f3ab89a5871d522",
+      "authorized_changes": [],
+      "changed_from_original": false
+    },
+    {
+      "id": "LCK-000039",
+      "result": "pass",
+      "original_sha256": "55934d5d434bdd54f0d49f6c4991456a1ff0338bb9fe3743db01663024bbb7df",
+      "expected_sha256": "55934d5d434bdd54f0d49f6c4991456a1ff0338bb9fe3743db01663024bbb7df",
+      "actual_sha256": "55934d5d434bdd54f0d49f6c4991456a1ff0338bb9fe3743db01663024bbb7df",
+      "authorized_changes": [],
+      "changed_from_original": false
+    }
+  ],
+  "input_sha256": {
+    "work/translation-A.json": "57bac4c273868b90cc644c7d7346e648e0dce24dd738a2003e1b48ce4ff53dde",
+    "work/qc-A.json": "1a8a812f4227354483031fc421e4b3f357e082e2dd1400cc93e475e267be81b5",
+    "work/Lhenchig-Kyechor/paired/translation.md": "7f885c3a6efe65fe676b86c4c8fc5ea3c166df0f0713cff7537e48b7d4459fda",
+    "work/Lhenchig-Kyechor/paired/source.md": "f0cda17dc09b5aa15f9116597e92840704fd4d3032db9883aa20becaeac819f0",
+    "work/Lhenchig-Kyechor/translations/notes.json": "c8b312f07471d4898e972acb9cb3ead834afdef8c93030b6e8a7b734ead7dd29",
+    "work/Lhenchig-Kyechor/translations/NOTES.md": "bddfd349ecc65a5ed12d8ae97f1499fcead63fd702251eca2e8654decca6a4e6",
+    "work/Lhenchig-Kyechor/translations/usages.json": "ab8390d53a85ef30404c0062710343796d24f11f6cee81cbb9ecaaa2158de161",
+    "work/Lhenchig-Kyechor/translations/proposed-glossary.csv": "247b13a771ed533ee6a44f8c18ef3cffc6113bb18afb0c686a71626a63b82f2b"
+  },
+  "limits": [
+    "This verifies integration of the accepted QC findings and absence of unapproved A pair text drift; it is not a new complete translation review.",
+    "The provisional source readings, terminology proposals, and unresolved questions retained by the independent QC report remain unresolved.",
+    "No repository files were edited by this verification."
+  ],
+  "repository_head": "263156621da0d8a65291b9a7f16afbb42b7d119d"
+}

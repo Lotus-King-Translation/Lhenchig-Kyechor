@@ -145,6 +145,25 @@ def validate(root=ROOT, allow_incomplete=False, final=False):
                 target = targets[expected.index(pair)]
                 require(f'[{note["id"]}]' in target['text'], 'required note lost at ' + pair)
         note_count = len(notes)
+        for note in notes:
+            anchored_source = '\n'.join(raw[int(anchor[1:]) - 1] for anchor in note['anchors'])
+            for quoted_span in note['tibetan'].splitlines():
+                require(not quoted_span.strip() or quoted_span in anchored_source, 'note quotes unattested source span: ' + note['id'])
+        usages = read_json(root / 'translations/usages.json')
+        for usage in usages:
+            require(set(usage['pairs']) <= set(expected) and usage['pairs'], 'usage pair reference invalid')
+            require(not usage['note_id'] or usage['note_id'] in note_map, 'usage note reference invalid')
+        with (root / 'translations/proposed-glossary.csv').open() as file:
+            reader = csv.DictReader(file)
+            with (root / 'glossary/expanded_tibetan_english_glossary.csv').open() as glossary:
+                require(reader.fieldnames == csv.DictReader(glossary).fieldnames, 'proposal schema changed')
+            proposals = list(reader)
+        require(len({p['Tibetan'] for p in proposals}) == len(proposals), 'duplicate primary proposal headword')
+        require(all(p['Status and open questions'].startswith('Proposed') for p in proposals), 'unapproved proposal activated')
+        audit = read_json(root / 'source/intake-audit.json')
+        loci = set(audit['repeated_vowel_lines']) | {a['line'] for a in audit['source_anomaly_candidates']}
+        annotated_loci = {int(a[1:]) for n in notes for a in n['anchors']}
+        require(loci <= annotated_loci, 'source anomaly lacks local annotation')
     if final:
         signoff = root / 'translations/signoff.json'
         require(signoff.exists(), 'final mode requires explicit signoff')

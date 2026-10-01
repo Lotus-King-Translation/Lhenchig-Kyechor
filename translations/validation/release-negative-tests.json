@@ -1,0 +1,122 @@
+{
+  "tests": [
+    {
+      "fixture": "wrong source edition",
+      "result": "pass; corruption rejected",
+      "observed": "source edition mismatch"
+    },
+    {
+      "fixture": "missing source format",
+      "result": "pass; corruption rejected",
+      "observed": "missing/unexpected source metadata"
+    },
+    {
+      "fixture": "unsupported source format",
+      "result": "pass; corruption rejected",
+      "observed": "unsupported format"
+    },
+    {
+      "fixture": "format boundary change",
+      "result": "pass; corruption rejected",
+      "observed": "source structure mismatch"
+    },
+    {
+      "fixture": "missing source anchor",
+      "result": "pass; corruption rejected",
+      "observed": "source anchor mismatch"
+    },
+    {
+      "fixture": "duplicated source coverage",
+      "result": "pass; corruption rejected",
+      "observed": "source anchor mismatch"
+    },
+    {
+      "fixture": "unknown source anchor",
+      "result": "pass; corruption rejected",
+      "observed": "source anchor mismatch"
+    },
+    {
+      "fixture": "source spelling mutation",
+      "result": "pass; corruption rejected",
+      "observed": "source text differs from pinned transcript"
+    },
+    {
+      "fixture": "source token marker leakage",
+      "result": "pass; corruption rejected",
+      "observed": "source text differs from pinned transcript"
+    },
+    {
+      "fixture": "duplicate translation ID",
+      "result": "pass; corruption rejected",
+      "observed": "duplicate pair ID"
+    },
+    {
+      "fixture": "translation order swap",
+      "result": "pass; corruption rejected",
+      "observed": "pair symmetry/order/coverage mismatch"
+    },
+    {
+      "fixture": "missing closing translation",
+      "result": "pass; corruption rejected",
+      "observed": "pair symmetry/order/coverage mismatch"
+    },
+    {
+      "fixture": "empty translation block",
+      "result": "pass; corruption rejected",
+      "observed": "empty pair LCK-000110"
+    },
+    {
+      "fixture": "translation duplicates source format",
+      "result": "pass; corruption rejected",
+      "observed": "English must inherit source metadata"
+    },
+    {
+      "fixture": "archive byte corruption",
+      "result": "pass; corruption rejected",
+      "observed": "archive hash mismatch: source/archive/root/001.txt"
+    },
+    {
+      "fixture": "glossary mutation",
+      "result": "pass; corruption rejected",
+      "observed": "pinned input changed: glossary/expanded_tibetan_english_glossary.csv"
+    },
+    {
+      "fixture": "unattested source quote in note",
+      "result": "pass; corruption rejected",
+      "observed": "note quotes unattested source span: N-A001"
+    },
+    {
+      "fixture": "unapproved proposed term activated",
+      "result": "pass; corruption rejected",
+      "observed": "unapproved proposal activated"
+    },
+    {
+      "fixture": "invalid usage note link",
+      "result": "pass; corruption rejected",
+      "observed": "usage note reference invalid"
+    },
+    {
+      "fixture": "unprocessed pair",
+      "result": "pass; corruption rejected",
+      "observed": "unprocessed English pairs"
+    },
+    {
+      "fixture": "required note removed",
+      "result": "pass; corruption rejected",
+      "observed": "required note lost at LCK-000001"
+    },
+    {
+      "fixture": "broken note reference",
+      "result": "pass; corruption rejected",
+      "observed": "broken translation note"
+    },
+    {
+      "fixture": "unsigned final gate",
+      "result": "pass; rejected",
+      "observed": "final mode requires explicit signoff"
+    }
+  ],
+  "passed": 23,
+  "failed": 0,
+  "semantic_tests": "not these tests; see independent QC reports"
+}

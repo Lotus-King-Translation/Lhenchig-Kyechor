@@ -1,0 +1,310 @@
+{
+  "reviewer": "translate_b; independent verifier of C revisions",
+  "scope": "Bounded verification only: QC01 and QC06, LCK-000089/000093/000103/000106/000108; text boundary hashes for all C pairs75–110",
+  "result": "pass",
+  "blockers": [],
+  "checks": [
+    {
+      "check": "QC01 bracketed working reading",
+      "result": "pass",
+      "detail": "LCK-000089 retains explicit brackets around conceptual thought."
+    },
+    {
+      "check": "QC01 existing note link",
+      "result": "pass",
+      "detail": "The changed verse links to its existing source-reading note."
+    },
+    {
+      "check": "QC01 note treatment",
+      "result": "pass",
+      "detail": "N-C017 treatment equals the reviewed replacement exactly."
+    },
+    {
+      "check": "QC01 note uncertainty",
+      "result": "pass",
+      "detail": "N-C017 uncertainty equals the reviewed replacement exactly."
+    },
+    {
+      "check": "QC01 note review_action",
+      "result": "pass",
+      "detail": "N-C017 review_action equals the reviewed replacement exactly."
+    },
+    {
+      "check": "QC01 raw source retained",
+      "result": "pass",
+      "detail": "Supplied realization spelling remains unchanged in the exact note quotation."
+    },
+    {
+      "check": "QC06 link 93",
+      "result": "pass",
+      "detail": "One N-Q201 link at each specified C occurrence."
+    },
+    {
+      "check": "QC06 link 103",
+      "result": "pass",
+      "detail": "One N-Q201 link at each specified C occurrence."
+    },
+    {
+      "check": "QC06 link 106",
+      "result": "pass",
+      "detail": "One N-Q201 link at each specified C occurrence."
+    },
+    {
+      "check": "QC06 link 108",
+      "result": "pass",
+      "detail": "One N-Q201 link at each specified C occurrence."
+    },
+    {
+      "check": "QC06 N-Q201 exact record",
+      "result": "pass",
+      "detail": "N-Q201 matches the reviewed addition, including exact anchors, Tibetan and unresolved lexical scope."
+    },
+    {
+      "check": "QC06 standalone dharma usage",
+      "result": "pass",
+      "detail": "Three local dharma occurrences are expressly Provisional and linked to N-Q201."
+    },
+    {
+      "check": "QC06 heading usage",
+      "result": "pass",
+      "detail": "Six-topic heading has a local Provisional record."
+    },
+    {
+      "check": "QC06 proposal occurrence extension ཆོས་",
+      "result": "pass",
+      "detail": "Shared proposed row includes required C occurrences and remains Proposed."
+    },
+    {
+      "check": "QC06 proposal occurrence extension སྤྱི་དོན་",
+      "result": "pass",
+      "detail": "Shared proposed row includes required C occurrences and remains Proposed."
+    },
+    {
+      "check": "C revision boundary LCK-000075",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000076",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000077",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000078",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000079",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000080",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000081",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000082",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000083",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000084",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000085",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000086",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000087",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000088",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000089",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000090",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000091",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000092",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000093",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000094",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000095",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000096",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000097",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000098",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000099",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000100",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000101",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000102",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000103",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000104",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000105",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000106",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000107",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000108",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000109",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    },
+    {
+      "check": "C revision boundary LCK-000110",
+      "result": "pass",
+      "detail": "Text equals independently reviewed C draft plus the five specified changes; no additional C text change."
+    }
+  ],
+  "pair_text_sha256": {
+    "LCK-000075": "2a8d442d1644c94f94519fa71a07997896effb52b08a395fa977054ea363d2ae",
+    "LCK-000076": "8b25e1320754cc1cf7023721892de59aa99a20989e71205c593f5f595ae988b4",
+    "LCK-000077": "7a6aa5b95ab15fd7c806e2930f75119364219e0ed9def4eb5da395fb596f5f92",
+    "LCK-000078": "0a4f4cfaba9f50d99fb0dcdbb659ac91d975f5a6a06fe47b062f749113d63941",
+    "LCK-000079": "779e90859ebabe58698e2285c3dd3f841bcecd38e962f012ef907ae24b225ca7",
+    "LCK-000080": "572405a7483a6982a874209f9c9fa10cf286ae02f34edf68ad73aadae55babbc",
+    "LCK-000081": "6dab31d4cbcba64dea18e8271890e0779bb5fbf95220b76a15e573c5f712aee8",
+    "LCK-000082": "125ac4d18aa88373892bf1ee15986592079333fd7ea7b846c8aff689462d30b6",
+    "LCK-000083": "a8d13e92c4081ed8157df3df7061b3ddee34bf96f449d22af9fc07d2e117e0bf",
+    "LCK-000084": "e99788747d0b526b25fe8bf4de4f3668fba1d4b496ff0e2ec7c1d7e633c60a47",
+    "LCK-000085": "57e293a7a890c780621cce2aa0c960d6b336ecf24c8007ef95e55dfed997f344",
+    "LCK-000086": "de463c20bfeae3c4138d727cfbb505c559efd72a8e7eabd9c99598d032d23b9a",
+    "LCK-000087": "f34264193b75bac0a6517101fb4ae422b5faa0cfcd39f295ee41108f048b8037",
+    "LCK-000088": "906d8e39a6452ba698b8ad5cd6261d085b304a8d9f2e36beebbabcfa22a0661d",
+    "LCK-000089": "fd0756e9d6a78cbbfaebd6c7ee4ade32178cb01d61182760e523fa8d25b3977a",
+    "LCK-000090": "d062181d83893fcfdde66572f4ace2ac884445ac11cf10f761294e0d5801dedb",
+    "LCK-000091": "43a1e722eb6b995e9572cfb95dc77d1b1612154c7415b8a9e66c9b1bcf2afc00",
+    "LCK-000092": "d21caf8696bfc192c03520187219d3ae1f53db00b09e8b5ea192f3af7f8f5f83",
+    "LCK-000093": "0c16597c3d50ec51059e5633e8fafa882d6e646d4d029da54703c14ca35bd94d",
+    "LCK-000094": "b67896ccf8f33ef74f02e8cf58281405738201473dd5d94874d2cc1c35e0067b",
+    "LCK-000095": "af55b8981848c9a82829bb5374c86bd3a42278ef7e304fd62f9309c728ae6cd7",
+    "LCK-000096": "5ad83b12047256e37f91ba941fcdedde24f0d4ae87e9f69b1104e3854077233c",
+    "LCK-000097": "822427426a609dabecbdca34ba2743d9696389547e047a9872528d2b9fc7c251",
+    "LCK-000098": "76df9cc49ed100e5d9a7648592275d5e0abd23db7ceafc5c86c1ec09f2f91658",
+    "LCK-000099": "6184a7d7e178548d4199810b85662b3fc52bae13872527d08d9493cceccdf5a7",
+    "LCK-000100": "281a4412d7b25ca70fdd28cd40591e643c737917c7505b68d5cddd5bb9d4c566",
+    "LCK-000101": "9fd3456b76babc85d6024459432dfcf9d09d47b1d0b9ddea8569dd57c0f444b5",
+    "LCK-000102": "e12a85cd93708d2bfc66d557863f1508384a63c0cefe5b8490727376dfa01532",
+    "LCK-000103": "742fe2a0e68f215d17a72ec4f3619a60a536d24dc598b17012cfbf1192ef6f70",
+    "LCK-000104": "7153413fa6003180d243d4aa80c200a4e818cc7a4cc70d40c168545e0640f3d5",
+    "LCK-000105": "ac8c22a12eea212ceb6478fc7eec638fc47308bd890c715f96afce95dd9fd794",
+    "LCK-000106": "852a004ece9de0080344e1abcc21078e78687e351534293122ff6e440c05d160",
+    "LCK-000107": "e0882e7d3b4349576fde99351dc4ca6f1b794407f7b3347f5d61f98b6a0f09e9",
+    "LCK-000108": "0d0caa140bfe9735045bc90054e6b99c95203f055c063b93e6a8ea9fbe5208d6",
+    "LCK-000109": "f5ba61819f31f86366aceca778c13eb2126164cea2a36f5dd649cbe76b2a9ed0",
+    "LCK-000110": "ddef06e8609f3d779e331586b4e3fa86ca7cd3e329881684c2fb309f82a438d9"
+  },
+  "hash_definition": "UTF-8 English pair body between canonical pair markers, removing only leading/trailing newline characters; includes note links; no final newline.",
+  "artifact_sha256": {
+    "work/Lhenchig-Kyechor/paired/translation.md": "2b0c7ec42cbd0075ccd9139fb0c6ee019a038ce0ee479adf4565a7be22cc2053",
+    "work/Lhenchig-Kyechor/translations/notes.json": "ad261b506ff25db12060fca2e37fa5b05f0ea659e3c5458ba3d6013e3bcbcd75",
+    "work/Lhenchig-Kyechor/translations/usages.json": "f1d798b0db41b9125e6c301b87b8c6995e1f4fe81860d281a3849568b172d5a4",
+    "work/Lhenchig-Kyechor/translations/proposed-glossary.csv": "8c1290ba3440fa2d3037bc9d1ca0ff9f4e10581e215495550eed0cd21c8f6f16"
+  },
+  "claim_limit": "This verifies implementation of QC01/QC06 and absence of other C text changes against the independently reviewed draft. It is not a second full semantic review, source authentication, or approval of glossary proposals.",
+  "repository_edits": 0
+}

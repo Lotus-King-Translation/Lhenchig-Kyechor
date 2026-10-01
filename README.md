@@ -7,17 +7,18 @@ A fresh, glossary-controlled English working translation of the complete supplie
 ## Read the text
 
 - [Canonical Tibetan](paired/source.md)
-- [Canonical English](paired/translation.md) — complete annotated working draft
+- [Canonical English](paired/translation.md) — complete annotated working translation, v0.1.0
 - [Bilingual reading view](paired/bilingual.md)
 - [Source and translation notes](translations/NOTES.md)
 - [Terminology usages](translations/USAGE.md) and [inactive proposals](translations/proposed-glossary.csv)
+- [Independent review and validation](translations/qc/README.md)
 - [Current status](PROJECT-STATUS.md)
 
 ## Method and source
 
 Created from [the Lotus King Tibetan-text template](https://github.com/Lotus-King-Translation/tibetan-text-project-template) at f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f. The user explicitly authorized skipping the golden-edition phase. The fixed provisional source comprises all 589 lines of the [supplied legacy branch](https://github.com/Lotus-King-Translation/Phagmo-Lhenchig-Kyechor/tree/396428b4d94b446448db9460185c554e696c181a), arranged in 110 stable paired units.
 
-The archived raw Tibetan predates the legacy token markers and reproduces their decoded content, including preservation of one trailing source space. Suspected spelling defects remain unchanged. The rough human English is reference material only; all 589 entries are nonempty, but some are semantically misaligned. No physical witness was consulted.
+The archived raw Tibetan predates the legacy token markers and reproduces their decoded content, including preservation of one trailing source space. Suspected spelling defects remain unchanged. The rough human English is reference material only; all 589 entries are nonempty, but some are semantically misaligned. No physical witness was consulted. All 110 paired units have been translated and independently reviewed by another agent; two retain an explicitly unresolved Tibetan phrase. The result is an annotated working edition for subsequent human review.
 
 - [Source provenance and decoding](source/README.md)
 - [Source register](editions/REGISTER.csv)

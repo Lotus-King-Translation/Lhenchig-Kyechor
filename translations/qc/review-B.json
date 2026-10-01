@@ -1,0 +1,583 @@
+{
+  "reviewer": "source_audit (A translator; independent of B)",
+  "scope": [
+    "LCK-000040",
+    "LCK-000041",
+    "LCK-000042",
+    "LCK-000043",
+    "LCK-000044",
+    "LCK-000045",
+    "LCK-000046",
+    "LCK-000047",
+    "LCK-000048",
+    "LCK-000049",
+    "LCK-000050",
+    "LCK-000051",
+    "LCK-000052",
+    "LCK-000053",
+    "LCK-000054",
+    "LCK-000055",
+    "LCK-000056",
+    "LCK-000057",
+    "LCK-000058",
+    "LCK-000059",
+    "LCK-000060",
+    "LCK-000061",
+    "LCK-000062",
+    "LCK-000063",
+    "LCK-000064",
+    "LCK-000065",
+    "LCK-000066",
+    "LCK-000067",
+    "LCK-000068",
+    "LCK-000069",
+    "LCK-000070",
+    "LCK-000071",
+    "LCK-000072",
+    "LCK-000073",
+    "LCK-000074"
+  ],
+  "input_sha256": {
+    "work/translation-B.json": "a260f369aa1a5cb160f359429b39dcab8ddf5d1650a457145560e2572f8c96c1",
+    "work/packet-B.json": "70435a7e4cfdc96d2c465605f80ea4c4e2dab9785ca703427924f81dfb3f0f59",
+    "work/Lhenchig-Kyechor/paired/source.md": "f0cda17dc09b5aa15f9116597e92840704fd4d3032db9883aa20becaeac819f0",
+    "work/Lhenchig-Kyechor/source/archive/root/001.txt": "17ea0d8ee82a435fb37211802c8e607dee071a1dce60623811c427df94e2ea06",
+    "work/Lhenchig-Kyechor/glossary/expanded_tibetan_english_glossary.csv": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "work/Lhenchig-Kyechor/guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+    "work/Lhenchig-Kyechor/DECISIONS.md": "1b4d9f09ab9f2a3856d13c0d2ccf0dd0f64fe8ca4a2456b164a5d3d29bc616c9"
+  },
+  "findings": [
+    {
+      "id": "QB01",
+      "pairs": [
+        "LCK-000040"
+      ],
+      "label": "Probable error",
+      "category": "coverage; interpretive supply",
+      "severity": "Medium",
+      "confidence": "Moderate: Buddha may be implied by a conventional reading of the teachings/treatises pair, but the present source does not name that possessor.",
+      "source_span": "L0195: བཀའ་དང་བསྟན་བཅོས་མན་ངག་སོགས། །",
+      "problem": "“The Buddha’s teachings” adds a specifically named speaker while the proposed བཀའ་ entry and the surrounding teacher category say only teachings. Neither N-B012 nor N-B013 records the supplied possessor.",
+      "proposed_fix": "Remove Buddha’s and retain teachings; alternatively explicitly disclose this possessor interpretation rather than treating it as established.",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB02",
+      "pairs": [
+        "LCK-000061"
+      ],
+      "label": "Confirmed error",
+      "category": "grammar; syntax/reference",
+      "severity": "Medium",
+      "confidence": "High",
+      "source_span": "L0306: རྟོག་པ་ཤེས་རབ་རྩལ་སྦྱངས་ནས། །\nL0307: ཆོས་སྐུ་ཡེ་ཤེས་འབར་བར་འགྱུར། །",
+      "problem": "“Having trained ..., the primordial knowing ... will blaze forth” grammatically makes primordial knowing the trainer. The practice is undertaken by the implicit practitioner; the blazing forth follows it.",
+      "proposed_fix": "Use a finite when-clause with the practitioner as subject; retain the disclosed provisional as-relation and all established terms.",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB03",
+      "pairs": [
+        "LCK-000067"
+      ],
+      "label": "Confirmed error",
+      "category": "grammar",
+      "severity": "Low",
+      "confidence": "High",
+      "source_span": "L0331: ཕྱོགས་མཚམས་སྟེང་འོག་ཀུན་ནས་ཀྱང་། །\nL0332: སེམས་ནི་སྐྱེ་ནི་མ་མྱོང་ན། །",
+      "problem": "“Has never been experienced to arise” uses a nonstandard complement of experienced. It makes an otherwise intelligible observation needlessly difficult.",
+      "proposed_fix": "Change the complement to as arising; the experiential force and denial are retained.",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB04",
+      "pairs": [
+        "LCK-000070"
+      ],
+      "label": "Probable error",
+      "category": "syntax/reference; meaning/scope",
+      "severity": "Medium",
+      "confidence": "Moderate to high: L0353 lacks the སུ་ present in L0354 and most naturally predicates establishment of shape and color.",
+      "source_span": "L0352: གལ་ཏེ་དངོས་པོ་ཡོད་གྱུར་ན། །\nL0353: དབྱེིབས་དང་ཁ་དོག་གྲུབ་དགོས་ཏེ། །\nL0354: ཁ་དོག་དབྱིབས་སུ་གྲུབ་པ་མེད། །",
+      "problem": "The draft says an entity would be established as shape and color, suggesting identity with its properties. L0353 instead requires shape and color to be established if an entity exists.",
+      "proposed_fix": "Make shape and color the grammatical subject of would have to be established; preserve the next line’s different as-construction.",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB05",
+      "pairs": [
+        "LCK-000074"
+      ],
+      "label": "Probable error",
+      "category": "instructional scope; grammar",
+      "severity": "High",
+      "confidence": "Moderate to high from the final rest instruction and contrast between nothing to cultivate and no occasion for distraction.",
+      "source_span": "L0389: སྐྱེ་མེད་རང་གི་ངང་ཉིད་དུ། །\nL0390: བསྒོམ་རྒྱུ་ཏིལ་ཙམ་མ་མཆིས་ཀྱང་། །\nL0391: ཡེངས་སུ་སྐད་ཅིག་ཙམ་ཡང་མེད། །\nL0392: སྟོོོོང་ཉིད་བདེ་གསལ་ངང་ལ་བཞག །",
+      "problem": "“There is not even an instant of distraction” can assert an already guaranteed state. In this practical contrast ཡེངས་སུ་ concerns allowing distraction: having nothing to cultivate does not grant an occasion to be distracted.",
+      "proposed_fix": "Use no room for even an instant of distraction to preserve the instruction’s force without adding a doctrinal guarantee.",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB06",
+      "pairs": [
+        "LCK-000072"
+      ],
+      "label": "Documentation gap",
+      "category": "terminology; exception/provisional use",
+      "severity": "Medium",
+      "confidence": "High for missing record; Moderate for precise causative-form relation.",
+      "source_span": "L0367: ཕྱིར་ཡང་མི་སྤྲོ་ནང་མི་བསྡུ། །",
+      "problem": "“Send outward / draw inward” is not traced in the usage ledger. The full glossary includes the related འཕྲོ་འདུ་ → proliferating and gathering family, while this source has distinct forms སྤྲོ་ and བསྡུ་. Neither automatic substitution nor unrecorded synonym choice is warranted.",
+      "proposed_fix": "Retain the draft pending a scoped construction note and usage record; record the relation to the established family explicitly. Do not silently promote either rendering.",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB07",
+      "pairs": [
+        "LCK-000046"
+      ],
+      "label": "Documentation gap",
+      "category": "exception/provisional use; terminology",
+      "severity": "Medium",
+      "confidence": "High",
+      "source_span": "L0235: བདག་གིིས་སེམས་ཅན་ཐམས་ཅད་ཀྱི། །\nL0236: དོན་དུ་སངས་རྒྱས་འཐོབ་བྱའི་ཕྱིར། །",
+      "problem": "The beneficiary use benefit for དོན་ is sensible but lacks an explicit scoped usage record. The active standalone mapping is Meaning. The existing note concerns the awakening compound and buddhahood without distinguishing this use.",
+      "proposed_fix": "Extend N-B017 and the whole-work usage record for དོན་ → benefit in the beneficiary construction; preserve the canonical Meaning entry. No English change required.",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB08",
+      "pairs": [
+        "LCK-000064",
+        "LCK-000070",
+        "LCK-000071"
+      ],
+      "label": "Documentation gap",
+      "category": "glossary gap; form",
+      "severity": "Low",
+      "confidence": "High",
+      "source_span": "L0316: གནས་མེད་དངོས་པོམེད་པ་འོ། །\nL0352: གལ་ཏེ་དངོས་པོ་ཡོད་གྱུར་ན། །\nL0361: སེམས་མི་སྒྲིམ་ཞིང་ལུས་ནི་གློད། །",
+      "problem": "Entity for དངོས་པོ་ and loosen for the supplied གློད་ are not covered by specific usage records. The latter is not exactly the established སློད་པ་ → Loosen or སློད་ → Release. Existing source notes do not establish those form relations.",
+      "proposed_fix": "Add narrowly scoped usage notes; do not reject their plausible meaning or rewrite the source. Integrate entity consistently with the whole-work existence terminology.",
+      "disposition": "proposed for coordinator review"
+    },
+    {
+      "id": "QB09",
+      "pairs": [
+        "LCK-000042",
+        "LCK-000046",
+        "LCK-000049",
+        "LCK-000055",
+        "LCK-000057",
+        "LCK-000067",
+        "LCK-000070",
+        "LCK-000071",
+        "LCK-000074"
+      ],
+      "label": "Open question",
+      "category": "source reading; syntax/reference",
+      "severity": "High",
+      "confidence": "Varies by locus: repeated-list conjectures strong, lines238/359/388 materially uncertain.",
+      "source_span": "L0213: ལྔ་བཞིར་རིག་པའི་བླ་མ་ནི། །\nL0238: སྙམ་དུ་སེམས་ནི་ལྷན་ཅིག་སྐྱེས། །\nL0249: ངོ་བོ་ཉིད་ཀྱི་མཆན་ཉིད་དོ། །\nL0271: གསུམ་པ་བྱེད་པའི་མཚན་ཉིད་ནི། །\nL0275: ངོ་བོ་ཉིིད་ཀྱི་མཚན་ཉིད་དོ། །\nL0279: རྒྱུ་ཆེ་ལྟ་བའི་གོ་ཆ་ནི། །\nL0338: སྐྱེ་བ་མེེད་པ་ཡིན་སྣམ་དུ། །\nL0353: དབྱེིབས་དང་ཁ་དོག་གྲུབ་དགོས་ཏེ། །\nL0359: རྟོག་པ་དོན་དུ་ཤེས་པ་སྟེ། །\nL0388: གཟུང་འཛིན་སྒྲ་བསྒྱུར་འདེབས་ལས་འདས། །",
+      "problem": "The draft exposes rather than hides its consequential source problems: malformed fourth ordinal; anomalous coemergence assertion; characteristic spelling and four-part gap; extensive-view label; quotation particle; shape spelling; predicative knowing assertion; and the queried word-changing imposition.",
+      "proposed_fix": "Retain the explicit notes N-B003–N-B011 and the questioned placeholder. Do not resolve these by borrowing smoother reference English or inventing missing headings.",
+      "disposition": "retained visibly unresolved"
+    },
+    {
+      "id": "QB10",
+      "pairs": [
+        "LCK-000040",
+        "LCK-000041",
+        "LCK-000042",
+        "LCK-000047",
+        "LCK-000051",
+        "LCK-000054",
+        "LCK-000055",
+        "LCK-000061",
+        "LCK-000064",
+        "LCK-000066",
+        "LCK-000067",
+        "LCK-000069",
+        "LCK-000071",
+        "LCK-000073",
+        "LCK-000074"
+      ],
+      "label": "Conforming / no change",
+      "category": "terminology; reviewer-introduced error",
+      "severity": "High",
+      "confidence": "High for protected lexical assignments.",
+      "source_span": "L0197: རང་གིིས་བསྒོམས་པའི་ཉམས་མྱོང་དང་། །\nL0205: ཆོས་རྣམས་སེམས་སུ་རྟོགས་ཙམ་ན། །\nL0214: ཉོན་མོངས་ལྔ་དང་གཟུང་འཛིན་དང་། །\nL0218: རིག་པ་ཆོས་སྐུར་ཤར་ཙམ་ན། །\nL0239: རང་ལུས་ཡི་དམ་ལྷ་བསྒོམས་ནས། །\nL0240: སྤྱིི་བོར་བླ་མ་དམ་པ་བསྒོམས། །\nL0255: བལྟས་པས་སྐྱེ་མེད་ཆོས་ཀྱི་སྐུ། །\nL0268: རྟོག་པ་བྱུང་ཚད་སེམས་ཡིན་པས། །\nL0272: སེམས་ཉིད་སྐུ་བཞིི་ཡིན་མོད་ཀྱང་། །\nL0306: རྟོག་པ་ཤེས་རབ་རྩལ་སྦྱངས་ནས། །\nL0307: ཆོས་སྐུ་ཡེ་ཤེས་འབར་བར་འགྱུར། །\nL0314: སེམས་ཀྱི་མཚན་ཉིིད་ལ་བལྟས་ཏེ། །\nL0325: དེ་དག་སེམས་ཀྱི་ཆོ་འཕྲུལ་ཡིན། །\nL0326: སེམས་ཉིད་སྐྱེ་བ་མེད་པ་ལ། །\nL0345: སེམས་ལ་གནས་པ་ཡང་མེད་དེ། །\nL0361: སེམས་མི་སྒྲིམ་ཞིང་ལུས་ནི་གློད། །\nL0373: སེམས་དང་རྣམ་རྟོག་ཡེ་ཤེས་གསུམ། །\nL0384: རྣམ་པར་རྟོག་པ་སེམས་ཉིད་ཡིན། །",
+      "problem": "The unfamiliar length of ordinary mind, differentiating conceptualization, discerning knowing, primordial knowing and experiential acquaintance is not a defect. Cultivate remains valid in visualization constructions; awareness and conceptual thought retain their separate identities.",
+      "proposed_fix": "Reject proposed smoothing to mind, thoughts, wisdom, meditation, or generic experience when motivated only by familiarity or length.",
+      "disposition": "rejected false correction; keep draft terminology"
+    },
+    {
+      "id": "QB11",
+      "pairs": [
+        "LCK-000045"
+      ],
+      "label": "Conforming / no change",
+      "category": "exception/provisional use",
+      "severity": "Medium",
+      "confidence": "High",
+      "source_span": "L0230: ལུས་བསྲང་ལག་པ་མཉམ་བཞག་བྱ། །\nL0231: མགྲིན་པ་ཡིད་ཙམ་དགུག་པར་བྱ། །",
+      "problem": "Gesture of equipoise is explicitly recorded as provisional in N-B016 and the usage ledger. Slightly for the anomalous ཡིད་ཙམ་ is also disclosed. The presence of a proposed alternative in the glossary does not approve it, but the draft does not claim approval.",
+      "proposed_fix": "Keep the visible proposal and source query. Do not replace it by a nonsensical nominal mental-faculty construction or report the posture wording as approved.",
+      "disposition": "retained visibly provisional"
+    },
+    {
+      "id": "QB12",
+      "pairs": [
+        "LCK-000050",
+        "LCK-000051",
+        "LCK-000052",
+        "LCK-000053",
+        "LCK-000054",
+        "LCK-000055",
+        "LCK-000061"
+      ],
+      "label": "Conforming / no change",
+      "category": "terminology; form; lexical distinctions",
+      "severity": "Medium",
+      "confidence": "High",
+      "source_span": "L0253: རང་གི་སེམས་ཀྱིས་སེམས་ལ་ནི།་།\nL0254: ནང་དུ་ཅེར་གྱིས་བལྟ་བར་བྱ། །\nL0255: བལྟས་པས་སྐྱེ་མེད་ཆོས་ཀྱི་སྐུ། །\nL0256: འགག་པ་མེད་པ་ལོངས་སྐུ་སྟེ། །\nL0260: དོན་ལ་ངོས་གཟུང་བྲལ་བ་ཡི། །\nL0265: ངོས་ནི་ཟིན་པར་གྱུར་ཙམ་ན། །\nL0267: གཉིས་པ་ཁྱད་པར་མཚན་ཉིད་ནི། །\nL0268: རྟོག་པ་བྱུང་ཚད་སེམས་ཡིན་པས། །\nL0271: གསུམ་པ་བྱེད་པའི་མཚན་ཉིད་ནི། །\nL0306: རྟོག་པ་ཤེས་རབ་རྩལ་སྦྱངས་ནས། །\nL0307: ཆོས་སྐུ་ཡེ་ཤེས་འབར་བར་འགྱུར། །",
+      "problem": "The draft distinguishes naked-looking from resting, identifies ordinary mind as both instrument and object, keeps recognition separate from identification, and preserves conceptual thought rather than realization. The abbreviated embodiment forms are documented.",
+      "proposed_fix": "Retain these distinctions; no global substring replacement or automatic normalization of རྟོག་ to རྟོགས་ is justified.",
+      "disposition": "conforming within stated provisional form notes"
+    },
+    {
+      "id": "QB13",
+      "pairs": [
+        "LCK-000063",
+        "LCK-000064",
+        "LCK-000070",
+        "LCK-000074"
+      ],
+      "label": "Conforming / no change",
+      "category": "reference authority; source integrity",
+      "severity": "Medium",
+      "confidence": "High for the three sampled reference offsets; no exhaustive reference reconstruction.",
+      "source_span": "L0309: སྤྱི་དོོན་བཞི་པ་ཉམས་བླང་གིས། །\nL0315: སྐྱེ་བ་མེད་ལ་འགག་པ་མེད། །\nL0317: རང་གི་ངག་ཏུ་ཚིག་འདི་རྣམས། །\nL0323: གོང་གི་ཚིག་རྣམས་སེམས་པ་སྟེ། །\nL0352: གལ་ཏེ་དངོས་པོ་ཡོད་གྱུར་ན། །\nL0360: བྱ་བ་བཏང་བའི་སྐྱེས་བུ་བཞིན། །",
+      "problem": "N-B026 correctly identifies sampled rough-English misalignment: the reference at309 corresponds to Tibetan317, at315 to323, and at352 to360. The new draft follows the supplied Tibetan rather than inheriting those offsets.",
+      "proposed_fix": "Retain the limited-scope provenance note; do not claim every reference line has been exhaustively realigned.",
+      "disposition": "verified at the three stated samples"
+    },
+    {
+      "id": "QB14",
+      "pairs": [
+        "LCK-000040",
+        "LCK-000041",
+        "LCK-000042",
+        "LCK-000044",
+        "LCK-000046",
+        "LCK-000047",
+        "LCK-000049",
+        "LCK-000050",
+        "LCK-000051",
+        "LCK-000052",
+        "LCK-000053",
+        "LCK-000054",
+        "LCK-000055",
+        "LCK-000057",
+        "LCK-000060",
+        "LCK-000061",
+        "LCK-000063",
+        "LCK-000066",
+        "LCK-000067",
+        "LCK-000070",
+        "LCK-000071",
+        "LCK-000072",
+        "LCK-000073",
+        "LCK-000074"
+      ],
+      "label": "Open question",
+      "category": "glossary gap; provisional usage",
+      "severity": "Medium",
+      "confidence": "High that proposal status is explicit; semantic confidence varies by entry.",
+      "source_span": "L0193: ལྷན་ཅིིག་སྐྱེས་སྦྱོར་གདམས་ངག་འདི། །\nL0195: བཀའ་དང་བསྟན་བཅོས་མན་ངག་སོགས། །\nL0198: དབྱེར་མེད་རོ་གཅིག་རྟོགས་གྱུརཔས། །\nL0200: ཐེ་ཚོམ་ཡིད་གཉིས་བྲལ་གྱུར་ཏེ། །\nL0201: ཆོས་ལ་རང་བྱན་ཚུད་པ་འབྱུང་། །\nL0214: ཉོན་མོངས་ལྔ་དང་གཟུང་འཛིན་དང་། །\nL0215: མཚན་མའི་རྣམ་རྟོག་སྣ་ཚོགས་ཀུན། །\nL0216: བདེ་ཆེན་སྐྱེ་མེད་རོ་གཅིག་རྟོགས། །\nL0224: བླ་མ་དམ་པའི་གདམས་ངག་འདི། །\nL0234: དེ་ནས་བྱང་ཆུབ་སེམས་བསྐྱེད་དེ། །\nL0239: རང་ལུས་ཡི་དམ་ལྷ་བསྒོམས་ནས། །\nL0246: ཤེེས་པ་ཡི་ནི་མཚན་ཉིད་དང་། །\nL0247: ཁྱད་པར་གྱི་ནི་མཚན་ཉིད་དང་། །\nL0248: བྱེད་པ་ཡི་ནི་མཚན་ཉིད་དང་། །\nL0249: ངོ་བོ་ཉིད་ཀྱི་མཆན་ཉིད་དོ། །\nL0256: འགག་པ་མེད་པ་ལོངས་སྐུ་སྟེ། །\nL0262: ངོ་བོོ་ཉིད་ཀྱི་སྐུ་སྙམ་དུ། །\nL0296: ནང་དུ་སེམས་ཀྱི་དྲན་རྟོག་རྣམས། །\nL0297: མི་སྤང་སྐུ་དྲིན་ཆེ་བར་བལྟ། །\nL0300: སྐབས་བརྒྱད་ལམ་ལྔ་རྣམ་རྟོག་ཡིན། །\nL0301: དབང་པོ་ལྔ་ཡང་རྣམ་རྟོག་ཡིན། །\nL0302: མཆོག་ཐུན་མོང་གཉིས་ཀྱང་རྣམ་རྟོག་ཡིན། །\nL0327: གཞན་དག་སྐྱེ་བར་འཛིན་བྱེད་པ། །\nL0368: ཚོགས་དྲུག་རང་གསལ་སྟོང་པ་ཡི། །\nL0371: མ་བཅོས་གཉུག་མའི་ངང་ལ་བཞག །\nL0374: ངོ་བོ་བདེ་སྟོང་ཉིད་ཀྱི་ངང་། །",
+      "problem": "All forty supplied terminology records remain Proposed. A few form/usage records span related but nonidentical expressions; they must not become active defaults through this QC. Existing project-wide proposals may cover additional occurrences without duplicate headwords.",
+      "proposed_fix": "Keep proposal status, deduplicate by full Tibetan headword and source scope, preserve canonical two-column assignments, and incorporate QB06–QB08 occurrence records.",
+      "disposition": "retained for owner terminology review"
+    },
+    {
+      "id": "QB15",
+      "pairs": [
+        "LCK-000040",
+        "LCK-000041",
+        "LCK-000042",
+        "LCK-000043",
+        "LCK-000044",
+        "LCK-000045",
+        "LCK-000046",
+        "LCK-000047",
+        "LCK-000048",
+        "LCK-000049",
+        "LCK-000050",
+        "LCK-000051",
+        "LCK-000052",
+        "LCK-000053",
+        "LCK-000054",
+        "LCK-000055",
+        "LCK-000056",
+        "LCK-000057",
+        "LCK-000058",
+        "LCK-000059",
+        "LCK-000060",
+        "LCK-000061",
+        "LCK-000062",
+        "LCK-000063",
+        "LCK-000064",
+        "LCK-000065",
+        "LCK-000066",
+        "LCK-000067",
+        "LCK-000068",
+        "LCK-000069",
+        "LCK-000070",
+        "LCK-000071",
+        "LCK-000072",
+        "LCK-000073",
+        "LCK-000074"
+      ],
+      "label": "Conforming / no change",
+      "category": "coverage; presentation",
+      "severity": "Low",
+      "confidence": "High for mechanical coverage; semantic review remains bounded by explicit source questions.",
+      "source_span": "provisional-source-v1 L0192–L0392, all 35 source pairs reviewed line by line.",
+      "problem": "All thirty-five fixed pairs and all 201 source lines have corresponding draft lines. Numbered headings, list order, instructions, negations and the end-of-partition instruction are represented. The inherited verse format is preserved.",
+      "proposed_fix": "Retain pair IDs and source order; apply only the listed local replacements and documentation additions.",
+      "disposition": "full requested range reviewed; no missing pair identified"
+    }
+  ],
+  "replacements": [
+    {
+      "pair": "LCK-000040",
+      "old": "the Buddha's teachings, treatises, key instructions, and so forth",
+      "new": "the teachings, treatises, key instructions, and so forth",
+      "reason": "Avoid an unrecorded named possessor; retain the entire list.",
+      "finding_id": "QB01"
+    },
+    {
+      "pair": "LCK-000061",
+      "old": "Having trained in conceptual thought as the expressiveness of discerning knowing,",
+      "new": "When you have trained in conceptual thought as the expressiveness of discerning knowing,",
+      "reason": "Repair the dangling training subject without changing conceptual thought, expressiveness, discerning knowing, or the interpretation disclosed in N-B024.",
+      "finding_id": "QB02"
+    },
+    {
+      "pair": "LCK-000067",
+      "old": "ordinary mind has never been experienced to arise.",
+      "new": "ordinary mind has never been experienced as arising.",
+      "reason": "Correct English complement structure while preserving ordinary mind and the experiential negative.",
+      "finding_id": "QB03"
+    },
+    {
+      "pair": "LCK-000070",
+      "old": "it would have to be established as shape and color.",
+      "new": "its shape and color would have to be established.",
+      "reason": "Avoid asserting entity/property identity absent from the construction; keep the color and shape terms.",
+      "finding_id": "QB04"
+    },
+    {
+      "pair": "LCK-000074",
+      "old": "there is not even an instant of distraction.",
+      "new": "there is no room for even an instant of distraction.",
+      "reason": "Clarify the constraint on distraction in this instruction; preserve complete negation.",
+      "finding_id": "QB05"
+    }
+  ],
+  "note_additions": [
+    {
+      "id": "N-Q101",
+      "pairs": [
+        "LCK-000072"
+      ],
+      "anchors": [
+        "L0367"
+      ],
+      "tibetan": "ཕྱིར་ཡང་མི་སྤྲོ་ནང་མི་བསྡུ། །",
+      "category": "terminology/form and contextual use",
+      "problem": "The source uses སྤྲོ་ and བསྡུ་; the glossary establishes the related whole expression འཕྲོ་འདུ་ as proliferating and gathering, not an exact match for these forms.",
+      "treatment": "Send outward and draw inward are retained as a local provisional construction. This names the outward/inward operation; its precise relation to the proliferating/gathering family remains under review.",
+      "uncertainty": "The negative directions are clear; the family realization should be approved rather than inferred from near-matching spellings.",
+      "review_action": "Add the local usage record and review whether proliferate outward / gather inward better preserves the family; do not overwrite established entries."
+    },
+    {
+      "id": "N-Q102",
+      "pairs": [
+        "LCK-000064",
+        "LCK-000070"
+      ],
+      "anchors": [
+        "L0316",
+        "L0352"
+      ],
+      "tibetan": "གནས་མེད་དངོས་པོམེད་པ་འོ། །\nགལ་ཏེ་དངོས་པོ་ཡོད་གྱུར་ན། །",
+      "category": "terminology gap",
+      "problem": "Standalone དངོས་པོ་ has no glossary entry. The draft uses entity in the denial and hypothetical existence constructions.",
+      "treatment": "Entity is a local provisional rendering for these two occurrences. No entity and if there were an entity express the respective source negation and hypothesis.",
+      "uncertainty": "The broad sense is clear, but its relation to things/concrete existence elsewhere in the work needs owner terminology review.",
+      "review_action": "Add an eight-column proposal or link to the whole-work proposal with these precise occurrences; do not substitute for established emptiness."
+    },
+    {
+      "id": "N-Q103",
+      "pairs": [
+        "LCK-000071"
+      ],
+      "anchors": [
+        "L0361"
+      ],
+      "tibetan": "སེམས་མི་སྒྲིམ་ཞིང་ལུས་ནི་གློད། །",
+      "category": "terminology/form",
+      "problem": "The body instruction has གློད་, not the glossary forms སློད་པ་ → Loosen, སློད་ → Release, or ལྷོད་པ་ → Relaxed.",
+      "treatment": "Loosen the body is retained provisionally as an interpretation of this source form; ordinary mind is not tightened, preserving the contrast.",
+      "uncertainty": "The practical sense is strong but the form is not an approved blanket equivalent.",
+      "review_action": "Review the local form relation and add its usage record; retain the source spelling."
+    }
+  ],
+  "note_updates": [
+    {
+      "id": "N-B024",
+      "field": "treatment",
+      "value": "Retain eight topics without naming an external treatise; use five paths/five faculties. Supply attainments for the supreme/common pair, supported by the ensuing attainment construction. Provisionally read conceptual thought as the expressiveness of discerning knowing in the training phrase. The training is undertaken by the implied practitioner, not by primordial knowing; the corrected English uses a when-clause to make this clear.",
+      "reason": "QB02: preserve the provisional construction while correcting the English agent."
+    },
+    {
+      "id": "N-B017",
+      "field": "treatment",
+      "value": "Use “ordinary mind directed toward awakening” as a locally proposed composition, retaining the established component. Use buddhahood for the state to be attained, not attainment already achieved. At L0235–L0236, benefit renders སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་ as a locally provisional beneficiary construction; it does not replace the canonical Meaning mapping or the profound meaning at L0237.",
+      "reason": "QB07: account for the noncanonical but source-supported beneficiary use."
+    }
+  ],
+  "regression_fixtures": [
+    {
+      "id": "R01",
+      "fixture_type": "actual B text plus adversarial proposed correction",
+      "tested_wording_or_correction": "LCK-000041 “realize phenomena to be ordinary mind”; proposed correction: remove ordinary because no separate modifier appears.",
+      "observed_review_decision": "Reject correction; keep ordinary mind.",
+      "evidence": "Established སེམས་ → Ordinary mind; source L0205.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R02",
+      "fixture_type": "synthetic boundary fixture; historical T:23 unavailable",
+      "tested_wording_or_correction": "Synthetic Tibetan སེམས་ནི་ཡེ་ནས་སངས་རྒྱས་ཡིན།; candidate “ordinary mind is buddha from the beginning”; proposed correction changes ordinary mind to mind on doctrinal grounds.",
+      "observed_review_decision": "Reject the doctrinally motivated deletion. This synthetic exercise does not review historical T:23.",
+      "evidence": "Established སེམས་ entry explicitly does not exclude primordial-buddha descriptions.",
+      "result": "pass (synthetic only); historical application not-tested",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R03",
+      "fixture_type": "synthetic two-entry boundary fixture",
+      "tested_wording_or_correction": "Synthetic pair: ཐ་མལ་གྱི་ཤེས་པ་ and སེམས་ both rendered ordinary mind.",
+      "observed_review_decision": "Flag conflation; restore ordinary knowing for the former and keep ordinary mind for the latter.",
+      "evidence": "Distinct full eight-column entries ཐ་མལ་གྱི་ཤེས་པ་ and སེམས་.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R04",
+      "fixture_type": "synthetic construction fixture; historical T:41 unavailable",
+      "tested_wording_or_correction": "Synthetic རང་བཞིན་གྱིས་ rendered “by its intrinsic nature”; proposed smoothing deletes intrinsic or treats the construction as already approved.",
+      "observed_review_decision": "Reject intrinsic deletion and the false approval claim; retain the lexical commitment with construction-specific provisional annotation.",
+      "evidence": "རང་བཞིན་ → Intrinsic nature; supplementary status says the by-construction requires review.",
+      "result": "pass (synthetic only); historical application not-tested",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R05",
+      "fixture_type": "actual B repeated terminology",
+      "tested_wording_or_correction": "LCK-000061 repeatedly uses differentiating conceptualization for རྣམ་རྟོག་.",
+      "observed_review_decision": "Keep all occurrences; conventional alternatives are not grounds for reopening the mapping.",
+      "evidence": "Full glossary entry and Part I §3; source L0299–L0304.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R06",
+      "fixture_type": "synthetic mutation of actual B",
+      "tested_wording_or_correction": "Mutate LCK-000061 to “The Three Jewels are thoughts,” claiming an open-question glossary note approved thoughts.",
+      "observed_review_decision": "Flag unauthorized activation; restore differentiating conceptualization unless a genuinely needed local provisional use is separately justified.",
+      "evidence": "The entry status explicitly keeps thoughts pending.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R07",
+      "fixture_type": "actual B contrasting forms with synthetic mutation",
+      "tested_wording_or_correction": "LCK-000041 realization for རྟོགས་པ་ and LCK-000054 conceptual thought for རྟོག་པ་; synthetic mutation makes both realization.",
+      "observed_review_decision": "Reject conflation and restore conceptual thought at268; keep realization at208.",
+      "evidence": "Separate glossary headwords and unchanged source consonant endings.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R08",
+      "fixture_type": "actual B adjacent distinction with synthetic mutation",
+      "tested_wording_or_correction": "LCK-000061 discerning knowing at306 and primordial knowing at307; synthetic revision replaces both with wisdom.",
+      "observed_review_decision": "Reject both replacements and preserve the different knowing expressions.",
+      "evidence": "Distinct ཤེས་རབ་ and ཡེ་ཤེས་ rows, including provenance/status.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R09",
+      "fixture_type": "actual B wording with synthetic shortening",
+      "tested_wording_or_correction": "LCK-000040 experiential acquaintance for ཉམས་མྱོང་; proposed shortening to experience or realization.",
+      "observed_review_decision": "Reject unauthorized shortening; keep experiential acquaintance.",
+      "evidence": "Separate experience, experiential acquaintance and realization entries.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    },
+    {
+      "id": "R10",
+      "fixture_type": "synthetic two-expression fixture; nearby B construction reviewed separately",
+      "tested_wording_or_correction": "Synthetic ཅེར་མཐོང་ and ཅེར་གཞག་ both rendered naked seeing.",
+      "observed_review_decision": "Flag the second: restore naked resting. In actual pair50, retain the separately proposed naked-looking construction without equating it automatically with either headword.",
+      "evidence": "Full rows explicitly preserve seeing/resting distinction; N-B020 scopes actual ཅེར་གྱིས་བལྟ་.",
+      "result": "pass",
+      "limitations": "This is a finite reviewer exercise, not a measurement of model-wide translation accuracy."
+    }
+  ],
+  "summary": {
+    "coverage": "Complete for the requested range",
+    "pairs_reviewed": 35,
+    "pairs_remaining": 0,
+    "source_lines_reviewed": 201,
+    "draft_lines": 201,
+    "notes_reviewed": 32,
+    "usage_records_reviewed": 51,
+    "proposals_reviewed": 40,
+    "missing_pairs": [],
+    "unannotated_audited_source_anomalies": [],
+    "audited_source_anomaly_loci_covered": 36,
+    "confirmed_errors": 2,
+    "probable_errors": 3,
+    "documentation_gaps": 3,
+    "open_question_groups": 2,
+    "conforming_groups": 5,
+    "recommended_local_replacements": 5,
+    "new_local_notes": 3,
+    "existing_note_updates": 2,
+    "disposition": "Revision required for the listed local wording and documentation fixes; thereafter ready with explicit review flags, subject to verifying their application. Existing source queries remain unresolved.",
+    "checks_actually_performed": [
+      "All35 Tibetan pairs read independently against all35 English pairs and adjacent source context",
+      "Protected full terminology and relevant entire eight-column rows checked",
+      "All32 notes,51 usage records and40 proposal records inspected",
+      "Coverage, source line count, note links, source-anomaly coverage and proposal schema checked mechanically",
+      "Three reference misalignment samples rechecked",
+      "R01–R10 exercised with explicit actual/synthetic provenance"
+    ],
+    "not_claimed": [
+      "No physical-witness proofreading or text authentication",
+      "No human certification",
+      "No exhaustive realignment of rough English",
+      "No historical T:23 or T:41 passage review",
+      "No model-wide regression accuracy claim"
+    ],
+    "source_and_glossary_edits": 0,
+    "draft_edits": 0,
+    "review_method": "Independent of translator B; reviewer translated partition A, not B."
+  }
+}

@@ -40,5 +40,10 @@
     "change": "attach existing source-linked reference note",
     "note": "N-B026",
     "class": "presentation/traceability"
+  },
+  {
+    "note": "N-A009",
+    "change": "Remove unattested headword-final tsheg from exact-source quotation; English unchanged",
+    "class": "source quote fidelity"
   }
 ]
