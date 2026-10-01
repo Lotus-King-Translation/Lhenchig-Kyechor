@@ -12,6 +12,6 @@
 - Validation: archive/glossary/source preservation, exact589-line coverage and paired structure pass;23 corruption/unsigned-final tests pass; two builds byte-identical.
 - Signoff: agent-reviewed provisional working release, translations/signoff.json; no human certification.
 - Full scan proofreading:no. Exhaustive witness collation:no.
-- Translation candidate:translation-v0.1.0; paired candidate:paired-v0.1.0. Publication receipt will record remote tag verification.
-- Deliverables complete: canonical source/English, bilingual view, notes/usages/proposals, coverage/provenance, QC/dispositions and checks. Remaining publication step: tagged-release receipt.
+- Published: translation-v0.1.0 and paired-v0.1.0; annotated tag objects and peeled commits verified. Receipt: translations/releases/paired-v0.1.0.json.
+- Deliverables complete: canonical source/English, bilingual view, notes/usages/proposals, coverage/provenance, QC/dispositions and checks. All required deliverables and publication receipts complete.
 - Next finite task for a later commission: source-witness checks and owner decisions on the explicitly listed source/terminology questions. No translation segment remains unprocessed.

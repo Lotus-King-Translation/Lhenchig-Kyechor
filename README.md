@@ -12,6 +12,7 @@ A fresh, glossary-controlled English working translation of the complete supplie
 - [Source and translation notes](translations/NOTES.md)
 - [Terminology usages](translations/USAGE.md) and [inactive proposals](translations/proposed-glossary.csv)
 - [Independent review and validation](translations/qc/README.md)
+- [Fixed working release](https://github.com/Lotus-King-Translation/Lhenchig-Kyechor/tree/paired-v0.1.0) and [publication receipt](translations/releases/paired-v0.1.0.json)
 - [Current status](PROJECT-STATUS.md)
 
 ## Method and source

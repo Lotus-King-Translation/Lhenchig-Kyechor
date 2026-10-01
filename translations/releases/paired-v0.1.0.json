@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-01",
+  "repository": "https://github.com/Lotus-King-Translation/Lhenchig-Kyechor",
+  "template": "Lotus-King-Translation/tibetan-text-project-template",
+  "edition": "paired-v0.1.0",
+  "tags": {
+    "provisional-source-v1": {
+      "tag_object": "872832f0f9699bc4ea9fa44a8c7a5c7b7c590356",
+      "peeled_commit": "63286daa11ad0e703b4e92b1b5bbc9deae7b7f57",
+      "remote_verified": true
+    },
+    "translation-v0.1.0": {
+      "tag_object": "b945416351b576ab259fd74010e93bd7f810dc30",
+      "peeled_commit": "fa42965d80cb53aa67008b2da60c5cec304c4cfd",
+      "remote_verified": true
+    },
+    "paired-v0.1.0": {
+      "tag_object": "c85be5da3a077a1133345b4edc57b81c4990c35e",
+      "peeled_commit": "fa42965d80cb53aa67008b2da60c5cec304c4cfd",
+      "remote_verified": true
+    }
+  },
+  "release_commit": "fa42965d80cb53aa67008b2da60c5cec304c4cfd",
+  "receipt_written_after_fixed_tags": true,
+  "pair_count": 110,
+  "source_lines": 589,
+  "unprocessed_pairs": 0,
+  "retained_unresolved_tibetan_pairs": [
+    "LCK-000076",
+    "LCK-000080"
+  ],
+  "notes": 114,
+  "usage_records": 160,
+  "inactive_proposal_rows": 113,
+  "independent_agent_qc_pairs": 110,
+  "undisposed_qc_findings": 0,
+  "source_unchanged": true,
+  "glossary_unchanged": true,
+  "negative_tests_passed": 23,
+  "build_reproducible": true,
+  "final_mode_validation": "pass",
+  "human_certification": false,
+  "golden_edition": false,
+  "remaining_research": "Explicit source-witness questions and owner terminology decisions; not unprocessed translation."
+}
