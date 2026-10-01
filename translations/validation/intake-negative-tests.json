@@ -51,6 +51,11 @@
       "observed": "duplicate pair ID"
     },
     {
+      "fixture": "translation order swap",
+      "result": "pass; corruption rejected",
+      "observed": "pair symmetry/order/coverage mismatch"
+    },
+    {
       "fixture": "missing closing translation",
       "result": "pass; corruption rejected",
       "observed": "pair symmetry/order/coverage mismatch"
@@ -81,7 +86,7 @@
       "observed": "final mode requires explicit signoff"
     }
   ],
-  "passed": 16,
+  "passed": 17,
   "failed": 0,
   "semantic_tests": "not these tests; see independent QC reports"
 }

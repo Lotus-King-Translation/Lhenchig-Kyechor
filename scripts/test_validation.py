@@ -39,6 +39,7 @@ def run(allow_incomplete=False):
         ('source spelling mutation', lambda r: source_mutation(r, 'དང་པོ', 'དང་པར')),
         ('source token marker leakage', lambda r: source_mutation(r, 'དང་པོ', 'དང་␣པོ')),
         ('duplicate translation ID', lambda r: rewrite(r, 'paired/translation.md', lambda s: s.replace('pair: LCK-000002', 'pair: LCK-000001'))),
+        ('translation order swap', lambda r: rewrite(r, 'paired/translation.md', lambda s: s.replace('LCK-000001', 'LCK-TEMP').replace('LCK-000002', 'LCK-000001').replace('LCK-TEMP', 'LCK-000002'))),
         ('missing closing translation', lambda r: rewrite(r, 'paired/translation.md', lambda s: s[:s.index('<!-- pair: LCK-000110')].rstrip()+'\n')),
         ('empty translation block', lambda r: rewrite(r, 'paired/translation.md', lambda s: s[:s.index('<!-- pair: LCK-000110')]+ '<!-- pair: LCK-000110 -->\n')),
         ('translation duplicates source format', lambda r: rewrite(r, 'paired/translation.md', lambda s: s.replace('pair: LCK-000001 -->', 'pair: LCK-000001 | format: h1 -->'))),
@@ -48,6 +49,7 @@ def run(allow_incomplete=False):
     if not allow_incomplete:
         tests += [
             ('unprocessed pair', lambda r: rewrite(r, 'paired/translation.md', lambda s: s.replace('<!-- pair: LCK-000110 -->', '<!-- pair: LCK-000110 -->\n\n[Not yet translated.]'))),
+            ('required note removed', lambda r: rewrite(r, 'paired/translation.md', lambda s: __import__('re').sub(r'\[N-[A-Z]\d+\]\(\.\./translations/NOTES\.md#n-[a-z]\d+\)', '', s, count=1))),
             ('broken note reference', lambda r: rewrite(r, 'paired/translation.md', lambda s: s.replace('<!-- pair: LCK-000001 -->', '<!-- pair: LCK-000001 -->\n\n[N-Z999](../translations/NOTES.md#n-z999)'))),
         ]
     results = []

@@ -10,7 +10,7 @@
 - Targeted mechanical source checks: 2 complete, 0 pending (PO reversal; raw/v2 equality modulo final newline).
 - Golden textual decisions: none undertaken; unresolved readings will be recorded in translation notes.
 - Deliverables complete: archive/provenance, paired source, finite contract. Pending: translation, annotation/usage/proposals, independent agent QC, validation/negative tests, release/receipt.
-- Validation: exact archive/source/glossary checks pass; 16 structural corruption/unsigned-gate tests pass. Translation remains in progress.
+- Validation: exact archive/source/glossary checks pass; 17 structural corruption/unsigned-gate tests pass. Translation remains in progress.
 - Full scan proofreading: no. Exhaustive witness collation: no. Independent translation QC: not yet.
 - Release: none; next phase/chapter: none started.
 - Next finite task: translate and review all 110 fixed pairs under standard v2 and unchanged glossary.
